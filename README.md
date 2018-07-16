@@ -7,7 +7,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 - [__Jadi__:feelsgood:](https://jadi.net)
 - Danial
-- <a href="https://github.com/mahdyar">Mahdyar</a>
+- [Mahdyar](https://github.com/mahdyar)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
 - [EhsanMody :yum:](https://github.com/ehsanmody)
 - [MasMooG](https://github.com/MasuodSamarin)
