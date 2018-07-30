@@ -14,4 +14,5 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [MasMooG](https://github.com/MasuodSamarin)
 - [mhnp](https://github.com/mnakhaei)
 - [Farhadmpr :smirk: ](http://farhadm.ir)
+- [Ali](https://github.com/AliNazariii)
 - [mahdi7d1](https://github.com/mahdi7d1)
