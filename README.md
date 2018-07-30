@@ -15,3 +15,5 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mhnp](https://github.com/mnakhaei)
 - [Farhadmpr :smirk: ](http://farhadm.ir)
 - [AlirezA :trollface: ](https://github.com/bojbaj)
+- [Ali](https://github.com/AliNazariii)
+- [mahdi7d1](https://github.com/mahdi7d1)
