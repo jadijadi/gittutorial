@@ -20,3 +20,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AlirezA :trollface: ](https://github.com/bojbaj)
 - [Ali](https://github.com/AliNazariii)
 - [mahdi7d1](https://github.com/mahdi7d1)
+- [Sadegh Hamedani :blush:](https://github.com/SgHmp97)
