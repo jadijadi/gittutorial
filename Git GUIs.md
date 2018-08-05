@@ -125,3 +125,5 @@ GitAtomic
 Platforms: Windows
 Price: 15.00€
 License: Proprietary
+
+About Open Source licenses : (https://opensource.org/licenses)
