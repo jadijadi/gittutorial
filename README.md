@@ -14,6 +14,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [MasMooG](https://github.com/MasuodSamarin)
 - [mhnp](https://github.com/mnakhaei)
 - [Farhadmpr :smirk: ](http://farhadm.ir)
+- [Farzad](https://github.com/f-a-r-z-a-d)
 - [Mohsen Haeri](https://github.com/tabib2m)
 - [amir :kissing_heart:](https://github.com/amirdy)
 - [CodoCodile](https://github.com/HoseinAbili/)
