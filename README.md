@@ -23,4 +23,5 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mahdi7d1](https://github.com/mahdi7d1)
 - [Sadegh Hamedani :blush:](https://github.com/SgHmp97)
 - [Sahand :neutral_face:](https://github.com/sahandkarimkhani)
+- [Mohammadreza Rezaei (Haji Mammad)](https://github.com/MrRezaei)
 - [__Mehran13mome__:feelsgood:](https://github.com/mome13)
