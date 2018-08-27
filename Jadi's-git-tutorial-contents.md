@@ -75,3 +75,5 @@
 - git bisect 
     > <p dir="rtl" align="right">برای debug به کار می رود</p>
 
+- git fetch branch 
+    > <p dir="rtl" align="right"></p>
