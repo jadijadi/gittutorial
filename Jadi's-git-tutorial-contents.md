@@ -76,4 +76,9 @@
     > <p dir="rtl" align="right">برای debug به کار می رود</p>
 
 - git fetch branch 
-    > <p dir="rtl" align="right"></p>
+    > <p dir="rtl" align="right">کار جدید انجام شده توسط افراد دیگر را بازیابی کنید. </p>
+        
+- git clone
+    > <p dir="rtl" align="right">برای گرفتن یک نسخه کامل از مخزن کاربر دیگر </p>   
+    
+
