@@ -26,3 +26,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammadreza Rezaei (Haji Mammad)](https://github.com/MrRezaei)
 - [__Mehran13mome__:feelsgood:](https://github.com/mome13)
 - [__Shirin__ :skull:](https://github.com/ShirinTahmasebi)
+- [alrez96 :smiley:](https://github.com/alrez96)
