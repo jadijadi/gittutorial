@@ -29,3 +29,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [alrez96 :smiley:](https://github.com/alrez96)
 - [Mohammad Tajik :trollface: ](https://github.com/mtss92)
 - [arash MohammadGholinejad :relaxed:](https://github.com/Arashmgholinejad)
+- [Sir.Alirezal](https://github.com/sirAlireza)
