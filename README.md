@@ -25,6 +25,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sahand :neutral_face:](https://github.com/sahandkarimkhani)
 - [Mohammadreza Rezaei (Haji Mammad)](https://github.com/MrRezaei)
 - [__Mehran13mome__:feelsgood:](https://github.com/mome13)
+-  [omid :trollface:](https://github.com/omidzahed1998)
 - [__Shirin__ :skull:](https://github.com/ShirinTahmasebi)
 - [alrez96 :smiley:](https://github.com/alrez96)
 - [Mohammad Tajik :trollface: ](https://github.com/mtss92)
