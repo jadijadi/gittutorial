@@ -5,7 +5,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 # List of people who know git
-- [__Jadi__:feelsgood:](https://jadi.net)
+- [__Jadi__:feelsgood::heart:](https://jadi.net)
 - Danial
 - [Mahdyar](https://github.com/mahdyar)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
@@ -25,6 +25,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sahand :neutral_face:](https://github.com/sahandkarimkhani)
 - [Mohammadreza Rezaei (Haji Mammad)](https://github.com/MrRezaei)
 - [__Mehran13mome__:feelsgood:](https://github.com/mome13)
+-  [omid :trollface:](https://github.com/omidzahed1998)
 - [__Shirin__ :skull:](https://github.com/ShirinTahmasebi)
 - [alrez96 :smiley:](https://github.com/alrez96)
 - [Mohammad Tajik :trollface: ](https://github.com/mtss92)
@@ -39,3 +40,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohsen.Coder:sunglasses:](https://github.com/mohsen-coder)
 - [GreatSprit :smirk: ](https://github.com/aminmikh) 
 - [Ali Piry :ghost:](https://github.com/yripila)
+- [Amir Azizi :blush: ](https://github.com/AmirRezaAzizi) 
