@@ -41,3 +41,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [GreatSprit :smirk: ](https://github.com/aminmikh) 
 - [Ali Piry :ghost:](https://github.com/yripila)
 - [Amir Azizi :blush: ](https://github.com/AmirRezaAzizi) 
+- [Amin Ashtiani](https://github.com/AminAshtiani)
