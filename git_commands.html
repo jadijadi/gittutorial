@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Git Commands</title>
+    <style>
+        li {
+            margin: 1rem 0;
+        }
+
+        b {
+            color: #e154fa;
+        }
+
+        .code {
+            padding: 0.3rem;
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body style="font-family:consolas; font-size: 1.5rem">
+    <h3>Git Commands</h3>
+    <ul>
+        <li><b class="code">git init: </b>Git initilizing on Current Directory</li>
+        <li><b class="code">git status: </b>show modified,Untrackted and Staged Files </li>
+        <li><b class="code">git add: </b>Add Untrackted Or Modified File to <b>Stage</b></li>
+        <li><b class="code">git commit:</b> Commit Staged File and remove them from stage. after commit all stages new
+            place that we
+            are will base place. so git status show that stage is empty </li>
+        <li><b class="code">git log:</b> show a log of Commits with date, Descrtions and Author Name</li>
+        <li><b class="code">git diff <...>:</b> Comparison two Version of one file</li>
+        <ul> for Example
+            <li>
+                <span class="code">git diff <b>HEAD</b></span>: Comparison last committed state vs currnet State for
+                All Modified
+                Files
+            </li>
+            <li>
+                <span class="code">git diff --staged</span>: Comparison last committed state of Staged files vs current
+                state
+            </li>
+        </ul>
+        <li><b class="code">git reset filename:</b> unStage file</li>
+        <li><b class="code">git reset commitHash:</b> Back to specified commit -> modifications will be unstaged (NOT Removed)</li>
+        <li><b class="code">git reset commitHash --hard:</b> project FULLY Returned to specified commit and modifications will be Removed</li>
+        <li><b class="code">git checkout -- filename:</b> remove last modifications in file and return file to last
+            committed
+            version</li>
+        <li><b class="code">git rm filename:</b> remove file from both git and system</li>
+        <h4>--Branchs--</h4>
+        <li><b class="code">git branch:</b> show list of All Branchs</li>
+        <li><b class="code">git branch -d branchName:</b> Delete Branch</li>
+        <li><b class="code">git checkout branchName:</b> switch to branch with name: branchName</li>
+        <li><b class="code">git merge branchName:</b> merge 'branchName' branch into current branch</li>
+        <h4>--Remote & Clone--</h4>
+        <li><b class="code">git clone gitAddress:</b> Clone whole a repo to local with initilized git</li>
+        <li><b class="code">git remote add gitAddress:</b> add a Remote</li>
+        <li><b class="code">git remote -v:</b> verbose Remotes (show full Info from remotes)</li>
+        <li><b>Note:</b> we can have extra than ONE remote so for example we can add 3 remotes for Github, Gitlab and
+            Company git Server</li>
+        <li><b>Note: origin:</b> original Branch we copied from that</li>
+        <li><b class="code">git push origin master:</b> push changes from MASTER to ORIGIN</li>
+        <li><b>Note:</b> git push <b>-u</b> origin master: -u causes git to save 'origin master' so in next steps it's
+            no need to write 'origin master':</li>
+        <li><b class="code">git pull origin master:</b> pull changes from ORIGIN to MASTER</li>
+        <li><b>Note: git remote add</b> just creates an entry in your git config that specifies a name for a particular
+            URL.
+            You must have an existing git repo to use this. <br>
+            <b class="code">git clone</b> creates a new git repository by copying an existing one located at the URI
+            you specify.</li>
+
+        <h4>--Tag--</h4>
+        <li><b class="code">git tag:</b> show list of tags</li>
+        <li><b class="code">git tag -a <...> -m '' :</b> set annotation (tag) with message like:
+            <span class="code">git tag -a v2.0 -m 'release Version 2.0'</span>
+        </li>
+        <li><b class="code">git tag -a <...> commitHash -m '' :</b> set annotation (tag) with message for a COMMIT
+        </li>
+        <li><b class="code">git show tagName:</b> show full info about tag
+        </li>
+        <li><b class="code">git push origin tagName:</b> Regullary tags dont push to origin with other changes and we
+            should push them manually
+        </li>
+        <li><b class="code">git push origin --tags:</b> like above for push all tags
+        </li>
+        <li><b class="code">git blame </b> بررسی اینکه کل کد یا بخشی ازش یا حتی خطی ازش توسط کیا نوشته و ویرایش شده 
+        </li>
+        <li><b class="code">pgp (gpg in openSource World) </b>  ساین کردن تگ ها یا کامیت ها
+        </li>
+        <li><b class="code">git bisect </b>دیباگ کردن به وسیله حرکت بین کامیت های مختلف
+        </li>
+
+    </ul>
+</body>
+
+</html>
