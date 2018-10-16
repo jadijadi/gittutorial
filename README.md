@@ -1,7 +1,7 @@
 # __Hello__
 This is a repo for testing your git abilities. try to add your name to this file
 
-`- [your name](your github profile URL)`
+`- [ParhamYZ](https://github.com/ParhamYZ)`
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 # List of people who know git
