@@ -6,6 +6,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 # List of people who know git
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [Daniel Jerban:grinning:](https://github.com/DanielJerban)
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
 - [Mahdyar](https://github.com/mahdyar)
