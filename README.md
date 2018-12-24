@@ -57,6 +57,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Sadra Sabouri :smile:](https://github.com/sadrasabouri)
 - [Sepideh :books:](https://github.com/SepidSal)
 - [Pedram Azimzadeh :ghost : ](https://github.com/PedramAz)
+- [Mohammadreza Ziadzadeh :relaxed: ](https://github.com/ziadzadeh)
 - [Mohammadreza Soltani :sunglasses: ](https://github.com/mrzasoltani)
 - [Sinhx :zzz: ](https://github.com/sinushx)
 - [Mammad Pariab](https://github.com/jkmpariab)
