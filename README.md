@@ -55,3 +55,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Nimak :neutral_face: ](https://github.com/iw4p)
 - [Pedram Azimzadeh :ghost:](https://github.com/PedramAz)
 - [Sepideh :books:](https://github.com/SepidSal)
+- [Pedram Azimzadeh :ghost : ](https://github.com/PedramAz)
+- [Pulkit](https://github.com/pulkitrock1921)
+- [Seali Mousavi :bomb: ](https://github.com/sealimousavi)
+- [Shahrooz Jafari :scorpius: :tiger: ](https://github.com/shahroozj)
