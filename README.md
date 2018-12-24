@@ -56,6 +56,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Pedram Azimzadeh :ghost:](https://github.com/PedramAz)
 - [Sepideh :books:](https://github.com/SepidSal)
 - [Pedram Azimzadeh :ghost : ](https://github.com/PedramAz)
+- [Mohammadreza Soltani :sunglasses: ](https://github.com/mrzasoltani)
 - [Sinhx :zzz: ](https://github.com/sinushx)
 - [Mammad Pariab](https://github.com/jkmpariab)
 - [Pulkit](https://github.com/pulkitrock1921)
