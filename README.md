@@ -54,6 +54,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mojtaba Barzegari :guitar:](https://mbarzegary.github.io)
 - [Nimak :neutral_face: ](https://github.com/iw4p)
 - [Pedram Azimzadeh :ghost:](https://github.com/PedramAz)
+- [Sadra Sabouri :smile:](https://github.com/sadrasabouri)
 - [Sepideh :books:](https://github.com/SepidSal)
 - [Pedram Azimzadeh :ghost : ](https://github.com/PedramAz)
 - [Mohammadreza Soltani :sunglasses: ](https://github.com/mrzasoltani)
