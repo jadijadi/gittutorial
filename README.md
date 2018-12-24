@@ -51,3 +51,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mojtaba Barzegari :guitar:](https://mbarzegary.github.io)
 - [Nimak :neutral_face: ](https://github.com/iw4p)
 - [Pedram Azimzadeh :ghost : ](https://github.com/PedramAz)
+- [Shahrooz Jafari :scorpius: :tiger: ](https://github.com/shahroozj)
