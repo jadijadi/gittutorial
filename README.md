@@ -4,6 +4,9 @@ This is a repo for testing your git abilities. try to add your name to this file
 `- [your name](your github profile URL)`
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
+
+Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git :v:
+
 # List of people who know git
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
@@ -52,3 +55,11 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Nimak :neutral_face: ](https://github.com/iw4p)
 - [Pedram Azimzadeh :ghost:](https://github.com/PedramAz)
 - [Sadra Sabouri :smile:](https://github.com/sadrasabouri)
+- [Sepideh :books:](https://github.com/SepidSal)
+- [Pedram Azimzadeh :ghost : ](https://github.com/PedramAz)
+- [Mohammadreza Soltani :sunglasses: ](https://github.com/mrzasoltani)
+- [Sinhx :zzz: ](https://github.com/sinushx)
+- [Mammad Pariab](https://github.com/jkmpariab)
+- [Pulkit](https://github.com/pulkitrock1921)
+- [Seali Mousavi :bomb: ](https://github.com/sealimousavi)
+- [Shahrooz Jafari :scorpius: :tiger: ](https://github.com/shahroozj)
