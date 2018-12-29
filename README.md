@@ -11,6 +11,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
+- [Morteza Heydari](https://github.com/MortezaHeydari97)
 - [Mahdyar](https://github.com/mahdyar)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
 - [EhsanMody :yum:](https://github.com/ehsanmody)
@@ -58,6 +59,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Sepideh :books:](https://github.com/SepidSal)
 - [Pedram Azimzadeh :ghost : ](https://github.com/PedramAz)
 - [Yekanchi :stuck_out_tongue_winking_eye:](https://github.com/yekanchi)
+- [Alfred:feelsgood::smiley:](https://github.com/Alfred188)
 - [Mujan]
 - [Sanaz :sparkles: ](https://github.com/san4z)
 - Thank you for your great videos.[Mohammad Boluki :+1:](https://github.com/MohammadBoluki)
@@ -68,3 +70,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Pulkit](https://github.com/pulkitrock1921)
 - [Seali Mousavi :bomb: ](https://github.com/sealimousavi)
 - [Shahrooz Jafari :scorpius: :tiger: ](https://github.com/shahroozj)
+- [Erfan Mola](https://github.com/erfanmola)
