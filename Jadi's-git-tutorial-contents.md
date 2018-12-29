@@ -21,7 +21,7 @@
 - git diff HEAD
     > <p dir="rtl" align="right">نمایش وضعیت فعلی نسبت به وضعیت آخرین کامیت</p>
 
-- git diff --stage
+- git diff --staged
     > <p dir="rtl" align="right">نمایش وضعیت فعلی نسبت به وضعیت stage</p>
 
 - git checkout --fileName
