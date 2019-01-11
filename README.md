@@ -11,6 +11,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
+- [Hossein Mirazimi](https://github.com/Hossein-Mirazimi)
 - [Morteza Heydari](https://github.com/MortezaHeydari97)
 - [Mahdyar](https://github.com/mahdyar)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
