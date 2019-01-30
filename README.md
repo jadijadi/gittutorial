@@ -81,4 +81,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Pedram Fatahi](https://github.com/pedram-fatahi)
 - [Farshid](https://github.com/farshid-nv)
 - [Ehsan Honarmand :runner: :walking: ](https://github.com/EhsanHonarmand)
-- [_Farhad Mohseni_ :grin: :heartpulse:](https://github.com/FarhadMohseni)
+- [__Farhad Mohseni__ :grin: :heartpulse:](https://github.com/FarhadMohseni)
