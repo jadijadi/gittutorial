@@ -9,8 +9,10 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 
 # List of people who know git
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [sina sheikh :bowtie:](https://github.com/mrsinshin)
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
+- [Morteza Heydari](https://github.com/MortezaHeydari97)
 - [Mahdyar](https://github.com/mahdyar)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
 - [EhsanMody :yum:](https://github.com/ehsanmody)
@@ -57,6 +59,10 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Sadra Sabouri :smile:](https://github.com/sadrasabouri)
 - [Sepideh :books:](https://github.com/SepidSal)
 - [Pedram Azimzadeh :ghost : ](https://github.com/PedramAz)
+- [Ali :sunglasses: ](https://github.com/ames1)
+- alireza
+- [Yekanchi :stuck_out_tongue_winking_eye:](https://github.com/yekanchi)
+- [Alfred:feelsgood::smiley:](https://github.com/Alfred188)
 - [Mujan]
 - [Sanaz :sparkles: ](https://github.com/san4z)
 - Thank you for your great videos.[Mohammad Boluki :+1:](https://github.com/MohammadBoluki)
@@ -68,3 +74,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Seali Mousavi :bomb: ](https://github.com/sealimousavi)
 - [Shahrooz Jafari :scorpius: :tiger: ](https://github.com/shahroozj)
 - [Mehdi Esmaeili:sunglasses:](https://github.com/Mehdimes)
+- [Erfan Mola](https://github.com/erfanmola)
+- [Pedram Fatahi](https://github.com/pedram-fatahi)
+- [Farshid](https://github.com/farshid-nv)
+- [Ehsan Honarmand :runner: :walking: ](https://github.com/EhsanHonarmand)
