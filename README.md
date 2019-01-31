@@ -57,6 +57,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [__Tommy__:feelsgood::heart:](https://github.com/TommyRabetian)
 - [Mojtaba Barzegari :guitar:](https://mbarzegary.github.io)
 - [Nimak :neutral_face: ](https://github.com/iw4p)
+- [Milad Khaghanirad : yes](https://github.com/Miladkhaghanirad)
 - [Pedram Azimzadeh :ghost:](https://github.com/PedramAz)
 - [Sadra Sabouri :smile:](https://github.com/sadrasabouri)
 - [Sepideh :books:](https://github.com/SepidSal)
@@ -84,3 +85,5 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [__Farhad Mohseni__ :grin: :heartpulse:](https://github.com/FarhadMohseni)
 - [Mohsen Delghandi :heart: ](https://github.com/mohsen8353)
 - [Hamidrezash2000 :stuck_out_tongue_winking_eye:](https://github.com/Hamidrezash2000)
+- [Milad Khaghanirad : yes](https://github.com/Miladkhaghanirad)
+
