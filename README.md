@@ -93,4 +93,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Meysam Shirdel](https://github.com/mshirdel)
 - [Mohammad Heydari :blush:](https://gitlab.com/Mohammad.Heydari) 
 - [:blue_heart: Mohammad Parvin :blue_heart:](https://github.com/MParvin)
-- [meisam _خدا خیرت بده آقای میرمیرانی_ :heart::two_hearts::rose:](https://github.com/meisam310)
+- [meisam _اجرتون با امام زمان آقای میرمیرانی_ :heart::two_hearts::rose:](https://github.com/meisam310)
