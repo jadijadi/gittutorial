@@ -95,4 +95,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mohammad Heydari :blush:](https://gitlab.com/Mohammad.Heydari) 
 - [:blue_heart: Mohammad Parvin :blue_heart:](https://github.com/MParvin)
 - [meisam :heart::two_hearts::rose:](https://github.com/meisam310)
-- [Mahdi Karami :heart::two](https://github.com/mehdikdd)
+- [Mahdi Karami :heart:](https://github.com/mehdikdd)
