@@ -9,6 +9,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 
 # List of people who know git
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [Cloner93   :smile: ](https://github.com/cloner93)
 - [abdolkarim khaki :feelsgood::feelsgood::feelsgood:](https://github.com/khakiboy)
 - [Ali Nasir](https://github.com/Ali-Nasir-01)
 - [sina sheikh :bowtie:](https://github.com/mrsinshin)
@@ -97,5 +98,9 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [:blue_heart: Mohammad Parvin :blue_heart:](https://github.com/MParvin)
 - [meisam :heart::two_hearts::rose:](https://github.com/meisam310)
 - [Mehrdad :bust_in_silhouette:](https://github.com/mehrdadrafiei)
+- [Reza Abdollahi :boom::star2:](https://github.com/SeyedAbdollahi)
+- [Ali Hashemzadeh :thumbsup:](https://github.com/AliHashemzadeh)
+- [Mahdi Karami :heart:](https://github.com/mehdikdd)
 - [ali](https://github.com/ali-em)
 - [moraei :moon:](https://github.com/moraei)
+- [Arash](https://github.com/a-donyagard)
