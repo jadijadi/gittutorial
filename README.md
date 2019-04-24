@@ -1,7 +1,7 @@
 # __Hello__
 This is a repo for testing your git abilities. try to add your name to this file
 
-`- [Arash](a-donyagard)`
+`- [your name](your github profile URL)`
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
@@ -97,7 +97,9 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mohammad Heydari :blush:](https://gitlab.com/Mohammad.Heydari) 
 - [:blue_heart: Mohammad Parvin :blue_heart:](https://github.com/MParvin)
 - [meisam :heart::two_hearts::rose:](https://github.com/meisam310)
+- [Reza Abdollahi :boom::star2:](https://github.com/SeyedAbdollahi)
 - [Ali Hashemzadeh :thumbsup:](https://github.com/AliHashemzadeh)
 - [Mahdi Karami :heart:](https://github.com/mehdikdd)
 - [ali](https://github.com/ali-em)
 - [moraei :moon:](https://github.com/moraei)
+- [Arash](https://github.com/a-donyagard)
