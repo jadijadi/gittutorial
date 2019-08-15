@@ -78,3 +78,34 @@
 - git config 
     > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
 
+- gpg --full-gen-key 
+    > <p dir="rtl" align="right">ساختن کلید خصوصی/عمومی </p>
+
+- gpg --list-secret-keys --keyid-format LONG 
+    > <p dir="rtl" align="right">مشخصات کامل کلید‌های</p>
+
+- git config --global user.signingkey (مقدار آیدی که از مرحله قبل به دست آوردید)
+    > <p dir="rtl" align="right">  امضا کامیت‌ها با کمک ایدی کلید </p>
+
+- git commit -S -m "My commit"
+    > <p dir="rtl" align="right">امضای کامیت‌ها</p>
+
+- git config --global commit.gpgsign true 
+    > <p dir="rtl" align="right">امضای اتوماتیک</p>
+
+- gpg --armor --export (ID خودتان)
+    > <p dir="rtl" align="right">از کلید عمومی خروجی گرفتن</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
