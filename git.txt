@@ -1,7 +1,7 @@
 git init
 git status
 git add FILENAME
-git add -A
+git add -A                                        ----------> -A: add all files
 git commit -S -m 'COMMENT'                        ----------> -m: Comment, -S: Signing
 git log
 git diff HEAD
