@@ -1,7 +1,7 @@
 # __Hello__
 ## This is a quick reference of git commands.
 
-git init
+`git init`: 
 git status
 git add FILENAME
 git add -A                                        ----------> -A: add all files	
