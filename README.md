@@ -1,5 +1,5 @@
 # __Hello__
-## This is a quick reference of git commands.
+## This is a quick reference of git commands. ##
 
 `git init`: 
 git status
