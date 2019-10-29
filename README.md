@@ -6,8 +6,6 @@
 4. `git add -A`		----------> -A: add all files
 5. `git commit -S -m 'COMMENT'`		----------> -m: Comment, -S: Signing
 6. `git log`
-7. `git amir`
-8. `git qmirrrr`		 ---------->
 9. `git diff HEAD`
 10. `git diff --staged`
 11. `git reset FILENAME`
