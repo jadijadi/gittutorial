@@ -1,12 +1,15 @@
 # __Hello__
 ## This is a quick reference of git commands.
 
-`git init`: 
+git init
 git status
 git add FILENAME
-git add -A                                        ----------> -A: add all files	
+git add -A                                        ----------> -A: add all files
 git commit -S -m 'COMMENT'                        ----------> -m: Comment, -S: Signing
 git log
+Amirrrrrrr
+git amir
+git qmirrrr     
 git diff HEAD
 git diff --staged
 git reset FILENAME
@@ -45,6 +48,7 @@ git blame FILENAME -L8                            ----------> Shows who wrote ea
 ------------------------------------------
 git bisect start
 git bisect bad                                    ----------> Find bugs
+
 git bisect good
 ------------------------------------------ 
 git help COMMAND                                  ----------> find help about a COMMAND, ex: git help remote
