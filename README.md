@@ -1,5 +1,4 @@
-# __Hello__
-## This is a quick reference of git commands.
+This is a quick reference of git commands
 
 git init
 git status
@@ -7,9 +6,6 @@ git add FILENAME
 git add -A                                        ----------> -A: add all files
 git commit -S -m 'COMMENT'                        ----------> -m: Comment, -S: Signing
 git log
-Amirrrrrrr
-git amir
-git qmirrrr     
 git diff HEAD
 git diff --staged
 git reset FILENAME
@@ -17,12 +13,12 @@ git checkout -- FILENAME
 git branch
 git branch BRANCHNAME
 git checkout BRANCHNAME
-git merge BRANCHNAME                              ----------> When we are in the master and want to merge files from other branches
-git branch -d BRANCHNAME                          ----------> remove a branch
+git merge BRANCHNAME                              ----------\> When we are in the master and want to merge files from other branches
+git branch -d BRANCHNAME                          ----------\> remove a branch
 git clone ADDRESS OF A GIT PAGE
 git push -u origin master
 git pull origin master
-git config user.name "USERNAME"                   ----------> for just a repository
+git config user.name "USERNAME"                   ----------\> for just a repository
 git config user.email "EMAIL ADDRESS"             ----------> for just a repository
 git config --global user.email                    ----------> for all repositories
 git config --global user.name                     ----------> for all repositories
