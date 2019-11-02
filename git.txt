@@ -45,6 +45,7 @@ git bisect bad                                    ----------> Find bugs
 git bisect good
 ------------------------------------------ 
 git help COMMAND                                  ----------> find help about a COMMAND, ex: git help remote
+git ls-files -u 				  ----------> HashID of 3 stages
 
 
 
