@@ -40,3 +40,5 @@
 40. `git bisect bad`		----------> Find bugs
 41. `git bisect good`
 42. `git help COMMAND`		----------> find help about a COMMAND, ex: git help remote
+41. `git ls-files -u` 				  ----------> HashID of 3 stages
+42. `git pull remote master --allow-unrelated-histories` ----------> for resolving error "fatal: refusing to merge unrelated histories"
