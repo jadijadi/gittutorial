@@ -9,7 +9,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 
 # List of people who know git
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
-- ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)(google.com)
+- ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)
 - [Cloner93   :smile: ](https://github.com/cloner93)
 - [abdolkarim khaki :feelsgood::feelsgood::feelsgood:](https://github.com/khakiboy)
 - [Ali Nasir](https://github.com/Ali-Nasir-01)
