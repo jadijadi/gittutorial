@@ -45,7 +45,8 @@ git bisect bad                                    ----------> Find bugs
 git bisect good
 ------------------------------------------ 
 git help COMMAND                                  ----------> find help about a COMMAND, ex: git help remote
-git ls-files -u 				  ----------> HashID of 3 stages
+git ls-files -u 				                          ----------> HashID of 3 stages
 
 git pull remote master --allow-unrelated-histories ----------> for resolving error "fatal: refusing to merge unrelated histories"
 git merge source-branch && git branch -d source-branch ----------> merge and delete a branch in one line
+git push <remote_name> --delete <branch_name>     ----------> delete a remote branch
