@@ -1,6 +1,5 @@
-# __Hello__
-## This is a quick reference of git commands.
-## Sorry guys, I'm to lazy to update this file. For more up to date commands, please see [README.txt](https://github.com/su6i/gittutorial/edit/master/README.txt).
+### This is a quick reference of git commands.
+#### Sorry guys, I'm to lazy to update this file. For more up to date commands, please see [README.txt](https://github.com/su6i/gittutorial/edit/master/README.txt).
 
 1. `git init`
 2. `git status`
