@@ -9,6 +9,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 
 # List of people who know git
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)
 - [Cloner93   :smile: ](https://github.com/cloner93)
 - [abdolkarim khaki :feelsgood::feelsgood::feelsgood:](https://github.com/khakiboy)
 - [Ali Nasir](https://github.com/Ali-Nasir-01)
@@ -111,3 +112,13 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Erfan :sunglasses:](https://github.com/Erfan37)
 - [Fazi](https://github.com/fazi1058)
 - [Arman :stuck_out_tongue::heart_eyes:](https://github.com/ARman-AT)
+- [Alireza Sadeghi :blue_heart:](https://github.com/aliraza7926)
+- [spidermanir :heart:](https://github.com/spidermanir)
+- [Mehdi Ghodsizadeh :runner:](https://github.com/ghodsizadeh)
+- [Mohammad Dehghani :feelsgood::car:](https://github.com/dehghanni)
+- [MR-Mostafa](https://github.com/MR-Mostafa)
+- [javadhajian](https://github.com/alojavad)
+- [saleh :expressionless:](https://github.com/saleh-mastani)
+- [Pedram :cyclone:](https://github.com/pedramardakani)
+- [Zeinab :wink:](https://github.com/spacelover1)
+- [Mojtaba :heart:](https://github.com/mojtabasarsilmaz)
