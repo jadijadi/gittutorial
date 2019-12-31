@@ -7,7 +7,7 @@
     > <p dir="rtl" align="right">افزودن فایل به git</p>
 
 - git add -A
-    > <p dir="rtl" align="right">اضافه کردن همه فایل های به git</p>
+    > <p dir="rtl" align="right">اضافه کردن همه فایل‌ها به git</p>
 
 - git commit -m "description"
     > <p dir="rtl" align="right">کامیت کردن تغییرات با توضیحات</p>
@@ -21,14 +21,14 @@
 - git diff HEAD
     > <p dir="rtl" align="right">نمایش وضعیت فعلی نسبت به وضعیت آخرین کامیت</p>
 
-- git diff --stage
+- git diff --staged
     > <p dir="rtl" align="right">نمایش وضعیت فعلی نسبت به وضعیت stage</p>
 
 - git checkout --fileName
     > <p dir="rtl" align="right">فایل را از آخرین کامیت استخراج کرده و جایگزین فایل فعلی می کند</p>
 
 - git branch 
-    > <p dir="rtl" align="right">نمایش شاخه های موجود</p>
+    > <p dir="rtl" align="right">نمایش شاخه‌های موجود</p>
 
 - git branch branchName
     > <p dir="rtl" align="right">ساخت شاخه جدید با نام تعیین شده</p>
@@ -74,4 +74,7 @@
 
 - git bisect 
     > <p dir="rtl" align="right">برای debug به کار می رود</p>
+    
+- git config 
+    > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
 
