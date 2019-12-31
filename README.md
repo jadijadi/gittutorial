@@ -1,7 +1,7 @@
 # __Hello__
 This is a repo for testing your git abilities. try to add your name to this file
 
-`- [CodeWithEmaD](https://github.com/CodeWithEmad)`
+`- [Yourname](your url)`
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
@@ -15,6 +15,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [sina sheikh :bowtie:](https://github.com/mrsinshin)
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
+- [CodeWithEmaD](https://github.com/CodeWithEmad)
 - [Hossein Mirazimi](https://github.com/Hossein-Mirazimi)
 - [Morteza Heydari](https://github.com/MortezaHeydari97)
 - [Mahdyar](https://github.com/mahdyar)
