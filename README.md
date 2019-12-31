@@ -112,6 +112,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Erfan :sunglasses:](https://github.com/Erfan37)
 - [Saeed DN](https://github.com/SaeedDN)
 - [Fazi](https://github.com/fazi1058)
+- [__BIJAN__ :skull:](https://github.com/cdwhoami)
 - [hoseinmont :laughing:](https://github.com/hoseinmont)
 - [mohammad amin](https://github.com/userdehghani)
 - [Arman :stuck_out_tongue::heart_eyes:](https://github.com/ARman-AT)
