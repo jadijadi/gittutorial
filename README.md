@@ -114,6 +114,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Erfan :sunglasses:](https://github.com/Erfan37)
 - [Saeed DN](https://github.com/SaeedDN)
 - [Fazi](https://github.com/fazi1058)
+- [Captain](https://github.com/captainpick)
 - [Ali Iranmanesh :v:](https://github.com/Aliiranmanesh)
 - [nosratullah :alien:](https://github.com/nosratullah)
 - [Amirhossein :cactus:](https://github.com/amirhossein7798)
