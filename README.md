@@ -112,6 +112,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [moraei :moon:](https://github.com/moraei)
 - [Arash](https://github.com/a-donyagard)
 - [Erfan :sunglasses:](https://github.com/Erfan37)
+- [alireza allami:boom:](https://github.com/alireza1235)
 - [Dorsa :blush:](https://github.com/aasrod)
 - [Ayyob :computer::heart:](https://github.com/Ayyob)
 - [Amir :heart:](https://github.com/amirhosein-mesbah)
