@@ -37,6 +37,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mohammad](https://github.com/maskroid)
 - [Mohammadreza Rezaei (Haji Mammad)](https://github.com/MrRezaei)
 - [__Mehran13mome__:feelsgood:](https://github.com/mome13)
+- [alrez_96 :smiley:](https://github.com/alrez96)
 -  [omid :trollface:](https://github.com/omidzahed1998)
 - [__Shirin__ :skull:](https://github.com/ShirinTahmasebi)
 - [alrez96 :smiley:](https://github.com/alrez96)
