@@ -70,7 +70,10 @@
     > <p dir="rtl" align="right">نمایش جزئیات تگ</p>
 
 - git blame fileName -L lineNumber
-    > <p dir="rtl" align="right">مشاهده اینکه خط مذکور از فایل تعیین شده را چه کسی نوشته است</p>
+    > <p dir="rtl" align="right">مشاهده اینکه از خط مذکور تا انتهای فایل را چه کسی نوشته است</p>
+    
+-git blame fineName -L lineNumber, lineNumber 
+    > <p dir="rtl" align="right">مشاهده اینکه  خط مذکور را چه کسی نوشته است</p>
 
 - git bisect 
     > <p dir="rtl" align="right">برای debug به کار می رود</p>
