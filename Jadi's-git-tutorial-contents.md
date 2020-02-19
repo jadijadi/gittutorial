@@ -8,7 +8,10 @@
 
 - git add -A
     > <p dir="rtl" align="right">اضافه کردن همه فایل‌ها به git</p>
-
+    
+- git log
+    > <p dir="rtl" align="right">commit ها را نمایش میدهد</p>
+    
 - git commit -m "description"
     > <p dir="rtl" align="right">کامیت کردن تغییرات با توضیحات</p>
 
