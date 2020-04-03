@@ -75,7 +75,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - alireza
 - [Yekanchi :stuck_out_tongue_winking_eye:](https://github.com/yekanchi)
 - [Alfred:feelsgood::smiley:](https://github.com/Alfred188)
-- [Mujan]
+- Mujan
 - [Sanaz :sparkles: ](https://github.com/san4z)
 - Thank you for your great videos.[Mohammad Boluki :+1:](https://github.com/MohammadBoluki)
 - [Mohammadreza Ziadzadeh :relaxed: ](https://github.com/ziadzadeh)
@@ -119,7 +119,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Erfan Hamdi :grin:](https://github.com/JayJoeAy)
 - [Ali Askari](https://github.com/askariacc)
 - [**_Reza Shams_**:smiley::heart:](https://github.com/rezash-git)
-- [Muhammed Hussein Karimi :smiley:](https://github.com/mhkarimi1383
+- [Muhammed Hussein Karimi :smiley:](https://github.com/mhkarimi1383)
 - [alireza allami:boom:](https://github.com/alireza1235)
 - [Dorsa :blush:](https://github.com/aasrod)
 - [Ayyob :computer::heart:](https://github.com/Ayyob)
@@ -130,14 +130,14 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mona](https://github.com/monabsi)
 - [Saeed DN](https://github.com/SaeedDN)
 - [Fazi](https://github.com/fazi1058)
--[Mohsen :smile:](https://github.com/fmohsen70)
+- [Mohsen :smile:](https://github.com/fmohsen70)
 - [Mohammad Askari](https://github.com/mohask1368)
 - [saeed](https://github.com/SaeedTaghavi)
 - [mansour lotfi :stuck_out_tongue_winking_eye:](https://github.com/mansourlotfi)
 - [khak313 :cat2:](https://github.com/khak313)
 - [farrez :computer::heart:](https://github.com/farrezam)
 - [hashemsh :alien: ](https://github.com/hashemsh)
--[moradbigi :airplane:](https://github.com/moradbeigi)
+- [moradbigi :airplane:](https://github.com/moradbeigi)
 - [Hamed Mahmoudkhani](https://github.com/hamedroxa)
 - [Cyb3r](https://github.com/dr-cyb3r)
 - [groprog](https://github.com/groprog)
