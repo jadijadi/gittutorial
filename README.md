@@ -8,7 +8,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git :v:
 
 # List of people who know git
-- [haji_washington(dont change my station or i will hack your account :)](https://github.com/haji-washington)
+- [haji_washington(dont change my position or i will hack your account :)](https://github.com/haji-washington)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [Neda :dizzy_face: :smiley: ](https://github.com/ForoutanNeda)
 - [ mohammad hasan zarkhani :sunglasses:](https://github.com/MH-Zarkhani)
