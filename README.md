@@ -168,4 +168,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [MamRezz :green_heart::v:](https://github.com/MamRezzSr)
 - [MMahdi :sunglasses: :wink:](https://github.com/MahdiYasini)
 - [Amirhossein :dizzy_face: :sunglasses: ](https://github.com/MahdiYasini)
-- [Thund3r :devil: ](https://github.com/Mojtabavi)
+- [Thund3r :trollface: ](https://github.com/Mojtabavi)
