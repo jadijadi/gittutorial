@@ -8,6 +8,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git :v:
 
 # List of people who know git
+- [__Farshad__:poultry_leg::ghost: :rose: :rose:](https://github.com/farshadHoseinpoor)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [Neda :dizzy_face: :smiley: ](https://github.com/ForoutanNeda)
 - [ mohammad hasan zarkhani :sunglasses:](https://github.com/MH-Zarkhani)
@@ -167,4 +168,3 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mojtaba :heart:](https://github.com/mojtabasarsilmaz)
 - [MamRezz :green_heart::v:](https://github.com/MamRezzSr)
 - [MMahdi :sunglasses: :wink:](https://github.com/MahdiYasini)
-- [Amirhossein :dizzy_face: :sunglasses: ](https://github.com/MahdiYasini)
