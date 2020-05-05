@@ -15,6 +15,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)
 - [Cloner93   :smile: ](https://github.com/cloner93)
 - [elmira:Alireza: Deutschland]
+- [reza.hiphop](https://github.com/zelash0)
 - [abdolkarim khaki :feelsgood::feelsgood::feelsgood:](https://github.com/khakiboy)
 - [Ali Nasir](https://github.com/Ali-Nasir-01)
 - [sina sheikh :bowtie:](https://github.com/mrsinshin)
