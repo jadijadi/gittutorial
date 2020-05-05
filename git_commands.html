@@ -25,17 +25,17 @@
 <body style="font-family:consolas; font-size: 1.5rem">
     <h3>Git Commands</h3>
     <ul>
-        <li><b class="code">git init: </b>Git initilizing on Current Directory</li>
-        <li><b class="code">git status: </b>show modified,Untrackted and Staged Files </li>
-        <li><b class="code">git add: </b>Add Untrackted Or Modified File to <b>Stage</b></li>
-        <li><b class="code">git commit:</b> Commit Staged File and remove them from stage. after commit all stages new
+        <li><b class="code">git init: </b>Git initializing on Current Directory</li>
+        <li><b class="code">git status: </b>show modified, Untracked and Staged Files </li>
+        <li><b class="code">git add: </b>Add Untracked Or Modified File to <b>the stage</b></li>
+        <li><b class="code">git commit:</b> Commit Staged File and remove them from the stage. after committing all stages new
             place that we
-            are will base place. so git status show that stage is empty </li>
-        <li><b class="code">git log:</b> show a log of Commits with date, Descrtions and Author Name</li>
+            are will base place. so git status shows that stage is empty </li>
+        <li><b class="code">git log:</b> show a log of Commits with date, Descriptions and Author Name</li>
         <li><b class="code">git diff <...>:</b> Comparison two Version of one file</li>
         <ul> for Example
             <li>
-                <span class="code">git diff <b>HEAD</b></span>: Comparison last committed state vs currnet State for
+                <span class="code">git diff <b>HEAD</b></span>: Comparison last committed state vs current State for
                 All Modified
                 Files
             </li>
@@ -47,20 +47,18 @@
         <li><b class="code">git reset filename:</b> unStage file</li>
         <li><b class="code">git reset commitHash:</b> Back to specified commit -> modifications will be unstaged (NOT Removed)</li>
         <li><b class="code">git reset commitHash --hard:</b> project FULLY Returned to specified commit and modifications will be Removed</li>
-        <li><b class="code">git checkout -- filename:</b> remove last modifications in file and return file to last
-            committed
-            version</li>
-        <li><b class="code">git rm filename:</b> remove file from both git and system</li>
-        <h4>--Branchs--</h4>
-        <li><b class="code">git branch:</b> show list of All Branchs</li>
+        <li><b class="code">git checkout -- filename:</b> remove last modifications in a file and return the file to last committed version</li>
+        <li><b class="code">git rm filename:</b> remove a file from both git and system</li>
+        <h4>--Branches--</h4>
+        <li><b class="code">git branch:</b> show list of All Branches</li>
         <li><b class="code">git branch -d branchName:</b> Delete Branch</li>
-        <li><b class="code">git checkout branchName:</b> switch to branch with name: branchName</li>
-        <li><b class="code">git merge branchName:</b> merge 'branchName' branch into current branch</li>
+        <li><b class="code">git checkout branchName:</b> switch to branch with the name: branchName</li>
+        <li><b class="code">git merge branchName:</b> merge 'branchName' branch into the current branch</li>
         <h4>--Remote & Clone--</h4>
-        <li><b class="code">git clone gitAddress:</b> Clone whole a repo to local with initilized git</li>
+        <li><b class="code">git clone gitAddress:</b> Clone a whole repo to local with initialized git</li>
         <li><b class="code">git remote add gitAddress:</b> add a Remote</li>
         <li><b class="code">git remote -v:</b> verbose Remotes (show full Info from remotes)</li>
-        <li><b>Note:</b> we can have extra than ONE remote so for example we can add 3 remotes for Github, Gitlab and
+        <li><b>Note:</b> we can have extra than ONE remote so, for example, we can add 3 remotes for Github, Gitlab and
             Company git Server</li>
         <li><b>Note: origin:</b> original Branch we copied from that</li>
         <li><b class="code">git push origin master:</b> push changes from MASTER to ORIGIN</li>
@@ -85,7 +83,7 @@
         </li>
         <li><b class="code">git show tagName:</b> show full info about tag
         </li>
-        <li><b class="code">git push origin tagName:</b> Regullary tags dont push to origin with other changes and we
+        <li><b class="code">git push origin tagName:</b> Regularly tags don't push to the origin with other changes and we
             should push them manually
         </li>
         <li><b class="code">git push origin --tags:</b> like above for push all tags
@@ -95,17 +93,17 @@
         <li><b class="code">pgp (gpg in openSource World) </b>  ساین کردن تگ ها یا کامیت ها
         </li>
 		<h4>--Bisect--</h4>
-        <li><b class="code">git bisect </b> debuging code by moving through commits
+        <li><b class="code">git bisect </b> debugging code by moving through commits
         </li>
 		<ul>
         <li><b class="code">git bisect start</b> start using git bisect
         </li>
-        <li><b class="code">git bisect bad <commit code></b>select a bad commit (or just leave it to select this commit)
+        <li><b class="code">git bisect bad <commit code></b>to select a bad commit (or just leave it to select this commit)
         </li>
-        <li><b class="code">git bisect good <commit code></b>select a good commit (or just leave it to select this commit)
+        <li><b class="code">git bisect good <commit code></b>to select a good commit (or just leave it to select this commit)
         </li>
 		</ul>
-		<li><b>Note:</b> You must test your code every time you use bisect then use good or bad after git bisect !</li>
+		<li><b>Note:</b> You must test your code every time you use bisect then use good or bad after git bisect!</li>
 
     </ul>
 </body>
