@@ -169,6 +169,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [MamRezz :green_heart::v:](https://github.com/MamRezzSr)
 - [MMahdi :sunglasses: :wink:](https://github.com/MahdiYasini)
 - [Amirhossein :dizzy_face: :sunglasses: ](https://github.com/MahdiYasini)
+- [Mehrshad :dizzy_face:](https://github.com/mehrfirouzian)
 - [__Fakhamatia__ :metal:](https://github.com/fakhamatia)
 - [Arshiatmi :grin: :trollface: :heart: ](https://github.com/Arshiatmi)
 - [MahdiAkbariZarkesh :mortar_board: :trollface: ](https://github.com/maze1377)
