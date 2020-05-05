@@ -9,11 +9,14 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 
 # List of people who know git
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [sepehrb98 :tophat: :crystal_ball:](https://github.com/sepehrb98)
+- [rez_hiphop](https://github.com/zelash)
 - [Neda :dizzy_face: :smiley: ](https://github.com/ForoutanNeda)
 - [ mohammad hasan zarkhani :sunglasses:](https://github.com/MH-Zarkhani)
 - ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)
 - [Cloner93   :smile: ](https://github.com/cloner93)
 - [elmira:Alireza: Deutschland]
+- [reza.hiphop](https://github.com/zelash0)
 - [abdolkarim khaki :feelsgood::feelsgood::feelsgood:](https://github.com/khakiboy)
 - [Ali Nasir](https://github.com/Ali-Nasir-01)
 - [sina sheikh :bowtie:](https://github.com/mrsinshin)
@@ -169,3 +172,12 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [MMahdi :sunglasses: :wink:](https://github.com/MahdiYasini)
 - [Amirhossein :dizzy_face: :sunglasses: ](https://github.com/MahdiYasini)
 - [Scorpian](https://github.com/alizahedzadeh)
+- [Armin :neutral_face:](https://github.com/arminazimi)
+- [Mehrshad :dizzy_face:](https://github.com/mehrfirouzian)
+- [__Fakhamatia__ :metal:](https://github.com/fakhamatia)
+- [Arshiatmi :grin: :trollface: :heart: ](https://github.com/Arshiatmi)
+- [MahdiAkbariZarkesh :mortar_board: :trollface: ](https://github.com/maze1377)
+- [Mehdi Abbasi :sunglasses:](https://github.com/mehdi-abbasi)
+- [Milad :v::dizzy_face:](https://github.com/Hey7ude)
+- [Mohammad](https://github.com/ME-2002)
+- [Farhad Uneci :satisfied:](https://github.com/Farhaduneci)
