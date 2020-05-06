@@ -80,13 +80,13 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Pedram Azimzadeh :ghost:](https://github.com/PedramAz)
 - [Sadra Sabouri :smile:](https://github.com/sadrasabouri)
 - [Sepideh :books:](https://github.com/SepidSal)
-- [Pedram Azimzadeh :ghost : ](https://github.com/PedramAz)
+- [Pedram Azimzadeh :ghost: ](https://github.com/PedramAz)
 - [Reza Zamani](https://github.com/rezamani)
 - [Ali :sunglasses: ](https://github.com/ames1)
 - alireza
 - [Yekanchi :stuck_out_tongue_winking_eye:](https://github.com/yekanchi)
 - [Alfred:feelsgood::smiley:](https://github.com/Alfred188)
-- [Mujan]
+- Mujan
 - [Sanaz :sparkles: ](https://github.com/san4z)
 - Thank you for your great videos.[Mohammad Boluki :+1:](https://github.com/MohammadBoluki)
 - [Mohammadreza Ziadzadeh :relaxed: ](https://github.com/ziadzadeh)
@@ -131,7 +131,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Erfan Hamdi :grin:](https://github.com/JayJoeAy)
 - [Ali Askari](https://github.com/askariacc)
 - [**_Reza Shams_**:smiley::heart:](https://github.com/rezash-git)
-- [Muhammed Hussein Karimi :smiley:](https://github.com/mhkarimi1383
+- [Muhammed Hussein Karimi :smiley:](https://github.com/mhkarimi1383)
 - [alireza allami:boom:](https://github.com/alireza1235)
 - [Dorsa :blush:](https://github.com/aasrod)
 - [Ayyob :computer::heart:](https://github.com/Ayyob)
@@ -180,6 +180,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [MamRezz :green_heart::v:](https://github.com/MamRezzSr)
 - [MMahdi :sunglasses: :wink:](https://github.com/MahdiYasini)
 - [Amirhossein :dizzy_face: :sunglasses: ](https://github.com/MahdiYasini)
+- [__Kaaveh__ :relieved:](https://github.com/Kaaveh)
 - [Gholamreza](https://github.com/gholamreza-mohammadi)
 - [M. Safarian :joy::v:](https://github.com/mahdisafarian)
 - [alibardide5124 :wink:](https://github.com/alibardide5124)
