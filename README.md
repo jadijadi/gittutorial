@@ -181,6 +181,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [MMahdi :sunglasses: :wink:](https://github.com/MahdiYasini)
 - [Amirhossein :dizzy_face: :sunglasses: ](https://github.com/amirzenoozi)
 - [Amirhossein :dizzy_face: :sunglasses: ](https://github.com/MahdiYasini)
+- [Mr.pi :grimacing: ](https://github.com/alpha-pi1)
 - [Ali Radmanesh :kissing_smiling_eyes:](https://github.com/AliRadmanesh)
 - [MosiHere :feelsgood:](https://github.com/mosihere)
 - [__Kaaveh__ :relieved:](https://github.com/Kaaveh)
