@@ -30,6 +30,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [CodeWithEmaD](https://github.com/CodeWithEmad)
 - [Hossein Mirazimi](https://github.com/Hossein-Mirazimi)
 - [Morteza Heydari](https://github.com/MortezaHeydari97)
+- [Reza Kargar :v::sunglasses:](https://github.com/RezaKargar)
 - [Mahdyar](https://github.com/mahdyar)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
 - [EhsanMody :yum:](https://github.com/ehsanmody)
