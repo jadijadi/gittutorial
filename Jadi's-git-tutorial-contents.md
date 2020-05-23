@@ -82,7 +82,7 @@
     > <p dir="rtl" align="right">برای debug به کار می رود</p>
     
 - git bisect reset
-    > <p dir="rtl" align="right">و برگشت به سر مغازه از نو bisect برای متوقف کردن دستور </p>
+    > <p dir="rtl" align="right">و برگشت به سر مغازه از نو bisect reset برای متوقف کردن دستور </p>
     
 - git config 
     > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
