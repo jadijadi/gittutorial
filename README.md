@@ -204,4 +204,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mohammad](https://github.com/ME-2002)
 - [Farhad Uneci :satisfied:](https://github.com/Farhaduneci)
 - [amirvalikhani]
-- [**_Sina Kh_** :construction:](https://github.com/cinasina]
+- [**_Sina Kh_** :construction:](https://github.com/cinasina)
