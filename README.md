@@ -12,6 +12,8 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [AmirSalar  :computer:	](https://github.com/AmirSalarYaghoubian)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
+- [razyar](https://github.com/razyar)
+- [razyar](https://razyar.github.io)
 - [Cloner93 :smile: ](https://github.com/cloner93)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [sepehrb98 :tophat: :crystal_ball:](https://github.com/sepehrb98)
