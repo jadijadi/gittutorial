@@ -1,0 +1,7 @@
+import string
+from random import *
+characters = string.ascii_letters + string.punctuation  + string.digits
+password =  "".join(choice(characters) for x in range(randint(8, 16)))
+print("this is your password:")
+print (password)
+print("Good Luck")
