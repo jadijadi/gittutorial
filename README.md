@@ -198,7 +198,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mehrshad :dizzy_face:](https://github.com/mehrfirouzian)
 - [__Fakhamatia__ :metal:](https://github.com/fakhamatia)
 - [Arshiatmi :grin: :trollface: :heart: ](https://github.com/Arshiatmi)
-- [Yosef Salmalian :trollface: :trollface: ](https://github.com/usefss)
+- [Yosef Salmalian :trollface: :trollface: :trollface: ](https://github.com/usefss)
 - [MahdiAkbariZarkesh :mortar_board: :trollface: ](https://github.com/maze1377)
 - [Mehdi Abbasi :sunglasses:](https://github.com/mehdi-abbasi)
 - [Milad :v::dizzy_face:](https://github.com/Hey7ude)
