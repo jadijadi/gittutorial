@@ -181,6 +181,8 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [MMahdi :sunglasses: :wink:](https://github.com/MahdiYasini)
 - [Amirhossein :dizzy_face: :sunglasses: ](https://github.com/amirzenoozi)
 - [Amirhossein :dizzy_face: :sunglasses: ](https://github.com/MahdiYasini)
+- [Mohammadreza M.N :blush:](https://github.com/Mohammadreza4mn)
+- [Seyed Ali :sunglasses: :wink:](https://github.com/alishahrokhiii)
 - [$h@dmehr :sunglasses::smiling_imp:](https://github.com/shadmehrgh)
 - [__Abu__:pray: :heart: :clap:](https://github.com/abu2020)
 - [AmiDMajD :computer: :sunglasses: ](https://github.com/amidmajd)
@@ -198,6 +200,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mehrshad :dizzy_face:](https://github.com/mehrfirouzian)
 - [__Fakhamatia__ :metal:](https://github.com/fakhamatia)
 - [Arshiatmi :grin: :trollface: :heart: ](https://github.com/Arshiatmi)
+- [Yosef Salmalian :trollface: :trollface: :trollface: ](https://github.com/usefss)
 - [MahdiAkbariZarkesh :mortar_board: :trollface: ](https://github.com/maze1377)
 - [Mehdi Abbasi :sunglasses:](https://github.com/mehdi-abbasi)
 - [Milad :v::dizzy_face:](https://github.com/Hey7ude)
@@ -205,3 +208,5 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Farhad Uneci :satisfied:](https://github.com/Farhaduneci)
 - [amirvalikhani]
 - [Amir Developer](https://github.com/amirhossein95b)
+- [Amir Mohammad Eghbalian :satisfied:](https://github.com/amirme)
+- [___Reza Rafsanjani___](https://github.com/rr8eezz4aa)
