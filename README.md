@@ -11,6 +11,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 # List of people who know git
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [AmirSalar  :computer:	](https://github.com/AmirSalarYaghoubian)
+- [amirprgm](https://github.com/amirprgm)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
 - [Cloner93 :smile: ](https://github.com/cloner93)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
@@ -20,6 +21,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [ mohammad hasan zarkhani :sunglasses:](https://github.com/MH-Zarkhani)
 - ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)
 - [Cloner93   :smile: ](https://github.com/cloner93)
+## amirprgm
 - [elmira:Alireza: Deutschland]
 - [reza.hiphop](https://github.com/zelash0)
 - [abdolkarim khaki :feelsgood::feelsgood::feelsgood:](https://github.com/khakiboy)
