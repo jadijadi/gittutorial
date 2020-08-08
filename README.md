@@ -69,6 +69,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [GreatSprit :smirk: ](https://github.com/aminmikh)
 - [Ali Piry :ghost:](https://github.com/yripila)
 - [Amir Azizi :blush: ](https://github.com/AmirRezaAzizi)
+- [amir pou ](https://github.com/amirpourastarabadi)
 - [Abolfazl Baghlani :stuck_out_tongue_winking_eye: ](https://github.com/Baghlani)
 - [Amin Ashtiani](https://github.com/AminAshtiani)
 - [heidari :runner:](https://github.com/heidarii)
