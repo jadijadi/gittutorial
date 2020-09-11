@@ -9,12 +9,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git :v:
 
 # List of people who know git
-- [HoSseIn::stuck_out_tongue_winking_eye:](https://github.com/hosseinzamaninasab)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [AmirSalar  :computer:	](https://github.com/AmirSalarYaghoubian)
-- [**Jadi**:feelsgood::heart:](https://jadi.net)
-- [Cloner93 :smile: ](https://github.com/cloner93)
-- [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [sepehrb98 :tophat: :crystal_ball:](https://github.com/sepehrb98)
 - [rez_hiphop](https://github.com/zelash)
 - [Neda :dizzy_face: :smiley: ](https://github.com/ForoutanNeda)
@@ -211,3 +207,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Amir Mohammad Eghbalian :satisfied:](https://github.com/amirme)
 - [___Reza Rafsanjani___](https://github.com/rr8eezz4aa)
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
+- [__Hossein Zamani Nasab__](https://github.com/hosseinzamaninasab)
