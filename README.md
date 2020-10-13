@@ -210,4 +210,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Amir Mohammad Eghbalian :satisfied:](https://github.com/amirme)
 - [___Reza Rafsanjani___](https://github.com/rr8eezz4aa)
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
-- [Amirhossein Shekooh :feelsgood::penguin:] (https://github.com/shkamir)
+- [__Amirhossein Shekooh__ :feelsgood: :penguin:] (https://github.com/shkamir)
