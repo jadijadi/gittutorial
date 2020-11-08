@@ -206,7 +206,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Milad :v::dizzy_face:](https://github.com/Hey7ude)
 - [Mohammad](https://github.com/ME-2002)
 - [Farhad Uneci :satisfied:](https://github.com/Farhaduneci)
-- [amirvalikhani]
+- [amirvalikhani](https://github.com/amirvalikhanii)
 - [Amir Mohammad Eghbalian :satisfied:](https://github.com/amirme)
 - [___Reza Rafsanjani___](https://github.com/rr8eezz4aa)
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
