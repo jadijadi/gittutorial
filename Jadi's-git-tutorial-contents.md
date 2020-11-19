@@ -75,7 +75,7 @@
 - git blame fileName -L lineNumber
     > <p dir="rtl" align="right">مشاهده اینکه از خط مذکور تا انتهای فایل را چه کسی نوشته است</p>
     
--git blame fineName -L lineNumber, lineNumber 
+- git blame fineName -L lineNumber, lineNumber 
     > <p dir="rtl" align="right">مشاهده اینکه  خط مذکور را چه کسی نوشته است</p>
 
 - git bisect 
