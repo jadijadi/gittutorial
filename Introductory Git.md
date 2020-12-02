@@ -1,24 +1,24 @@
 This notes are from jadi's introdutory course for Git.
 # Table Of Content
-- [What is Git?](#1)
-- [Git Workspaces](#2)
-- [Report Commands](#3)
-- [File Modification](#4)
-- [Branches](#5)
-- [Git In The Cloud](#6)
-- [Conflicts](#7)
-- [Tags](#8)
-- [Sign Commites And Tags](#9)
-- [Debug With Git](#10)
+- [What is Git?](#what-is-git)
+- [Git Workspaces](#git-workspaces)
+- [Report Commands](#report-commands)
+- [File Modification](#file-modification)
+- [Branches](#branches)
+- [Git In The Cloud !](#git-in-the-cloud)
+- [Conflicts](#conflicts)
+- [Tags](#tags)
+- [Sign Commites And Tags](#sign-commites-and-tags)
+- [Debug With Git](#debug-with-git)
 
 
-# What is Git {#1}
+# What is Git 
 Git is a Control version software. It's very usefull for control the changes in different version, team work : you can know who made this change and when. 
 
 ``` git init``` : add git space to folder.
 ``` git help Command``` : give manual of Command
 
-# Git WorkSpace {#2}
+# Git WorkSpaces
 
 | Space | Function | Command |
 | ------| -------  | ------- 
@@ -30,7 +30,7 @@ Git is a Control version software. It's very usefull for control the changes in 
 
 **If don't use ```-m```, terminal open space to write message (so it is requier to commit). (in that window use ctr to handle quite and other func)**
 
-# Report Commands {#3}
+# Report Commands
 
 ``` git status ``` : Show situation of files in folder (whether untracked, or had been modifiade or ready to commit)
 
@@ -50,7 +50,7 @@ Git is a Control version software. It's very usefull for control the changes in 
 
 ```git rm filename``` : Remove file from git and system.
 
-# Branches {#5}
+# Branches 
 
 ## Why use branches 
 Suppose we have main project and we want add some features to it. it is risky (and maybe not clean) to work on main file. Git have solution for us, **Branches**. 
@@ -67,7 +67,7 @@ Suppose we have main project and we want add some features to it. it is risky (a
 ``` git -d BranchName``` : Delete BranchName
 
 
-# Git in the cloud ! {#6}
+# Git in the cloud
 With git we can work with repositories on the net or network but how? 
 
 ```git clone RepoAdress``` : it copy the repo to your local drive 
@@ -86,7 +86,7 @@ Then we can push to origin with : ```git push origin master```
 What is Fork?
 When you fork someone project you make copy of project on your account. You can edit it and make request to merge edits to main project.
 
-# Conflicts {#7}
+# Conflicts
 
 Sometime we change piece of code and want  to push to origin but someone else edit that piece and pushed. **This is Conflict** and git can't push our code to repo becuse there is conflict between my change and the change have been made. 
 Explain more: 
@@ -94,7 +94,7 @@ suppose someone delete a line in a code and push it to origin. i don't pull it f
 So at first i must pull and then open the code and solve the conflict.
 
 
-# Tags {#8}
+# Tags
 When we release new version we are on master branch (not any other) and have lot of commite. but later how can we back on previouse verison? With **Tags** 
 
 ```git tags``` : Show all tags
@@ -109,7 +109,7 @@ Olso we can tag on specific commite with ```git tag -a TagName CommitHash```
 To come back to previous version (tag) : ```git checkout TagName``` but for changes it is better or maybe neccecory to creat branch and made changes on it with : ```git checkout -b BranchName```
 
 
-# Sign Commites And Tags {#9}
+# Sign Commites And Tags
 ## Why to sign? 
 Because it is secure way to show Undoubdetly the commite belong to you.
 
@@ -133,7 +133,7 @@ To verify tag with sign use ```git tag -v TagName```
 
 ```git commit -S -m "Message"``` Sign commit  
 
-# Debug With Git {#10} 
+# Debug With Git 
 
 ## Blame Who Made Bug!
 If we know piece of code is bug and want to know who made this bug : 
