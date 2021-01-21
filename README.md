@@ -28,6 +28,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
 - [CodeWithEmaD](https://github.com/CodeWithEmad)
+- [Ashkan Jalali](https://github.com/ashkanjalaliQ)
 - [Hossein Mirazimi](https://github.com/Hossein-Mirazimi)
 - [Morteza Heydari](https://github.com/MortezaHeydari97)
 - [Mahdyar](https://github.com/mahdyar)
