@@ -10,7 +10,6 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 
 # List of people who know git
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
-- [ AlirezaBashi98  :computer::heart: ](https://github.com/alirezabashi98)
 - [AmirSalar  :computer:	](https://github.com/AmirSalarYaghoubian)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
 - [Cloner93 :smile: ](https://github.com/cloner93)
@@ -213,3 +212,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
+- [ AlirezaBashi98  :computer::heart: ](https://github.com/alirezabashi98)
