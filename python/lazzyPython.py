@@ -2,8 +2,8 @@
 
 
 def main():
-    a = 1.1
-    b = 2.2
+    a = float(input('Enter the first number =  '))
+    b = float(input('Enter the second number =  '))
 
     print('a =', a)
     print('b =', b)
