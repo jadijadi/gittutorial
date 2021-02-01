@@ -10,6 +10,7 @@ def main():
     print('and, magic is happen')
     print('a + b =', a+b)
     print('a * b =', a*b)
+    print('a / b =', a/b)
     print('what the heck is going on here?')
     print('do you have any idea?')
 
