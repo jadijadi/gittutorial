@@ -2,7 +2,7 @@
 
 This is a repo for testing your git abilities. try to add your name to this file
 
-`- [Yourname](your github profile url)`
+`- Mazyar Ghahremani https://github.com/mazyar-cyber
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
@@ -212,3 +212,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
+- Mazyar Ghahremani (https://github.com/mazyar-cyber)
