@@ -10,6 +10,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 
 # List of people who know git
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [Mohammad Sadra Boromand :kissing_heart::heart_eyes::one::zero::zero:](https://github.com/SadraBoromand)
 - [AmirSalar  :computer:	](https://github.com/AmirSalarYaghoubian)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
 - [Cloner93 :smile: ](https://github.com/cloner93)
@@ -35,6 +36,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
 - [EhsanMody :yum:](https://github.com/ehsanmody)
 - [Aghacode:grin:](https://github.com/aghacode)
+- [amir noori](https://github.com/amirnoori6454)
 - [MasMooG](https://github.com/MasuodSamarin)
 - [mhnp](https://github.com/mnakhaei)
 - [Farhadmpr :smirk: ](http://farhadm.ir)
@@ -213,3 +215,8 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
+- [Ali Hosseinverdi :heart_eyes:](https://github.com/Ali-Hosseinverdi)
+- [reyhaneh  :computer: ](https://github.com/reyhaneh-moayeri)
+- [Amir :sunglasses:](https://github.com/root-77)
+- [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
+- [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
