@@ -216,6 +216,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
+- [Ali Zahedzadeh😃](https://github.com/alizahedzadeh)
 - [Amir_salmani](https://github.com/amirsalmanii)
 - [Reza Shahnazar :eyes:](https://github.com/rezashahnazar)
 - [safoora1986 :computer: :heart_eyes:](https://github.com/safoora1986)
