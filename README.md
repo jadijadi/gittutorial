@@ -11,6 +11,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 # List of people who know git
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [**Sina yeganeh**:blush:](https://github.com/Mr-SinaYeganeh)
 - [Mohammad Sadra Boromand :kissing_heart::heart_eyes::one::zero::zero:](https://github.com/SadraBoromand)
 - [AmirSalar  :computer:	](https://github.com/AmirSalarYaghoubian)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
