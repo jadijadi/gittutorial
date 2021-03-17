@@ -215,6 +215,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
+- [AmirJEY:neckbeard:](https://github.com/AmirJey)
 - [Milad Nz] :blush: :star: ( https://github.com/MiladNz )
 - [Saeed Bayat :trollface: :sunglasses: ](https://github.com/01shadowalker01)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
