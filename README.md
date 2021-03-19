@@ -231,4 +231,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Amir :sunglasses:](https://github.com/root-77)
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
 - [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
-- [Abolfazl Nassaji] (https://github.com/abolfazln)
+- Abolfazl Nassaji (https://github.com/abolfazln)
