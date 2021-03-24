@@ -9,7 +9,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git :v:
 
 # List of people who know git
-- [:earth_americas::heart: ArdeshirV :heart::earth_americas:](https://github.com/ArdeshirV)
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [**Sina yeganeh**:blush:](https://github.com/Mr-SinaYeganeh)
@@ -232,3 +231,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Amir :sunglasses:](https://github.com/root-77)
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
 - [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
+- [:earth_americas::heart: ArdeshirV :heart::earth_americas:](https://github.com/ArdeshirV)
