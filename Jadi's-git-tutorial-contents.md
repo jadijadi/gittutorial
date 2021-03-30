@@ -63,7 +63,7 @@
 - git show commitID
     > <p dir="rtl" align="right">نمایش جزئیات commit با شناسه تعیین شده</p>
 
-- git tag
+- git tag --delete origin
     > <p dir="rtl" align="right">نمایش تگ ها</p>
 
 - git tag -a tagName -m "description
@@ -71,6 +71,12 @@
 
 - git show tagName
     > <p dir="rtl" align="right">نمایش جزئیات تگ</p>
+
+- git tag -d tagName
+    > <p dir="rtl" align="right">پاک کردن تگ در لوکال</p>
+
+- git push --delete origin tagName
+    > <p dir="rtl" align="right">پاک کردن تگ در ریموت</p>
 
 - git blame fileName -L lineNumber
     > <p dir="rtl" align="right">مشاهده اینکه از خط مذکور تا انتهای فایل را چه کسی نوشته است</p>
