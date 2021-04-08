@@ -1,0 +1,39 @@
+git init 
+git status
+git add <filename> // for untracked files
+git restore --staged <filename> // restoring the file before stage!
+git commit/git commit -m '' // commiting the new situation
+git add -A // ading all the files
+git log // exit with typing q or z
+git diff HEAD/--staged
+git checkout -- <filename> // restoring the previous file , befor editing it for the last time
+git reset <filename> // ??
+git branch // showing all the current branches
+git branch <new-branch-name> // adding new branch
+git checkout <branch-name> // switching to branch "branch-name"
+git merge <another-branch-name>
+git branch -d <branch-name> // deleting branch <branch-name>
+نکته:اگر در یک برنچ ، تغییراتی را ایجاد کرده ولی کامیت نکنیم ، هنگام عوض کردن برنچ ، ان تغییرات در دیگر برنچ ها نیز نشان داده میشود.اما اگر کامیت شود ، تغییرات فقط در برنچ اولیه نشان داده خواهد شد
+git push origin master // adding your new configuration to github when u clone from it
+git push origin master 
+
+changing the HEAD:
+with creating another branch:git checkout -b new_branch <commit_hash> || git checkout -b new_branch HEAD~<a number>
+on the current branch: git checkout <commit_hash>
+
+git remote // showing current remotes
+git remote add <remote_name> <site> 
+git remote -v // verbose , showing remote name and address
+git push -u origin master // ???
+git show <commit_hash>
+git tag // showing all the tags
+git tag -a(annotate) <tag-name> -m 'message' // giving a tag
+git tag -a(annotate) <tag-name> <commit_hash> -m 'message'// giving tag to an specefied commit
+git show <tag-name>
+git push origin <tag-name>/--tags (pushing all the tags)
+
+how to see all the cloned braches from github --> git branch -a 
+
+git help <command> // opening man page for the specified command
+
+
