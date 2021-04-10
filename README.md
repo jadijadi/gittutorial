@@ -9,6 +9,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git :v:
 
 # List of people who know git
+
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [**Sina yeganeh**:blush:](https://github.com/Mr-SinaYeganeh)
@@ -58,7 +59,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [**Shirin** :skull:](https://github.com/ShirinTahmasebi)
 - [__Mehran13mome__:feelsgood:](https://github.com/mome13)
 - [alrez_96 :smiley:](https://github.com/alrez96)
--  [omid :trollface:](https://github.com/omidzahed1998)
+- [omid :trollface:](https://github.com/omidzahed1998)
 - [__Shirin__ :skull:](https://github.com/ShirinTahmasebi)
 - [alrez96 :smiley:](https://github.com/alrez96)
 - [Mohammad Tajik :trollface: ](https://github.com/mtss92)
@@ -231,3 +232,4 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Amir :sunglasses:](https://github.com/root-77)
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
 - [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
+- [Sir_Jick](https://github.com/sir-jick)
