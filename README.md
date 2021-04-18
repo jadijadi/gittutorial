@@ -9,6 +9,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git :v:
 
 # List of people who know git
+- [fateme barbod✔😊](https://github.com/fatemebarbod)
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [**Sina yeganeh**:blush:](https://github.com/Mr-SinaYeganeh)
