@@ -97,6 +97,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mohammadreza Ziadzadeh :relaxed: ](https://github.com/ziadzadeh)
 - [Mohammadreza Soltani :sunglasses: ](https://github.com/mrzasoltani)
 - [Sinhx :zzz: ](https://github.com/sinushx)
+- [arya aryaii ](https://github.com/Arya2255)
 - [Mammad Pariab](https://github.com/jkmpariab)
 - [Pulkit](https://github.com/pulkitrock1921)
 - [Seali Mousavi :bomb: ](https://github.com/sealimousavi)
