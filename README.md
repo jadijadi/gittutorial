@@ -15,6 +15,8 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mohammad Sadra Boromand :kissing_heart::heart_eyes::one::zero::zero:](https://github.com/SadraBoromand)
 - [AmirSalar  :computer:	](https://github.com/AmirSalarYaghoubian)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
+- [razyar](https://github.com/razyar)
+- [razyar](https://razyar.github.io)
 - [Cloner93 :smile: ](https://github.com/cloner93)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [__Mostafa__:heart:](https://github.com/m0st4f4)
