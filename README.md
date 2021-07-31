@@ -255,6 +255,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir :sunglasses:](https://github.com/root-77)
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
 - [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
+- [AmirHossein Jahangiri:musical_note::computer:](https://github.com/AmirHossein-Jahangiri/)
 - [Sir_Jick](https://github.com/sir-jick)
 - [Behnam Malekara  :heart_eyes:  ]( https://github.com/malekara)
 - [sobhan shokri :ocean: ](https://github.com/xdevman)
