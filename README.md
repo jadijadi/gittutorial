@@ -231,6 +231,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Mohammad Eghbalian :satisfied:](https://github.com/amirme)
 - [___Reza Rafsanjani___](https://github.com/rr8eezz4aa)
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
+- [Yazdan Ranjbar :alien:](https://yazdanra.github.io/)
 - [Farmin :satisfied:](https://github.com/farimaz)
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
