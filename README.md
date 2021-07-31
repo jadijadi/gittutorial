@@ -241,6 +241,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Amir :sunglasses:](https://github.com/root-77)
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
 - [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
+- [Niusha Yousefi :innocent: :computer:](https://github.com/niushay)
 - [Nima Samadi 😃](https://github.com/NimaSamadi007)
 - [Mahdi Ghadami](https://github.com/mahdighadami)
 - [Mehrnaz hn :computer: :heart_eyes:](https://github.com/Meh-hn)
