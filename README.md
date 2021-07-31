@@ -1,24 +1,32 @@
 # **Hello**
 
+> Note: Its better to add your name somewhere in the middle, and not the end!
+> نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا آخر لیست
+
 This is a repo for testing your git abilities. try to add your name to this file
 
 `- [Yourname](your github profile url)`
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
-Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git :v:
-
 # List of people who know git
+- [Imorate :zap:](https://github.com/imorate)
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [Mohammad Mahdi :feelsgood:](https://github.com/mahdipuya)
 - [**Sina yeganeh**:blush:](https://github.com/Mr-SinaYeganeh)
 - [Mohammad Sadra Boromand :kissing_heart::heart_eyes::one::zero::zero:](https://github.com/SadraBoromand)
 - [AmirSalar  :computer:	](https://github.com/AmirSalarYaghoubian)
+- [Pouya porebodi :computer::heart:](http://github/pouyarisk)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
+- [razyar](https://github.com/razyar)
+- [razyar](https://razyar.github.io)
 - [Cloner93 :smile: ](https://github.com/cloner93)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [__Mostafa__:heart:](https://github.com/m0st4f4)
 - [sepehrb98 :tophat: :crystal_ball:](https://github.com/sepehrb98)
 - [rez_hiphop](https://github.com/zelash)
+- [Ali Rn :snowman:](https://github.com/AliRn76)
 - [Neda :dizzy_face: :smiley: ](https://github.com/ForoutanNeda)
 - [ mohammad hasan zarkhani :sunglasses:](https://github.com/MH-Zarkhani)
 - ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)
@@ -34,6 +42,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Ashkan Jalali](https://github.com/ashkanjalaliQ)
 - [Hossein Mirazimi](https://github.com/Hossein-Mirazimi)
 - [Morteza Heydari](https://github.com/MortezaHeydari97)
+- [Reza Kargar :v::sunglasses:](https://github.com/RezaKargar)
 - [Mahdyar](https://github.com/mahdyar)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
 - [EhsanMody :yum:](https://github.com/ehsanmody)
@@ -74,6 +83,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [GreatSprit :smirk: ](https://github.com/aminmikh)
 - [Ali Piry :ghost:](https://github.com/yripila)
 - [Amir Azizi :blush: ](https://github.com/AmirRezaAzizi)
+- [amir pou ](https://github.com/amirpourastarabadi)
 - [Abolfazl Baghlani :stuck_out_tongue_winking_eye: ](https://github.com/Baghlani)
 - [Amin Ashtiani](https://github.com/AminAshtiani)
 - [heidari :runner:](https://github.com/heidarii)
@@ -212,6 +222,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Mohammad](https://github.com/ME-2002)
 - [Farhad Uneci :satisfied:](https://github.com/Farhaduneci)
 - [amirvalikhani]
+- [Amir Developer](https://github.com/amirhossein95b)
 - [Amir Mohammad Eghbalian :satisfied:](https://github.com/amirme)
 - [___Reza Rafsanjani___](https://github.com/rr8eezz4aa)
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
@@ -232,3 +243,11 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
 - [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
 - [Behnam Malekara  :heart_eyes:  ]( https://github.com/malekara)
+- [sobhan shokri :ocean: ](https://github.com/xdevman)
+- [AZ - Mohammad Ali Azarkasb :grin: :gem: ](https://github.com/Azarkasb)
+- [AmirAli Angha :heart_eyes:](https://github.com/amiralii007)
+- [AM.A  :black_joker:  ](https://github.com/A19M98A)
+- [Niusha Yousefi :innocent: :computer:](https://github.com/niushay)
+- [Nima Samadi 😃](https://github.com/NimaSamadi007)
+- [Mahdi Ghadami](https://github.com/mahdighadami)
+- [Mehrnaz hn :computer: :heart_eyes:](https://github.com/Meh-hn)
