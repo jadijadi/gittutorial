@@ -10,9 +10,10 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+
+- [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [Imorate :zap:](https://github.com/imorate)
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
-- [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [Mohammad Mahdi :feelsgood:](https://github.com/mahdipuya)
 - [**Sina yeganeh**:blush:](https://github.com/Mr-SinaYeganeh)
 - [Mohammad Sadra Boromand :kissing_heart::heart_eyes::one::zero::zero:](https://github.com/SadraBoromand)
@@ -67,7 +68,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Shirin** :skull:](https://github.com/ShirinTahmasebi)
 - [__Mehran13mome__:feelsgood:](https://github.com/mome13)
 - [alrez_96 :smiley:](https://github.com/alrez96)
--  [omid :trollface:](https://github.com/omidzahed1998)
+- [omid :trollface:](https://github.com/omidzahed1998)
 - [__Shirin__ :skull:](https://github.com/ShirinTahmasebi)
 - [alrez96 :smiley:](https://github.com/alrez96)
 - [Mohammad Tajik :trollface: ](https://github.com/mtss92)
@@ -242,6 +243,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir :sunglasses:](https://github.com/root-77)
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
 - [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
+- [Sir_Jick](https://github.com/sir-jick)
 - [Behnam Malekara  :heart_eyes:  ]( https://github.com/malekara)
 - [sobhan shokri :ocean: ](https://github.com/xdevman)
 - [AZ - Mohammad Ali Azarkasb :grin: :gem: ](https://github.com/Azarkasb)
