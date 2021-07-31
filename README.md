@@ -6,7 +6,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
-Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git :v:
+Learning Source: https://faradars.org/courses/fvgit9609-git-github-gitlab :v:
 
 # List of people who know git
 - [Imorate :zap:](https://github.com/imorate)
