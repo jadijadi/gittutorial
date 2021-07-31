@@ -9,8 +9,6 @@ This is a repo for testing your git abilities. try to add your name to this file
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
-Learning Source: https://faradars.org/courses/fvgit9609-git-github-gitlab :v:
-
 # List of people who know git
 - [Imorate :zap:](https://github.com/imorate)
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
@@ -244,6 +242,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-git-github-gitlab :v:
 - [Amir :sunglasses:](https://github.com/root-77)
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
 - [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
+- [AZ - Mohammad Ali Azarkasb :grin: :gem: ](https://github.com/Azarkasb)
 - [AmirAli Angha :heart_eyes:](https://github.com/amiralii007)
 - [AM.A  :black_joker:  ](https://github.com/A19M98A)
 - [Niusha Yousefi :innocent: :computer:](https://github.com/niushay)
