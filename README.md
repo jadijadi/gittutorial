@@ -12,6 +12,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [soroosh lotfi](https://github.com/slotfi909)(you're the best mr.jadi)
+- [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
 - [Imorate :zap:](https://github.com/imorate)
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
 - [Mohammad Mahdi :feelsgood:](https://github.com/mahdipuya)
