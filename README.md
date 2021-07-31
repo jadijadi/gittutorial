@@ -255,6 +255,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir :sunglasses:](https://github.com/root-77)
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
 - [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
+- [Mehrdad Mahabadi  :computer:  ](https://github.com/moxitron)
 - [Mazyar Ghahremani  :sunglasses:  ](https://github.com/mazyar-cyber)
 - [Abolfazl Nassaji](https://github.com/abolfazln)
 - [:earth_americas::heart: ArdeshirV :heart::earth_americas:](https://github.com/ArdeshirV)
