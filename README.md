@@ -234,6 +234,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AshkanJalaliQ :sunglasses: :fire:](https://github.com/ashkanjalaliQ)
 - [Amir Mohammad Eghbalian :satisfied::fire:](https://github.com/amirme)
 - [amirvalikhani]
+- [__AmirhoseinYari__ :computer:](https://github.com/AmirhoseinYari)
 - [AmirSH](https://github.com/GitGates)
 - [Mehdi vahdani :heart:](https://github.com/Mehdi11va)
 - [Amir Developer](https://github.com/amirhossein95b)
