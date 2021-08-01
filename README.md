@@ -231,6 +231,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Milad :v::dizzy_face:](https://github.com/Hey7ude)
 - [Mohammad](https://github.com/ME-2002)
 - [Farhad Uneci :satisfied:](https://github.com/Farhaduneci)
+- [AshkanJalaliQ :sunglasses: :fire:](https://github.com/ashkanjalaliQ)
+- [Amir Mohammad Eghbalian :satisfied::fire:](https://github.com/amirme)
 - [amirvalikhani]
 - [AmirSH](https://github.com/GitGates)
 - [Mehdi vahdani :heart:](https://github.com/Mehdi11va)
