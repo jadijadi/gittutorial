@@ -66,7 +66,7 @@
 - git tag
     > <p dir="rtl" align="right">نمایش تگ ها</p>
 
-- git tag -a tagName -m "description
+- git tag -a tagName -m "description"
     > <p dir="rtl" align="right">افزودن تگ با نام و توضیحات تعیین شده</p>
 
 - git show tagName
@@ -75,12 +75,16 @@
 - git blame fileName -L lineNumber
     > <p dir="rtl" align="right">مشاهده اینکه از خط مذکور تا انتهای فایل را چه کسی نوشته است</p>
     
--git blame fineName -L lineNumber, lineNumber 
+- git blame fineName -L lineNumber, lineNumber 
     > <p dir="rtl" align="right">مشاهده اینکه  خط مذکور را چه کسی نوشته است</p>
 
 - git bisect 
     > <p dir="rtl" align="right">برای debug به کار می رود</p>
     
+- git bisect reset
+    > <p dir="rtl" align="right">و برگشت به سر مغازه از نواستفاده میشود   bisect reset برای متوقف کردن  از دستور </p>
+    
 - git config 
     > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
+
 
