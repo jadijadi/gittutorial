@@ -16,7 +16,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [AmirHossein Fourotan :sunglasses::heart:](https://github.com/amirhfro)
 - [M.Qadimi](https://github.com/mqadimi)
-- [**Elias Bakhtiyari** :stuck_out_tongue::blue_heart:](https://github.com/elioot1997):nine::seven::zero::four:
+- [**Elias Bakhtiyari** :stuck_out_tongue::blue_heart::nine::seven::zero::four:](https://github.com/elioot1997)
 - [Abolfazl Akbarzadeh Mola ](https://github.com/AbakSource)
 - [**hadi🤞**✔](https://github.com/h-di)
 - [Morteza noroozi :heart:](https://github.com/morteza-n)
