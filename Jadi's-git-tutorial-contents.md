@@ -1,5 +1,17 @@
 # __Jadi's GIT tutorial contents__
 # List of git commands
+- git config 
+    > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
+
+- git config --global user.name "UserName"
+    > <p dir="rtl" align="right">برای تنظیمات یوزر نیم استفاده میشود. و در قدم اول بعد از نصب گیت به کار می رود</p>
+
+- git config --global user.email "Email"
+    > <p dir="rtl" align="right">برای تنظیمات شناسه ایمیل استفاده میشود. و در قدم اول بعد از نصب گیت به کار می رود</p>
+
+- git config --global user.signingkey sec
+    > <p dir="rtl" align="right">برای تنظیمات رمزگذاری استفاده میشود. و در قدم اول بعد از نصب گیت به کار می رود که در آن باید از کلید خصوصی خود استفاده کرد</p>
+
 - git init
     > <p dir="rtl" align="right">شروع کار با git</p>
 
@@ -83,8 +95,4 @@
     
 - git bisect reset
     > <p dir="rtl" align="right">و برگشت به سر مغازه از نواستفاده میشود   bisect reset برای متوقف کردن  از دستور </p>
-    
-- git config 
-    > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
-
 
