@@ -240,6 +240,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AmirSH](https://github.com/GitGates)
 - [Mehdi vahdani :heart:](https://github.com/Mehdi11va)
 - [Amir Developer](https://github.com/amirhossein95b)
+- [amirvalikhani](https://github.com/amirvalikhani)
 - [Amir Mohammad Eghbalian :satisfied:](https://github.com/amirme)
 - [___Reza Rafsanjani___](https://github.com/rr8eezz4aa)
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
@@ -285,3 +286,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Nima Samadi 😃](https://github.com/NimaSamadi007)
 - [Mahdi Ghadami](https://github.com/mahdighadami)
 - [Mehrnaz hn :computer: :heart_eyes:](https://github.com/Meh-hn)
+- [Max Base](https://github.com/BaseMax/) :rose:
