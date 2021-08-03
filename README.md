@@ -24,6 +24,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Imorate :zap:](https://github.com/imorate)
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
 - [Mohammad Mahdi :feelsgood:](https://github.com/mahdipuya)
+- [Shayan Azizi   :feelsgood:](https://github.com/shayan-azizi)
 - [**Sina yeganeh**:blush:](https://github.com/Mr-SinaYeganeh)
 - [Mohammad Sadra Boromand :kissing_heart::heart_eyes::one::zero::zero:](https://github.com/SadraBoromand)
 - [AmirSalar  :computer:	](https://github.com/AmirSalarYaghoubian)
