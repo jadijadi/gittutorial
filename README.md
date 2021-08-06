@@ -124,6 +124,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sinhx :zzz: ](https://github.com/sinushx)
 - [Mammad Pariab](https://github.com/jkmpariab)
 - [Pulkit](https://github.com/pulkitrock1921)
+- [Mohammad Sadegh](https://github.com/mohammadshg84) 😀
 - [Seali Mousavi :bomb: ](https://github.com/sealimousavi)
 - [Shahrooz Jafari :scorpius: :tiger: ](https://github.com/shahroozj)
 - [Erfan Mola](https://github.com/erfanmola)
