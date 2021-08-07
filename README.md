@@ -257,6 +257,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Yazdan Ranjbar :alien:](https://yazdanra.github.io/)
 - [Farmin :satisfied:](https://github.com/farimaz)
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
+- [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
+- [**Alireza Esmikhani** :stuck_out_tongue_winking_eye:](https://github.com/mrekh/)
 - [Persix :v::dizzy_face:](https://github.com/persix2) 
 - [Zahra :feelsgood::heart:](https://github.com/ZahraMor)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
