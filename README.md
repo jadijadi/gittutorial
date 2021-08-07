@@ -266,6 +266,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Yazdan Ranjbar :alien:](https://yazdanra.github.io/)
 - [Farmin :satisfied:](https://github.com/farimaz)
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
+- [Akhs :wink:](https://github.com/AmirKhalifehSoltani)
 - [NoobeLoper :raised_hand: :sleeping:](https://github.com/NoobeLoper)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
 - [mohsenpoorkarimi :v ] (https://github.com/mohsenpoorkarimi)
