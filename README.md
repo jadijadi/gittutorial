@@ -174,6 +174,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mona](https://github.com/monabsi)
 - [Saeed DN](https://github.com/SaeedDN)
 - [Fazi](https://github.com/fazi1058)
+- [Ali Asoodefard](https://github.com/xsoodeh)
 - [Mohsen :smile:](https://github.com/fmohsen70)
 - [Mohammad Askari](https://github.com/mohask1368)
 - [saeed](https://github.com/SaeedTaghavi)
