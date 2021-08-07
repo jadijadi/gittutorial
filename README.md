@@ -17,6 +17,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [AmirHossein Fourotan :sunglasses::heart:](https://github.com/amirhfro)
 - [M.Qadimi](https://github.com/mqadimi)
+- [**Elias Bakhtiyari** :stuck_out_tongue::blue_heart::nine::seven::zero::four:](https://github.com/elioot1997)
 - [Abolfazl Akbarzadeh Mola ](https://github.com/AbakSource)
 - [Seyed mohammad mirfatemi :speech_balloon:](https://github.com/kiumad)
 - [**hadi🤞**✔](https://github.com/h-di)
