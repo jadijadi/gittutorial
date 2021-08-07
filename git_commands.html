@@ -7,79 +7,219 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Git Commands</title>
     <style>
+        html {
+            scroll-behavior: smooth;
+        }
+        body{
+            line-height: 1.5;
+            background: linear-gradient(to right, #e0eafc, #cfdef3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            font-size: 1.5rem;
+            font-family: consolas;
+        }
+        a{
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+            display: inline-block;
+            line-height: 1.5;
+        }
         li {
             margin: 1rem 0;
         }
 
         b {
-            color: #e154fa;
+            color: #747474;
         }
-
+        b:not(.code){
+            color: #b590f1 ;
+        }
+        h1{
+            padding: 5px 20px;
+        }
         .code {
             padding: 0.3rem;
             background-color: #f2f2f2;
+            border-radius: 5px;
+            color: #747474;
+            font-size: 1.6rem;
+        }
+        .sidebar{
+            font-size: 18px;
+            max-height: 100vh;
+            overflow-Y: auto;
+            position: fixed;
+            width: 20%;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .sidebar li{
+            line-height: 1;
+        }
+        .main{
+            width: 80%;
+            float: right;
+        }
+
+        .part{
+            background: rgb(59, 59, 114);
+            margin: 30px 10px;
+            padding: 5px 15px;
+            color: white;
+            box-shadow: 0 0 16px 0px #00000056;
+            border-radius: 5px;
+
+        }
+
+        @media screen and (max-width: 1300px) {
+            .sidebar{
+                display: none
+            }
+            .main{
+            width: 100%;
+            
+        }
         }
     </style>
 </head>
 
-<body style="font-family:consolas; font-size: 1.5rem">
-    <h3>Git Commands</h3>
-    <ul>
-        <li><b class="code">git init: </b>Git initilizing on Current Directory</li>
-        <li><b class="code">git status: </b>show modified,Untrackted and Staged Files </li>
-        <li><b class="code">git add: </b>Add Untrackted Or Modified File to <b>Stage</b></li>
-        <li><b class="code">git commit:</b> Commit Staged File and remove them from stage. after commit all stages new
-            place that we
-            are will base place. so git status show that stage is empty </li>
-        <li><b class="code">git log:</b> show a log of Commits with date, Descrtions and Author Name</li>
-        <li><b class="code">git diff <...>:</b> Comparison two Version of one file</li>
-        <ul> for Example
-            <li>
-                <span class="code">git diff <b>HEAD</b></span>: Comparison last committed state vs currnet State for
-                All Modified
-                Files
-            </li>
-            <li>
-                <span class="code">git diff --staged</span>: Comparison last committed state of Staged files vs current
-                state
-            </li>
-        </ul>
-        <li><b class="code">git reset filename:</b> unStage file</li>
-        <li><b class="code">git reset commitHash:</b> Back to specified commit -> modifications will be unstaged (NOT Removed)</li>
-        <li><b class="code">git reset commitHash --hard:</b> project FULLY Returned to specified commit and modifications will be Removed</li>
-        <li><b class="code">git checkout -- filename:</b> remove last modifications in file and return file to last
-            committed
-            version</li>
-        <li><b class="code">git rm filename:</b> remove file from both git and system</li>
-        <h4>--Branchs--</h4>
-        <li><b class="code">git branch:</b> show list of All Branchs</li>
-        <li><b class="code">git branch -d branchName:</b> Delete Branch</li>
-        <li><b class="code">git checkout branchName:</b> switch to branch with name: branchName</li>
-        <li><b class="code">git merge branchName:</b> merge 'branchName' branch into current branch</li>
-        <h4>--Remote & Clone--</h4>
-        <li><b class="code">git clone gitAddress:</b> Clone whole a repo to local with initilized git</li>
-        <li><b class="code">git remote add gitAddress:</b> add a Remote</li>
-        <li><b class="code">git remote -v:</b> verbose Remotes (show full Info from remotes)</li>
-        <li><b>Note:</b> we can have extra than ONE remote so for example we can add 3 remotes for Github, Gitlab and
-            Company git Server</li>
-        <li><b>Note: origin:</b> original Branch we copied from that</li>
-        <li><b class="code">git push origin master:</b> push changes from MASTER to ORIGIN</li>
-        <li><b>Note:</b> git push <b>-u</b> origin master: -u causes git to save 'origin master' so in next steps it's
-            no need to write 'origin master':</li>
-        <li><b class="code">git pull origin master:</b> pull changes from ORIGIN to MASTER</li>
-        <li><b>Note: git remote add</b> just creates an entry in your git config that specifies a name for a particular
-            URL.
-            You must have an existing git repo to use this. <br>
-            <b class="code">git clone</b> creates a new git repository by copying an existing one located at the URI
-            you specify.</li>
+<body>
+            <!-- sidebar -->
+            <aside class="sidebar">
+                <nav class="navbar">
+                    <ul>
+                        <li><a href="#general">General Commands</a></li>
+                        <ul>
+                            <li><a href="#init">git init</a></li>
+                            <li><a href="#status">git status</a></li>
+                            <li><a href="#add">git add</a></li>
+                            <li><a href="#commit">git commit</a></li>
+                            <li><a href="#log">git log</a></li>
+                            <li><a href="#diff">git diff <...></a></li>
+                            <li><a href="#reset-filename">git reset filename</a></li>
+                            <li><a href="#reset-commitHash">git reset commitHash</a></li>
+                            <li><a href="#reset-commitHash-hard">git reset commitHash --hard</a></li>
+                            <li><a href="#checkout--filename">git checkout -- filename</a></li>
+                            <li><a href="#rm-filename">git rm filename</a></li>
+                        </ul>
+                        <li><a href="#Branchs">Branchs</a></li>
+                        <ul>
+                            <li><a href="#branch">git branch</a></li>
+                            <li><a href="#branch-d">git branch -d branchName</a></li>
+                            <li><a href="#checkout-branchName">git checkout branchName</a></li>
+                            <li><a href="#merge-branchName">git merge branchName</a></li>
+                        </ul>
+                        <li><a href="#remoteAndClone">Remote & Clone</a></li>
+                        <ul>
+                            <li><a href="#clone">git clone gitAddress</a></li>
+                            <li><a href="#remote-add">git remote add gitAddress</a></li>
+                            <li><a href="#remote-v">git remote -v</a></li>
+                            <li><a href="#push-origin-master">git push origin master</a></li>
+                            <li><a href="#pull-origin-master">git pull origin master</a></li>
+                        </ul>
+                        <li><a href="#-tag">Tag</a></li>
+                        <ul>
+                            <li><a href="#tag">git tag</a></li>
+                            <li><a href="#tag-a">git tag -a <...> -m ''</a></li>
+                            <li><a href="#tag-a-commitHash">git tag -a <...> commitHash -m ''</a></li>
+                            <li><a href="#tag-v">git tag -v <...> verifytag -v</a></li>
+                            <li><a href="#show-tagName">git show tagName</a></li>
+                            <li><a href="#push-origin-tagName">git push origin tagName</a></li>
+                            <li><a href="#origin--tags">git push origin --tags</a></li>
+                            <li><a href="#blame">git blame</a></li>
+                            <li><a href="#pgp">pgp (gpg in openSource World)</a></li>
+                        </ul>
+                        <li><a href="#Bisect">Bisect</a></li>
+                        <ul>
+                            <li><a href="#bisect">git bisect</a></li>
+                        </ul>
+                    </ul>
+                </nav>
+            </aside>
 
-        <h4>--Tag--</h4>
-        <li><b class="code">git tag:</b> show list of tags</li>
-        <li><b class="code">git tag -a <...> -m '' :</b> set annotation (tag) with message like:
-            <span class="code">git tag -a v2.0 -m 'release Version 2.0'</span>
-        </li>
-        <li><b class="code">git tag -a <...> commitHash -m '' :</b> set annotation (tag) with message for a COMMIT
-        </li>
+    
+
+    <div class="main">
+        <h1>Git Commands</h1>
+        <!-- contetn -->
+        <section class="content">
+            <!-- start General Cammands -->
+            <section class="part">
+                <h2 id="general">General Commands</h2>
+                <ul>
+                    <li id="init"><b class="code">git init:</b> Git initilizing on Current Directory</li>
+                    <li id="status"><b class="code">git status:</b> show modified,Untrackted and Staged Files </li>
+                    <li id="add"><b class="code">git add:</b> Add Untrackted Or Modified File to <b>Stage</b></li>
+                    <li id="commit"><b class="code">git commit:</b> Commit Staged File and remove them from stage. after commit all stages new
+                        place that we
+                        are will base place. so git status show that stage is empty </li>
+                    <li id="log"><b class="code">git log:</b> show a log of Commits with date, Descrtions and Author Name</li>
+                    <li id="diff"><b class="code">git diff <...>:</b> Comparison two Version of one file</li>
+                    <ul> for Example:
+                        <li>
+                            <span class="code">git diff <b>HEAD</b>:</span> Comparison last committed state vs currnet State for
+                            All Modified
+                            Files
+                        </li>
+                        <li>
+                            <span class="code">git diff --staged:</span> Comparison last committed state of Staged files vs current
+                            state
+                        </li>
+                    </ul>
+                    <li id="reset-filename"><b class="code">git reset filename:</b> unStage file</li>
+                    <li id="reset-commitHash"><b class="code">git reset commitHash:</b> Back to specified commit -> modifications will be unstaged (NOT Removed)</li>
+                    <li id="reset-commitHash-hard"><b class="code">git reset commitHash --hard:</b> project FULLY Returned to specified commit and modifications will be Removed</li>
+                    <li id="checkout--filename"><b class="code">git checkout -- filename:</b> remove last modifications in file and return file to last
+                        committed
+                        version</li>
+                    <li id="rm-filename"><b class="code">git rm filename:</b> remove file from both git and system</li>
+                </ul>
+            </section>
+
+            <!-- start branchs -->
+            <section class="part">
+            <h2 id="Branchs">-Branchs-</h2>
+                <ul>
+                    <li id="branch"><b class="code">git branch:</b> show list of All Branchs</li>
+                    <li id="branch-d"><b class="code">git branch -d branchName:</b> Delete Branch</li>
+                    <li id="checkout-branchName"><b class="code">git checkout branchName:</b> switch to branch with name: branchName</li>
+                    <li id="merge-branchName"><b class="code">git merge branchName:</b> merge 'branchName' branch into current branch</li>
+                </ul>
+            </section>
+
+            <!-- start Remote & Clone -->
+            <section class="part">
+                <h2 id="remoteAndClone">-Remote & Clone-</h2>
+                <ul>
+                    <li id="clone"><b class="code">git clone gitAddress:</b> Clone whole a repo to local with initilized git</li>
+                    <li id="remote-add"><b class="code">git remote add gitAddress:</b> add a Remote</li>
+                    <li id="remote-v"><b class="code">git remote -v:</b> verbose Remotes (show full Info from remotes)</li>
+                    <li><b>Note:</b> we can have extra than ONE remote so for example we can add 3 remotes for Github, Gitlab and
+                        Company git Server</li>
+                    <li><b>Note: origin:</b> original Branch we copied from that</li>
+                    <li id="push-origin-master"><b class="code">git push origin master:</b> push changes from MASTER to ORIGIN</li>
+                    <li ><b>Note:</b> git push <b>-u</b> origin master: -u causes git to save 'origin master' so in next steps it's
+                        no need to write 'origin master':</li>
+                    <li id="pull-origin-master"><b class="code">git pull origin master:</b> pull changes from ORIGIN to MASTER</li>
+                    <li><b>Note: git remote add</b> just creates an entry in your git config that specifies a name for a particular
+                        URL.
+                        You must have an existing git repo to use this. <br>
+                        <b class="code">git clone</b> creates a new git repository by copying an existing one located at the URI
+                        you specify.
+                    </li>
+                </ul>
+            </section>
+
+
+            <!-- start Tag -->
+            <section class="part">
+                <h2 id="-tag">-Tag-</h2>
+                <ul>
+                    <li id="tag"><b class="code">git tag:</b> show list of tags</li>
+                    <li id="tag-a"><b class="code">git tag -a <...> -m '' :</b> set annotation (tag) with message like:
+                        <span class="code">git tag -a v2.0 -m 'release Version 2.0'</span>
+                    </li>
+                    <li id="tag-a-commitHash"><b class="code">git tag -a <...> commitHash -m '' :</b> set annotation (tag) with message for a COMMIT
+                    </li>
+
 
      <li><b class="code">git tag -v <...> verifytag -v :</b> show tag verify
         </li>
@@ -90,7 +230,7 @@
         </li>
         <li><b class="code">git push origin --tags:</b> like above for push all tags
         </li>
-        <li><b class="code">git blame </b> بررسی اینکه کل کد یا بخشی ازش یا حتی خطی ازش توسط کیا نوشته و ویرایش شده 
+        <li><b class="code">git blame </b> بررسی اینکه کل کد یا بخشی ازش یا حتی خطی ازش توسط کیا نوشته و ویرایش شده
         </li>
         <li><b class="code">pgp (gpg in openSource World) </b>  ساین کردن تگ ها یا کامیت ها
         </li>
@@ -107,7 +247,25 @@
 		</ul>
 		<li><b>Note:</b> You must test your code every time you use bisect then use good or bad after git bisect !</li>
 
-    </ul>
+            <!-- start Bisect  -->
+            <section class="part">
+                <h2 id="Bisect">-Bisect--</h2>
+                <ul>
+                    <li id="bisect"><b class="code">git bisect:</b> debuging code by moving through commits
+                    </li>
+                    <ul>
+                    <li><b class="code">git bisect start:</b> start using git bisect
+                    </li>
+                    <li><b class="code">git bisect bad:<commit code></b> select a bad commit (or just leave it to select this commit)
+                    </li>
+                    <li><b class="code">git bisect good:<commit code></b> select a good commit (or just leave it to select this commit)
+                    </li>
+                    </ul>
+                    <li><b>Note:</b> You must test your code every time you use bisect then use good or bad after git bisect !</li>
+                </ul>
+            </section>
+        </section>
+    </div>
 </body>
 
 </html>
