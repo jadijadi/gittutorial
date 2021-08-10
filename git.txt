@@ -1,0 +1,129 @@
+# دستورات لینوکسی
+
+ls                                                  // لیست پوشه ها و فایل های درون پروژه
+
+touch [file.extension]                              // ساخت فایل
+
+cat [file.extension]                                //نمایش محتویات یک فایل
+
+mkdir [folder]                                      // ساخت پوشه
+
+clear                                               // پاک کردن ترمینال
+
+
+
+# دستورات گیت
+
+git init                                            // تعیین گیت برای پروژه
+
+git status                                          // بررسی وضعیت
+
+git add [file.extension]                            // افزودن فایل به استیج
+
+git commit                                          // ذخیره ی نهایی (کامیت)
+
+git commit -am "my commit message"                  // کامیت بدون استیج
+
+git commit -a --allow-empty-message                 // کامیت بدون مسیج
+
+git commit -m 'message'                             // ذخیره ی نهایی به همراه کامنت
+
+git log                                             // نمایش لیست تغییرات کامیت ها
+
+git log -3 --oneline                                // نمایش تعداد مشخصی از کامیت ها
+
+git diff                                            // نمایش تغییرات استیج نشده
+
+git diff --staged                                   // تغییرات فایل ها در استیج
+
+git diff head                                       // نمایش تغییرات آخرین کامیت
+
+git reset                                           // خارج کردن تمامی فایل ها از استیج
+
+git reset -- [file.extension]                       // خارج کردن فایلی مشخص از استیج
+
+git checkout -- [file.extension || folder ]         // برگرداندن آخرین تغییرات فایل || حذف پوشه
+
+git restore --staged [file.extension]               // خارج کردن فایلی مشخص از استیج
+
+git branch                                          // نمایش شاخه های فعلی
+
+git branch [branch name]                            // ساخت شاخه جدید
+
+git branch -M [new name]                            // تغییرنام شاخه فعلی
+
+git checkout [branch name]                          // جا به جایی بین شاخه ها
+
+git merge [branch name]                             // ترکیب شاخه ها
+
+git rm  [file.extension || folder]                  // حذف فایل یا پوشه از گیت و سیستم
+
+git branch -d [branch name]                         // حذف شاخه
+
+git checkout -b [branch name]                       // بازیابی شاخه حذف شده
+
+git branch -D [branch name]                         // حذف شاخه بدون هیچ پرسش
+
+git branch -m [old name] [new name]                 // تغییر نام شاخه
+
+git tag                                             // نمایش تگ ها (نسخه ها)
+
+git tag -a v1.0 -m 'first version'                  // ساخت تگ (نسخه)
+
+git tag -d [tag name]                               // حذف تگ ها
+
+git show [tag name]                                 // نمایش تغییرات در تک مشخص
+
+git config                                          // تنظیمات پیکربندی
+
+git config --global user.name                       // نمایش نام کاربری در گیت
+
+
+
+# دستورات ریموت
+
+git remote add origin [url]                         // تعیین مسیر مخزن برای پروژه
+
+git remote set-url origin [url]                     // تغییر مسیر مخزن پروژه
+
+git remote rm [name]                                // حذف ریموت 
+
+git config --get remote.origin.url                  // نمایش آدرس فعلی مخزن
+
+git clone [url]                                     // دریافت یک کلون از پروژه
+
+git pull origin [current branch] 		            // دریافت تغییرات از محیط گیت هاب
+
+git push origin [current branch] 		            // ذخیره تغییرات در محیط گیت هاب
+
+git push origin [tag name]                          // افزودن تگ به محیط گیت هاب
+
+git remote                                          // نمایش ریموت های فعلی در گیت هاب
+
+git push origin -- tags                             // ذخیره تگ های جدید به محیط گیت هاب
+
+git checkout [tag name]                             // برگشتن به تگ مشخص
+
+
+
+# دستورات کلید و امضاء
+
+gpg --list-keys                                     // نمایش کلید های فعلی
+
+gpg --list-secret-keys --keyid-format long          // نمایش کلید های مخفی
+
+gpg --gen-key                                       // ساخت کلید
+
+git config --global user.signingkey                 // نمایش کلید
+
+git config --global user.signingkey [key]           // ایجاد کلید برای امضاء
+
+git tag -s [tag name] -m 'message'                  // ایجاد برچسب به همراه امضاء
+
+git commit -s -m 'message'                          // کامیت به همراه امضاء
+
+
+
+* تمامی دستورات محیط گیت با کلمه ی (git) آغاز می شوند *
+
+* بهتر است برای هر کار، یک کامیت جداگانه استفاده کنید *
