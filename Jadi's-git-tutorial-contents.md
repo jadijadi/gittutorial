@@ -126,3 +126,10 @@
 
 - git Config --global user.email emailAddress
     > <p dir="rtl" align="right">ست کردن ایمیل</p>
+
+- git stash
+    > <p dir="rtl" align="right">اگر وسط کاری هستید و نمیخواهید که کامیت کنید میتونید با این دستور تغیرات جدید رو بفرستید توی stash</p>
+- git stash list
+    > <p dir="rtl" align="right">نمایش لیست stash ها</p>
+- git stash pop stash@{0}
+    > <p dir="rtl" align="right">برگرداندن به حالت آخرین stash البته میتونید آیدی ها دیگه ای هم بزنید </p>
