@@ -40,6 +40,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Pouya porebodi :computer::heart:](http://github/pouyarisk)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
 - [razyar](https://github.com/razyar)
+- [Ali Asghar AKA Ali-Bot](https://github.com/AliAsgharRanjbar)
 - [razyar](https://razyar.github.io)
 - [Cloner93 :smile: ](https://github.com/cloner93)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
