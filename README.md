@@ -79,6 +79,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohsen Haeri](https://github.com/tabib2m)
 - [amir :kissing_heart:](https://github.com/amirdy)
 - [CodoCodile](https://github.com/HoseinAbili/)
+- [** MR.SEIFI **](https://github.com/mr-seifi)
 - [AlirezA :trollface: ](https://github.com/bojbaj)
 - [Ali](https://github.com/AliNazariii)
 - [mahdi7d1](https://github.com/mahdi7d1)
