@@ -232,6 +232,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mr.pi :grimacing: ](https://github.com/alpha-pi1)
 - [Ali Radmanesh :kissing_smiling_eyes:](https://github.com/AliRadmanesh)
 - [MosiHere :feelsgood:](https://github.com/mosihere)
+- [Meqdad](https://github.com/meqdadkh)
 - [__Kaaveh__ :relieved:](https://github.com/Kaaveh)
 - [Gholamreza](https://github.com/gholamreza-mohammadi)
 - [M. Safarian :joy::v:](https://github.com/mahdisafarian)
