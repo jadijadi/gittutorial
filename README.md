@@ -1,8 +1,6 @@
 # **Hello**
 
 > Note: Its better to add your name somewhere in the middle, and not the end!
-
->let's harass Jadi a little :)
 > نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا آخر لیست
 
 This is a repo for testing your git abilities. try to add your name to this file
@@ -336,3 +334,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahdi Ghadami](https://github.com/mahdighadami)
 - [Mehrnaz hn :computer: :heart_eyes:](https://github.com/Meh-hn)
 - [Max Base](https://github.com/BaseMax/) :rose:
+- [Moein](https://github.com/MoeinAF) 😜
