@@ -277,6 +277,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [arash ph :cyclone: :snake:](https://github.com/arashph17)
 - [smhash (:](https://github.com/smhash78) 
 - [**FatemehGorji**:feelsgood:](https://github.com/fatemehgorji1)
+- [Amir Shokri :octocat: 💻 😄](https://github.com/amirshnll)
 - [Yazdan Ranjbar :alien:](https://yazdanra.github.io/)
 - [Farmin :satisfied:](https://github.com/farimaz)
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
