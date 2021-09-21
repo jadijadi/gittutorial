@@ -24,6 +24,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [MrTerminal :trollface::+1:](https://github.com/Zeroday10)
 - [mohammadreza heydari dehmyani :pray::pray::pray:](https://github.com/mohammadreza2787)
 - [Qiamast](https://github.com/Qiamast)
+- [alumpish :sunglasses:](https://github.com/alumpish)
 - [AmirHossein Fourotan :sunglasses::heart:](https://github.com/amirhfro)
 - [M.Qadimi](https://github.com/mqadimi)
 - [**Elias Bakhtiyari** :stuck_out_tongue::blue_heart::nine::seven::zero::four:](https://github.com/elioot1997)
