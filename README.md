@@ -197,7 +197,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohsen :smile:](https://github.com/fmohsen70)
 - [Mohammad Askari](https://github.com/mohask1368)
 - [saeed](https://github.com/SaeedTaghavi)
-- [Mohammadreza Taslimi:computer::sunglasses:](https://github.com/AmirhoseinYari)
+- [Mohammadreza Taslimi:computer::sunglasses:](https://github.com/mmadreza99)
 - [mansour lotfi :stuck_out_tongue_winking_eye:](https://github.com/mansourlotfi)
 - [khak313 :cat2:](https://github.com/khak313)
 - [farrez :computer::heart:](https://github.com/farrezam)
