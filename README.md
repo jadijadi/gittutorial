@@ -290,6 +290,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [NoobeLoper :raised_hand: :sleeping:](https://github.com/NoobeLoper)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
 - [mohsenpoorkarimi :v ] (https://github.com/mohsenpoorkarimi)
+- [Amir :stuck_out_tongue_winking_eye:](https://github.com/amirhs)
 - [amir ziaee :smirk:](https://github.com/amirziaee)
 - [Mahdi Ekhlas😊](https://github.com/kavoshmehdi)
 - [milad zamir](https://github.com/miladzamir)
