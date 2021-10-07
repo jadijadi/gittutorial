@@ -240,6 +240,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AmiDMajD :computer: :sunglasses: ](https://github.com/amidmajd)
 - [Amin Ahmad __Ahmadi__](https://github.com/aminahmadahmadi)
 - [Kevin](https://github.com/kevinscruff)
+- [Kaptain](https://github.com/msv-hosein)
 - [Mr.pi :grimacing: ](https://github.com/alpha-pi1)
 - [Ali Radmanesh :kissing_smiling_eyes:](https://github.com/AliRadmanesh)
 - [MosiHere :feelsgood:](https://github.com/mosihere)
