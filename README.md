@@ -97,6 +97,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sahand :neutral_face:](https://github.com/sahandkarimkhani)
 - [Mohammad](https://github.com/maskroid)
 - [Mohammadreza Rezaei (Haji Mammad)](https://github.com/MrRezaei)
+- [Mehdi Baghero :computer: :books:](https://github.com/Mahdicodes)
 - [omid :trollface:](https://github.com/omidzahed1998)
 - [**Shirin** :skull:](https://github.com/ShirinTahmasebi)
 - [alrez_96 :smiley:](https://github.com/alrez96)
