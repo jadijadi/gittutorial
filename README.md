@@ -99,6 +99,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammadreza Rezaei (Haji Mammad)](https://github.com/MrRezaei)
 - [Mehdi Bagheri :computer: :books:](https://github.com/Mahdicodes)
 - [omid :trollface:](https://github.com/omidzahed1998)
+- [Nima Cyclone](https://github.com/Nimaw) :smiley:
 - [**Shirin** :skull:](https://github.com/ShirinTahmasebi)
 - [Arash-Py](https://https://github.com/Arash-Py)(Jadi Is Legend)
 - [alrez_96 :smiley:](https://github.com/alrez96)
