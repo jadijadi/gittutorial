@@ -42,6 +42,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Sadra Boromand :kissing_heart::heart_eyes::one::zero::zero:](https://github.com/SadraBoromand)
 - [AmirSalar  :computer:	](https://github.com/AmirSalarYaghoubian)
 - [amirprgm](https://github.com/amirprgm)
+- [Captain](https://github.com/msv-hosein)
 - [Pouya porebodi :computer::heart:](http://github/pouyarisk)
 - [Mahdi_vatankhah](https://github.com/mvtn99)
 - [Masoud Karimi ☕️👌👍](https://github.com/masoudkaarimi)
