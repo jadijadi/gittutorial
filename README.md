@@ -211,6 +211,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hamed Mahmoudkhani](https://github.com/hamedroxa)
 - [Cyb3r](https://github.com/dr-cyb3r)
 - [groprog](https://github.com/groprog)
+- [Omidreza Bagheri](https://github.com/orbsim)
 - [__Alireza__:wine_glass:](https://github.com/alirezagolrokh)
 - [shamsnaamir](https://github.com/shamsnaamir)
 - [:headphones:Skyline](https://github.com/SkylineST)
