@@ -184,6 +184,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [ali](https://github.com/ali-em)
 - [moraei :moon:](https://github.com/moraei)
 - [Arash](https://github.com/a-donyagard)
+- [armanabkar](https://github.com/armanabkar) ⚡💻
 - [Erfan :sunglasses:](https://github.com/Erfan37)
 - [androsein :feelsgood:](https://github.com/androsein)
 - [Erfan Hamdi :grin:](https://github.com/JayJoeAy)
