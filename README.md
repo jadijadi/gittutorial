@@ -108,6 +108,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Shirin** :skull:](https://github.com/ShirinTahmasebi)
 - [Arash-Py](https://https://github.com/Arash-Py)(Jadi Is Legend)
 - [alrez_96 :smiley:](https://github.com/alrez96)
+- [Mohammadreza Taslimi:computer::trollface:](https://github.com/mmadreza99)
 - [omid :trollface:](https://github.com/omidzahed1998)
 - [__Shirin__ :skull:](https://github.com/ShirinTahmasebi)
 - [alrez96 :smiley:](https://github.com/alrez96)
