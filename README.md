@@ -11,7 +11,9 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [Mobin Rajaei :)](https://github.com/itsdiy0)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
+- [Hossein Gholamian :trollface::+1:](https://github.com/HosseinGholamian)
 - [fateme barbod✔😊](https://github.com/fatemebarbod)
 - [MicRoB 🔰](https://github.com/ALI161)
 - [Amir.H.Shirzad:sunglasses::computer:](https://github.com/Amir-H-Shzd)
@@ -21,6 +23,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza Ebrahimkhani :grin:](https://github.com/AlirezaEbrahimkhani)
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
 - [Jadi](https://jadi.net)
+- [Ehsan Saadatfar](https://github.com/ehsansdf)
 - [Hedieh Raeisi :blue_heart:](https://github.com/HediyeRaisy)
 - [MrTerminal :trollface::+1:](https://github.com/Zeroday10)
 - [mohammadreza heydari dehmyani :pray::pray::pray:](https://github.com/mohammadreza2787)
@@ -97,6 +100,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mohammad mahdi haeri🙏🏻🙏🏻🙏🏻](https://github.com/mohammad-mahdi-haeri)
 - [Sadegh Hamedani :blush:](https://github.com/SgHmp97)
 - [Sahand :neutral_face:](https://github.com/sahandkarimkhani)
+- [Farhood Kavoosi](https://github.com/FarhoodKa)
 - [Mohammad](https://github.com/maskroid)
 - [Mohammadreza Rezaei (Haji Mammad)](https://github.com/MrRezaei)
 - [Mehdi Bagheri :computer: :books:](https://github.com/Mahdicodes)
@@ -105,6 +109,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Shirin** :skull:](https://github.com/ShirinTahmasebi)
 - [Arash-Py](https://https://github.com/Arash-Py)(Jadi Is Legend)
 - [alrez_96 :smiley:](https://github.com/alrez96)
+- [Mohammadreza Taslimi:computer::trollface:](https://github.com/mmadreza99)
 - [omid :trollface:](https://github.com/omidzahed1998)
 - [__Shirin__ :skull:](https://github.com/ShirinTahmasebi)
 - [alrez96 :smiley:](https://github.com/alrez96)
@@ -183,6 +188,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [ali](https://github.com/ali-em)
 - [moraei :moon:](https://github.com/moraei)
 - [Arash](https://github.com/a-donyagard)
+- [armanabkar](https://github.com/armanabkar) ⚡💻
 - [Erfan :sunglasses:](https://github.com/Erfan37)
 - [androsein :feelsgood:](https://github.com/androsein)
 - [Erfan Hamdi :grin:](https://github.com/JayJoeAy)
@@ -211,6 +217,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hamed Mahmoudkhani](https://github.com/hamedroxa)
 - [Cyb3r](https://github.com/dr-cyb3r)
 - [groprog](https://github.com/groprog)
+- [Omidreza Bagheri](https://github.com/orbsim)
 - [__Alireza__:wine_glass:](https://github.com/alirezagolrokh)
 - [shamsnaamir](https://github.com/shamsnaamir)
 - [:headphones:Skyline](https://github.com/SkylineST)
