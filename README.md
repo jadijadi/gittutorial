@@ -334,6 +334,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Hossein Fattahi](https://github.com/amixsty)
 - [Hadi ranjbar :heart_eyes: ](https://github.com/ranjbarhadi)
 - [Ehsan parsania  :earth_americas:  ](https://github.com/EhsanParsania)
+- [zeinab kalanaki](https://github.com/zeinabkalanaki)
 - [Mahdi akhbar :v: :smiley: ](https://github.com/MahdiAkhbar)
 - [AmirHossein Jahangiri :computer: ](https://github.com/AmirHossein-Jahangiri/)
 - [Mohammad Abbasi  :computer:   :computer: ](https://github.com/mohammadv184)
