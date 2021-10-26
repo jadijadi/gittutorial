@@ -11,6 +11,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [Nima fanniasl :) :speech_balloon:](https://smartnima.com)
 - [Mobin Rajaei :)](https://github.com/itsdiy0)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
 - [Hossein Gholamian :trollface::+1:](https://github.com/HosseinGholamian)
