@@ -197,6 +197,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [alireza allami:boom:](https://github.com/alireza1235)
 - [Dorsa :blush:](https://github.com/aasrod)
 - [Ayyob :computer::heart:](https://github.com/Ayyob)
+- [Alireza Ahmadi 👾🔥](https://github.com/nightmare3x)
 - [Amir :heart:](https://github.com/amirhosein-mesbah)
 - [Arash Akbarpour :heart_eyes:](https://github.com/arash-akbarpour)
 - [Mojtaba :neckbeard:](https://github.com/korosh1990)
