@@ -11,6 +11,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [Hosein Laki , I love python](https://github.com/hosein-1)
 - [Mobin Rajaei :)](https://github.com/itsdiy0)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
 - [Hossein Gholamian :trollface::+1:](https://github.com/HosseinGholamian)
@@ -198,6 +199,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [alireza allami:boom:](https://github.com/alireza1235)
 - [Dorsa :blush:](https://github.com/aasrod)
 - [Ayyob :computer::heart:](https://github.com/Ayyob)
+- [Alireza Ahmadi 👾🔥](https://github.com/nightmare3x)
 - [Amir :heart:](https://github.com/amirhosein-mesbah)
 - [Arash Akbarpour :heart_eyes:](https://github.com/arash-akbarpour)
 - [Mojtaba :neckbeard:](https://github.com/korosh1990)
@@ -335,6 +337,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Hossein Fattahi](https://github.com/amixsty)
 - [Hadi ranjbar :heart_eyes: ](https://github.com/ranjbarhadi)
 - [Ehsan parsania  :earth_americas:  ](https://github.com/EhsanParsania)
+- [zeinab kalanaki](https://github.com/zeinabkalanaki)
 - [Mahdi akhbar :v: :smiley: ](https://github.com/MahdiAkhbar)
 - [AmirHossein Jahangiri :computer: ](https://github.com/AmirHossein-Jahangiri/)
 - [Mohammad Abbasi  :computer:   :computer: ](https://github.com/mohammadv184)
