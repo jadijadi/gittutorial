@@ -363,3 +363,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Max Base](https://github.com/BaseMax/) :rose:
 - [Saleh Arab :joy: ](https://github.com/Saleh-IR/)          
 -  [Hamid Rahimi :joy: ](https://github.com/ham-rah) 
+- [arashaltafi:computer::heart:](https://github.com/arashaltafi)
