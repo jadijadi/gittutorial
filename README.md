@@ -15,6 +15,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mobin Rajaei :)](https://github.com/itsdiy0)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
 - [Hossein Gholamian :trollface::+1:](https://github.com/HosseinGholamian)
+- [Hesam Omidi :notes:](https://github.com/Tannisam)
 - [fateme barbod✔😊](https://github.com/fatemebarbod)
 - [masome papi😊](https://github.com/papimasome)
 - [Hossein-Developer :wolf:](https://github.com/Hossein-Haghshenas)
