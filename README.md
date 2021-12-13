@@ -8,7 +8,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 
 `- [Yourname](your github profile url)`
 
-feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
+feel free to use these emojis: 😎 :relaxed:
 
 # List of people who know git
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
@@ -18,6 +18,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
 - [Hossein Gholamian :trollface::+1:](https://github.com/HosseinGholamian)
 - [Ali Moeinian](https://github.com/AliMoeinian)
+- [Behrooz Gholami 😎](https://github.com/BehroozGh97)
 - [Hesam Omidi :notes:](https://github.com/Tannisam)
 - [fateme barbod✔😊](https://github.com/fatemebarbod)
 - [masome papi😊](https://github.com/papimasome)
