@@ -11,6 +11,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [Javad Ghasemi , python developer](https://github.com/ijavadddd)
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
 - [Ali Alirahimi](https://github.com/Tasbeat)
 - [Hosein Laki , I love python](https://github.com/hosein-1)
