@@ -97,6 +97,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Reza Kargar :v::sunglasses:](https://github.com/RezaKargar)
 - [Mahdyar](https://github.com/mahdyar)
 - [Amir Mohsen](https://github.com/amirmohsen1384)
+- [sepehr](https://github.com/sepehrmizani)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
 - [EhsanMody :yum:](https://github.com/ehsanmody)
 - [Aghacode:grin:](https://github.com/aghacode)
