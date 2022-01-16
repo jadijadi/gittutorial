@@ -82,6 +82,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Neda :dizzy_face: :smiley: ](https://github.com/ForoutanNeda)
 - [ mohammad hasan zarkhani :sunglasses:](https://github.com/MH-Zarkhani)
 - ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)
+- [Amirhosein Dallalan](https://github.com/williamingear)
 - [Cloner93   :smile: ](https://github.com/cloner93)
 - amirprgm
 - [elmira:Alireza: Deutschland]
