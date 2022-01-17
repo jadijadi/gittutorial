@@ -40,6 +40,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Javad Salehi 😍 👍](https://github.com/JSalehii)
 - [Ehsan Saadatfar](https://github.com/ehsansdf)
 - [Hedieh Raeisi :blue_heart:](https://github.com/HediyeRaisy)
+- [Abolfazl Rezaei Aderiani :v:](https://github.com/Aderiani)
 - [MrTerminal :trollface::+1:](https://github.com/Zeroday10)
 - [mohammadreza heydari dehmyani :pray::pray::pray:](https://github.com/mohammadreza2787)
 - [Qiamast](https://github.com/Qiamast)
