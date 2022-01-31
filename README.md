@@ -198,6 +198,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Shokouhi Gol](https://github.com/shokohigol)
 - [Hojjat Jashnniloofar :blush:](https://github.com/hjn66)
 - [Midinix](https://github.com/midinix)
+  [arvid_dehdari :sunglasses:](https://github.com/arvid-dehdari)
 - with alot thanks [Marjan DavodiNejad :sunglasses: ](https://github.com/marjandn)
 - [Meysam Shirdel](https://github.com/mshirdel)
 - [Mohammad Heydari :blush:](https://gitlab.com/Mohammad.Heydari)
