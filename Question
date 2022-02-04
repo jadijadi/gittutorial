@@ -1,0 +1,25 @@
+Dear Jadi
+Thanks for your great GIT tutorial at first
+I'm a hardware and software developer
+so in my projects I need to have several seperated git folder (repository)
+at last I have to merge them into one project but each repository must be 
+in a subfolder and push them as final project to git storage
+
+or let me explain in in other way
+ex:
+we have several person in a project who working on each section of the project.
+for example Ali work on Graphic , hassan work on UI/UX , Abas work on APIs
+firstly all of them start individualy and start a new git repository for themselve
+after a while I have to merge whole the project into another repository to push to 
+git storage (I did it with fetch but...) but I want to have seperate folder for each 
+person in final repository!
+
+----ALI------\
+              |
+---HASSAN---- + -----> New-Repository(that have folder named Ali,Hassan,Abas)
+              |
+---ABAS------/
+
+
+Please Help Me!
+sorry for this long story
