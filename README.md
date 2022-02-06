@@ -97,6 +97,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
 - [Zeynab🐱‍👤](https://github.com/mtzynb)
+- [Aria Radmehr🗽](http://github.com/jestemAria)
 - [CodeWithEmaD](https://github.com/CodeWithEmad)
 - [Ashkan Jalali](https://github.com/ashkanjalaliQ)
 - [Hossein Mirazimi](https://github.com/Hossein-Mirazimi)
