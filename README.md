@@ -15,6 +15,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
 - [Ali Alirahimi](https://github.com/Tasbeat)
 - [Neo 	:relaxed:](https://github.com/neomn)
+- [Ali__Irani :computer:](https://github.com/aliIRI)
 - [Hosein Laki , I love python](https://github.com/hosein-1)
 - [Mobin Rajaei :)](https://github.com/itsdiy0)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
