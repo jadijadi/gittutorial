@@ -320,7 +320,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sirmirzaei :heavy_check_mark:](https://github.com/sirmirzaei)
 -  [ahmad sparof](https://github.com/sparof)
 - [arash ph :cyclone: :snake:](https://github.com/arashph17)
-- [smhash (:](https://github.com/smhash78) 
+- [smhash (:](https://github.com/smhash78)
 - [**FatemehGorji**:feelsgood:](https://github.com/fatemehgorji1)
 - [Amir Shokri :octocat: 💻 😄](https://github.com/amirshnll)
 - [Yazdan Ranjbar :alien:](https://yazdanra.github.io/)
@@ -338,7 +338,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**__Majid-Heidary__** :smile::stuck_out_tongue_winking_eye:](https://github.com/Majid-Heidary)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
 - [**Alireza Esmikhani** :stuck_out_tongue_winking_eye:](https://github.com/mrekh/)
-- [Persix :v::dizzy_face:](https://github.com/persix2) 
+- [Persix :v::dizzy_face:](https://github.com/persix2)
 - [Zahra :feelsgood::heart:](https://github.com/ZahraMor)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
 - [hjt Ghasemi :hatching_chick:](https://github.com/htj-ghasemi)
@@ -386,6 +386,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrnaz hn :computer: :heart_eyes:](https://github.com/Meh-hn)
 - [Max Base](https://github.com/BaseMax/) :rose:
 - [Saleh Arab :joy: ](https://github.com/Saleh-IR/)          
--  [Hamid Rahimi :joy: ](https://github.com/ham-rah) 
+-  [Hamid Rahimi :joy: ](https://github.com/ham-rah)
 - [arashaltafi:computer::heart:](https://github.com/arashaltafi)
 - [Mojgan :heart_eyes:](https://github.com/Mojgan-arch)
+[Evie]
