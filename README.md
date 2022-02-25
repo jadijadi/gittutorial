@@ -37,6 +37,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Jadi](https://jadi.net)
 - [Salehn :sunglasses:](https://github.com/Realsaleh)
 - [Nima, Linux Lover :)](https://smartnima.com)
+- [Naser Kheirandish :bomb: ](https://github.com/naserkh)
 - [Javad Salehi 😍 👍](https://github.com/JSalehii)
 - [Ehsan Saadatfar](https://github.com/ehsansdf)
 - [Hedieh Raeisi :blue_heart:](https://github.com/HediyeRaisy)
