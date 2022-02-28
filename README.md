@@ -20,7 +20,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
 - [Hossein Gholamian :trollface::+1:](https://github.com/HosseinGholamian)
 - [Ali Moeinian](https://github.com/AliMoeinian)
-- [Phoenix-neo](https://github.com/Phoenix-neo)
+- [Radinhtm](https://github.com/Radinhtm)
 - [Behrooz Gholami 😎](https://github.com/BehroozGh97)
 - [Hesam Omidi :notes:](https://github.com/Tannisam)
 - [fateme barbod✔😊](https://github.com/fatemebarbod)
