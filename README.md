@@ -4,7 +4,7 @@
 >
 > نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا آخر لیست
 
-This is a repo for testing your git abilities. try to add your name to this file
+This is a repo for testing your git abilities. try to add your name to this file and finally never give up!
 
 `- [Yourname](your github profile url)`
 
@@ -97,6 +97,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
 - [Zeynab🐱‍👤](https://github.com/mtzynb)
+- [Sajjad Rezvani Khaledi](https://github.com/Sajjad-RK)
 - [CodeWithEmaD](https://github.com/CodeWithEmad)
 - [Ashkan Jalali](https://github.com/ashkanjalaliQ)
 - [Hossein Mirazimi](https://github.com/Hossein-Mirazimi)
