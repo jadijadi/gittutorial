@@ -13,6 +13,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
 - [Reza Kamali🤞](https://github.com/MRGando)
+- [Maher 💯💯] (https://github.com/Amirho3eini)
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
 - [Ali Alirahimi](https://github.com/Tasbeat)
 - [Neo 	:relaxed:](https://github.com/neomn)
