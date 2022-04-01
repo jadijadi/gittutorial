@@ -30,6 +30,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hossein-Developer :wolf:](https://github.com/Hossein-Haghshenas)
 - [MicRoB 🔰](https://github.com/ALI161)
 - [Amir.H.Shirzad:sunglasses::computer:](https://github.com/Amir-H-Shzd)
+- [Mina Moeini ](https://github.com/Mina-Moeini)
 - [ZaraKh  :computer:	](https://github.com/Zarakhansari)
 - [S. Saeid Heidari :computer:](https://github.com/thesaeid)
 - [mohamad hosein](https://github.com/mmdtoorani)
