@@ -1,4 +1,4 @@
-**GUI Clients**
+# **GUI Clients**
 
 
 Git comes with built-in GUI tools for committing (git-gui) and browsing (gitk), 
