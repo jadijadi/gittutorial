@@ -88,6 +88,7 @@
                     <ul>
                         <li><a href="#general">General Commands</a></li>
                         <ul>
+                            <li><a href="#config">git config</a></li>
                             <li><a href="#init">git init</a></li>
                             <li><a href="#status">git status</a></li>
                             <li><a href="#add">git add</a></li>
@@ -145,13 +146,17 @@
             <section class="part">
                 <h2 id="general">General Commands</h2>
                 <ul>
+                    <li id="config"><b class="code">git config --global user.name "USERNAME" :</b> config username globaly </li>
+                    <li id="config"><b class="code">git config --global user.email "USEREmail" :</b> config user email globaly </li>
+                    <li id="config"><b class="code">git config --global color.ui true :</b> show outputs colorful</li>
                     <li id="init"><b class="code">git init:</b> Git initilizing on Current Directory</li>
                     <li id="status"><b class="code">git status:</b> show modified,Untrackted and Staged Files </li>
                     <li id="add"><b class="code">git add:</b> Add Untrackted Or Modified File to <b>Stage</b></li>
                     <li id="commit"><b class="code">git commit:</b> Commit Staged File and remove them from stage. after commit all stages new
-                        place that we
-                        are will base place. so git status show that stage is empty </li>
+                    <li id="commit"><b class="code">git commit -m "Title" -m "message" :</b> Commit with Title and Message 
+                         </li>
                     <li id="log"><b class="code">git log:</b> show a log of Commits with date, Descrtions and Author Name</li>
+                    <li id="log"><b class="code">git log --one-line --graph --all --decorate:</b> show logs like tree with all branchs , ...</li>
                     <li id="diff"><b class="code">git diff <...>:</b> Comparison two Version of one file</li>
                     <ul> for Example:
                         <li>
@@ -174,13 +179,14 @@
                 </ul>
             </section>
 
-            <!-- start branchs -->
+            <!-- start branches -->
             <section class="part">
-            <h2 id="Branchs">-Branchs-</h2>
+            <h2 id="Branchs">-Branches-</h2>
                 <ul>
                     <li id="branch"><b class="code">git branch:</b> show list of All Branchs</li>
                     <li id="branch-d"><b class="code">git branch -d branchName:</b> Delete Branch</li>
                     <li id="checkout-branchName"><b class="code">git checkout branchName:</b> switch to branch with name: branchName</li>
+                    <li id="checkout-branchName"><b class="code">git checkout -b branchName:</b> creat and switch to branch with name: branchName</li>
                     <li id="merge-branchName"><b class="code">git merge branchName:</b> merge 'branchName' branch into current branch</li>
                 </ul>
             </section>
@@ -190,7 +196,7 @@
                 <h2 id="remoteAndClone">-Remote & Clone-</h2>
                 <ul>
                     <li id="clone"><b class="code">git clone gitAddress:</b> Clone whole a repo to local with initilized git</li>
-                    <li id="remote-add"><b class="code">git remote add gitAddress:</b> add a Remote</li>
+		    <li id="remote-add"><b class="code">git remote add alias gitAddress:</b> add a Remote (alias like origin) </li>
                     <li id="remote-v"><b class="code">git remote -v:</b> verbose Remotes (show full Info from remotes)</li>
                     <li><b>Note:</b> we can have extra than ONE remote so for example we can add 3 remotes for Github, Gitlab and
                         Company git Server</li>

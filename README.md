@@ -62,6 +62,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [MrTerminal :trollface::+1:](https://github.com/Zeroday10)
 - [mohammadreza heydari dehmyani :pray::pray::pray:](https://github.com/mohammadreza2787)
 - [Qiamast](https://github.com/Qiamast)
+- [Ali Mehr](https://github.com/alimehr75)
 - [alumpish :sunglasses:](https://github.com/alumpish)
 - [AmirHossein Fourotan :sunglasses::heart:](https://github.com/amirhfro)
 - [M.Qadimi](https://github.com/mqadimi)
@@ -422,7 +423,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hamid Rahimi :joy: ](https://github.com/ham-rah)
 - [arashaltafi:computer::heart:](https://github.com/arashaltafi)
 - [Mojgan :heart_eyes:](https://github.com/Mojgan-arch)
-- [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)
 - [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)  
 - [Maria](https://github.com/MariaTu)
 - [Evie]

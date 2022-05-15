@@ -68,7 +68,7 @@
     > <p dir="rtl" align="right">ساخت شاخه جدید با نام تعیین شده</p>
 
 - git checkout -b branchName
-    > <p dir="rtl" align="right">ساخت شاخه جدید با نام تعیین شده</p>
+    > <p dir="rtl" align="right">ساخت و سوئیچ کردن همزمان به شاخه جدید با نام تعیین شده</p>
 
 - git checkout branchName
     > <p dir="rtl" align="right">سوئیچ کردن از شاخه فعلی به شاخه تعیین شده</p>
