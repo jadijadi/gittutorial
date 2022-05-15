@@ -1,8 +1,10 @@
 # **Hello**
 
-> Note: Its better to add your name somewhere in the middle, and not the end!
->
-> نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا آخر لیست
+
+> Note: Its better to add your name somewhere in the middle, and not at the beginning nor at the end!
+
+> نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا اول یا آخر لیست
+
 
 This is a repo for testing your git abilities. try to add your name to this file
 
@@ -11,17 +13,24 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
+- [Alireza🤞](https://github.com/ORNI4S)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
 - [Reza Kamali🤞](https://github.com/MRGando)
+- [Maher 💯💯] (https://github.com/Amirho3eini)
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
 - [Ali Alirahimi](https://github.com/Tasbeat)
+- [Amin :innocent:](https://github.com/Amin-esh)
 - [Neo 	:relaxed:](https://github.com/neomn)
+- [Ali__Irani :computer:](https://github.com/aliIRI)
 - [Hosein Laki , I love python](https://github.com/hosein-1)
 - [αℓι 🔥](https://github.com/alidehkhodaei)
+- [mohammadreza yousefi](https://github.com/mrezayousefi)
 - [Mobin Rajaei :)](https://github.com/itsdiy0)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
 - [Hossein Gholamian :trollface::+1:](https://github.com/HosseinGholamian)
 - [Ali Moeinian](https://github.com/AliMoeinian)
+- [Hossein Sanjabian (ZenMaxe) :computer:](https://github.com/ZenMaxe)
 - [Radinhtm](https://github.com/Radinhtm)
 - [Behrooz Gholami 😎](https://github.com/BehroozGh97)
 - [Hesam Omidi :notes:](https://github.com/Tannisam)
@@ -31,6 +40,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hossein-Developer :wolf:](https://github.com/Hossein-Haghshenas)
 - [MicRoB 🔰](https://github.com/ALI161)
 - [Amir.H.Shirzad:sunglasses::computer:](https://github.com/Amir-H-Shzd)
+- [Mina Moeini ](https://github.com/Mina-Moeini)
 - [ZaraKh  :computer:	](https://github.com/Zarakhansari)
 - [S. Saeid Heidari :computer:](https://github.com/thesaeid)
 - [mohamad hosein](https://github.com/mmdtoorani)
@@ -38,9 +48,13 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza Ebrahimkhani :grin:](https://github.com/AlirezaEbrahimkhani)
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
 - [Jadi](https://jadi.net)
+- [MohammadReza Chv](https://github.com/MohammadrezaChv)
+- [rmoghadam 💻❤️](https://github.com/chromer030)
+- [AmirHassan :bicyclist:](https://github.com/amir-hassan)
 - [hosseinzare 😍](https://github.com/hossinzare)
 - [Salehn :sunglasses:](https://github.com/Realsaleh)
 - [Nima, Linux Lover :)](https://smartnima.com)
+- [Naser Kheirandish :bomb: ](https://github.com/naserkh)
 - [Javad Salehi 😍 👍](https://github.com/JSalehii)
 - [Ehsan Saadatfar](https://github.com/ehsansdf)
 - [Hedieh Raeisi :blue_heart:](https://github.com/HediyeRaisy)
@@ -79,6 +93,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Masoud Karimi ☕️👌👍](https://github.com/masoudkaarimi)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
 - [razyar](https://github.com/razyar)
+- [sheracore](https://github.com/sheracore)
 - [Ali Asghar AKA Ali-Bot](https://github.com/AliAsgharRanjbar)
 - [razyar](https://razyar.github.io)
 - [Cloner93 :smile: ](https://github.com/cloner93)
@@ -104,6 +119,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
 - [Zeynab🐱‍👤](https://github.com/mtzynb)
+- [Sajjad Rezvani Khaledi](https://github.com/Sajjad-RK)
 - [Aria Radmehr🗽](http://github.com/jestemAria)
 - [CodeWithEmaD](https://github.com/CodeWithEmad)
 - [Ashkan Jalali](https://github.com/ashkanjalaliQ)
@@ -111,6 +127,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Morteza Heydari](https://github.com/MortezaHeydari97)
 - [Reza Kargar :v::sunglasses:](https://github.com/RezaKargar)
 - [Mahdyar](https://github.com/mahdyar)
+- [Sorg 🔭🛸](https://github.com/Sir-Sorg)
 - [Amir Mohsen](https://github.com/amirmohsen1384)
 - [sepehr](https://github.com/sepehrmizani)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
@@ -158,6 +175,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [babak :moyai:](https://github.com/babk)
 - [Mohsen.Coder:sunglasses:](https://github.com/mohsen-coder)
 - [GreatSprit :smirk: ](https://github.com/aminmikh)
+- [EhsanAmirahmadi 🙃🚀](https://github.com/EhsanAmirahmadi)
 - [Ali Piry :ghost:](https://github.com/yripila)
 - [Amir Azizi :blush: ](https://github.com/AmirRezaAzizi)
 - [amir pou ](https://github.com/amirpourastarabadi)
@@ -220,6 +238,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrdad :bust_in_silhouette:](https://github.com/mehrdadrafiei)
 - [Reza Abdollahi :boom::star2:](https://github.com/SeyedAbdollahi)
 - [Ali Hashemzadeh :thumbsup:](https://github.com/AliHashemzadeh)
+- [Benjamin Ahmadi :statue_of_liberty:](https://github.com/benjamin-ami)
 - [Mahdi Karami :heart:](https://github.com/mehdikdd)
 - [ali](https://github.com/ali-em)
 - [moraei :moon:](https://github.com/moraei)
@@ -241,6 +260,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Iman Baghery :sunglasses:](https://github.com/imanbaghery)
 - [Mona](https://github.com/monabsi)
 - [Saeed DN](https://github.com/SaeedDN)
+- [Omid36](https://github.com/Omid36)
 - [Fazi](https://github.com/fazi1058)
 - [Ali Asoodefard](https://github.com/xsoodeh)
 - [Mohsen :smile:](https://github.com/fmohsen70)
@@ -278,7 +298,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [saleh :expressionless:](https://github.com/saleh-mastani)
 - [Pedram :cyclone:](https://github.com/pedramardakani)
 - [Zeinab :wink:](https://github.com/spacelover1)
-- [Mojtaba :heart:](https://github.com/mojtabasarsilmaz)
+- [salarasl](https://github.com/salarasl)
+-  [Mojtaba :heart:](https://github.com/mojtabasarsilmaz)
 - [MamRezz :green_heart::v:](https://github.com/MamRezzSr)
 - [MMahdi :sunglasses: :wink:](https://github.com/MahdiYasini)
 - [Amirhossein :dizzy_face: :sunglasses: ](https://github.com/amirzenoozi)
@@ -330,7 +351,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sirmirzaei :heavy_check_mark:](https://github.com/sirmirzaei)
 -  [ahmad sparof](https://github.com/sparof)
 - [arash ph :cyclone: :snake:](https://github.com/arashph17)
-- [smhash (:](https://github.com/smhash78) 
+- [smhash (:](https://github.com/smhash78)
 - [**FatemehGorji**:feelsgood:](https://github.com/fatemehgorji1)
 - [Amir Shokri :octocat: 💻 😄](https://github.com/amirshnll)
 - [Yazdan Ranjbar :alien:](https://yazdanra.github.io/)
@@ -348,7 +369,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**__Majid-Heidary__** :smile::stuck_out_tongue_winking_eye:](https://github.com/Majid-Heidary)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
 - [**Alireza Esmikhani** :stuck_out_tongue_winking_eye:](https://github.com/mrekh/)
-- [Persix :v::dizzy_face:](https://github.com/persix2) 
+- [Persix :v::dizzy_face:](https://github.com/persix2)
 - [Zahra :feelsgood::heart:](https://github.com/ZahraMor)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
 - [hjt Ghasemi :hatching_chick:](https://github.com/htj-ghasemi)
@@ -395,9 +416,12 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahdi Ghadami](https://github.com/mahdighadami)
 - [Mehrnaz hn :computer: :heart_eyes:](https://github.com/Meh-hn)
 - [Max Base](https://github.com/BaseMax/) :rose:
+- [Moein](https://github.com/MoeinAF) 😜
 - [Saleh Arab :joy: ](https://github.com/Saleh-IR/)          
--  [Hamid Rahimi :joy: ](https://github.com/ham-rah) 
+- [Hamid Rahimi :joy: ](https://github.com/ham-rah)
 - [arashaltafi:computer::heart:](https://github.com/arashaltafi)
 - [Mojgan :heart_eyes:](https://github.com/Mojgan-arch)
 - [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)
-  
+- [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)  
+- [Maria](https://github.com/MariaTu)
+- [Evie]
