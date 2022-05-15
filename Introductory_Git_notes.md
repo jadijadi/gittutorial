@@ -64,7 +64,7 @@ Suppose we have main project and we want add some features to it. it is risky (a
 
 ``` git merge BranchName``` : Merge BranchName with active branch
 
-``` git -d BranchName``` : Delete BranchName
+``` git branch -d BranchName``` : Delete BranchName
 
 
 # Git in the cloud
