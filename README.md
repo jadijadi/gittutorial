@@ -42,6 +42,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza Ebrahimkhani :grin:](https://github.com/AlirezaEbrahimkhani)
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
 - [Jadi](https://jadi.net)
+- [rmoghadam 💻❤️](https://github.com/chromer030)
 - [AmirHassan :bicyclist:](https://github.com/amir-hassan)
 - [hosseinzare 😍](https://github.com/hossinzare)
 - [Salehn :sunglasses:](https://github.com/Realsaleh)
@@ -409,6 +410,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 -  [Hamid Rahimi :joy: ](https://github.com/ham-rah)
 - [arashaltafi:computer::heart:](https://github.com/arashaltafi)
 - [Mojgan :heart_eyes:](https://github.com/Mojgan-arch)
+- [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)
 - [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)  
 - [Maria](https://github.com/MariaTu)
 - [Evie]
