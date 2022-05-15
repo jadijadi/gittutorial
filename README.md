@@ -233,6 +233,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrdad :bust_in_silhouette:](https://github.com/mehrdadrafiei)
 - [Reza Abdollahi :boom::star2:](https://github.com/SeyedAbdollahi)
 - [Ali Hashemzadeh :thumbsup:](https://github.com/AliHashemzadeh)
+- [Benjamin Ahmadi :statue_of_liberty:](https://github.com/benjamin-ami)
 - [Mahdi Karami :heart:](https://github.com/mehdikdd)
 - [ali](https://github.com/ali-em)
 - [moraei :moon:](https://github.com/moraei)
