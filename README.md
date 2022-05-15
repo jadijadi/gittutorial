@@ -118,6 +118,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
 - [Zeynab🐱‍👤](https://github.com/mtzynb)
+- [Sajjad Rezvani Khaledi](https://github.com/Sajjad-RK)
 - [Aria Radmehr🗽](http://github.com/jestemAria)
 - [CodeWithEmaD](https://github.com/CodeWithEmad)
 - [Ashkan Jalali](https://github.com/ashkanjalaliQ)
