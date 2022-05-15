@@ -24,6 +24,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Neo 	:relaxed:](https://github.com/neomn)
 - [Ali__Irani :computer:](https://github.com/aliIRI)
 - [Hosein Laki , I love python](https://github.com/hosein-1)
+- [αℓι 🔥](https://github.com/alidehkhodaei)
 - [mohammadreza yousefi](https://github.com/mrezayousefi)
 - [Mobin Rajaei :)](https://github.com/itsdiy0)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
@@ -417,7 +418,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Max Base](https://github.com/BaseMax/) :rose:
 - [Moein](https://github.com/MoeinAF) 😜
 - [Saleh Arab :joy: ](https://github.com/Saleh-IR/)          
--  [Hamid Rahimi :joy: ](https://github.com/ham-rah)
+- [Hamid Rahimi :joy: ](https://github.com/ham-rah)
 - [arashaltafi:computer::heart:](https://github.com/arashaltafi)
 - [Mojgan :heart_eyes:](https://github.com/Mojgan-arch)
 - [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)
