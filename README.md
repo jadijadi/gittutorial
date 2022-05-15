@@ -13,6 +13,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
 - [Reza Kamali🤞](https://github.com/MRGando)
+- [Maher 💯💯] (https://github.com/Amirho3eini)
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
 - [Ali Alirahimi](https://github.com/Tasbeat)
 - [Amin :innocent:](https://github.com/Amin-esh)
@@ -408,7 +409,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 -  [Hamid Rahimi :joy: ](https://github.com/ham-rah)
 - [arashaltafi:computer::heart:](https://github.com/arashaltafi)
 - [Mojgan :heart_eyes:](https://github.com/Mojgan-arch)
-- [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)
+- [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)  
 - [Maria](https://github.com/MariaTu)
 - [Evie]
-
