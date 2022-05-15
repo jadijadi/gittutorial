@@ -13,6 +13,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
 - [Alireza🤞](https://github.com/ORNI4S)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
 - [Reza Kamali🤞](https://github.com/MRGando)
