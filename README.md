@@ -1,8 +1,8 @@
 # **Hello**
 
-> Note: Its better to add your name somewhere in the middle, and not the end!
+> Note: Its better to add your name somewhere in the middle, and not at the beginning nor at the end!
 >
-> نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا آخر لیست
+> نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا اول یا آخر لیست
 
 This is a repo for testing your git abilities. try to add your name to this file
 
@@ -11,6 +11,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [Alireza🤞](https://github.com/ORNI4S)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
 - [Reza Kamali🤞](https://github.com/MRGando)
 - [Maher 💯💯] (https://github.com/Amirho3eini)
