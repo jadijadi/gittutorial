@@ -93,6 +93,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Masoud Karimi ☕️👌👍](https://github.com/masoudkaarimi)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
 - [razyar](https://github.com/razyar)
+- [Erfan](https://github.com/flydeoo)
 - [sheracore](https://github.com/sheracore)
 - [Ali Asghar AKA Ali-Bot](https://github.com/AliAsgharRanjbar)
 - [razyar](https://razyar.github.io)
