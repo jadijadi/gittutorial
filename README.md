@@ -41,6 +41,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza Ebrahimkhani :grin:](https://github.com/AlirezaEbrahimkhani)
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
 - [Jadi](https://jadi.net)
+- [AmirHassan :bicyclist:](https://github.com/amir-hassan)
 - [hosseinzare 😍](https://github.com/hossinzare)
 - [Salehn :sunglasses:](https://github.com/Realsaleh)
 - [Nima, Linux Lover :)](https://smartnima.com)
