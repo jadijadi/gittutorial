@@ -70,6 +70,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Abolfazl Akbarzadeh Mola ](https://github.com/AbakSource)
 - [peyman khoshbakht-thank you jadi.you are great]
 - [Seyed mohammad mirfatemi :speech_balloon:](https://github.com/kiumad)
+- [Parnian Ghaneei](https://github.com/parnian-Ghaneei)
 - [**hadi🤞**✔](https://github.com/h-di)
 - [Morteza noroozi :heart:](https://github.com/morteza-n)
 - [Tarnama](https://github.com/tarnamaco)
