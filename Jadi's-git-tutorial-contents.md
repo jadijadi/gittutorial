@@ -13,7 +13,7 @@
     > <p dir="rtl" align="right">برای تنظیمات رمزگذاری استفاده میشود. و در قدم اول بعد از نصب گیت به کار می رود که در آن باید از کلید خصوصی خود استفاده کرد</p>
 
 - git init
-    > <p dir="rtl" align="right">شروع کار با git</p>
+    > <p dir="rtl" align="right">شروع کار با git و اضافه کردن دایرکتوری کیت که Hidden هست.</p>
 
 - git add fileName
     > <p dir="rtl" align="right">افزودن فایل به git</p>
