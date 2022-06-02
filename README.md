@@ -75,6 +75,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**hadi🤞**✔](https://github.com/h-di)
 - [Morteza noroozi :heart:](https://github.com/morteza-n)
 - [Tarnama](https://github.com/tarnamaco)
+- [araxabd :umbrella:](https://github.com/araxabd)
 - [:sunglasses: Ehsan Eftekhari :sunglasses:](https://github.com/ehsaneftekhari)
 - [soroosh lotfi](https://github.com/slotfi909)(you're the best mr.jadi)
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
