@@ -14,6 +14,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 - [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
+- [Ali Mohammadnezhad 😍🌹](https://github.com/AliMohammadnezhad)
 - [Alireza🤞](https://github.com/ORNI4S)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
 - [Reza Kamali🤞](https://github.com/MRGando)
@@ -21,6 +22,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
 - [Ali Alirahimi](https://github.com/Tasbeat)
 - [Amin :innocent:](https://github.com/Amin-esh)
+- [## Ali Takrimi ## :relaxed:](https://github.com/AliTakrimi)
 - [Neo 	:relaxed:](https://github.com/neomn)
 - [Ali__Irani :computer:](https://github.com/aliIRI)
 - [Hosein Laki , I love python](https://github.com/hosein-1)
@@ -33,10 +35,12 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hossein Sanjabian (ZenMaxe) :computer:](https://github.com/ZenMaxe)
 - [Radinhtm](https://github.com/Radinhtm)
 - [Behrooz Gholami 😎](https://github.com/BehroozGh97)
+- [Mohammad Mahdi Hosseini](https://github.com/Mohammad-Mahdi-Hosseini)
 - [Hesam Omidi :notes:](https://github.com/Tannisam)
 - [fateme barbod✔😊](https://github.com/fatemebarbod)
 - [ shahram Khandagi ](https://github.com/ShahramKhandagi)
 - [masome papi😊](https://github.com/papimasome)
+- [Mostafa Papen :v: :v:](https://github.com/BunNybuger "I owe you so much jaadi! love you!")
 - [Hossein-Developer :wolf:](https://github.com/Hossein-Haghshenas)
 - [MicRoB 🔰](https://github.com/ALI161)
 - [Amir.H.Shirzad:sunglasses::computer:](https://github.com/Amir-H-Shzd)
@@ -75,6 +79,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**hadi🤞**✔](https://github.com/h-di)
 - [Morteza noroozi :heart:](https://github.com/morteza-n)
 - [Tarnama](https://github.com/tarnamaco)
+- [araxabd :umbrella:](https://github.com/araxabd)
 - [:sunglasses: Ehsan Eftekhari :sunglasses:](https://github.com/ehsaneftekhari)
 - [soroosh lotfi](https://github.com/slotfi909)(you're the best mr.jadi)
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
@@ -112,9 +117,11 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Neda :dizzy_face: :smiley: ](https://github.com/ForoutanNeda)
 - [ mohammad hasan zarkhani :sunglasses:](https://github.com/MH-Zarkhani)
 - ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)
+- [**Ho55ein**](https://github.com/ho55ein)
 - [Amirhosein Dallalan](https://github.com/williamingear)
 - [Cloner93   :smile: ](https://github.com/cloner93)
 - amirprgm
+- [pourya90091 :computer:](https://github.com/pourya90091)
 - [elmira:Alireza: Deutschland]
 - [reza.hiphop](https://github.com/zelash0)
 - [abdolkarim khaki :feelsgood::feelsgood::feelsgood:](https://github.com/khakiboy)
@@ -427,6 +434,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hamid Rahimi :joy: ](https://github.com/ham-rah)
 - [arashaltafi:computer::heart:](https://github.com/arashaltafi)
 - [Mojgan :heart_eyes:](https://github.com/Mojgan-arch)
+- [nb157 :heart:](https://github.com/nb157)
 - [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)  
 - [Maria](https://github.com/MariaTu)
 - [Evie]
+- [AliHaamedi](https://github.com/alihaamedi)
