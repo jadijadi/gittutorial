@@ -96,6 +96,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [amirprgm](https://github.com/amirprgm)
 - [Arya:grin:](https://github.com/Arya2255)
 - [Captain](https://github.com/msv-hosein)
+- [Mohammad Kakuei :smiley: :smiley:](https://github.com/mkn777)
 - [Pouya porebodi :computer::heart:](http://github/pouyarisk)
 - [Mahdi_vatankhah](https://github.com/mvtn99)
 - [Masoud Karimi ☕️👌👍](https://github.com/masoudkaarimi)
