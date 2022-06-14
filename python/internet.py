@@ -8,6 +8,9 @@ If DNS server is reachable on port 53, then it means that
 the internet is up and running
 """
 
+#Initial Marks for Connectivity or not
+check = "\N{Heavy Check Mark}"
+fail = "\N{Heavy Multiplication X}"
 
 def internet_connected(host="8.8.8.8", port=53):
     """
@@ -32,22 +35,22 @@ try:
         if internet_connected():
             # find out what is the os
             uname = os.uname()
-            print(os.uname)
+            # Clear Command line Session
             if uname.sysname == 'Linux' or uname.sysname == 'Darwin':
                 os.system('clear')
+                print(f"You are on a {uname.sysname} machine")
             elif uname.sysname == 'Windows':
-                # os.system('cls')
-                print(os.uname)
+                os.system('cls')
+                print("You are on a Windows  machine")
 
             counter += 1
-            print("Internet is up \n", counter, "sec \n", round(counter / 60, 2), "min \n", round(counter / 3600, 2),
-                  "hour \n")
+            print(f"Internet is up {check}\n{counter} sec \n{round(counter / 60, 2)} min \n{round(counter / 3600, 2)} hour\n")
 
             # Wait for 1 second before checking for internet connectivity
             time.sleep(1)
         else:
             # If previously internet connected, then print message
-            print("Internet is down...")
+            print(f"Internet is down ... {fail}")
 
 except KeyboardInterrupt:
     print("Exiting... Bye!")
