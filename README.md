@@ -147,6 +147,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [EhsanMody :yum:](https://github.com/ehsanmody)
 - [Aghacode:grin:](https://github.com/aghacode)
 - [amir noori](https://github.com/amirnoori6454)
+- [Kazem](https://github.com/kazem0kamali)
 - [MasMooG](https://github.com/MasuodSamarin)
 - [mhnp](https://github.com/mnakhaei)
 - [Farhadmpr :smirk: ](http://farhadm.ir)
