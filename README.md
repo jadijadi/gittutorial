@@ -160,6 +160,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AlirezA :trollface: ](https://github.com/bojbaj)
 - [Mojagolab](https://github.com/mojtabagolab)
 - [Ali](https://github.com/AliNazariii)
+- [ShCc](https://github.com/getShCc)
 - [mahdi7d1](https://github.com/mahdi7d1)
 - [mohammad mahdi haeri🙏🏻🙏🏻🙏🏻](https://github.com/mohammad-mahdi-haeri)
 - [Sadegh Hamedani :blush:](https://github.com/SgHmp97)
