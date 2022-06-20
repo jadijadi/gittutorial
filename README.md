@@ -20,6 +20,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Reza Kamali🤞](https://github.com/MRGando)
 - [Maher 💯💯] (https://github.com/Amirho3eini)
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
+- [Farzad Seyyedzadeh](https://github.com/farzadseyyedzadeh)
 - [Ali Alirahimi](https://github.com/Tasbeat)
 - [Amin :innocent:](https://github.com/Amin-esh)
 - [## Ali Takrimi ## :relaxed:](https://github.com/AliTakrimi)
