@@ -15,6 +15,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 - [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
 - [Ali Mohammadnezhad 😍🌹](https://github.com/AliMohammadnezhad)
+- [Ali Jafari 😃](https://github.com/alijafari79)
 - [Alireza🤞](https://github.com/ORNI4S)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
 - [Reza Kamali🤞](https://github.com/MRGando)
