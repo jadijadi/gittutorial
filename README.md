@@ -89,6 +89,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Imorate :zap:](https://github.com/imorate)
 - [Mohsen   :feelsgood:	](https://github.com/Mohsen-max)
 - [Mohammad Mahdi :feelsgood:](https://github.com/mahdipuya)
+- [Milad NR :feelsgood:](https://github.com/MNR85)
 - [Shayan Azizi   :feelsgood:](https://github.com/shayan-azizi)
 - [**Sina yeganeh**:blush:](https://github.com/Mr-SinaYeganeh)
 - [Mohammad🦉](https://github.com/mnakhjiri)
