@@ -133,3 +133,5 @@
     > <p dir="rtl" align="right">نمایش لیست stash ها</p>
 - git stash pop stash@{0}
     > <p dir="rtl" align="right">برگرداندن به حالت آخرین stash البته میتونید آیدی ها دیگه ای هم بزنید </p>
+- git clone repositoryAddress
+    > <p dir="rtl" align="right"> یک کلون از مخزنی که آدرسش را وارد کردیم در پوشه ای جدید با اسم همان مخزن ایجاد میکند </p>
