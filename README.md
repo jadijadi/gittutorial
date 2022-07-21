@@ -63,7 +63,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Nima, Linux Lover :)](https://smartnima.com)
 - [Naser Kheirandish :bomb: ](https://github.com/naserkh)
 - [Javad Salehi 😍 👍](https://github.com/JSalehii)
-- [Amir Mahdi Kahdouii 🚀](https://github.com/amirmahdikadhouii)
+- [Amir Mahdi Kahdouii 🚀](https://github.com/amirmahdikahdouii)
 - [Ehsan Saadatfar](https://github.com/ehsansdf)
 - [Hedieh Raeisi :blue_heart:](https://github.com/HediyeRaisy)
 - [Abolfazl Rezaei Aderiani :v:](https://github.com/Aderiani)
