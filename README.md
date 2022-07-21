@@ -28,6 +28,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Neo 	:relaxed:](https://github.com/neomn)
 - [Ali__Irani :computer:](https://github.com/aliIRI)
 - [Hosein Laki , I love python](https://github.com/hosein-1)
+- [Seyed Soheil Amini](https://github.com/seyedSoheil)
 - [αℓι 🔥](https://github.com/alidehkhodaei)
 - [mohammadreza yousefi](https://github.com/mrezayousefi)
 - [Mobin Rajaei :)](https://github.com/itsdiy0)
