@@ -171,6 +171,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mojagolab](https://github.com/mojtabagolab)
 - [Ali](https://github.com/AliNazariii)
 - [ShCc](https://github.com/getShCc)
+- [NimaForouazandeh](https://github.com/nimafo)
 - [Amin](https://github.com/aminvv)
 - [mahdi7d1](https://github.com/mahdi7d1)
 - [mohammad mahdi haeri🙏🏻🙏🏻🙏🏻](https://github.com/mohammad-mahdi-haeri)
@@ -222,7 +223,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - alireza
 - [Ali Azmoodeh](https://github.com/TREER00T)
 - [mahdimh](https://github.com/mahdimh13)
--[ramtin mahmoudi](https://github.com/ramtinmk)
+- [ramtin mahmoudi](https://github.com/ramtinmk)
 - [Yekanchi :stuck_out_tongue_winking_eye:](https://github.com/yekanchi)
 - [Alfred:feelsgood::smiley:](https://github.com/Alfred188)
 - Mujan
