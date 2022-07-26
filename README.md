@@ -16,7 +16,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
 - [Ali Mohammadnezhad 😍🌹](https://github.com/AliMohammadnezhad)
 - [Ali Jafari 😃](https://github.com/alijafari79)
-  [Yasaman](https://github.com/jasmineslr)
+- [Yasaman :mushroom:](https://github.com/jasmineslr)
 - [Alireza🤞](https://github.com/ORNI4S)
 - [Behzad](https://github.com/Behzadm42)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
