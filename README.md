@@ -82,6 +82,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza Memari](https://github.com/khamene)
 - [**Elias Bakhtiyari** :stuck_out_tongue::blue_heart::nine::seven::zero::four:](https://github.com/elioot1997)
 - [Abolfazl Akbarzadeh Mola ](https://github.com/AbakSource)
+- [Yasaman :mushroom:](https://github.com/jasmineslr)
 - [peyman khoshbakht-thank you jadi.you are great]
 - [Seyed mohammad mirfatemi :speech_balloon:](https://github.com/kiumad)
 - [Parnian Ghaneei](https://github.com/parnian-Ghaneei)
