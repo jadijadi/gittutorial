@@ -60,6 +60,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [DavodBeheshti:heart::sunglasses::heart:](https://github.com/davodbeheshti)
 - [Alireza Ebrahimkhani :grin:](https://github.com/AlirezaEbrahimkhani)
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
+- [Vahid Ajorloo😎](https://github.com/vahidajorloo)
 - [Jadi](https://jadi.net)
 - [Mohammad Yeganeh](https://github.com/usermp)
 - [MohammadReza Chv](https://github.com/MohammadrezaChv)
