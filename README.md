@@ -119,6 +119,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahdi_vatankhah](https://github.com/mvtn99)
 - [Masoud Karimi ☕️👌👍](https://github.com/masoudkaarimi)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
+- [**AmirRoox**:computer::heart:](https://roox.site)
 - [razyar](https://github.com/razyar)
 - [Erfan](https://github.com/flydeoo)
 - [sheracore](https://github.com/sheracore)
