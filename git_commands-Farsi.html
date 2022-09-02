@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="Style/style.css">
+    <title>دستورات گیت</title>
+</head>
+
+<body>
+    <!-- sidebar -->
+    <aside class="sidebar">
+        <nav class="navbar">
+            <ul>
+                <li><a href="#general">General Commands (دستورات عمومی)</a></li>
+                <ul>
+                    <li><a href="#config">git config</a></li>
+                    <li><a href="#init">git init</a></li>
+                    <li><a href="#status">git status</a></li>
+                    <li><a href="#add">git add</a></li>
+                    <li><a href="#commit">git commit</a></li>
+                    <li><a href="#log">git log</a></li>
+                    <li><a href="#diff">git diff <...></a></li>
+                    <li><a href="#reset-filename">git reset filename</a></li>
+                    <li><a href="#reset-commitHash">git reset commitHash</a></li>
+                    <li><a href="#reset-commitHash-hard">git reset commitHash --hard</a></li>
+                    <li><a href="#checkout--filename">git checkout -- filename</a></li>
+                    <li><a href="#rm-filename">git rm filename</a></li>
+                </ul>
+                <li><a href="#Branchs">Branchs (شاخه ها)</a></li>
+                <ul>
+                    <li><a href="#branch">git branch</a></li>
+                    <li><a href="#branch-d">git branch -d branchName</a></li>
+                    <li><a href="#checkout-branchName">git checkout branchName</a></li>
+                    <li><a href="#merge-branchName">git merge branchName</a></li>
+                </ul>
+                <li><a href="#remoteAndClone">Remote & Clone (ریموت و کلون کردن)</a></li>
+                <ul>
+                    <li><a href="#clone">git clone gitAddress</a></li>
+                    <li><a href="#remote-add">git remote add gitAddress</a></li>
+                    <li><a href="#remote-v">git remote -v</a></li>
+                    <li><a href="#push-origin-master">git push origin master</a></li>
+                    <li><a href="#pull-origin-master">git pull origin master</a></li>
+                </ul>
+                <li><a href="#-tag">Tag (برچسب)</a></li>
+                <ul>
+                    <li><a href="#tag">git tag</a></li>
+                    <li><a href="#tag-a">git tag -a <...> -m ''</a></li>
+                    <li><a href="#tag-a-commitHash">git tag -a <...> commitHash -m ''</a></li>
+                    <li><a href="#tag-v">git tag -v <...> verifytag -v</a></li>
+                    <li><a href="#show-tagName">git show tagName</a></li>
+                    <li><a href="#push-origin-tagName">git push origin tagName</a></li>
+                    <li><a href="#origin--tags">git push origin --tags</a></li>
+                    <li><a href="#blame">git blame</a></li>
+                    <li><a href="#pgp">pgp (gpg in openSource World)</a></li>
+                </ul>
+                <li><a href="#Bisect">Bisect</a></li>
+                <ul>
+                    <li><a href="#bisect">git bisect</a></li>
+                    <li><a href="#bisect-start">git bisect start</a></li>
+                    <li><a href="#bisect-bad">git bisect bad</a></li>
+                    <li><a href="#bisect-good">git bisect good</a></li>
+                </ul>
+            </ul>
+        </nav>
+    </aside>
+
+
+
+    <div class="main">
+        <h1>دستورات گیت</h1>
+        <!-- contetn -->
+        <section class="content">
+            <!-- start General Cammands -->
+            <section class="part">
+                <h2 id="general">General Commands (دستورات عمومی)</h2>
+                <ul>
+                    <li id="config"><b class="code">git config --global user.name "USERNAME" :</b> پیکربندی نام کاربری در کل سطوح </li>
+                    <li id="config"><b class="code">git config --global user.email "USEREmail" :</b> پیکربندی ایمیل کاربری </li>
+                    <li id="config"><b class="code">git config --global color.ui true :</b> نمایش خروجی رنگی</li>
+                    <li id="init"><b class="code">git init:</b> شروع فعالسازی گیت در دایرکتوری فعلی</li>
+                    <li id="status"><b class="code">git status:</b> نمایش وضعیت الان گیت </li>
+                    <li id="add"><b class="code">git add:</b> فایل های ایجاد شده یا تغییر کرده را به  <b>استیج</b> اضافه میکند</li>
+                    <li id="add"><b class="code">git add . & git add -A:</b> این دو دستور تمامی فایل های ایجاد شده یا تغییر کرده را به
+                        <b>استیج</b>
+                        اضافه میکند
+                    </li>
+                    <li id="commit"><b class="code">git commit:</b> ثبت کردن تغییرات و حذف کردن فایل ها از استیج
+                    <li id="commit"><b class="code">git commit -m "Title" -m "message" :</b> ثبت کردن کامیت با عنوان و پیام تغییرات
+                    </li>
+                    <li id="log"><b class="code">git log:</b> نمایش دادن وقایع اتفاق افتاده با توضیحات</li>
+                    <li id="log"><b class="code">git log --one-line --graph --all --decorate:</b> نمایش دادن وقایع به صورت درختی با همه شاخه ها
+                    و غیره</li>
+                    <li id="diff"><b class="code">git diff <...>:</b> مقایسه دو نسخه از یک فایل</li>
+                    <ul> برای مثال :
+                        <li>
+                            <span class="code">git diff <b>HEAD</b>:</span> مقایسه آخرین نسخه تایید شده با نسخه فعلی
+                        </li>
+                        <li>
+                            <span class="code">git diff --staged:</span> مقایسه آخرین نسخه استیج شده با نسخه فعلی
+                        </li>
+                    </ul>
+                    <li id="reset-filename"><b class="code">git reset filename:</b> خارج سازی فایل از استیج</li>
+                    <li id="reset-commitHash"><b class="code">git reset commitHash:</b> بازگشت به کامیت مشخص شده با هَش</li>
+                    <li id="reset-commitHash-hard"><b class="code">git reset commitHash --hard:</b> پروژه به طور کامل
+                         به کامیت مشخص شده بازگشته و تغییرات حذف خواهند شد</li>
+                    <li id="checkout--filename"><b class="code">git checkout -- filename:</b> فایل را به آخرین کامیت برمیگرداند</li>
+                    <li id="rm-filename"><b class="code">git rm filename:</b> حذف فایل از سیستم و گیت</li>
+                </ul>
+            </section>
+
+            <!-- start branches -->
+            <section class="part">
+                <h2 id="Branchs">Branches (شاخه ها)</h2>
+                <ul>
+                    <li id="branch"><b class="code">git branch:</b> (برنچ ها) نمایش تمامی شاخه ها</li>
+                    <li id="branch-d"><b class="code">git branch -d branchName:</b> پاک کردن شاخه یا شاخه ها</li>
+                    <li id="checkout-branchName"><b class="code">git checkout branchName:</b> وارد شدن به شاخه مشخص شده</li>
+                    <li id="checkout-branchName"><b class="code">git checkout -b branchName:</b> ساختن و وارد شدن به شاخه مشخص شده</li>
+                    <li id="merge-branchName"><b class="code">git merge branchName:</b> ادغام کردن شاخه مشخص شده با شاخه مستر</li>
+                </ul>
+            </section>
+
+            <!-- start Remote & Clone -->
+            <section class="part">
+                <h2 id="remoteAndClone">Remote & Clone (ریموت و کلون)</h2>
+                <ul>
+                    <li id="clone"><b class="code">git clone gitAddress:</b> کلون (کپی کردن) کردن کامل یک ریپوزیتوری یا آدرس</li>
+                    <li id="remote-add"><b class="code">git remote add alias gitAddress:</b> (alias یک اسم مستعار است) اضافه کردن یک ریموت </li>
+                    <li id="remote-v"><b class="code">git remote -v:</b> نمایش کامل اطلاعات ریموت ها
+                    </li>
+                    <b>توجه:</b> ما میتوانیم به هر تعداد ریموت داشته باشیم (یکی برای گیت لب ، یکی برای گیت هاب و یکی برای شرکت)
+                    <br/>
+                    <b> origin:</b> این ریموت ، شاخه اصلی پروژه ای است که کپی کردیم
+                    <li id="push-origin-master"><b class="code">git push origin master:</b> وارد کردن تغییرات از شاخه مستر به شاخه اصلی</li>
+                    <b>توجه:</b> از تاریخ <b>ده مهر 1399</b> هر مخزن جدید ، از  <b class="code">main</b>
+                        بجای شاخه مستر استفاده میکند<br>
+                        پس اگر میخواهید شاخه  <b>جدیدی</b> اضافه کنید از دستور زیر استفاده نمایید :
+                        <br/><b class="code">git push origin main</b>
+                    <br/>
+                    <b>توجه:</b> git push <b>-u</b> origin master: سوییچر u- باعث ذخیره سازی اطلاعات میشود ،
+                    پس در ادامه دیگر نیازی به نوشتن master main وجود ندارد
+                    <li id="pull-origin-master"><b class="code">git pull origin master:</b> وارد کردن تغییرات از شاخه اصلی به مستر (برعکس push)</li>
+                    <b>توجه : git remote add</b> فقط یک ورودی در پیکربندی git شما ایجاد می کند که نام یک URL خاص را مشخص می کند.
+                         برای استفاده از آن باید یک مخزن git موجود داشته باشید.<br>
+                        <b class="code">git clone :</b> یک مخزن گیت جدید با کپی کردن یک مخزن موجود واقع در لینک که شما مشخص کرده اید ایجاد می کند.
+
+                </ul>
+            </section>
+
+
+            <!-- start Tag -->
+            <section class="part">
+                <h2 id="-tag">Tag (برچسب)</h2>
+                <ul>
+                    <li id="tag"><b class="code">git tag:</b> نمایش برچسب های موجود</li>
+                    <li id="tag-a"><b class="code">git tag -a <...> -m '' :</b> ایجاد تگ با اسم و یادداشت مانند زیر :
+                        <br><span class="code">git tag -a v2.0 -m 'release Version 2.0'</span>
+                    </li>
+                    <li id="tag-a-commitHash"><b class="code">git tag -a <...> commitHash -m '' :</b> ایجاد تگ برای یک کامیت مشخص
+                    </li>
+
+
+                    <li id="tag-v"><b class="code">git tag -v <...> verifytag -v :</b> نمایش برچسب های تایید شده
+                    </li>
+                    <li id="show-tagName"><b class="code">git show tagName:</b> نمایش کامل اطلاعات برچسب
+                    </li>
+                    <li id="push-origin-tagName"><b class="code">git push origin tagName:</b> برچسب ها به صورت خودکار ست نمیشوند و باید دستی این کار را کنید
+                    </li>
+                    <li id="origin--tags"><b class="code">git push origin --tags:</b> وارد کردن همه برچسب ها به شاخه اصلی
+                    </li>
+                    <li id="blame"><b class="code">git blame :</b> بررسی اینکه کل کد یا بخشی ازش یا حتی خطی ازش توسط کیا نوشته و
+                        ویرایش شده
+                    </li>
+                    <li id="pgp"><b class="code">pgp (gpg نسخه متن باز آن است) :</b>  ساین کردن تگ ها یا کامیت ها
+                    </li>
+                  </ul>
+              </section>
+                    <!-- start Bisect  -->
+                    <section class="part">
+                        <h2 id="Bisect">Bisect</h2>
+                        <ul>
+                          <li id="bisect"><b class="code">git bisect :</b> اشکال زدایی با استفاده از حرکت بین کامیت ها
+                          </li>
+                            <li id="bisect-start"><b class="code">git bisect start :</b> شروع کار دیباگ
+                            </li>
+                            <li id="bisect-bad"><b class="code">git bisect bad :<commit code></b> انتخاب کامیتی که خطا دارد (یا در حال حاضر خطا دارید)
+                            </li>
+                            <li id="bisect-good"><b class="code">git bisect good :<commit code></b> انتخاب کامیتی که در آن خطا ندارید
+                            </li>
+                        </ul>
+                        <b>توجه:</b> هر بار که از bisect استفاده می کنید باید کد خود را آزمایش کنید و بعد از git bisect از good یا bad استفاده کنید
+
+                    </section>
+    </div>
+</body>
+
+</html>
