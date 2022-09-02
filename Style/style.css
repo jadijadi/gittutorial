@@ -1,0 +1,101 @@
+@font-face {
+	font-family: Lalezar-Regular;
+	font-style: normal;
+	font-weight: normal;
+	src: url('fonts/ttf/Lalezar-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: Vazir-FD-WOL;
+	font-style: normal;
+	font-weight: normal;
+	src: url('fonts/ttf/Vazir-FD-WOL.ttf') format('truetype');
+}
+* {
+  font-family: Vazir-FD-WOL !important;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+            line-height: 2;
+            background: linear-gradient(to right, #90b4f5, #cfdef3);
+            /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            font-size: 1.5rem;
+}
+
+a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+            display: inline-block;
+            line-height: 1.5;
+}
+a:hover {
+  color: darkgreen;
+}
+
+li {
+            margin: 1rem 0;
+}
+
+b {
+            color: #747474;
+}
+
+b:not(.code) {
+            color: #313bd0;
+}
+
+h1 , h2{
+            padding: 5px 20px;
+            text-align: center;
+}
+
+.code {
+            padding: 0.3rem;
+            background-color: #f2f2f2;
+            border-radius: 5px;
+            color: #747474;
+            font-size: 1.6rem;
+}
+
+.sidebar {
+            font-size: 18px;
+            max-height: 100vh;
+            overflow-Y: auto;
+            position: fixed;
+            width: 30%;
+            font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar li {
+            line-height: 1;
+}
+
+.main {
+            width: 70%;
+            float: left;
+            /*direction: ltr;*/
+}
+
+.part {
+            background: rgb(8, 168, 83);
+            margin: 30px 10px;
+            padding: 5px 15px;
+            color: white;
+            box-shadow: 0 0 16px 0px #00000056;
+            border-radius: 5px;
+
+}
+
+@media screen and (max-width: 1300px) {
+            .sidebar {
+                display: none
+            }
+
+            .main {
+                width: 100%;
+
+            }
+}
