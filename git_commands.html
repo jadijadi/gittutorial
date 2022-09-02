@@ -6,90 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Git Commands</title>
-    <style>
-        html {
-            scroll-behavior: smooth;
-        }
-
-        body {
-            line-height: 1.5;
-            background: linear-gradient(to right, #e0eafc, #cfdef3);
-            /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-            font-size: 1.5rem;
-            font-family: consolas;
-        }
-
-        a {
-            text-decoration: none;
-            color: black;
-            font-weight: bold;
-            display: inline-block;
-            line-height: 1.5;
-        }
-
-        li {
-            margin: 1rem 0;
-        }
-
-        b {
-            color: #747474;
-        }
-
-        b:not(.code) {
-            color: #ff0000;
-        }
-
-        h1 {
-            padding: 5px 20px;
-        }
-
-        .code {
-            padding: 0.3rem;
-            background-color: #f2f2f2;
-            border-radius: 5px;
-            color: #747474;
-            font-size: 1.6rem;
-        }
-
-        .sidebar {
-            font-size: 18px;
-            max-height: 100vh;
-            overflow-Y: auto;
-            position: fixed;
-            width: 20%;
-            font-family: Arial, Helvetica, sans-serif;
-        }
-
-        .sidebar li {
-            line-height: 1;
-        }
-
-        .main {
-            width: 80%;
-            float: right;
-        }
-
-        .part {
-            background: rgb(0, 8, 255);
-            margin: 30px 10px;
-            padding: 5px 15px;
-            color: white;
-            box-shadow: 0 0 16px 0px #00000056;
-            border-radius: 5px;
-
-        }
-
-        @media screen and (max-width: 1300px) {
-            .sidebar {
-                display: none
-            }
-
-            .main {
-                width: 100%;
-
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="Style/styleEn.css">
 </head>
 
 <body>
@@ -271,58 +188,39 @@
                     </li>
 
 
-                    <li><b class="code">git tag -v <...> verifytag -v :</b> show tag verify
+                    <li id="tag-v"><b class="code">git tag -v <...> verifytag -v :</b> show tag verify
                     </li>
-                    <li><b class="code">git show tagName:</b> show full info about tag
+                    <li id="show-tagName"><b class="code">git show tagName:</b> show full info about tag
                     </li>
-                    <li><b class="code">git push origin tagName:</b> Regullary tags dont push to origin with other
+                    <li id="push-origin-tagName"><b class="code">git push origin tagName:</b> Regullary tags dont push to origin with other
                         changes and we
                         should push them manually
                     </li>
-                    <li><b class="code">git push origin --tags:</b> like above for push all tags
+                    <li id="origin--tags"><b class="code">git push origin --tags:</b> like above for push all tags
                     </li>
-                    <li><b class="code">git blame </b> بررسی اینکه کل کد یا بخشی ازش یا حتی خطی ازش توسط کیا نوشته و
-                        ویرایش شده
+                    <li id="blame"><b class="code">git blame </b> Checking who wrote and edited the whole code or a part of it or even a line of it
                     </li>
-                    <li><b class="code">pgp (gpg in openSource World) </b> ساین کردن تگ ها یا کامیت ها
+                    <li id="pgp"><b class="code">pgp (gpg in openSource World) </b> Signing tags or commits
                     </li>
-                    <h4>--Bisect--</h4>
-                    <li><b class="code">git bisect </b> debuging code by moving through commits
-                    </li>
-                    <ul>
-                        <li><b class="code">git bisect start</b> start using git bisect
-                        </li>
-                        <li><b class="code">git bisect bad <commit code></b>select a bad commit (or just leave it to
-                            select this commit)
-                        </li>
-                        <li><b class="code">git bisect good <commit code></b>select a good commit (or just leave it to
-                            select this commit)
-                        </li>
-                    </ul>
                     <li><b>Note:</b> You must test your code every time you use bisect then use good or bad after git
                         bisect !</li>
-
+                      </section>
                     <!-- start Bisect  -->
                     <section class="part">
-                        <h2 id="Bisect">-Bisect--</h2>
+                        <h2 id="Bisect">-Bisect-</h2>
                         <ul>
-                            <li id="bisect"><b class="code">git bisect:</b> debuging code by moving through commits
+                        <li id="bisect"><b class="code">git bisect </b> debuging code by moving through commits
+                        </li>
+                            <li><b class="code">git bisect start</b> start using git bisect
                             </li>
-                            <ul>
-                                <li><b class="code">git bisect start:</b> start using git bisect
-                                </li>
-                                <li><b class="code">git bisect bad:<commit code></b> select a bad commit (or just leave
-                                    it to select this commit)
-                                </li>
-                                <li><b class="code">git bisect good:<commit code></b> select a good commit (or just
-                                    leave it to select this commit)
-                                </li>
-                            </ul>
-                            <li><b>Note:</b> You must test your code every time you use bisect then use good or bad
-                                after git bisect !</li>
+                            <li><b class="code">git bisect bad <commit code></b>select a bad commit (or just leave it to
+                                select this commit)
+                            </li>
+                            <li><b class="code">git bisect good <commit code></b>select a good commit (or just leave it to
+                                select this commit)
+                            </li>
                         </ul>
                     </section>
-            </section>
     </div>
 </body>
 
