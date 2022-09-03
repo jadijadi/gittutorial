@@ -26,7 +26,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Maher 💯💯] (https://github.com/Amirho3eini)
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
 - [saba 🌺 ](https://github.com/saba0909)
-- [Pushun :balloon: ](https://github.com/2dweeb)
+- [Pushun :point_left: :point_left: :point_left: im here ](https://github.com/2dweeb)
 - [Farzad Seyyedzadeh](https://github.com/farzadseyyedzadeh)
 - [Ali Alirahimi](https://github.com/Tasbeat)
 - [Amin :innocent:](https://github.com/Amin-esh)
