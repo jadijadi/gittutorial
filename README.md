@@ -67,6 +67,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
 - [Vahid Ajorloo😎](https://github.com/vahidajorloo)
 - [Jadi](https://jadi.net)
+- [Reyhaneh Z 😄:](https://github.com/reyhaneh-hub)
 - [Mohammad Yeganeh](https://github.com/usermp)
 - [MohammadReza Chv](https://github.com/MohammadrezaChv)
 - [rmoghadam 💻❤️](https://github.com/chromer030)
