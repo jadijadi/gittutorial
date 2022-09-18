@@ -135,6 +135,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Mostafa**:heart:](https://github.com/m0st4f4)
 - With regards [:computer: Ray :computer:](https://github.com/1MahdiR)
 - [_AlirezAE_](https://github.com/AlirezaRezaie)
+- [Mohammad Hasan](https://github.com/masanmola)
 - [sepehrb98 :tophat: :crystal_ball:](https://github.com/sepehrb98)
 - [rez_hiphop](https://github.com/zelash)
 - [Ali Rn :snowman:](https://github.com/AliRn76)
