@@ -148,6 +148,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amirhosein Dallalan](https://github.com/williamingear)
 - [Cloner93 :smile: ](https://github.com/cloner93)
 - amirprgm
+- [**shayan** :alien:](https://github.com/shayanfpg9)
 - [pourya90091 :computer:](https://github.com/pourya90091)
 - [elmira:Alireza: Deutschland]
 - [reza.hiphop](https://github.com/zelash0)
