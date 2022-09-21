@@ -476,4 +476,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AliHaamedi](https://github.com/alihaamedi)
 - [Amir(ia703) Hossein Maher](https://github.com/amiria703)
 - [Ramin](https://github.com/fayyazzadeh)
-- [AliReza Ghenaatiyan](https://github.com/ar894u)
+- [AliReza Ghenaatiyan](https://github.com/ar894u) 😉
