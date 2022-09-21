@@ -27,6 +27,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Reza Kamali🤞](https://github.com/MRGando)
 - [Maher 💯💯](https://github.com/Amirho3eini)
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
+- [Ali Zarshenas :octocat:](https://github.com/siza36)
 - [Milad Isaei 🤞🤞🤞 Jesus Birth](https://github.com/miladisaei)
 - [saba 🌺 ](https://github.com/saba0909)
 - [Pushun :point_left: :point_left: :point_left: im here ](https://github.com/2dweeb)
