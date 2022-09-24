@@ -15,6 +15,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hosein Hobbi](https://github.com/HHobbi)
 - [Mostafa Moafi 🖤](https://github.com/Mostafa-Moafi)
 - [Redder](https://github.com/redder123)
+- [Alir3za :)](https://github.com/Alir3zaKazemi)
 - [M2N76 🐺](https://github.com/M2N76)
 - [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
 - [Amir Salehi](https://github.com/amiryxe)
