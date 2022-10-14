@@ -2,17 +2,28 @@
 
 > Note: Its better to add your name somewhere in the middle, and not at the beginning nor at the end!
 
+<br/>
+
 > نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا اول یا آخر لیست
 
 This is a repo for testing your git abilities. try to add your name to this file
+
+<br/>
+
 این مخزن برای آزمایش توانایی های git شما است. سعی کنید نام خود را به این فایل اضافه کنید
 
 `- [Yourname](your github profile url)`
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
+
+<br/>
+
 با خیال راحت از این ایموجی ها استفاده کنید: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+
+<br/>
+
 # لیست افرادی که git را می شناسند
 - ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)
 
