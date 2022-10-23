@@ -188,6 +188,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Farzad](https://github.com/f-a-r-z-a-d)
 - [Mohsen Haeri](https://github.com/tabib2m)
 - [amir :kissing_heart:](https://github.com/amirdy)
+- [Sajjad :v:](https://github.com/sssajjad007)
 - [CodoCodile](https://github.com/HoseinAbili/)
 - [Sagheb Kohpayeh :bowtie::smile:](https://github.com/SaghebK)
 - [** MR.SEIFI **](https://github.com/mr-seifi)
