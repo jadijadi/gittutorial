@@ -13,6 +13,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 
 - [Hosein Hobbi](https://github.com/HHobbi)
+- [Mahdi Zandi 😎](https://github.com/MahdiZandi)
 - [Mostafa Moafi 🖤](https://github.com/Mostafa-Moafi)
 - [Redder](https://github.com/redder123)
 - [Alir3za :)](https://github.com/Alir3zaKazemi)
