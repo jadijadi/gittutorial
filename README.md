@@ -32,6 +32,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
 - [Ali Zarshenas :octocat:](https://github.com/siza36)
 - [Milad Isaei 🤞🤞🤞 Jesus Birth](https://github.com/miladisaei)
+- [Morteza](https://github.com/Impundit)
 - [saba 🌺 ](https://github.com/saba0909)
 - [Pushun :point_left: :point_left: :point_left: im here ](https://github.com/2dweeb)
 - [Farzad Seyyedzadeh](https://github.com/farzadseyyedzadeh)
