@@ -47,6 +47,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mobin Rajaei :)](https://github.com/itsdiy0)
 - [Fateme Mohammadi❤️](https://github.com/mahora00135)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
+- [Edwin Melendez](https://github.com/ejm201) 🇵🇷
 - [Hossein Gholamian :trollface::+1:](https://github.com/HosseinGholamian)
 - [Ali Moeinian](https://github.com/AliMoeinian)
 - [Hossein Sanjabian (ZenMaxe) :computer:](https://github.com/ZenMaxe)
