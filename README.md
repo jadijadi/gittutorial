@@ -20,6 +20,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
 - [Amir Salehi](https://github.com/amiryxe)
 - [Ali Mohammadnezhad 😍🌹](https://github.com/AliMohammadnezhad)
+- [Parisan Ahmadi:gem:](https://github.com/parisa-ahmadi)
 - [Ali Jafari 😃](https://github.com/alijafari79)
 - [мαмαℓι ☺️](https://github.com/mjavadnasr)
 - [Alireza🤞](https://github.com/ORNI4S)
