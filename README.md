@@ -73,6 +73,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
 - [Vahid Ajorloo😎](https://github.com/vahidajorloo)
 - [Jadi](https://jadi.net)
+- [AmirRivand](https://github.com/amirrivand)
 - [Mamad :smiley: ](https://github.com/mb1992fl8)
 - [Reyhaneh Z 😄:](https://github.com/reyhaneh-hub)
 - [Mahya Mohammadi Golchi](https://github.com/mahyamg)
