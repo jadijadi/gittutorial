@@ -25,6 +25,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza🤞](https://github.com/ORNI4S)
 - [Behzad](https://github.com/Behzadm42)
 - [**Mohammad Tavakoli** :sunglasses::fire:](https://github.com/pypyKid)
+- [aliagh11](https://github.com/aliagh11)
 - [Koorosh Komeilizadeh](https://github.com/kooroshkz)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
 - [Reza Kamali🤞](https://github.com/MRGando)
