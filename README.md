@@ -74,6 +74,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Vahid Ajorloo😎](https://github.com/vahidajorloo)
 - [Jadi](https://jadi.net)
 - [Mamad :smiley: ](https://github.com/mb1992fl8)
+- [Samrad :woman::life::freedom:](https://github.com/Bearcoder7)
 - [Reyhaneh Z 😄:](https://github.com/reyhaneh-hub)
 - [Mahya Mohammadi Golchi](https://github.com/mahyamg)
 - [Mohammad Yeganeh](https://github.com/usermp)
