@@ -45,6 +45,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hosein Laki , I love python](https://github.com/hosein-1)
 - [Seyed Soheil Amini](https://github.com/seyedSoheil)
 - [αℓι 🔥](https://github.com/alidehkhodaei)
+- [korosh eskandari](https://github.com/korosh526):heart:
 - [mohammadreza yousefi](https://github.com/mrezayousefi)
 - [Mobin Rajaei :)](https://github.com/itsdiy0)
 - [Fateme Mohammadi❤️](https://github.com/mahora00135)
