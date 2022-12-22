@@ -509,6 +509,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ramin](https://github.com/fayyazzadeh)
 - [AliReza Ghenaatiyan](https://github.com/ar894u) 😉
 - [Mohammad Mahdi Heidari #jadi #free_jadi #جادی](https://github.com/mohamad-mahdi-heidari)
+- [ata babaei sarijalou #jadi #free_jadi #جادی](https://github.com/sarijalou)
 - [Reza Maghami](https://github.com/mehrbat)
 - [Parsa Mehdipour](https://github.com/ParsaMehdipour) 🎮
 - [Mehran Mazhar](https://github.com/MehranMazhar)
