@@ -28,7 +28,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [мαмαℓι ☺️](https://github.com/mjavadnasr)
 - [Alireza🤞](https://github.com/ORNI4S)
 - [Behzad](https://github.com/Behzadm42)
-- [Mahdi Gholami 🍊](https://github.com/devgholami)
+- [**Mahdi Gholami** 🍊](https://github.com/devgholami)
 - [**Mohammad Tavakoli** :sunglasses::fire:](https://github.com/pypyKid)
 - [aliagh11](https://github.com/aliagh11)
 - [Koorosh Komeilizadeh](https://github.com/kooroshkz)
