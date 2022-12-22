@@ -58,6 +58,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Moeinian](https://github.com/AliMoeinian)
 - [Hossein Sanjabian (ZenMaxe) :computer:](https://github.com/ZenMaxe)
 - [Radinhtm](https://github.com/Radinhtm)
+- [fatemejadidi](https://github.com/fjadidi2001)
 - [Mostafa Ebrahimi](https://github.com/Ebrahimi-Mostafa)
 - [Behrooz Gholami 😎](https://github.com/BehroozGh97)
 - [Mohammad Mahdi Hosseini](https://github.com/Mohammad-Mahdi-Hosseini)
