@@ -82,6 +82,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza Ebrahimkhani :grin:](https://github.com/AlirezaEbrahimkhani)
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
 - [Vahid Ajorloo😎](https://github.com/vahidajorloo)
+- [MrKataei](https://github.com/mrkataei)
 - [Jadi](https://jadi.net)
 - [AmirRivand](https://github.com/amirrivand)
 - [Mamad :smiley: ](https://github.com/mb1992fl8)
