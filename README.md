@@ -249,8 +249,10 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali :sunglasses: ](https://github.com/ames1)
 - alireza
 - [Ali Azmoodeh](https://github.com/TREER00T)
-- [mahdimh](https://github.com/mahdimh13) -[ramtin mahmoudi](https://github.com/ramtinmk)
+- [mahdimh](https://github.com/mahdimh13) 
+- [ramtin mahmoudi](https://github.com/ramtinmk)
 - [mahdimh](https://github.com/mahdimh13)
+- [nothehi](https://github.com/Nothehi)
 - [ramtin mahmoudi](https://github.com/ramtinmk)
 - [Yekanchi :stuck_out_tongue_winking_eye:](https://github.com/yekanchi)
 - [Alfred:feelsgood::smiley:](https://github.com/Alfred188)
