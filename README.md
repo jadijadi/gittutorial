@@ -113,6 +113,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Qiamast](https://github.com/Qiamast)
 - [Ali Mehr](https://github.com/alimehr75)
 - [alumpish :sunglasses:](https://github.com/alumpish)
+- [Mohsen Faghih :punch:](https://github.com/mohsenfaghih)
 - [AmirHossein Fourotan :sunglasses::heart:](https://github.com/amirhfro)
 - [M.Qadimi](https://github.com/mqadimi)
 - [Alireza Memari](https://github.com/khamene)
