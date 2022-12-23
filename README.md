@@ -86,6 +86,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Vahid Ajorloo😎](https://github.com/vahidajorloo)
 - [MrKataei](https://github.com/mrkataei)
 - [Jadi](https://jadi.net)
+- [Hossein 😊🤞](https://github.com/h-agharezaei)
 - [AmirRivand](https://github.com/amirrivand)
 - [Mamad :smiley: ](https://github.com/mb1992fl8)
 - [Samrad :woman::life::freedom:](https://github.com/Bearcoder7)
