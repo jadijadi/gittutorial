@@ -68,6 +68,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hesam Omidi :notes:](https://github.com/Tannisam)
 - [Ali sharify](https://github.com/alisharify7)
 - [fateme barbod✔😊](https://github.com/fatemebarbod)
+- [Mehdi Sharif :heart:](https://github.com/pardaad/)
 - [ shahram Khandagi ](https://github.com/ShahramKhandagi)
 - [masome papi😊](https://github.com/papimasome)
 - [Mostafa Papen :v: :v:](https://github.com/BunNybuger "I owe you so much jaadi! love you!")
