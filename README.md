@@ -106,6 +106,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Mahdi Kahdouii 🚀](https://github.com/amirmahdikahdouii)
 - [Ehsan Saadatfar](https://github.com/ehsansdf)
 - [Hossein](https://github.com/Hossein-Fazel)
+- [Foad :grin:](https://github.com/Foad9)
 - [Hedieh Raeisi :blue_heart:](https://github.com/HediyeRaisy)
 - [Abolfazl Rezaei Aderiani :v:](https://github.com/Aderiani)
 - [MrTerminal :trollface::+1:](https://github.com/Zeroday10)
