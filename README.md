@@ -148,7 +148,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Pouya porebodi :computer::heart:](http://github/pouyarisk)
 - [Mahdi_vatankhah](https://github.com/mvtn99)
 - [Masoud Karimi ☕️👌👍](https://github.com/masoudkaarimi)
-- [Hassan khodabakhshi ](https://github.com/hassankhodabakhshi)
+- [Hassan khodabakhshi :gem: :gem: :gem: :gem: :gem:](https://github.com/hassankhodabakhshi)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
 - [razyar](https://github.com/razyar)
 - [Erfan](https://github.com/flydeoo)
