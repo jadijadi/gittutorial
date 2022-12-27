@@ -132,6 +132,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [MohammadAmin Aalamalhoda :eyes:](https://github.com/MohammadAminAlamalhoda)
 - [Mostafa Ebrahimi :thumbsup:](https://github.com/mostafaeb)
 - [Imorate :zap:](https://github.com/imorate)
+- [TohidEq :heart:](https://github.com/TohidEq)
 - [Mohsen :feelsgood: ](https://github.com/Mohsen-max)
 - [Mohammad Mahdi :feelsgood:](https://github.com/mahdipuya)
 - [Milad NR :feelsgood:](https://github.com/MNR85)
