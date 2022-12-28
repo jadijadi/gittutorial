@@ -76,6 +76,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sayed Mahmood Hosseini:blue_heart:](https://github.com/smahmoodh/)
 - [Amir.H.Shirzad:sunglasses::computer:](https://github.com/Amir-H-Shzd)
 - [Mina Moeini ](https://github.com/Mina-Moeini)
+- [Mahyar Ershad ]([https://github.com/Mina-Moeini](https://github.com/mahyarErshad))
 - [Sonya](https://github.com/SonyaCore)
 - [ZaraKh :computer: ](https://github.com/Zarakhansari)
 - [S. Saeid Heidari :computer:](https://github.com/thesaeid)
