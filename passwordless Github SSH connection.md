@@ -6,25 +6,24 @@
 
 #### 2. making SSH key pair:
     ssh-keygen
-- press enter 3times(skip all questions)
+- press enter 3times (skip all questions)
 
-    ``eval `ssh-agent` ``
-- on Mac:
-
-    `` ssh-add -K ~/.ssh/id_rsa ``
-- Then, if it exists, enter the ~/.ssh/config file and add the following two lines to this file:
-
-    `` Host * ``
-    
-    ``UseKeychain yes ``
+        eval `ssh-agent`
+> - on Mac:
+>
+>       ssh-add -K ~/.ssh/id_rsa
+> - Then, if it exists, enter the ~/.ssh/config file and add the following two lines to this file:
+>
+>       Host *
+>       UseKeychain yes
 - If you don't have the above file, there is no problem and you can continue with the textbook.
 - now you have ssh key pair in ~/.ssh/
 - ( id_rsa ) > (private key)
 - ( id_rsa.pub ) > (public key)
 - note: now you can send your public key (id_rsa.pub) anywhere you wanna have ssh access.
-- Easier way to get public key:
-
-    `` ssh-add ~/.ssh/id_rsa ``
+> Easier way to get public key:
+>
+>        ssh-add ~/.ssh/id_rsa 
 
 #### 3. adding public key to your github account:
 **go to:**
