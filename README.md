@@ -34,6 +34,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Behzad](https://github.com/Behzadm42)
 - [**Mohammad Tavakoli** :sunglasses::fire:](https://github.com/pypyKid)
 - [aliagh11](https://github.com/aliagh11)
+- [Mahdiyar 💀](https://github.com/HDK20)
 - [Koorosh Komeilizadeh](https://github.com/kooroshkz)
 - [Bamdad Dashtban](https://github.com/bamdadd)
 - [Behnam Ebrahimi](https://github.com/behnam68engine)
