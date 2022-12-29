@@ -56,6 +56,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [korosh eskandari](https://github.com/korosh526):heart:
 - [mohammadreza yousefi](https://github.com/mrezayousefi)
 - [Mobin Rajaei :)](https://github.com/itsdiy0)
+- [Hassan Bazai](https://github.com/BazaiHassan)
 - [Fateme Mohammadi❤️](https://github.com/mahora00135)
 - [mahdi :grimacing:](https://github.com/mahdinikan75)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
