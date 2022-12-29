@@ -29,6 +29,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Aghadadashi :)](https://github.com/aliagh11)
 - [мαмαℓι ☺️](https://github.com/mjavadnasr)
 - [Alireza🤞](https://github.com/ORNI4S)
+- [**sheikh** :collision:](https://github.com/sheikhoo)
 - [Behzad](https://github.com/Behzadm42)
 - [**Mohammad Tavakoli** :sunglasses::fire:](https://github.com/pypyKid)
 - [aliagh11](https://github.com/aliagh11)
