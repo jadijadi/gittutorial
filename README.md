@@ -258,6 +258,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohsen.Coder:sunglasses:](https://github.com/mohsen-coder)
 - [GreatSprit :smirk: ](https://github.com/aminmikh)
 - [EhsanAmirahmadi 🙃🚀](https://github.com/EhsanAmirahmadi)
+- [Reza Rohani :smiley::smiley:](https://github.com/theonlykingpin)
 - [Ali Piry :ghost:](https://github.com/yripila)
 - [Amir Azizi :blush: ](https://github.com/AmirRezaAzizi)
 - [amir pou ](https://github.com/amirpourastarabadi)
