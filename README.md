@@ -366,6 +366,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali-Es :star2:](https://github.com/Ali-esm)
 - [Abolfazl](https://github.com/Abolfazl-Meybodi)
 - [Captain](https://github.com/captainpick)
+- [Mahbod:point_right::point_left:](https://github.com/M4hbod)
 - [Ali Iranmanesh :v:](https://github.com/Aliiranmanesh)
 - [nosratullah :alien:](https://github.com/nosratullah)
 - [Amirhossein :cactus:](https://github.com/amirhossein7798)
