@@ -482,6 +482,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arefe Bsh :computer: :heart_eyes: :hibiscus:](https://github.com/arefebsh)
 - [Mohammad YousefiPour :v::sunglasses:](https://github.com/myp79)
 - [Mehrdad Mahabadi :computer: ](https://github.com/moxitron)
+- [Nafas Ameri #free_jadi](https://github.com/nafasameri)
 - [Mazyar Ghahremani :sunglasses: ](https://github.com/mazyar-cyber)
 - [Abolfazl Nassaji](https://github.com/abolfazln)
 - [:earth_americas::heart: ArdeshirV :heart::earth_americas:](https://github.com/ArdeshirV)
