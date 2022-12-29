@@ -94,6 +94,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
 - [Vahid Ajorloo😎](https://github.com/vahidajorloo)
 - [MrKataei](https://github.com/mrkataei)
+- [**Seyyed Ali Moosavi** :fire:](https://github.com/sAlim0820)
 - [Jadi](https://jadi.net)
 - [Hossein 😊🤞](https://github.com/h-agharezaei)
 - [AmirRivand](https://github.com/amirrivand)
