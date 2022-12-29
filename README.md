@@ -16,6 +16,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hosein Hobbi](https://github.com/HHobbi)
 - [Mahyar Ershad ✌️ #Women_Life_Freedom ✌️](https://github.com/mahyarErshad)
 - [Mostafa Moafi 🖤](https://github.com/Mostafa-Moafi)
+- [MR-Amoori 👨🏻‍💻 :D](https://github.com/MR-Amoori)
 - [Mahdi Ebrahimi🤞](https://github.com/dev-ir)
 - [Redder](https://github.com/redder123)
 - [Alir3za :)](https://github.com/Alir3zaKazemi)
