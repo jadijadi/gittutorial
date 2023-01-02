@@ -186,6 +186,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [sepehrb98 :tophat: :crystal_ball:](https://github.com/sepehrb98)
 - [rez_hiphop](https://github.com/zelash)
 - [Ali Rn :snowman:](https://github.com/AliRn76)
+- [Kian babai 😁](https://github.com/kian-babai)
 - [Neda :dizzy_face: :smiley: ](https://github.com/ForoutanNeda)
 - [ mohammad hasan zarkhani :sunglasses:](https://github.com/MH-Zarkhani)
 - ![Generic badge](https://img.shields.io/badge/TheKing-lnxpy-red.svg)
