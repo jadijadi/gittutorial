@@ -102,6 +102,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Jadi](https://jadi.net)
 - [Hossein 😊🤞](https://github.com/h-agharezaei)
 - [AmirRivand](https://github.com/amirrivand)
+- [Kian Bababi 😁](https://github.com/kian-babai)
 - [Mamad :smiley: ](https://github.com/mb1992fl8)
 - [Samrad :woman::life::freedom:](https://github.com/Bearcoder7)
 - [Ariyan :wrench:](https://github.com/B4NDT0)
