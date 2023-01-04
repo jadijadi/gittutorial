@@ -33,14 +33,15 @@ def encode_morse_code(text: str) -> str:
     morse_code = str()
 
     for char in text:
-
+        char = char.lower()
         if char not in ENCODE_DICT:
             print(f"I cannot encode the {char} character :(")
             quit()
 
-        morse_code += ENCODE_DICT[char]
+        morse_code += " "+ENCODE_DICT[char]
 
     return morse_code
+
 
 def decode_morse_code(morse_code: str) -> str:
     """
@@ -62,3 +63,19 @@ def decode_morse_code(morse_code: str) -> str:
         message += DECODE_DICT[code]
 
     return message
+
+
+if __name__ == "__main__":
+
+    user_selection = get_user_selection()
+
+    if user_selection == 1:
+        user_input = input("Enter your English text: ")
+        print(encode_morse_code(user_input))
+
+    elif user_selection == 2:
+        user_input = input("Enter your Morse code: ")
+        print(decode_morse_code(user_input))
+
+    else:
+        print("Please enter the correct choice!")
