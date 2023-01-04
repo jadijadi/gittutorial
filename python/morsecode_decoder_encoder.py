@@ -40,4 +40,25 @@ def encode_morse_code(text: str) -> str:
 
         morse_code += ENCODE_DICT[char]
 
-    return char
+    return morse_code
+
+def decode_morse_code(morse_code: str) -> str:
+    """
+    Convert the user's English text to Morse code.
+
+    param : text : user english text
+
+    retrun : morse code
+    """
+
+    message = str()
+
+    for code in morse_code.split(" "):
+
+        if code not in DECODE_DICT:
+            print(f"I cannot decode the {code} code :(")
+            quit()
+
+        message += DECODE_DICT[code]
+
+    return message
