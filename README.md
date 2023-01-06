@@ -39,6 +39,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Koorosh Komeilizadeh](https://github.com/kooroshkz)
 - [Bamdad Dashtban](https://github.com/bamdadd)
 - [Behnam Ebrahimi](https://github.com/behnam68engine)
+- [Mahdi Sharifi] (https://github.com/msharifi68)
 - [mohammad ramezani](https://github.com/mohramezani659)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
 - [Reza Kamali🤞](https://github.com/MRGando)
