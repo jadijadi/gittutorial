@@ -244,6 +244,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sadegh Hamedani :blush:](https://github.com/SgHmp97)
 - [Sahand :neutral_face:](https://github.com/sahandkarimkhani)
 - [Farhood Kavoosi](https://github.com/FarhoodKa)
+- [Moein Arabi](https://github.com/ILoveBacteria)
 - [Mohammad](https://github.com/maskroid)
 - [Mohammadreza Rezaei (Haji Mammad)](https://github.com/MrRezaei)
 - [Erfan Nourian 2️⃣3️⃣](https://github.com/ErfanNourian)
