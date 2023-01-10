@@ -19,6 +19,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mostafa Moafi 🖤](https://github.com/Mostafa-Moafi)
 - [MR-Amoori 👨🏻‍💻 :D](https://github.com/MR-Amoori)
 - [Mahdi Ebrahimi🤞](https://github.com/dev-ir)
+- [Hoodad](https://github.com/hoodaddeveloper)
 - [Redder](https://github.com/redder123)
 - [Alir3za :)](https://github.com/Alir3zaKazemi)
 - [M2N76 🐺](https://github.com/M2N76)
