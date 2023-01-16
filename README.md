@@ -91,6 +91,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hossein-Developer :wolf:](https://github.com/Hossein-Haghshenas)
 - [MicRoB 🔰](https://github.com/ALI161)
 - [Sayed Mahmood Hosseini:blue_heart:](https://github.com/smahmoodh/)
+- [Zahra Taghipour :v: :dove:](https://github.com/Zahra-T)
 - [Amir.H.Shirzad:sunglasses::computer:](https://github.com/Amir-H-Shzd)
 - [Mina Moeini ](https://github.com/Mina-Moeini)
 - [Sonya](https://github.com/SonyaCore)
