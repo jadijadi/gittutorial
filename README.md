@@ -12,6 +12,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
   
+- [Akbar Asghari🤞](https://github.com/akbarasghari)
 - [ralia79 😍](https://github.com/ralia79)
 - [Morteza Omidian 😍](https://github.com/morteza1131)
 - [Vahid Mashmooli](https://github.com/vmashmooli)
@@ -20,10 +21,12 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mostafa Moafi 🖤](https://github.com/Mostafa-Moafi)
 - [MR-Amoori 👨🏻‍💻 :D](https://github.com/MR-Amoori)
 - [Mahdi Ebrahimi🤞](https://github.com/dev-ir)
+- [Junhao Song🌺](https://github.com/Rqcker)
 - [Redder](https://github.com/redder123)
 - [Alir3za :)](https://github.com/Alir3zaKazemi)
 - [M2N76 🐺](https://github.com/M2N76)
 - [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
+- Thank you for care about humanity, honor and Iran :heart:.[Farzam Raoufi](https://github.com/farzam-raoufi)
 - [Amir Salehi](https://github.com/amiryxe)
 - [Amin Komeili 😍🌺](https://github.com/Aminkomeili)
 - [Ali Mohammadnezhad 😍🌹](https://github.com/AliMohammadnezhad)
@@ -232,6 +235,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [amir :kissing_heart:](https://github.com/amirdy)
 - [Sajjad :v:](https://github.com/sssajjad007)
 - [CodoCodile](https://github.com/HoseinAbili/)
+- [fartaha](https://fartaha.github.io/)
 - [Sagheb Kohpayeh :bowtie::smile:](https://github.com/SaghebK)
 - [** MR.SEIFI **](https://github.com/mr-seifi)
 - [AlirezA :trollface: ](https://github.com/bojbaj)
