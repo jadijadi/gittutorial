@@ -105,6 +105,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Vahid Ajorloo😎](https://github.com/vahidajorloo)
 - [MrKataei](https://github.com/mrkataei)
 - [**Seyyed Ali Moosavi** :fire:](https://github.com/sAlim0820)
+- [**Sajjad maneshi** 😊](https://github.com/sajjadmaneshi)
 - [Jadi](https://jadi.net)
 - [Hossein 😊🤞](https://github.com/h-agharezaei)
 - [AmirRivand](https://github.com/amirrivand)
