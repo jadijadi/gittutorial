@@ -231,6 +231,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [amir :kissing_heart:](https://github.com/amirdy)
 - [Sajjad :v:](https://github.com/sssajjad007)
 - [CodoCodile](https://github.com/HoseinAbili/)
+- [fartaha](https://fartaha.github.io/)
 - [Sagheb Kohpayeh :bowtie::smile:](https://github.com/SaghebK)
 - [** MR.SEIFI **](https://github.com/mr-seifi)
 - [AlirezA :trollface: ](https://github.com/bojbaj)
