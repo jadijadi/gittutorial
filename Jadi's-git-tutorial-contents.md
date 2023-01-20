@@ -19,12 +19,17 @@
     > <p dir="rtl" align="right">افزودن فایل به git</p>
 
 - git add -A
+    > <p dir="rtl" align="right">افزودن همه فایل‌ها به git</p>
+    
 - git add .
-    > <p dir="rtl" align="right">اضافه کردن همه فایل‌ها به git</p>
+    > <p dir="rtl" align="right">اضافه کردن همه فایل‌های دایرکتوری فعلی به git</p>
     
 - git log
     > <p dir="rtl" align="right">commit ها را نمایش میدهد</p>
     
+- git log --oneline -N
+    > <p dir="rtl" align="right">تعداد N کامیت آخر را به صورت تک خطی نشان می‌دهدد(بجای N، عدد وارد شود)</p>
+
 - git commit -m "Title"
     > <p dir="rtl" align="right">کامیت کردن تغییرات با عنوان</p>
 
