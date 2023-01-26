@@ -231,6 +231,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Morteza Heydari](https://github.com/MortezaHeydari97)
 - [Reza Kargar :v::sunglasses:](https://github.com/RezaKargar)
 - [Mahdyar](https://github.com/mahdyar)
+- [Ali Dorosti](https://github.com/Alidrsti)
 - [Sorg 🔭🛸](https://github.com/Sir-Sorg)
 - [Amir Mohsen](https://github.com/amirmohsen1384)
 - [sepehr](https://github.com/sepehrmizani)
