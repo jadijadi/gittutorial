@@ -37,6 +37,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Parisan Ahmadi:gem:](https://github.com/parisa-ahmadi)
 - [Ali Jafari 😃](https://github.com/alijafari79)
 - [Ali Aghadadashi :)](https://github.com/aliagh11)
+- [Masoud Bahamin ](https://github.com/masoud-bahamin)
 - [мαмαℓι ☺️](https://github.com/mjavadnasr)
 - [Alireza🤞](https://github.com/ORNI4S)
 - [**sheikh** :collision:](https://github.com/sheikhoo)
