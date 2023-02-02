@@ -498,7 +498,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Persix :v::dizzy_face:](https://github.com/persix2)
 - [Zahra :feelsgood::heart:](https://github.com/ZahraMor)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
-- [hjt Ghasemi :hatching_chick:](https://github.com/htj-ghasemi)
+- [hojat Ghasemi :hatching_chick:](https://github.com/hjt-ghasemi)
 - [Ali Zahedzadeh😃](https://github.com/alizahedzadeh)
 - [Amir_salmani](https://github.com/amirsalmanii)
 - [Reza Shahnazar :eyes:](https://github.com/rezashahnazar)
