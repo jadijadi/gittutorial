@@ -14,7 +14,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 - [MohammadReza Shahbazi](https://github.com/mohammadreza99)
 - [MrMiM](https://github.com/MrMiM-tfe)
-- [Mary 🔥](https://github.com/maryhbb) 
+- [Mary 🔥](https://github.com/maryhbb)
 - [Akbar Asghari🤞](https://github.com/akbarasghari)
 - [ralia79 😍](https://github.com/ralia79)
 - [Morteza Omidian 😍](https://github.com/morteza1131)
@@ -114,6 +114,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
 - [Vahid Ajorloo😎](https://github.com/vahidajorloo)
 - [MrKataei](https://github.com/mrkataei)
+- [Sepehr Heydari :computer: :alien: ](https://github.com/SepHeidari)
 - [**Seyyed Ali Moosavi** :fire:](https://github.com/sAlim0820)
 - [**Sajjad maneshi** 😊](https://github.com/sajjadmaneshi)
 - [Jadi](https://jadi.net)
