@@ -49,6 +49,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**sheikh** :collision:](https://github.com/sheikhoo)
 - [Behzad](https://github.com/Behzadm42)
 - [**Mohammad Tavakoli** :sunglasses::fire:](https://github.com/pypyKid)
+- [**Lonely_Amie**](https://github.com/LonelyAmie)
 - [aliagh11](https://github.com/aliagh11)
 - [Mahdiyar 💀](https://github.com/HDK20)
 - [Koorosh Komeilizadeh](https://github.com/kooroshkz)
