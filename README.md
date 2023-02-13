@@ -12,6 +12,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 
+- [Ajax😐☠️](https://github.com/ajax9039)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [Milad Rezaei:skull::scorpius:](https://github.com/miladstar77)
 - [Cloner93   :smile: ](https://github.com/cloner93)
