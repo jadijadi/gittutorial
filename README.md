@@ -33,6 +33,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [⚜Amirhosein Saghafy⚜](https://github.com/Amirhosein-Saghafy)
 - [Mahdi Ebrahimi🤞](https://github.com/dev-ir)
 - [Junhao Song🌺](https://github.com/Rqcker)
+- [Saeed Zahedi](https://github.com/Saeed-Zahedi)
 - [Redder](https://github.com/redder123)
 - [Alir3za :)](https://github.com/Alir3zaKazemi)
 - [M2N76 🐺](https://github.com/M2N76)
