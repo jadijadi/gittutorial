@@ -30,6 +30,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahyar Ershad ✌️ #Women_Life_Freedom ✌️](https://github.com/mahyarErshad)
 - [Mostafa Moafi 🖤](https://github.com/Mostafa-Moafi)
 - [MR-Amoori 👨🏻‍💻 :D](https://github.com/MR-Amoori)
+- [AlirezaAbd 😎](https://github.com/0AliReza0)
 - [Armin Amiri Nasab 👨‍💻🖤](https://github.com/arminamirinasab)
 - [⚜Amirhosein Saghafy⚜](https://github.com/Amirhosein-Saghafy)
 - [Mahdi Ebrahimi🤞](https://github.com/dev-ir)
