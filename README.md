@@ -346,7 +346,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammadreza Soltani :sunglasses: ](https://github.com/mrzasoltani)
 - [Ahura](https://github.com/ahSiber/)🤌😁
 - [Sinhx :zzz: ](https://github.com/sinushx)
-- [Mammad Pariab](https://github.com/jkmpariab)
+- [Mammad Pariab]()
+- [AliReza :heart:](https://github.com/CE1381)
 - [esmokes :coffee:](https://github.com/esmokes17)
 - [Pulkit](https://github.com/pulkitrock1921)
 - [Mohammad Sadegh](https://github.com/mohammadshg84) 😀
