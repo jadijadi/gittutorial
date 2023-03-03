@@ -4,7 +4,7 @@
 
 > نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا اول یا آخر لیست
 
-This is a repo for testing your git abilities. try to add your name to this file
+This is a repo for testing your git abilities. try to add your name to this file xxx
 
 `- [Yourname](your github profile url)`
 
