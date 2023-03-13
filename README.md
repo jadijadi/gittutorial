@@ -22,6 +22,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [MrMiM](https://github.com/MrMiM-tfe)
 - [Mary 🔥](https://github.com/maryhbb)
 - [Shervin Badanara](https://github.com/shervinbdndev)
+- [Mahdi Mashayekhi :heartbeat::whale:](https://github.com/MahdiMashayekhi-AI)
 - [Akbar Asghari🤞](https://github.com/akbarasghari)
 - [Mohamad Mohamadi 😁](https://github.com/mohamadmohamadi79)
 - [ralia79 😍](https://github.com/ralia79)
