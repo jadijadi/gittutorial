@@ -91,7 +91,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Rostami](https://github.com/mohammadrostamiorg)
 - [Ali\_\_Irani :computer:](https://github.com/aliIRI)
 - [Hosein Laki , I love python](https://github.com/hosein-1)
-- [Seyed Soheil Amini](https://github.com/seyedSoheil)
+- [Seyed Soheil Amini](https://github.com/Seyed-Soheil-Amini)
 - [αℓι 🔥](https://github.com/alidehkhodaei)
 - [korosh eskandari](https://github.com/korosh526):heart:
 - [mohammadreza yousefi](https://github.com/mrezayousefi)
