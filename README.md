@@ -218,6 +218,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Jam](https://github.com/Jam-Hejrati)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
 - [**Mostafa**:heart:](https://github.com/m0st4f4)
+- [Amir Hamzeh Shahreki 🗿](https://github.com/AmirHamzeSh)
 - [mamali 💻❤️](https://github.com/mjavadnasr)
 - With regards [:computer: Ray :computer:](https://github.com/1MahdiR)
 - [_AlirezAE_](https://github.com/AlirezaRezaie)
