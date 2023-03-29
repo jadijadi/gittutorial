@@ -80,6 +80,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Maher 💯💯](https://github.com/Amirho3eini)
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
 - [Ali Zarshenas :octocat:](https://github.com/siza36)
+- [Hamideh Kazemi](https://github.com/hmkazemi)
 - [Hamidreza Karimi :non-potable_water:](https://github.com/fatwwa)
 - [Milad Isaei 🤞🤞🤞 Jesus Birth](https://github.com/miladisaei)
 - [saba 🌺 ](https://github.com/saba0909)
