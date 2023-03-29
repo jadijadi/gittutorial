@@ -28,6 +28,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Akbar Asghari🤞](https://github.com/akbarasghari)
 - [Mohamad Mohamadi 😁](https://github.com/mohamadmohamadi79)
 - [ralia79 😍](https://github.com/ralia79)
+- [Hamideh Kazemi]
 - [Morteza Omidian 😍](https://github.com/morteza1131)
 - [Vahid Mashmooli](https://github.com/vmashmooli)
 - [Mohsen Khademian 💀🖤](https://github.com/Mohsenkhademian)
@@ -79,6 +80,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Maher 💯💯](https://github.com/Amirho3eini)
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
 - [Ali Zarshenas :octocat:](https://github.com/siza36)
+- [Hamideh Kazemi](https://github.com/hmkazemi)
 - [Hamidreza Karimi :non-potable_water:](https://github.com/fatwwa)
 - [Milad Isaei 🤞🤞🤞 Jesus Birth](https://github.com/miladisaei)
 - [saba 🌺 ](https://github.com/saba0909)
