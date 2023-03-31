@@ -12,6 +12,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 
+- [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
 - [Ajax😐☠️](https://github.com/ajax9039)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
