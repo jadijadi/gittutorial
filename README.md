@@ -15,6 +15,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
 - [Parsa Soorsoori](https://github.com/gwparsa)
+- [Hamideh Kazemi :heart:](https://github.com/hmkazemi)
 - [Ajax😐☠️](https://github.com/ajax9039)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [Milad Rezaei:skull::scorpius:](https://github.com/miladstar77)
