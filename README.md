@@ -11,7 +11,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
-- [ hamideh kazemi :cry: ](https://github.com/hmkazemi)
+
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
 - [Parsa Soorsoori](https://github.com/gwparsa)
@@ -31,7 +31,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Akbar Asghari🤞](https://github.com/akbarasghari)
 - [Mohamad Mohamadi 😁](https://github.com/mohamadmohamadi79)
 - [ralia79 😍](https://github.com/ralia79)
-- [Hamideh Kazemi]
 - [Morteza Omidian 😍](https://github.com/morteza1131)
 - [Vahid Mashmooli](https://github.com/vmashmooli)
 - [Mohsen Khademian 💀🖤](https://github.com/Mohsenkhademian)
@@ -118,7 +117,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Mahdi Hosseini](https://github.com/Mohammad-Mahdi-Hosseini)
 - [Hesam Omidi :notes:](https://github.com/Tannisam)
 - [Ali sharify](https://github.com/alisharify7)
-- [Hamideh Kazemi 😊] test
 - [fateme barbod✔😊](https://github.com/fatemebarbod)
 - [Mehdi Sharif :heart:](https://github.com/pardaad/)
 - [ shahram Khandagi ](https://github.com/ShahramKhandagi)
