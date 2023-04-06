@@ -53,7 +53,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
 - Thank you for care about humanity, honor and Iran :heart:.[Farzam Raoufi](https://github.com/farzam-raoufi)
 - [Amir Salehi](https://github.com/amiryxe)
-- [montelooka :)](https://github.com/montelooka)
+- [montelooka 😍](https://github.com/montelooka)
 - [Amin Komeili 😍🌺](https://github.com/Aminkomeili)
 - [Ali Mohammadnezhad 😍🌹](https://github.com/AliMohammadnezhad)
 - [Parisan Ahmadi:gem:](https://github.com/parisa-ahmadi)
