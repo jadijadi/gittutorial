@@ -10,7 +10,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
-# List of people who know git
+# List  of people who know git
 
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
