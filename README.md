@@ -35,6 +35,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Vahid Mashmooli](https://github.com/vmashmooli)
 - [Mohsen Khademian 💀🖤](https://github.com/Mohsenkhademian)
 - [Reza Asgharzadeh ❤️😎](https://github.com/reza-asgharzadeh)
+- [Hamideh kazemi 👨🏻‍💻😅](https://github.com/hmkazemi)
 - [Hosein Hobbi](https://github.com/HHobbi)
 - [Amirali Hosseini](https://github.com/amirali-hosseini)
 - [Mahyar Ershad ✌️ #Women_Life_Freedom ✌️](https://github.com/mahyarErshad)
