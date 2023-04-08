@@ -20,6 +20,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [Milad Rezaei:skull::scorpius:](https://github.com/miladstar77)
 - [Cloner93   :smile: ](https://github.com/cloner93)
+- [Mahsa Hosseini 👩‍💻😍](https://github.com/misshosseini)
 - [Arvin sinister :)](https://github.com/RVNSINISTER)
 - [MohammadReza Shahbazi](https://github.com/mohammadreza99)
 - [Hojat Ansari 😎🔥](https://github.com/Hojat444)
