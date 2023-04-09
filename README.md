@@ -97,6 +97,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [## Ali Takrimi ## :relaxed:](https://github.com/AliTakrimi)
 - [Neo :relaxed:](https://github.com/neomn)
 - [Mohammad Rostami](https://github.com/mohammadrostamiorg)
+- [CliAli :ghost:](https://github.com/cliali)
 - [Ali\_\_Irani :computer:](https://github.com/aliIRI)
 - [Hosein Laki , I love python](https://github.com/hosein-1)
 - [Seyed Soheil Amini](https://github.com/Seyed-Soheil-Amini)
