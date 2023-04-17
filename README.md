@@ -608,4 +608,5 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Behzad bluekian](https://github.com/alijkdkar)
 - [Javad Rajabzadeh](https://github.com/Ja7ad)
 - [Niloofar Arazkhani](https://github.com/narzk)
+- [Torham :)](https://github.com/TorhamDev)
 - [LogicLeon](https://github.com/LogicLeon)
