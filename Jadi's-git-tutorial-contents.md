@@ -1,7 +1,7 @@
 # __Jadi's GIT tutorial contents__
 # List of git commands
 - git config 
-    > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
+    > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسنده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
 
 - git config --global user.name "UserName"
     > <p dir="rtl" align="right">برای تنظیمات یوزر نیم استفاده میشود. و در قدم اول بعد از نصب گیت به کار می رود</p>
@@ -42,6 +42,8 @@
 - git status
     > <p dir="rtl" align="right">نمایش وضعیت</p>
 
+- git clean
+    > <p dir="rtl" align="right">حذف فایل های track نشده توسط گیت</p>
 - git reset fileName
     > <p dir="rtl" align="right">خارج کردن فایل از حالت stage</p>
 
