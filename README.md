@@ -12,8 +12,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 
-- [Jadi](https://jadi.net)
-- [jadijadi](https://github.com/jadijadi)
+- [Jadi ❤️](https://jadi.net)
+- [jadijadi ❤️](https://github.com/jadijadi)
 - [mdabagh](https://github.com/mdabagh)
 - [Mohammadhossein Asadi 🎯](https://github.com/mohammadhossein-asadi)
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
