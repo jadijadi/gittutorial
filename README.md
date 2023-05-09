@@ -12,6 +12,9 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 
+- [Jadi ❤️](https://jadi.net)
+- [jadijadi ❤️](https://github.com/jadijadi)
+- [mdabagh](https://github.com/mdabagh)
 - [Mohammadhossein Asadi 🎯](https://github.com/mohammadhossein-asadi)
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
@@ -148,7 +151,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sepehr Heydari :computer: :alien: ](https://github.com/SepHeidari)
 - [**Seyyed Ali Moosavi** :fire:](https://github.com/sAlim0820)
 - [**Sajjad maneshi** 😊](https://github.com/sajjadmaneshi)
-- [Jadi](https://jadi.net)
 - [Sina](https://github.com/SinaTajikJS)
 - [Hossein 😊🤞](https://github.com/h-agharezaei)
 - [AmirRivand](https://github.com/amirrivand)
