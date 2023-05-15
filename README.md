@@ -12,6 +12,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 
+- [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
 - [Jadi ❤️](https://jadi.net)
 - [jadijadi ❤️](https://github.com/jadijadi)
 - [mdabagh](https://github.com/mdabagh)
