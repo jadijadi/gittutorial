@@ -11,13 +11,20 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
+- [Jadi ❤️](https://jadi.net)
+- [jadijadi ❤️](https://github.com/jadijadi)
+- [mdabagh](https://github.com/mdabagh)
 - [Mohammadhossein Asadi 🎯](https://github.com/mohammadhossein-asadi)
+- [Mahdi Peydai](https://github.com/MahdiPeydai)
+- [Jalal Azam Sadeghi :thumbsup:](https://github.com/jalalsadeghi) 
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
 - [Amirabbasjadidi🐼😃](https://github.com/Amirabbasjadidi/)
 - [Parsa Soorsoori](https://github.com/gwparsa)
 - [Ajax😐☠️](https://github.com/ajax9039)
+- [Ila Itayad3h](https://github.com/ilaitayad3h)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [Milad Rezaei:skull::scorpius:](https://github.com/miladstar77)
 - [Cloner93   :smile: ](https://github.com/cloner93)
@@ -35,6 +42,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohamad Mohamadi 😁](https://github.com/mohamadmohamadi79)
 - [ralia79 😍](https://github.com/ralia79)
 - [Morteza Omidian 😍](https://github.com/morteza1131)
+- [Shaly 🐙](https://github.com/ShalyDev)
 - [Vahid Mashmooli](https://github.com/vmashmooli)
 - [Mohsen Khademian 💀🖤](https://github.com/Mohsenkhademian)
 - [Reza Asgharzadeh ❤️😎](https://github.com/reza-asgharzadeh)
@@ -148,7 +156,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sepehr Heydari :computer: :alien: ](https://github.com/SepHeidari)
 - [**Seyyed Ali Moosavi** :fire:](https://github.com/sAlim0820)
 - [**Sajjad maneshi** 😊](https://github.com/sajjadmaneshi)
-- [Jadi](https://jadi.net)
 - [Sina](https://github.com/SinaTajikJS)
 - [Hossein 😊🤞](https://github.com/h-agharezaei)
 - [AmirRivand](https://github.com/amirrivand)
@@ -603,6 +610,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AliReza Ghenaatiyan](https://github.com/ar894u) 😉
 - [Mohammad Mahdi Heidari #jadi #free_jadi #جادی](https://github.com/mohamad-mahdi-heidari)
 - [ata babaei sarijalou #jadi #free_jadi #جادی](https://github.com/sarijalou)
+- [Hossein Pargoli :space_invader:](https://github.com/hossein-pargoli)
 - [Reza Maghami](https://github.com/mehrbat)
 - [Parsa Mehdipour](https://github.com/ParsaMehdipour) 🎮
 - [Mehran Mazhar](https://github.com/MehranMazhar)
