@@ -97,7 +97,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [MohammadReza Chv](https://github.com/MohammadrezaChv)
 - [Farshad Asadpour :sunglasses:](https://github.com/farshadasadpour)
 - [rmoghadam 💻❤️](https://github.com/chromer030)
-- [Alireza](https://github.com/arj654): I attended in your course @faradars. Your generosity in sharing knowledge encouraged me to follow programming field. You are the best. I wish the best for you and a free democratic Iran. #مهسا امینی #زن_زندگی_آزادی :heart: 
+- [Alireza](https://github.com/arj654) 
 - [AmirHassan :bicyclist:](https://github.com/amir-hassan)
 - [hosseinzare 😍](https://github.com/hossinzare)
 - [Salehn :sunglasses:](https://github.com/Realsaleh)
