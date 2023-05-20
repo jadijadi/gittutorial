@@ -23,6 +23,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
 - [Amirabbasjadidi🐼😃](https://github.com/Amirabbasjadidi/)
 - [Parsa Soorsoori](https://github.com/gwparsa)
+- [elis masoodi](https://github.com/elis85)
 - [Ajax😐☠️](https://github.com/ajax9039)
 - [Ila Itayad3h](https://github.com/ilaitayad3h)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
