@@ -626,3 +626,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Niloofar Arazkhani](https://github.com/narzk)
 - [Torham :)](https://github.com/TorhamDev)
 - [LogicLeon](https://github.com/LogicLeon)
+- [Hadimf💻](https://github.com/hadimf)
