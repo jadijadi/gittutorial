@@ -20,6 +20,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Elis Masoodi](https://github.com/elis85)
 - [mdabagh](https://github.com/mdabagh)
 - [Mohammadhossein Asadi 🎯](https://github.com/mohammadhossein-asadi)
+- [Mousa Pashaee](https://github.com/mousa-1983)
 - [Mahdi Peydai](https://github.com/MahdiPeydai)
 - [Jalal Azam Sadeghi :thumbsup:](https://github.com/jalalsadeghi) 
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
