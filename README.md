@@ -16,6 +16,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Jadi ❤️](https://jadi.net)
 - [amir rahimi :) ](https://github.com/amirrahimii)
+- [Mousa Pashaee) ](https://github.com/mousa-1983)
 - [jadijadi ❤️](https://github.com/jadijadi)
 - [Elis Masoodi](https://github.com/elis85)
 - [mdabagh](https://github.com/mdabagh)
