@@ -33,6 +33,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arash Alghasi :wink:](https://github.com/arashalghasi)
 - [Milad Rezaei:skull::scorpius:](https://github.com/miladstar77)
 - [Cloner93   :smile: ](https://github.com/cloner93)
+- [Alireza Abbasi 🖤 ](https://github.com/alirezaabbasi-dev)
 - [Mahsa Hosseini 👩‍💻😍](https://github.com/misshosseini)
 - [Arvin sinister :)](https://github.com/RVNSINISTER)
 - [MohammadReza Shahbazi](https://github.com/mohammadreza99)
