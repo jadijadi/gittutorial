@@ -92,6 +92,9 @@
 - git branch -d branchName
     > <p dir="rtl" align="right">حذف شاخه</p>
 
+- git branch -M branchName
+    > <p dir="rtl" align="right">ایجاد شاخه اصلی بجای شاخه مستر</p>
+
 - git push origin master
     > <p dir="rtl" align="right">شاخه master را به origin ارسال می کند</p>
 
