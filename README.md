@@ -18,6 +18,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [pouria](https://github.com/pouriahashtroudi)
 - [amir rahimi :) ](https://github.com/amirrahimii)
 - [jadijadi ❤️](https://github.com/jadijadi)
+- [Awolez](https://github.com/awolez)
 - [Elis Masoodi](https://github.com/elis85)
 - [mdabagh](https://github.com/mdabagh)
 - [Mohammadhossein Asadi 🎯](https://github.com/mohammadhossein-asadi)
