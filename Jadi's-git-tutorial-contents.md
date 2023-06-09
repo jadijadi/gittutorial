@@ -1,7 +1,7 @@
 # __Jadi's GIT tutorial contents__
 # List of git commands
 - git config 
-    > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
+    > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسنده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
 
 - git config --global user.name "UserName"
     > <p dir="rtl" align="right">برای تنظیمات یوزر نیم استفاده میشود. و در قدم اول بعد از نصب گیت به کار می رود</p>
@@ -19,12 +19,17 @@
     > <p dir="rtl" align="right">افزودن فایل به git</p>
 
 - git add -A
+    > <p dir="rtl" align="right">افزودن همه فایل‌ها به git</p>
+    
 - git add .
-    > <p dir="rtl" align="right">اضافه کردن همه فایل‌ها به git</p>
+    > <p dir="rtl" align="right">اضافه کردن همه فایل‌های دایرکتوری فعلی به git</p>
     
 - git log
     > <p dir="rtl" align="right">commit ها را نمایش میدهد</p>
     
+- git log --oneline -N
+    > <p dir="rtl" align="right">تعداد N کامیت آخر را به صورت تک خطی نشان می‌دهدد(بجای N، عدد وارد شود)</p>
+
 - git commit -m "Title"
     > <p dir="rtl" align="right">کامیت کردن تغییرات با عنوان</p>
 
@@ -37,6 +42,8 @@
 - git status
     > <p dir="rtl" align="right">نمایش وضعیت</p>
 
+- git clean
+    > <p dir="rtl" align="right">حذف فایل های track نشده توسط گیت</p>
 - git reset fileName
     > <p dir="rtl" align="right">خارج کردن فایل از حالت stage</p>
 
