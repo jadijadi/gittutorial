@@ -21,6 +21,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Awolez](https://github.com/awolez)
 - [Elis Masoodi](https://github.com/elis85)
 - [mdabagh](https://github.com/mdabagh)
+- [Hossein Etedadi](https://github.com/HosseinEetedadi)
 - [Mohammadhossein Asadi 🎯](https://github.com/mohammadhossein-asadi)
 - [Mousa Pashaee](https://github.com/mousa-1983)
 - [Mahdi Peydai](https://github.com/MahdiPeydai)

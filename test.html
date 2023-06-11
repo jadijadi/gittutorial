@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+    #clk, #fall{
+        padding: 10px;
+        border: 2px;
+        background-color: brown;
+        text-align: center;
+        color: aqua;
+    }
+    #fall{
+        display: none;
+        border: solid 1px #c3c3c3;
+    }
+    .newclass{
+        font-size: large;
+        font-weight: bold;
+        border: solid 2px orange;
+        padding: 10px;
+        height: 10px;
+        width: 300px;
+    }   
+    .oldclass{
+        color: coral;
+    }
+    
+</style>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+<script>
+    $.noConflict();
+    jQuery(document).ready(function(){
+        jQuery("#btn1").click(function(){
+            jQuery("#p1").toggle();
+        });
+        jQuery("#btn2").click(function(){
+            jQuery("#p2").fadeToggle(1000);
+        });
+        jQuery("#clk").click(function(){
+            jQuery('#fall').slideToggle(1000);
+        });
+        jQuery("#box").click(function(){
+            jQuery(this).animate({left: '100px'}).animate({left: '500px'});
+        });
+        jQuery("#fall").click(function(){
+            jQuery(this).stop(function(){
+                alert("The expanding process has stoped");
+            });
+        });
+        jQuery("#btn3").click(function(){
+             alert(jQuery("#link").attr("href"));
+        });
+        jQuery("#btn4").click(function(){
+            jQuery("#change").html("<b> this message has changed!</b>");
+            jQuery("#input").val("this is a value");
+            jQuery("#link").attr("href", "https://www.quera.ir");
+        });
+        jQuery("#btn5").click(function(){
+            jQuery("#list").prepend("<li>this is fourth memeber</li>");
+        });
+        jQuery("#btn6").click(function(){
+            jQuery("#list").remove()
+        });
+        jQuery("#new").hover(function(){
+            jQuery(this).last().toggleClass("newclass");
+        });d
+        jQuery("#css").click(function(){
+            jQuery(this).css({"color":"red", "font-size":"large"});
+        });
+    });
+    
+</script>
+</head>
+<body>
+    <div id="clk">please clik here to more detail</div>
+    <div id="fall">Yeah, I'm more detail ;)</div>
+    <h1><b>This Page is about review of JQuery</b></h1>
+    <button id="btn1">Click here for toggle blow message</button>
+    <p id="p1">This passage is toggled!</p>
+    <br><br>
+    <button id="btn2">Click here for fadde blow message</button>
+    <p id="p2">This passage is fadded!</p>
+    
+    <br><br>
+    <button id="btn3">click here show below</button>
+    <p id="text">Everything is here :)</p>
+    <p><a href="https://google.com" id="link" >Link is here</a></p>
+    <br><br>
+    <button id="btn4">click here to change the passage</button>
+    <p id="change">first passage</p>
+    <p>input text: <input type="text" placeholder="search" id="input"></p>
+    <br><br>
+    <button id="btn5">click here for fourth element</button><button id="btn6">click here to remove below lists</button>
+    <ol id="list">
+        <li>this is the first element</li>
+        <li>this is the second element</li>
+        <li>this is the third element</li>
+    </ol>
+
+    <br><br>
+    <p id="new">hello I'm karim karimi:)</p>
+    <p id="css">this is css sample</p>
+    <br><br>
+    <div id="box" style="background:#98bf21;height:100px;width:100px;position:absolute;"></div>
+    <br><br>
+
+    
+</body>
+</html> 
