@@ -36,6 +36,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ajax😐☠️](https://github.com/ajax9039)
 - [Ila Itayad3h](https://github.com/ilaitayad3h)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [Kamran Tajerbashi :purple_heart:](https://github.com/KTajerbashi)
 - [Arash Alghasi :wink:](https://github.com/arashalghasi)
 - [Milad Rezaei:skull::scorpius:](https://github.com/miladstar77)
 - [Cloner93   :smile: ](https://github.com/cloner93)
