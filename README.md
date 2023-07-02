@@ -130,6 +130,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [CliAli :ghost:](https://github.com/cliali)
 - [Ali\_\_Irani :computer:](https://github.com/aliIRI)
 - [Hosein Laki , I love python](https://github.com/hosein-1)
+- [Mahdi Touiser :wink:](https://github.com/MahdiTouiser)
 - [Seyed Soheil Amini](https://github.com/Seyed-Soheil-Amini)
 - [αℓι 🔥](https://github.com/alidehkhodaei)
 - [korosh eskandari](https://github.com/korosh526):heart:
