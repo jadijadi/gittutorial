@@ -86,6 +86,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Salehi](https://github.com/amiryxe)
 - [montelooka 😍](https://github.com/montelooka)
 - [PedramPM8 🐼👨🏻‍💻](https://github.com/pedrampm8)
+- [Armin Kraken ](https://github.com/ArminKraken)
 - [Amin Komeili 😍🌺](https://github.com/Aminkomeili)
 - [Ali Mohammadnezhad 😍🌹](https://github.com/AliMohammadnezhad)
 - [Parisan Ahmadi:gem:](https://github.com/parisa-ahmadi)
