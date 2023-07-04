@@ -33,6 +33,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
 - [Amirabbasjadidi🐼😃](https://github.com/Amirabbasjadidi/)
+- [AlirezaNjR](https://github.com/AlirezaNjR/)
 - [Parsa Soorsoori](https://github.com/gwparsa)
 - [elis masoodi](https://github.com/elis85)
 - [Ajax😐☠️](https://github.com/ajax9039)
