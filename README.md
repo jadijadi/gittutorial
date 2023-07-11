@@ -29,6 +29,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mousa Pashaee](https://github.com/mousa-1983)
 - [Mahdi Peydai](https://github.com/MahdiPeydai)
 - [Alireza Abbasi 🖤](https://github.com/alirezaabbasi-dev)
+- [S.Abolfazl Eftekhari :alien:](https://github.com/SeydEf)
 - [Jalal Azam Sadeghi :thumbsup:](https://github.com/jalalsadeghi) 
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
