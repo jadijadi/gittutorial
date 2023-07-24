@@ -557,6 +557,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Hossein Zamani Nasab**:thought_balloon: :one::zero::six:](https://github.com/hosseinzamaninasab)
 - [Mohammad Ziaei :computer:](https://github.com/mhdan)
 - [SAMashiyane]
+- [PouryaKillsound :fire:](https://github.com/Pouryakillsound)
 - [Amirabbas-k](https://github.com/Amirabbas-K)
 - [**_Sarach_** :sunglasses:](https://github.com/Sarach-git)
 - [Sirmirzaei :heavy_check_mark:](https://github.com/sirmirzaei)
