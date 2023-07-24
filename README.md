@@ -52,6 +52,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Cloner93   :smile: ](https://github.com/cloner93)
 - [Mahsa Hosseini 👩‍💻😍](https://github.com/misshosseini)
 - [Arvin sinister :)](https://github.com/RVNSINISTER)
+- [S.Abolfazl Eftekhari 👽](https://github.com/SeydEf)
 - [MohammadReza Shahbazi](https://github.com/mohammadreza99)
 - [Hojat Ansari 😎🔥](https://github.com/Hojat444)
 - [Hossein_Asadi ✌️](https://github.com/HosseinAsadi)
