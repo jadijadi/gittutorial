@@ -23,6 +23,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amin Farahbakhsh](https://github.com/farahbakhsh3)
 - [pouria](https://github.com/pouriahashtroudi)
 - [Pourya Kamyarfard ❤️](https://github.com/wwindux)
+- [Mohammad Saeed 🧙‍♂️](https://github.com/mohammadsaeed097)
 - [amir rahimi :) ](https://github.com/amirrahimii)
 - [jadijadi ❤️](https://github.com/jadijadi)
 - [Hossein Etedadi](https://github.com/HosseinEetedadi)
