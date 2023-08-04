@@ -325,6 +325,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [amir noori](https://github.com/amirnoori6454)
 - [Kazem](https://github.com/kazem0kamali)
 - [MasMooG](https://github.com/MasuodSamarin)
+- [Mahdi Mohamadiha](https://github.com/mahdimohamadiha)
 - [mhnp](https://github.com/mnakhaei)
 - [Farhadmpr :smirk: ](http://farhadm.ir)
 - [Farzad](https://github.com/f-a-r-z-a-d)
