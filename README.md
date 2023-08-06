@@ -594,6 +594,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [hojat Ghasemi :hatching_chick:](https://github.com/hjt-ghasemi)
 - [Ali Zahedzadeh😃](https://github.com/alizahedzadeh)
 - [Amir_salmani](https://github.com/amirsalmanii)
+- [Ehsan Yazdani 😊] (https://github.com/ehsanyaz)
 - [Reza Shahnazar :eyes:](https://github.com/rezashahnazar)
 - [safoora1986 :computer: :heart_eyes:](https://github.com/safoora1986)
 - [AmirJEY:neckbeard:](https://github.com/AmirJey)
