@@ -333,7 +333,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Farhadmpr :smirk: ](http://farhadm.ir)
 - [Farzad](https://github.com/f-a-r-z-a-d)
 - [Mohsen Haeri](https://github.com/tabib2m)
-- [orphic🚬️🚬️](https://github.com/orphick)
+- [Orphic 🚬️🚬️ ](https://github.com/orphick)
 - [amir :kissing_heart:](https://github.com/amirdy)
 - [Sajjad :v:](https://github.com/sssajjad007)
 - [Saman Samadi🎶](https://github.com/samansamadi)
