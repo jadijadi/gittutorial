@@ -74,6 +74,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohsen Khademian 💀🖤](https://github.com/Mohsenkhademian)
 - [Reza Asgharzadeh ❤️😎](https://github.com/reza-asgharzadeh)
 - [Hamideh kazemi 👨🏻‍💻😅](https://github.com/hmkazemi)
+- [Masoud Nazari](https://github.com/MasoudNazarii) :smiley:
 - [Hosein Hobbi](https://github.com/HHobbi)
   [mohammad pirzadeh](https://github.com/mohammadpirzadeh)
 - [Amirali Hosseini](https://github.com/amirali-hosseini)

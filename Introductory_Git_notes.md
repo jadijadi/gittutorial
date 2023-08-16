@@ -34,7 +34,7 @@ Git is a Control version software. It's very usefull for control the changes in 
 
 ``` git status ``` : Shows situation of files in folder (whether untracked, or had been modified or ready to commit)
 
-``` git log ``` : Show all the changes (including commits, changes and so on) with user, its message, and coomit time. Every commit has a unique **hash**.
+``` git log ``` : Show all the changes (including commits, changes and so on) with user, its message, and commit time. Every commit has a unique **hash**.
 
 ```git show Hash``` : Show details of each commit with hash of Hash. 
 
