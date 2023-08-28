@@ -110,6 +110,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Reza Zabihi Rad]((https://github.com/reza_zabihi_rad)
 - [Sina Zare :thumbsup:](https://github.com/sina-zr)
 - [Ali Aghadadashi :)](https://github.com/aliagh11)
+- [Fayaz Ghasemi ;)](https://github.com/phayazz)
 - [Masoud Bahamin ](https://github.com/masoud-bahamin)
 - [мαмαℓι ☺️](https://github.com/mjavadnasr)
 - [Hosseinali🤞](https://gist.github.com/iamhosseinali) love u jadi :heart:
