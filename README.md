@@ -287,6 +287,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mamali 💻❤️](https://github.com/mjavadnasr)
 - With regards [:computer: Ray :computer:](https://github.com/1MahdiR)
 - [_AlirezAE_](https://github.com/AlirezaRezaie)
+- [Nima Hmz](https://github.com/Nima-Hmz)
 - [Mohammad Hasan](https://github.com/masanmola)
 - [sepehrb98 :tophat: :crystal_ball:](https://github.com/sepehrb98)
 - - [**Yashar Azarsaeid** :sunglasses::fire:](https://github.com/iyashar)
