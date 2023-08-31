@@ -680,3 +680,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [malihebojnordi:)](https://github.com/malihebojnordi)
 - [Atefeh Mohib](https://github.com/atefehMohib)
 - Thanks a bunch Jadi [Ali Hamidzadeh :sunglasses:](https://github.com/alihamidzadeh)
+- [Arian soltani](https://github.com/Arian1-dev)
