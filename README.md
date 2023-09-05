@@ -44,6 +44,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Erfan Nikan](https://github.com/erfannikan).
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
 - [Amirabbasjadidi🐼😃](https://github.com/Amirabbasjadidi/)
+- [EnAnsari 🚀⚡](https://github.com/EnAnsari)
 - [AlirezaNjR](https://github.com/AlirezaNjR/)
 - [Parsa Soorsoori](https://github.com/gwparsa)
 - [elis masoodi](https://github.com/elis85)
