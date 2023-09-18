@@ -22,6 +22,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Erfan Farahbakhsh](https://github.com/thatserfan)
 - [Soheyl Farzane 😍](https://github.com/soheylfarzane)
 - [Mohammadreza ShahriyarKeshe***](https://github.com/mohammadrezashsk)
+- [AmirReza Delir 💻](https://github.com/AmirRezaDelir)
 - [Amin Farahbakhsh](https://github.com/farahbakhsh3)
 - [pouria](https://github.com/pouriahashtroudi)
 - [Pourya Kamyarfard ❤️](https://github.com/wwindux)
