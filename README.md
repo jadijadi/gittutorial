@@ -20,6 +20,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mamad Mehrabi Rad](https://github.com/OnlyRad)
 - [Erfan Farahbakhsh](https://github.com/thatserfan)
 - [Soheyl Farzane 😍](https://github.com/soheylfarzane)
+- [Nima Eradi❤️](https://github.com/nima91202)
 - [Mohammadreza ShahriyarKeshe***](https://github.com/mohammadrezashsk)
 - [Amin Farahbakhsh](https://github.com/farahbakhsh3)
 - [pouria](https://github.com/pouriahashtroudi)
