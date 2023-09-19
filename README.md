@@ -39,6 +39,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahdi Peydai](https://github.com/MahdiPeydai)
 - [Alireza Abbasi 🖤](https://github.com/alirezaabbasi-dev)
 - [_iliro_](https://github.com/iliro6)
+- [ParsaJR](https://github.com/ParsaJR)
 - [Jalal Azam Sadeghi :thumbsup:](https://github.com/jalalsadeghi) 
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Erfan Nikan](https://github.com/erfannikan).
