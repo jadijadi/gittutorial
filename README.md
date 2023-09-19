@@ -30,6 +30,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [BazarganDev ❤️](https://github.com/BazarganDev)
 - [Hossein Etedadi](https://github.com/HosseinEetedadi)
 - [Awolez](https://github.com/awolez)
+- [Reyhane Shahrokhian](https://github.com/reyhaneshahrokhian)
 - [Elis Masoodi](https://github.com/elis85)
 - [mdabagh](https://github.com/mdabagh)
 - [Saeed Barari](https://github.com/Saeedb021)
