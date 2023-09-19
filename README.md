@@ -11,7 +11,6 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
-
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
 - [afsartala](https://github.com/aafsartala)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
@@ -275,7 +274,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hassan khodabakhshi :gem: :gem: :gem: :gem: :gem:](https://github.com/hassankhodabakhshi)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
 - [**zhitoo**:stuck_out_tongue_winking_eye::stuck_out_tongue::kissing_heart:](https://github.com/zhitoo)
-- [razyar](https://github.com/razyar)
+- [razyar](https://github.com/razyar) 
 - [Erfan](https://github.com/flydeoo)
 - [sheracore](https://github.com/sheracore)
 - [AliAsghar Ranjbar (Alibot) :heavy_check_mark:](https://github.com/AliAsgharRanjbar)
