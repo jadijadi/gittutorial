@@ -61,6 +61,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Milad Rezaei:skull::scorpius:](https://github.com/miladstar77)
 - [Cloner93   :smile: ](https://github.com/cloner93)
 - [Mahsa Hosseini 👩‍💻😍](https://github.com/misshosseini)
+- [AmirRezaDelir 👩‍💻](https://github.com/AmirRezaDelir)
 - [Arvin sinister :)](https://github.com/RVNSINISTER)
 - [S.Abolfazl Eftekhari 👽](https://github.com/SeydEf)
 - [Kimia Alizadeh 😺](https://github.com/kimiaalizadeh)
