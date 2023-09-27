@@ -84,6 +84,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Shaly 🐙](https://github.com/ShalyDev)
 - [Vahid Mashmooli](https://github.com/vmashmooli)
 - [Mohsen Khademian 💀🖤](https://github.com/Mohsenkhademian)
+- [Parsa Abdi 🐍☕](https://github.com/KBQVE42B)
 - [Reza Asgharzadeh ❤️😎](https://github.com/reza-asgharzadeh)
 - [Hamideh kazemi 👨🏻‍💻😅](https://github.com/hmkazemi)
 - [Masoud Nazari](https://github.com/MasoudNazarii) :smiley:
