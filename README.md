@@ -51,6 +51,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [EnAnsari 🚀⚡](https://github.com/EnAnsari)
 - [AlirezaNjR](https://github.com/AlirezaNjR/)
 - [Parsa Soorsoori](https://github.com/gwparsa)
+- [Amin Jandaghian 😃](https://github.com/JandaghianAmin)
 - [elis masoodi](https://github.com/elis85)
 - [Ajax😐☠️](https://github.com/ajax9039)
 - [Ila Itayad3h](https://github.com/ilaitayad3h)
