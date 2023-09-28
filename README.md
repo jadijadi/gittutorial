@@ -545,6 +545,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammadreza M.N :blush:](https://github.com/Mohammadreza4mn)
 - [Seyed Ali :sunglasses: :wink:](https://github.com/alishahrokhiii)
 - [$h@dmehr :sunglasses::smiling_imp:](https://github.com/shadmehrgh)
+- [Amin Zayeromali :heart:](https://github.com/aminzayer/) 😎💻
 - [**Abu**:pray: :heart: :clap:](https://github.com/abu2020)
 - [AmiDMajD :computer: :sunglasses: ](https://github.com/amidmajd)
 - [Amin Ahmad **Ahmadi**](https://github.com/aminahmadahmadi)
