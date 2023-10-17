@@ -58,6 +58,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ajax😐☠️](https://github.com/ajax9039)
 - [Ila Itayad3h](https://github.com/ilaitayad3h)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [Maryam Kaveh :purple_heart::star:](https://github.com/marykv84)
 - [Erfan Mohammadi](https://github.com/Erfan-Mohammady)
 - [Kamran Tajerbashi :purple_heart:](https://github.com/KTajerbashi)
 - [Arash Alghasi :wink:](https://github.com/arashalghasi)
