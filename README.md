@@ -53,6 +53,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arash Tavana](https://github.com/jigul9977)
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
 - [Amirabbasjadidi🐼😃](https://github.com/Amirabbasjadidi/)
+- [Mohammad Salehi](https://github.com/MohammadSaleehi)
 - [EnAnsari 🚀⚡](https://github.com/EnAnsari)
 - [AlirezaNjR](https://github.com/AlirezaNjR/)
 - [Parsa Soorsoori](https://github.com/gwparsa)
