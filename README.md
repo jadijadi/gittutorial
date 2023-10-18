@@ -31,6 +31,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [amir rahimi :) ](https://github.com/amirrahimii)
 - [jadijadi ❤️](https://github.com/jadijadi)
 - [Mahdi Moeini](https://github.com/M-Moeini)
+- [Daniyal :new_moon:](https://github.com/fs0c1eTy00)
 - [Ashkan Fareghi](https://github.com/AshkanFareghi)
 - [BazarganDev ❤️](https://github.com/BazarganDev)
 - [Hossein Etedadi](https://github.com/HosseinEetedadi)
