@@ -84,6 +84,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [ralia79 😍](https://github.com/ralia79)
 - [rabbaniha91](https://github.com/rabbaniha91)
 - [Morteza Omidian 😍](https://github.com/morteza1131)
+- [echolima :shaved_ice:](https://github.com/etaghiloo)
 - [kookiepie :grin:](https://github.com/kiakp)
 - [Shaly 🐙](https://github.com/ShalyDev)
 - [Vahid Mashmooli](https://github.com/vmashmooli)
