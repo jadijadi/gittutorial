@@ -30,6 +30,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Pourya Kamyarfard ❤️](https://github.com/wwindux)
 - [amir rahimi :) ](https://github.com/amirrahimii)
 - [jadijadi ❤️](https://github.com/jadijadi)
+- zohre babaei
 - [Mahdi Moeini](https://github.com/M-Moeini)
 - [Daniyal :new_moon:](https://github.com/fs0c1eTy00)
 - [Ashkan Fareghi](https://github.com/AshkanFareghi)
