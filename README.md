@@ -49,7 +49,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza Abbasi 🖤](https://github.com/alirezaabbasi-dev)
 - [_iliro_](https://github.com/iliro6)
 - [ParsaJR](https://github.com/ParsaJR)
-- [__Mohammad Salehi__](https://github.com/MohammadSaleei) 
+- [__Mohammad Salehi__](https://github.com/MohammadSaleehi) 
 - [Jalal Azam Sadeghi :thumbsup:](https://github.com/jalalsadeghi) 
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Erfan Nikan](https://github.com/erfannikan).
