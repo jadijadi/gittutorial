@@ -233,6 +233,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [MohammadReza Chv](https://github.com/MohammadrezaChv)
 - [Farshad Asadpour :sunglasses:](https://github.com/farshadasadpour)
 - [rmoghadam 💻❤️](https://github.com/chromer030)
+- [Milad Aslani 💻❤️](https://github.com/milad145)
 - [Alireza](https://github.com/arj654)
 - [Mohammad Noori](https://github.com/mohammadnooripc81)
 - [AmirHassan :bicyclist:](https://github.com/amir-hassan)
