@@ -74,6 +74,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arvin sinister :)](https://github.com/RVNSINISTER)
 - [S.Abolfazl Eftekhari 👽](https://github.com/SeydEf)
 - [Kimia Alizadeh 😺](https://github.com/kimiaalizadeh)
+- [mehdi mosavi 😺](https://github.com/MahdyMusave)
 - [MohammadReza Shahbazi](https://github.com/mohammadreza99)
 - [Hojat Ansari 😎🔥](https://github.com/Hojat444)
 - [Hossein_Asadi ✌️](https://github.com/HosseinAsadi)
