@@ -29,8 +29,10 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammadreza ShahriyarKeshe***](https://github.com/mohammadrezashsk)
 - [Amin Farahbakhsh](https://github.com/farahbakhsh3)
 - [pouria](https://github.com/pouriahashtroudi)
+- [mahdimosavi](https://github.com/MahdyMusave/gittutorial.git)
 - [Pourya Kamyarfard ❤️](https://github.com/wwindux)
 - [amir rahimi :) ](https://github.com/amirrahimii)
+    - [shahin Davoodi](https://github.com/Shahindavoodicom)
 - [pooulad(Jadi finally saw me😎:alien:)](https://github.com/pooulad) 
 - [jadijadi ❤️](https://github.com/jadijadi)
 - zohre babaei
