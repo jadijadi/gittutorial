@@ -358,6 +358,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sorg 🔭🛸](https://github.com/Sir-Sorg)
 - [Amir Mohsen](https://github.com/amirmohsen1384)
 - [Wih ☃️❄️](https://github.com/saeturn)
+- [Reza Dabbaghi ](https://github.com/Rdabbaghi)
 - [sepehr](https://github.com/sepehrmizani)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
 - [EhsanMody :yum:](https://github.com/ehsanmody)
