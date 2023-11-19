@@ -10,12 +10,13 @@ This is a repo for testing your git abilities. try to add your name to this file
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
-# List of people who know git
+# List of people who know git  
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
 - [Majid Panahi :two::smiley:] [https://github.com/MajidPanahi]
 - [afsartala](https://github.com/aafsartala)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Jadi ❤️](https://jadi.net)
+- [Madanipour] (https://github.com/marymadanipour)
 - [Daniyal:snowman:](https://github.com/Daniyalpr)
 - [Mohadese Fr 🌱](https://github.com/mohadesefr)
 - [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
