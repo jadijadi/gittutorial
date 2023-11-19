@@ -44,6 +44,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ashkan Fareghi](https://github.com/AshkanFareghi)
 - [BazarganDev ❤️](https://github.com/BazarganDev)
 - [Hossein Etedadi](https://github.com/HosseinEetedadi)
+- [Hossein Nazari](https://github.com/abariow)
 - [Awolez](https://github.com/awolez)
 - [Reyhane Shahrokhian](https://github.com/reyhaneshahrokhian)
 - [Elis Masoodi](https://github.com/elis85)
