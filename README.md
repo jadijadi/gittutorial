@@ -138,6 +138,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Mohammadnezhad 😍🌹](https://github.com/AliMohammadnezhad)
 - [Parisan Ahmadi:gem:](https://github.com/parisa-ahmadi)
 - [Ali Jafari 😃](https://github.com/alijafari79)
+- [Hamid Arabsorkhi](https://github.com/hmda77)
 - [Reza Zabihi Rad]((https://github.com/reza_zabihi_rad)
 - [Sina Zare :thumbsup:](https://github.com/sina-zr)
 - [Ali Aghadadashi :)](https://github.com/aliagh11)
