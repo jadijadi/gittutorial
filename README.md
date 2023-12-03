@@ -55,6 +55,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mohammad mojaver](https://github.com/mohammadDeveloperr)
 - [Mahdi Peydai](https://github.com/MahdiPeydai)
 - [Radman](https://github.com/radman17)👽
+- [Mahdi Baha 💻](https://github.com/mahdibaham)
 - [Alireza Abbasi 🖤](https://github.com/alirezaabbasi-dev)
 - [_iliro_](https://github.com/iliro6)
 - [ParsaJR](https://github.com/ParsaJR)
