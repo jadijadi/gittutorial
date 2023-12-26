@@ -29,6 +29,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Nima Eradi❤️](https://github.com/nima91202)
 - [Mohammadreza ShahriyarKeshe***](https://github.com/mohammadrezashsk)
 - [Amin Farahbakhsh](https://github.com/farahbakhsh3)
+- [RoyaCodes 💎 ](https://github.com/royacodes)
 - [pouria](https://github.com/pouriahashtroudi)
 - [mahdimosavi](https://github.com/MahdyMusave/gittutorial.git)
 - [Pourya Kamyarfard ❤️](https://github.com/wwindux)
