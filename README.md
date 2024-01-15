@@ -92,6 +92,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mary 🔥](https://github.com/maryhbb)
 - [Shervin Badanara](https://github.com/shervinbdndev)
 - [Mohammad-a-tab](https://github.com/Mohammad-a-tab)
+- [Mokhtar feyzi(https://github.com/mokhtarfaize)]
 - [Mahdi Mashayekhi :heartbeat::whale:](https://github.com/MahdiMashayekhi-AI)
 - [Akbar Asghari🤞](https://github.com/akbarasghari)
 - [Mohamad Mohamadi 😁](https://github.com/mohamadmohamadi79)
