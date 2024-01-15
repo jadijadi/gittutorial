@@ -12,10 +12,11 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
-- [Majid Panahi :two::smiley:] [https://github.com/MajidPanahi]
+- [Majid Panahi :two::smiley:] (https://github.com/MajidPanahi)
 - [afsartala](https://github.com/aafsartala)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Jadi ❤️](https://jadi.net)
+- [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Daniyal:snowman:](https://github.com/Daniyalpr)
 - [Mohadese Fr 🌱](https://github.com/mohadesefr)
 - [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
@@ -33,9 +34,10 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mahdimosavi](https://github.com/MahdyMusave/gittutorial.git)
 - [Pourya Kamyarfard ❤️](https://github.com/wwindux)
 - [amir rahimi :) ](https://github.com/amirrahimii)
-    - [shahin Davoodi](https://github.com/Shahindavoodicom)
+- [shahin Davoodi](https://github.com/Shahindavoodicom)
 - [pooulad(Jadi finally saw me😎:alien:)](https://github.com/pooulad) 
 - [jadijadi ❤️](https://github.com/jadijadi)
+- [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - zohre babaei
 - [Masoomeh Nazifi :octocat:](https://github.com/Masoomeh-nazifi)
 - [Mahdi Moeini](https://github.com/M-Moeini)
@@ -73,6 +75,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ajax😐☠️](https://github.com/ajax9039)
 - [Ila Itayad3h](https://github.com/ilaitayad3h)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Maryam Kaveh :feelsgood::purple_heart::star:](https://github.com/marykv84)
 - [Hirad Dolatzadeh](https://github.com/hiraddlz)
 - [Erfan Mohammadi](https://github.com/Erfan-Mohammady)
@@ -308,6 +311,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Masoud Karimi ☕️👌👍](https://github.com/masoudkaarimi)
 - [Hassan khodabakhshi :gem: :gem: :gem: :gem: :gem:](https://github.com/hassankhodabakhshi)
 - [**Jadi**:feelsgood::heart:](https://jadi.net)
+- [**PeymanSF** :smiley: ](https://github.com/peymansf2000)
 - [**zhitoo**:stuck_out_tongue_winking_eye::stuck_out_tongue::kissing_heart:](https://github.com/zhitoo)
 - [razyar](https://github.com/razyar) 
 - [Erfan](https://github.com/flydeoo)
