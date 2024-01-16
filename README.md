@@ -105,6 +105,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohamad Mohamadi 😁](https://github.com/mohamadmohamadi79)
 - [ralia79 😍](https://github.com/ralia79)
 - [rabbaniha91](https://github.com/rabbaniha91)
+- [AmirSenpai - AmirhossinD](https://github/AmirSenpai)
 - [Morteza Omidian 😍](https://github.com/morteza1131)
 - [echolima :shaved_ice:](https://github.com/etaghiloo)
 - [kookiepie :grin:](https://github.com/kiakp)
