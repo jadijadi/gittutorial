@@ -380,6 +380,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahdi Mohamadiha](https://github.com/mahdimohamadiha)
 - [mhnp](https://github.com/mnakhaei)
 - [Farhadmpr :smirk: ](http://farhadm.ir)
+- [Pouya Rahebi](https://github.com/Pouyar69)
 - [Farzad](https://github.com/f-a-r-z-a-d)
 - [Mohsen Haeri](https://github.com/tabib2m)
 - [orphic 🚬️🚬️ ](https://github.com/orphick)
