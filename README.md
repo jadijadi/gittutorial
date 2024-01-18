@@ -19,6 +19,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [kamand tolou](https://github.com/Kamandtolou)
 - [Daniyal:snowman:](https://github.com/Daniyalpr)
 - [Mohadese Fr 🌱](https://github.com/mohadesefr)
+- [mahdi khaligh (xre)](https://github.com/mahdikhaligh)
 - [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
 - [Mohammadreza ShahriyarKeshe 🎯](https://github.com/mohammadrezashsk)
 - [AmirHosseinSadeghDaghighi](https://github.com/iamAmirSadeghi)
