@@ -15,7 +15,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Majid Panahi :two::smiley:] [https://github.com/MajidPanahi]
 - [afsartala](https://github.com/aafsartala)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
-- [Jadi ❤️](https://jadi.net)
+- [Jadi](https://jadi.net)
+- [amirali irvany](gitub.com/metect)
 - [SinaSohrab](https://github.com/SinaSohrab)
 - [kamand tolou](https://github.com/Kamandtolou)
 - [Daniyal:snowman:](https://github.com/Daniyalpr)
