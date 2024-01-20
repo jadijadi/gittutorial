@@ -9,8 +9,9 @@ the internet is up and running
 """
 
 #Initial Marks for Connectivity or not
-check = "\N{Heavy Check Mark}"
-fail = "\N{Heavy Multiplication X}"
+#\N not work , replaced with \n
+check = "\n{Heavy Check Mark}"
+fail = "\n{Heavy Multiplication X}"
 
 def internet_connected(host="8.8.8.8", port=53):
     """
@@ -34,7 +35,8 @@ try:
     while True:
         if internet_connected():
             # find out what is the os
-            uname = os.uname()
+            # uname not work in windows os , i'm replaced with uname_result
+            uname = os.uname_result
             # Clear Command line Session
             if uname.sysname == 'Linux' or uname.sysname == 'Darwin':
                 os.system('clear')
@@ -44,7 +46,7 @@ try:
                 print("You are on a Windows  machine")
 
             counter += 1
-            print(f"Internet is up {check}\n{counter} sec \n{round(counter / 60, 2)} min \n{round(counter / 3600, 2)} hour\n")
+            print(f" Internet is up {check}\n{counter} sec \n {round(counter / 60, 2)} min \n {round(counter / 3600, 2)} hour \n ")
 
             # Wait for 1 second before checking for internet connectivity
             time.sleep(1)
