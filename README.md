@@ -17,6 +17,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Jadi](https://jadi.net)
+- [Hasan Zaki](https://github.com/Hasanzakii)
 - [amirali irvany](gitub.com/metect)
 - [SinaSohrab](https://github.com/SinaSohrab)
 - [kamand tolou](https://github.com/Kamandtolou)
