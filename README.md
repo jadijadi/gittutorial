@@ -107,7 +107,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mary 🔥](https://github.com/maryhbb)
 - [Shervin Badanara](https://github.com/shervinbdndev)
 - [Mohammad-a-tab](https://github.com/Mohammad-a-tab)
-- [Mokhtar feyzi(https://github.com/mokhtarfaize)]
+- [Mokhtar feyzi] (https://github.com/mokhtarfaize)
 - [Mahdi Mashayekhi :heartbeat::whale:](https://github.com/MahdiMashayekhi-AI)
 - [Akbar Asghari🤞](https://github.com/akbarasghari)
 - [Mohamad Mohamadi 😁](https://github.com/mohamadmohamadi79)
@@ -157,7 +157,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Parisan Ahmadi:gem:](https://github.com/parisa-ahmadi)
 - [Ali Jafari 😃](https://github.com/alijafari79)
 - [Hamid Arabsorkhi](https://github.com/hmda77)
-- [Reza Zabihi Rad]((https://github.com/reza_zabihi_rad)
+- [Reza Zabihi Rad] (https://github.com/reza_zabihi_rad)
 - [Sina Zare :thumbsup:](https://github.com/sina-zr)
 - [Ali Aghadadashi :)](https://github.com/aliagh11)
 - [Mohammad Hossein Khahan :v:](https://github.com/SmHk-98)
@@ -179,7 +179,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Behnam Ebrahimi](https://github.com/behnam68engine)
 - [Bahar Hosseini 💻 🐧 ](https://github.com/bahar-hosseini)
 - [Mahdi Sharifi] (https://github.com/msharifi68)
-- [Abolfazl Zahedi] (https://github.com/DevAbolfazl) - **⭐Jadi⭐**
+- [Abolfazl Zahedi](https://github.com/DevAbolfazl) - **⭐Jadi⭐**
 - [mohammad ramezani](https://github.com/mohramezani659)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
 - [Reza Kamali🤞](https://github.com/MRGando)
