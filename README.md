@@ -12,7 +12,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
-- [Majid Panahi :two::smiley:] (https://github.com/MajidPanahi)
+- [Majid Panahi :two::smiley:](https://github.com/MajidPanahi)
 - [afsartala](https://github.com/aafsartala)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
