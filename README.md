@@ -53,6 +53,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahdi Moeini](https://github.com/M-Moeini)
 - [Daniyal :new_moon:](https://github.com/fs0c1eTy00)
 - [aminRezaei68](https://github.com/aminRezaei68)
+- [(Jadi is the Best)🤟 arsham-ae](https://github.com/arsham-ae)
 - [Ashkan Fareghi](https://github.com/AshkanFareghi)
 - [BazarganDev ❤️](https://github.com/BazarganDev)
 - [Hossein Etedadi](https://github.com/HosseinEetedadi)
