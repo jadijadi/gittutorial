@@ -18,6 +18,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Jadi](https://jadi.net)
 - [Hasan Zaki](https://github.com/Hasanzakii)
+- [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
 - [amirali irvany](gitub.com/metect)
 - [SinaSohrab](https://github.com/SinaSohrab)
 - [kamand tolou](https://github.com/Kamandtolou)
