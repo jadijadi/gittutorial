@@ -17,6 +17,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Jadi](https://jadi.net)
+- [MitraBaradari](https://github.com/MitraBaradari)
 - [Matin Sareban :guardsman:](https://github.com/Matinsareban)
 - [Hasan Zaki](https://github.com/Hasanzakii)
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
