@@ -53,7 +53,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [pooulad(Jadi finally saw me😎:alien:)](https://github.com/pooulad) 
 - [jadijadi ❤️](https://github.com/jadijadi)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
-- zohre babaei
+- [Maziar Zamani](https://github.com/Maziar101)
 - [Erfan Mahtabi 😉](https://github.com/Uvthk) 
 - [Masoomeh Nazifi :octocat:](https://github.com/Masoomeh-nazifi)
 - [Mahdi Moeini](https://github.com/M-Moeini)
