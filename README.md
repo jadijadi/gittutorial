@@ -27,6 +27,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Alipour] {https://github.com/alialipour2006)
 - [Daniyal:snowman:](https://github.com/Daniyalpr)
 - [Mohadese Fr 🌱](https://github.com/mohadesefr)
+- [Maziar Zamani](https://github.com/Maziar101)
 - [hosein javidmehr 🔥](https://github.com/bigbro8)
 - [Fatemeh :unamused:](https://github.com/FatemehMashayekhi)
 - [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
