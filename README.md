@@ -476,6 +476,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Milad Khaghanirad : yes](https://github.com/Miladkhaghanirad)
 - [Pedram Azimzadeh :ghost:](https://github.com/PedramAz)
 - [Sadra Sabouri :smile:](https://github.com/sadrasabouri)
+- [Ali :computer:](https://github.com/alial7621)
 - [Sepideh :books:](https://github.com/SepidSal)
 - [Rvngrd :file_folder: :file_folder:](https://github.com/rvngrd)
 - [Pedram Azimzadeh :ghost: ](https://github.com/PedramAz)
