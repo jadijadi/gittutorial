@@ -97,6 +97,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [elis masoodi](https://github.com/elis85)
 - [Ajax😐☠️](https://github.com/ajax9039)
 - [Ila Itayad3h](https://github.com/ilaitayad3h)
+- [mahdi dadashzadeh](https://github.com/mahdidadashzadeh)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Maryam Kaveh :feelsgood::purple_heart::star:](https://github.com/marykv84)
