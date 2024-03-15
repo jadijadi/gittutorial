@@ -17,6 +17,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Jadi](https://jadi.net)
+- [Reza Heidari :heart_eyes:](https://github.com/rezajax)
 - [Ali Jafarabadi](https://github.com/jafarabadi) :coffee:
 - [Afshin](https://github.com/iafshinafshin)
 - [Matin Sareban :guardsman:](https://github.com/Matinsareban)
