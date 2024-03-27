@@ -11,17 +11,21 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [VIKONAD :grin:](https://github.com/vikonad)
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
 - [Majid Panahi :two::smiley:](https://github.com/MajidPanahi)
 - [afsartala](https://github.com/aafsartala)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
+- [Mehrdad Rayati](https://github.com/Mehrdadrd1)
 - [Jadi](https://jadi.net)
 - [Ilia Asadi](https://github.com/iliaasadi) :guitar: :coffee:
+- [Reza Heidari :heart_eyes:](https://github.com/rezajax)
 - [Ali Jafarabadi](https://github.com/jafarabadi) :coffee:
 - [Afshin](https://github.com/iafshinafshin)
 - [Matin Sareban :guardsman:](https://github.com/Matinsareban)
 - [Hasan Zaki](https://github.com/Hasanzakii)
+- [Hossein Aghabararian](https://github.com/Hossein-Bararian)
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
 - [amirali irvany](gitub.com/metect)
 - [SinaSohrab](https://github.com/SinaSohrab)
@@ -31,6 +35,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohadese Fr 🌱](https://github.com/mohadesefr)
 - [Maziar Zamani](https://github.com/Maziar101)
 - [hosein javidmehr 🔥](https://github.com/bigbro8)
+- [Sayed Mohammad Hassan Dastgheybi](https://github.com/dastgheybi)
 - [Fatemeh :unamused:](https://github.com/FatemehMashayekhi)
 - [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
 - [Mohammadreza ShahriyarKeshe 🎯](https://github.com/mohammadrezashsk)
@@ -98,6 +103,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [elis masoodi](https://github.com/elis85)
 - [Ajax😐☠️](https://github.com/ajax9039)
 - [Ila Itayad3h](https://github.com/ilaitayad3h)
+- [mahdi dadashzadeh](https://github.com/mahdidadashzadeh)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Maryam Kaveh :feelsgood::purple_heart::star:](https://github.com/marykv84)
@@ -758,3 +764,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Atefeh Mohib](https://github.com/atefehMohib)
 - Thanks a bunch Jadi [Ali Hamidzadeh :sunglasses:](https://github.com/alihamidzadeh)
 - [Arian soltani](https://github.com/Arian1-dev)
+- [Arash Azarvand](https://github.com/Arash742)
