@@ -60,6 +60,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [shahin Davoodi](https://github.com/Shahindavoodicom)
 - [pooulad(Jadi finally saw me😎:alien:)](https://github.com/pooulad) 
 - [jadijadi ❤️](https://github.com/jadijadi)
+- [Amirali Pishdadi :wink: ](https://github.com/amirali-pishdadi)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - zohre babaei
 - [Maziar Zamani](https://github.com/Maziar101)
