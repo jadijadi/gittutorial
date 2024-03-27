@@ -19,6 +19,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Mehrdad Rayati](https://github.com/Mehrdadrd1)
 - [Jadi](https://jadi.net)
+- [Ilia Asadi](https://github.com/iliaasadi) :guitar: :coffee:
 - [Reza Heidari :heart_eyes:](https://github.com/rezajax)
 - [Ali Jafarabadi](https://github.com/jafarabadi) :coffee:
 - [Afshin](https://github.com/iafshinafshin)
