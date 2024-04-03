@@ -16,7 +16,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [afsartala](https://github.com/aafsartala)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Jadi ❤️](https://jadi.net)
-- [SinaSohrab](https://github.com/SinaSohrab)
+- [SinaSohrab 💻](https://github.com/SinaSohrab)
 - [kamand tolou](https://github.com/Kamandtolou)
 - [Daniyal:snowman:](https://github.com/Daniyalpr)
 - [Mohadese Fr 🌱](https://github.com/mohadesefr)
