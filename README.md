@@ -34,6 +34,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Alipour](https://github.com/alialipour2006)
 - [Daniyal:snowman:](https://github.com/Daniyalpr)
 - [Mohadese Fr 🌱](https://github.com/mohadesefr)
+- [Abolfazl Nezami 🎧](https://github.com/Abolfazlnezami2000)
 - [Maziar Zamani](https://github.com/Maziar101)
 - [hosein javidmehr 🔥](https://github.com/bigbro8)
 - [Sayed Mohammad Hassan Dastgheybi](https://github.com/dastgheybi)
