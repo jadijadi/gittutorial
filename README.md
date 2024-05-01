@@ -15,6 +15,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
 - [Majid Panahi :two::smiley:](https://github.com/MajidPanahi)
 - [afsartala](https://github.com/aafsartala)
+- [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Amirhossein Abdollahi nejat](https://github.com/djamir86)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
