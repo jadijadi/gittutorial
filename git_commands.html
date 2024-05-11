@@ -31,7 +31,7 @@
         }
 
         .white-space {
-            height: 80vh;
+            height: 10vh;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -95,6 +95,7 @@
 
         aside {
             padding-top: 1rem;
+            overflow-y: auto;
         }
 
 
@@ -201,12 +202,12 @@
         </nav>
     </aside>
 
-
-
     <main class="main">
         <h1 class="main-heading">Git Commands</h1>
+
         <!-- content -->
         <section class="content">
+
             <!-- start General Commands -->
             <section>
                 <h2 id="general">General Commands</h2>
@@ -313,7 +314,6 @@
                 </ul>
             </section>
 
-
             <!-- start Tag -->
             <section>
                 <h2 id="-tag">-Tag-</h2>
@@ -331,7 +331,8 @@
                     </li>
                     <li id="show-tagName"><b>git show tagName:</b> show full info about tag
                     </li>
-                    <li id="push-origin-tagName"><b>git push origin tagName:</b> Regullary tags dont push to origin with other
+                    <li id="push-origin-tagName"><b>git push origin tagName:</b> Regullary tags dont push to origin with
+                        other
                         changes and we
                         should push them manually
                     </li>
@@ -340,54 +341,38 @@
                     <li id="blame"><b>git blame </b> بررسی اینکه کل کد یا بخشی ازش یا حتی خطی ازش توسط کیا نوشته و
                         ویرایش شده
                     </li>
-                    <li  id="pgp"><b>pgp (gpg in openSource World) </b> ساین کردن تگ ها یا کامیت ها
+                    <li id="pgp"><b>pgp (gpg in openSource World) </b> ساین کردن تگ ها یا کامیت ها
                     </li>
-                    <h4>--Bisect--</h4>
-                    <li><b>git bisect </b> debuging code by moving through commits
-                    </li>
-                    <ul>
-                        <li><b>git bisect start</b> start using git bisect
-                        </li>
-                        <li><b>git bisect bad &lt;commit code&gt;</b>select a bad commit (or just leave it
-                            to
-                            select this commit)
-                        </li>
-                        <li><b>git bisect good &lt;commit code&gt;</b>select a good commit (or just leave
-                            it to
-                            select this commit)
-                        </li>
-                    </ul>
-                    <li><b>Note:</b> You must test your code every time you use bisect then use good or bad after git
-                        bisect !</li>
-
-                    <!-- start Bisect  -->
-                    <section>
-                        <h2 id="Bisect">-Bisect--</h2>
-                        <ul>
-                            <li id="bisect"><b>git bisect:</b> debugging code by moving through commits
-                            </li>
-                            <ul>
-                                <li><b>git bisect start:</b> start using git bisect
-                                </li>
-                                <li><b>git bisect bad: &lt;commit code&gt;</b> select a bad commit (or
-                                    just leave
-                                    it to select this commit)
-                                </li>
-                                <li><b>git bisect good: &lt;commit code&gt;</b> select a good commit (or
-                                    just
-                                    leave it to select this commit)
-                                </li>
-                            </ul>
-                            <li><b>Note:</b> You must test your code every time you use bisect then use good or bad
-                                after git bisect !</li>
-                        </ul>
-                    </section>
-
-                    <!-- <section class="white-space">
-                        <a href="#">&uarr; back to top &uarr; </a>
-                    </section> -->
                 </ul>
             </section>
+
+            <!-- start Bisect  -->
+            <section>
+                <h2 id="Bisect">-Bisect-</h2>
+                <ul>
+                    <li id="bisect"><b>git bisect:</b> debugging code by moving through commits
+                    </li>
+                    <ul>
+                        <li><b>git bisect start:</b> start using git bisect
+                        </li>
+                        <li><b>git bisect bad: &lt;commit code&gt;</b> select a bad commit (or
+                            just leave
+                            it to select this commit)
+                        </li>
+                        <li><b>git bisect good: &lt;commit code&gt;</b> select a good commit (or
+                            just
+                            leave it to select this commit)
+                        </li>
+                    </ul>
+                    <li><b>Note:</b> You must test your code every time you use bisect then use good or bad
+                        after git bisect !</li>
+                </ul>
+            </section>
+
+            <section class="white-space">
+                <a href="#">&uarr; back to top &uarr; </a>
+            </section>
+
         </section>
     </main>
 
