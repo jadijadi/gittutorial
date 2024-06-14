@@ -782,6 +782,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [CiSCO](https://github.com/xciscox) :notes:
 - [malihebojnordi:)](https://github.com/malihebojnordi)
 - [Atefeh Mohib](https://github.com/atefehMohib)
+- [Amir Hasan😃](https://github.com/Amir10t)
 - Thanks a bunch Jadi [Ali Hamidzadeh :sunglasses:](https://github.com/alihamidzadeh)
 - [Arian soltani](https://github.com/Arian1-dev)
 - [Arash Azarvand](https://github.com/Arash742)
