@@ -46,6 +46,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Abolfazl Nezami 🎧](https://github.com/Abolfazlnezami2000)
 - [Maziar Zamani](https://github.com/Maziar101)
 - [hosein javidmehr 🔥](https://github.com/bigbro8)
+- [barsam-aski](https://github.com/amoobarsam)
 - [Sayed Mohammad Hassan Dastgheybi](https://github.com/dastgheybi)
 - [Fatemeh :unamused:](https://github.com/FatemehMashayekhi)
 - [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
