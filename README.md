@@ -25,6 +25,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Mehrdad Rayati](https://github.com/Mehrdadrd1)
 - [Jadi](https://jadi.net)
+- [Amin Estesnaei](https://github.com/Aminestesnaei)
 - [Abdulhaq](https://github.com/tt-abdulhaq)
 - [Farzad](https://devfarzad.github.io/)
 - [Amirhosein Shojaei](https://github.com/amirhoseinshojaei)
