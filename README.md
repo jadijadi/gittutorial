@@ -36,6 +36,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hasan Zaki](https://github.com/Hasanzakii)
 - [Mehrdad](https://zadehebrahim.ir)(https://github.com/mehrdad-za) 
 - [Hossein Aghabararian](https://github.com/Hossein-Bararian)
+- [Artin karimi](https://github.com/Thecode764)
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
 - [amirali irvany](gitub.com/metect)
 - [SinaSohrab](https://github.com/SinaSohrab)
