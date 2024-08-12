@@ -132,6 +132,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Mahdi Niknam](https://github.com/niknam1382)
 - [Cloner93   :smile: ](https://github.com/cloner93)
 - [Mahsa Hosseini 👩‍💻😍](https://github.com/misshosseini)
+- [Reza :relieved: ](https://github.com/rezataheri01/)
 - [Arvin sinister :)](https://github.com/RVNSINISTER)
 - [__Reza AliMohammadi__ 🦃](https://github.com/RAM-tech400)
 - [S.Abolfazl Eftekhari 👽](https://github.com/SeydEf)
