@@ -57,6 +57,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mamad Mehrabi Rad](https://github.com/OnlyRad)
 - [Alireza](https://github.com/alireza98alp)
 - [kamand](https://github.com/kamandtolou)
+- [amir mahdi dashti](https://github.com/amirmahdidashti)
 - [Erfan Farahbakhsh](https://github.com/thatserfan)
 - [Soheyl Farzane 😍](https://github.com/soheylfarzane)
 - [kamand](https://github.com/kamandtolou)
