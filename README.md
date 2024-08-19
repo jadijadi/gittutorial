@@ -281,6 +281,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir.H.Shirzad:sunglasses::computer:](https://github.com/Amir-H-Shzd)
 - [Mina Moeini ](https://github.com/Mina-Moeini)
 - [Sonya](https://github.com/SonyaCore)
+- [Alireza Falahat](https://github.com/zebka)
 - [ZaraKh :computer: ](https://github.com/Zarakhansari)
 - [S. Saeid Heidari :computer:](https://github.com/thesaeid)
 - [mohamad hosein](https://github.com/mmdtoorani)
