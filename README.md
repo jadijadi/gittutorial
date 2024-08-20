@@ -23,6 +23,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Amirhossein Abdollahi nejat](https://github.com/djamir86)
+- [Milad Parvizi](https://github.com/miladp55) :facepunch:
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Mehrdad Rayati](https://github.com/Mehrdadrd1)
 - [Jadi](https://jadi.net)
