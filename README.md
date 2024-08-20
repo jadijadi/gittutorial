@@ -793,3 +793,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - Thanks a bunch Jadi [Ali Hamidzadeh :sunglasses:](https://github.com/alihamidzadeh)
 - [Arian soltani](https://github.com/Arian1-dev)
 - [Arash Azarvand](https://github.com/Arash742)
+‍- [Abbas Mnsoori 👨‍💻](https://github.com/Bmnswry28) یک گیک که دوست داره هر جای تکنولوژی سرک بکشه
