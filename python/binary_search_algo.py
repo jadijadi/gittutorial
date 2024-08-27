@@ -9,7 +9,7 @@ def binary_search(arr, item):
     duration = 0
 
     # Binary Searching
-    while low <= high:
+    while True:
         duration += 1
         mid = (low+high) // 2
         
@@ -18,10 +18,10 @@ def binary_search(arr, item):
             return f"\n||| I found {item} at the {mid} index of the array |||\n# Duration : {duration}"
         elif arr[mid] > item:
             high = mid - 1
-            print(f"its lower than {arr[mid]}!")
+            print(f"It's lower than {arr[mid]}!")
         else:
             low = mid + 1
-            print(f"its bigger than {arr[mid]}!")
+            print(f"It's bigger than {arr[mid]}!")
 
 
 # run the function
