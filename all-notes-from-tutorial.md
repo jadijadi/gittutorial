@@ -167,7 +167,7 @@ some notes for git learners
       of `git push origin master`.
     - **Force Push:** In some cases, you may need to push changes that overwrite the existing commit history on the remote branch. This is done using the `--force` flag:
       ```
-      git push origin main --force
+      git push origin master --force
       ```
       - **Warning:** Force pushing will overwrite the history on the remote repository, which may cause data loss if others have pushed commits to the same branch. Use with caution, especially if working in a team.
       - Consider using `--force-with-lease` for a safer approach, which ensures that the push will only occur if no one else has updated the branch.
