@@ -40,7 +40,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrdad](https://zadehebrahim.ir)(https://github.com/mehrdad-za) 
 - [Hossein Aghabararian](https://github.com/Hossein-Bararian)
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
-- [amirali irvany](gitub.com/metect)
+- [AmirAli Irvani](https://github.com/irvaniamirali)
 - [SinaSohrab](https://github.com/SinaSohrab)
 - [kamand tolou](https://github.com/Kamandtolou)
 - [Ali Alipour](https://github.com/alialipour2006)
