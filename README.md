@@ -14,6 +14,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahmoud Soltani0](https://github.com/mahmoodsoltani)
 - [Ebrahim Solhjooo](https://github.com/abe-solhjoo)
 - [Aydin Aaman Allah Oghli](https://github.com/mr-aydin)
+- [Parsa Shanofi](https://github.com/shnfi)
 - [mohammad mosayyebnezhad](https://github.com/mohammadmosayyeb)
 - [VIKONAD :grin:](https://github.com/vikonad)
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
