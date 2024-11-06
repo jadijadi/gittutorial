@@ -69,6 +69,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Kiarash_Fereidouni](https://github.com/Boof-e-bina)
 - [Nima Eradi❤️](https://github.com/nima91202)
 - [Mohammadreza ShahriyarKeshe***](https://github.com/mohammadrezashsk)
+- [Amin Kareshi](https://github.com/evilpatrik)
 - [Amin Farahbakhsh](https://github.com/farahbakhsh3)
 - [RoyaCodes 💎 ](https://github.com/royacodes)
 - [pouria](https://github.com/pouriahashtroudi)
