@@ -43,7 +43,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [amirali irvany](gitub.com/metect)
 - [SinaSohrab](https://github.com/SinaSohrab)
 - [kamand tolou](https://github.com/Kamandtolou)
-- [Ali Alipour](https://github.com/alialipour2006)
+- [Ali Alipour](https://github.com/alialipourdev)
 - [Daniyal:snowman:](https://github.com/Daniyalpr)
 - [Mohadese Fr 🌱](https://github.com/mohadesefr)
 - [Abolfazl Nezami 🎧](https://github.com/Abolfazlnezami2000)
