@@ -13,6 +13,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 - [Mahmoud Soltani0](https://github.com/mahmoodsoltani)
 - [Ebrahim Solhjooo](https://github.com/abe-solhjoo)
+- [Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal)
 - [Aydin Aaman Allah Oghli](https://github.com/mr-aydin)
 - [mohammad mosayyebnezhad](https://github.com/mohammadmosayyeb)
 - [VIKONAD :grin:](https://github.com/vikonad)
