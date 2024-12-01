@@ -27,6 +27,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrdad Rayati](https://github.com/Mehrdadrd1)
 - [**:white_circle: Danial Karimi :white_circle:**](https://github.com/Danialk13)
 - [Jadi](https://jadi.net)
+- [Mehrdad Mahmoudi](https://github.com/mehrdadmm)
 - [Saman Shirdel](https://github.com/samanshirdell) :v:
 - [Abdulhaq](https://github.com/tt-abdulhaq)
 - [Farzad](https://devfarzad.github.io/)
