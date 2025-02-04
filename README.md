@@ -297,6 +297,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Sajjad maneshi** 😊](https://github.com/sajjadmaneshi)
 - [Sina](https://github.com/SinaTajikJS)
 - [Hossein 😊🤞](https://github.com/h-agharezaei)
+- [Pouya Shaterzadeh :star2:](https://github.com/Pouya-Shaterzadeh)
 - [AmirRivand](https://github.com/amirrivand)
 - [Mamad :smiley: ](https://github.com/mb1992fl8)
 - [Mohsenarg :innocent:](https://github.com/Mohsenarg)
