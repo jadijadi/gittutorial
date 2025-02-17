@@ -62,7 +62,6 @@ some notes for git learners
     - `git commit`: You can also write this command (without adding -m "comment") and insert your comment in the editor. 
     - Always include a comment with your commit.
 
-
 5. **Viewing Differences:**
 
    Git provides several ways to view differences:
@@ -142,7 +141,7 @@ some notes for git learners
       git reset --hard <commit>
       ```
 
-7. **Restore Files:**
+7. **Restoring Files:**
 
    To manipulate the state of your working directory and staging area without affecting the commit history, you can use the `git restore` command:
 
