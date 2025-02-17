@@ -63,7 +63,7 @@ some notes for git learners
     - Always include a comment with your commit.
 
 
-5. **View Differences:**
+5. **Viewing Differences:**
 
    Git provides several ways to view differences:
 
