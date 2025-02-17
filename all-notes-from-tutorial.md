@@ -26,29 +26,29 @@ some notes for git learners
 
 3. **Adding Files to the Staging Area:**
 
-   Add files to the staging area to prepare them for commit. You have several options:
+   To Add files to the staging area to prepare them for commit. You have several options:
 
-    - Add all (the changed) files:
+    - To add all (the changed) files:
       ```
       git add -A
       ```
     
-    - Add specific file types, e.g., all HTML files:
+    - To add specific file types, e.g., all HTML files:
       ```
       git add "*.html"
       ```
 
-    - Add specific file :
+    - To add a specific file :
       ```
-      git add "file-name"
+      git add <file>
       ```
 
-    - Add more than one file at the same time:
+    - To add more than one file at the same time:
       ```
       git add “file1.txt” “file2.txt”
       ```
 
-    - Adding any file that has "hello" in its name:
+    - To add any file that has "hello" in its name:
       ```
       git add “hello*”
       ```
@@ -131,7 +131,7 @@ some notes for git learners
 
     - To unstage a file, use:
       ```
-      git reset 'filename'
+      git reset <file>
       ```
 
     - To move the HEAD pointer to a specific commit and optionally modify the staging area and working directory, use:
@@ -149,7 +149,7 @@ some notes for git learners
       ```
       git restore --staged <file>
       ```
-      - it works similarly to the `(git reset "filename")` command.
+      - it works similarly to the `(git reset <file>)` command.
 
     - To restore all staged files:
       ```
@@ -188,12 +188,12 @@ some notes for git learners
       >
       > \* master
 
-    - Create a new branch for your project:
+    - To Create a new branch for your project:
       ```
       git branch 'branch-name'
       ```
 
-    - Delete a branch from the project:
+    - To delete a branch from the project:
       ```
       git branch -d 'branch-name'
       ```
@@ -205,14 +205,14 @@ some notes for git learners
       ```
     - To replace a file with the version from the HEAD (latest commit), use:
       ```
-      git checkout -- 'filename'
+      git checkout -- <file>
       ```
         - `'--'`: Refers to the HEAD (latest commit).
 
-    To merge a branch into your current branch, use:
-    ```
-    git merge 'branch-name'
-    ```
+    - To merge a branch into your current branch, use:
+      ```
+      git merge 'branch-name'
+      ```
 
 11. **View Commit History:**
 
@@ -386,11 +386,11 @@ some notes for git learners
 
     - Show all the change history about your file:
       ```
-      git blame 'filename'
+      git blame <file>
       ```
     - Show all the change history about your requested line in the requested file:
       ```
-      git blame 'filename' -L5
+      git blame <file> -L5
       ```
     - Git Blame is useful for tracing the changes made to a file, and using the `-L` parameter, you can specify a specific line range to investigate. It helps in understanding who made the changes and when they were made, which can be valuable for tracking alterations, identifying contributors, and understanding the evolution of the codebase.
 
