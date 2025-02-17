@@ -67,11 +67,13 @@ some notes for git learners
 
    Git provides several ways to view differences:
 
-    - See the difference between the current stage and the last commit:
+    - See the differences between the unstaged changes vs. latest commit (HEAD) \> Shows **unstaged** modifications.
       ```
       git diff HEAD
       ```
-    - See the difference between the current stage and the previous stage:
+     - HEAD: is a special pointer that refers to the current branch's latest commit. However, the location of this pointer can be changed to any commit you want. 
+
+    - See the differences between staged changes vs. latest commit (HEAD) \> Shows **staged** modifications.
       ```
       git diff --staged
       ```
