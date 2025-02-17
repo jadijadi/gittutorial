@@ -77,8 +77,8 @@ some notes for git learners
       ```
       git diff --staged
       ```
-      
-  Example:
+
+    Example:
 
     I make one change in the pag1.html, then add it to the stage then make
     another change, without adding:
