@@ -77,6 +77,53 @@ some notes for git learners
       ```
       git diff --staged
       ```
+      
+  Example:
+
+    I make one change in the pag1.html, then add it to the stage then make
+    another change, without adding:
+
+    <table>
+    <colgroup>
+    <col style="width: 50%" />
+    <col style="width: 50%" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th style="text-align: center;">$ git diff HEAD</th>
+    <th style="text-align: center;">$ git diff --staged</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <th><p><strong>diff --git a/page1.html b/page1.html</strong></p>
+    <p><strong>index d637411..b11a95a 100644</strong></p>
+    <p><strong>--- a/page1.html</strong></p>
+    <p><strong>+++ b/page1.html</strong></p>
+    <p>@@ -2,5 +2,7 @@</p>
+    <p>&lt;body&gt;</p>
+    <p>project 1!</p>
+    <p>Hi there!</p>
+    <p>+ I am Jalal.</p>
+    <p>+ I love programming!</p>
+    <p>&lt;html&gt;</p>
+    <p>&lt;body&gt;</p>
+    <p>\ No newline at end of file</p></th>
+    <td><p><strong>diff --git a/page1.html b/page1.html</strong></p>
+    <p><strong>index d637411..b2f8fc6 100644</strong></p>
+    <p><strong>--- a/page1.html</strong></p>
+    <p><strong>+++ b/page1.html</strong></p>
+    <p>@@ -2,5 +2,6 @@</p>
+    <p>&lt;body&gt;</p>
+    <p>project 1!</p>
+    <p>Hi there!</p>
+    <p>+ I am Jalal.</p>
+    <p>&lt;html&gt;</p>
+    <p>&lt;body&gt;</p>
+    <p>\ No newline at end of file</p></td>
+    </tr>
+    </tbody>
+    </table>
 
 6. **Reset and Exit the Staging Area:**
 
