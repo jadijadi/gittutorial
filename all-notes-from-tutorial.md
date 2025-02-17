@@ -172,14 +172,20 @@ some notes for git learners
       git restore --source=<commit> .
       ```
 
-8. **Branches:**
+8. **Working With Branches:**
+  
+   When you create a new branch, it **inherits the current state** of your working directory and index.Managing branches is essential for collaboration and project organization. Here are some branch-related commands:
 
-   Managing branches is essential for collaboration and project organization. Here are some branch-related commands:
-
-    - Show all branches in the project:
+    - To show all branches in the project:
       ```
       git branch
       ```
+      - The output highlights your current working branch with an astrix (\*). 
+      Example:
+      > \$ git branch
+      >
+      > fixhtml
+      > \* master
 
     - Create a new branch for your project:
       ```
@@ -191,8 +197,6 @@ some notes for git learners
       git branch -d 'branch-name'
       ```
 
-9. **Checkout Branch and Files:**
-
     - To switch to a different branch and replace all the files in your current branch with those from 'branch-name',
       use:
       ```
@@ -203,9 +207,6 @@ some notes for git learners
       git checkout -- 'filename'
       ```
         - `'--'`: Refers to the HEAD (latest commit).
-
-
-10. **Merge Branches:**
 
     To merge a branch into your current branch, use:
     ```
