@@ -4,28 +4,35 @@ some notes for git learners
 
 # Git Commands
 
-1. **Initialize a Git Project:**
+1. **Initializing a Git Project:**
 
    To start a new Git repository for your project, use the following command:
    ```
    git init
    ```
+    - It creates a hidden .git folder, which stores all the repository’s
+    metadata (branches, commits, configurations, etc.).
+    - Used when starting a new project or making an existing directory a Git
+    repository.
 
-2. **Check the Status:**
+2. **Checking the Status:**
 
    To view the current status of your project and its files, use:
    ```
    git status
    ```
+   - Tells you which files are modified, staged, or untracked.
+   - Helps you understand what changes need to be committed.
 
-3. **Add Files to the Staging Area:**
+3. **Adding Files to the Staging Area:**
 
    Add files to the staging area to prepare them for commit. You have several options:
 
-    - Add all files:
+    - Add all (the changed) files:
       ```
       git add -A
       ```
+    
     - Add specific file types, e.g., all HTML files:
       ```
       git add "*.html"
@@ -36,14 +43,25 @@ some notes for git learners
       git add "file-name"
       ```
 
-4. **Commit Changes:**
+    - Add more than one file at the same time:
+      ```
+      git add “file1.txt” “file2.txt”
+      ```
+
+    - Adding any file that have "hello" in its name:
+      ```
+      git add “hello\*”
+      ```
+      
+4. **Committing Changes:**
 
    To save the staged changes as a new snapshot, use the `git commit` command:
    ```
-   git commit -m "Your message about the changes"
+   git commit -m "Your comment about the changes"
    ```
-    - `git commit`: Archive staged changes and add a descriptive message.
-    - Always include a message with your commit.
+    - `git commit`: You can also write this command (without adding -m "comment") and insert your comment in the editor. 
+    - Always include a comment with your commit.
+
 
 5. **View Differences:**
 
@@ -53,7 +71,6 @@ some notes for git learners
       ```
       git diff HEAD
       ```
-
     - See the difference between the current stage and the previous stage:
       ```
       git diff --staged
