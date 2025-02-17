@@ -50,7 +50,7 @@ some notes for git learners
 
     - Adding any file that have "hello" in its name:
       ```
-      git add “hello\*”
+      git add “hello*”
       ```
       
 4. **Committing Changes:**
@@ -125,7 +125,7 @@ some notes for git learners
     </tbody>
     </table>
 
-6. **Reset and Exit the Staging Area:**
+6. **Reseting and Exiting the Staging Area:**
 
    To manipulate the state of your working directory, staging area, and commit history, you can use the `git reset`
    command:
@@ -144,18 +144,29 @@ some notes for git learners
 
 7. **Restore Files:**
 
-   To manipulate the state of your working directory and staging area without affecting the commit history, you can use
-   the `git restore` command:
+   To manipulate the state of your working directory and staging area without affecting the commit history, you can use the `git restore` command:
 
     - To unstage a file, use:
       ```
       git restore --staged <file>
+      ```
+      - it works similarly to the `(git reset "filename")` command.
+
+    - To restore all staged files:
+      ```
+      git restore --staged *
+      ```
+
+    - To  restore file content back to latest commit:
+      ```
+      git restore <file>
       ```
 
     - To restore a specific file from a previous commit to your working directory, use:
       ```
       git restore --source=<commit> <file>
       ```
+      - It restores the content of <file> to match the version from the specified <commit>. This will overwrite the file in your working directory with the version from the given commit, but it won't affect the staging area or commit history.
 
     - To restore your entire working directory to match a specific commit, use:
       ```
