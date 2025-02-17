@@ -171,6 +171,14 @@ some notes for git learners
       ```
       git restore --source=<commit> .
       ```
+      
+    - To replace a file with the version from the HEAD (latest commit), use:
+      ```
+      git checkout -- <file>
+      ```
+      - if you have not yet committed the changes, it will undo all changes and brings the file back to the previous commit file status. So, it restores all the changes back to the latest commit.
+      - `'--'`: Refers to the HEAD (latest commit).
+
 
 8. **Working With Branches:**
   
@@ -203,16 +211,28 @@ some notes for git learners
       ```
       git checkout 'branch-name'
       ```
-    - To replace a file with the version from the HEAD (latest commit), use:
-      ```
-      git checkout -- <file>
-      ```
-        - `'--'`: Refers to the HEAD (latest commit).
+      - so, let’s say you make a new branch and go to this branch, make some files and change the contents of the other. If you switch back the master using checkout, all the files and changes that you have made will disappear from your computer directory!
 
     - To merge a branch into your current branch, use:
       ```
       git merge 'branch-name'
       ```
+      - it merges the changes you made in the new branch on the branch master. note that before using this command you have to checkout first to the branch master.
+      - When you switch from one branch to the other (let’s say from master to a new branch named "linkingpages") the git bash interface will show a message, telling you what is different in your working directory compared to linkingpages after switching. D means deleted, and M means modified.
+      In this example, one file has been modified and one has been deleted, comparing the branch content with the working directory:
+
+      > \$ git checkout linkingpages
+      >
+      > D 2_project.html
+      >
+      > M Git init.docx
+      >
+      > D index.txt
+      >
+      > Switched to branch 'linkingpages'
+      - When you make changes in your working directory without staging them and then switch branches, Git will try to preserve your changes, but the behavior depends on whether those changes conflict with the files in the branch you're switching to.
+      - until you merge the branch with the master, you cannot see the changes you made on that branch also in the master.
+
 
 11. **View Commit History:**
 
