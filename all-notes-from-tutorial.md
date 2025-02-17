@@ -48,7 +48,7 @@ some notes for git learners
       git add “file1.txt” “file2.txt”
       ```
 
-    - Adding any file that have "hello" in its name:
+    - Adding any file that has "hello" in its name:
       ```
       git add “hello*”
       ```
