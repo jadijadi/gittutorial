@@ -493,12 +493,10 @@ some notes for git learners
       ```
       - This is your signing key. You’ll get something like this: the highlighted part is your key.
 
-      output example:
-      > \[keyboxd\]
+      output example: The highlighted part is your private key.
+    
       >
-      > ---------
-      >
-      > sec ed25519/<span class="mark">51D5C682AB1A7B0C</span> 2025-02-13
+      > sec ed25519/'51D5C682AB1A7B0C' 2025-02-13
       > \[SC\] \[expires: 2028-02-13\]
       >
       > CC22A2B6C514DB471260321E51D5C682AB1A7B0C
