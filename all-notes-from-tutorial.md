@@ -17,12 +17,16 @@ some notes for git learners
 
 2. **Checking the Status:**
 
-   To view the current status of your project and its files, use:
-   ```
-   git status
-   ```
-   - Tells you which files are modified, staged, or untracked.
-   - Helps you understand what changes need to be committed.
+  - To view the current status of your project and its files, use:
+    ```
+    git status
+    ```
+   - Tells you which files are modified, staged, or untracked and helps you understand what changes need to be committed.
+  
+  - To see all the commit logs, use:
+    ```
+    git log
+    ```
 
 3. **Adding Files to the Staging Area:**
 
@@ -52,8 +56,14 @@ some notes for git learners
       ```
       git add “hello*”
       ```
-      
-4. **Committing Changes:**
+
+
+4. **Removing a file from the local repository:**
+      To remove a file from Git and your project, use:
+    ```
+    git rm 'file-name'
+    ```
+5. **Committing Changes:**
 
    To save the staged changes as a new snapshot, use the `git commit` command:
    ```
@@ -62,7 +72,7 @@ some notes for git learners
     - `git commit`: You can also write this command (without adding -m "comment") and insert your comment in the editor. 
     - Always include a comment with your commit.
 
-5. **Viewing Differences:**
+6. **Viewing Differences:**
 
    Git provides several ways to view differences:
 
@@ -124,7 +134,7 @@ some notes for git learners
     </tbody>
     </table>
 
-6. **Reseting and Exiting the Staging Area:**
+7. **Reseting and Exiting the Staging Area:**
 
    To manipulate the state of your working directory, staging area, and commit history, you can use the `git reset`
    command:
@@ -141,7 +151,7 @@ some notes for git learners
       git reset --hard <commit>
       ```
 
-7. **Restoring Files:**
+8. **Restoring Files:**
 
    To manipulate the state of your working directory and staging area without affecting the commit history, you can use the `git restore` command:
 
@@ -180,7 +190,7 @@ some notes for git learners
       - `'--'`: Refers to the HEAD (latest commit).
 
 
-8. **Working With Branches:**
+9. **Working With Branches:**
   
    When you create a new branch, it **inherits the current state** of your working directory and index.Managing branches is essential for collaboration and project organization. Here are some branch-related commands:
 
@@ -234,19 +244,7 @@ some notes for git learners
       - until you merge the branch with the master, you cannot see the changes you made on that branch also in the master.
 
 
-11. **View Commit History:**
 
-    To see all the commit logs, use:
-    ```
-    git log
-    ```
-
-12. **Remove a File:**
-
-    To remove a file from Git and your project, use:
-    ```
-    git rm 'file-name'
-    ```
 
 13. **Push to a Remote Repository:**
 
