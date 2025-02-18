@@ -647,7 +647,7 @@ some notes for git learners
 
     - ```diff```: Shows the differences made in the current file
 
-    - ```cat <filename.txt>```: Shows the content of the file (cat stands for concatenate)
+    - ```cat filename.txt```: Shows the content of the file (cat stands for concatenate)
 
     - ```cat file1.txt file2.txt > combined.txt```: This will **combine** file1.txt and file2.txt into a new file called combined.txt.
 
@@ -657,7 +657,7 @@ some notes for git learners
 
     - ```~```: Refers to your home directory in Git Bash (C:\Users\YourUsername)
 
-    - ```vi <file>```: To edit a file in vim text editor, or create a new one is does not
+    - ```vi <file>```: To edit a file in Vim text editor, or create a new one is does not
     exist: 
 
     **Vim text editor**:  
