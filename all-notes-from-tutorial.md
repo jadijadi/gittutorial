@@ -88,10 +88,10 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
 
 # Removing a file from the local repository
-    To remove a file from Git and your project, use:
-  ```
-  git rm 'file-name'
-  ```
+  To remove a file from Git and your project, use:
+    ```
+    git rm 'file-name'
+    ```
 
 # Committing Changes
 
