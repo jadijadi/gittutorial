@@ -1,10 +1,19 @@
-# git-learning-notes
+Github Onramp by jadi: Summary of the notes and commands
 
-some notes for git learners
+# Table of Contents
+  - [Initializing a Git Project](#Initializing-a-Git-Project)
+  - [Checking Git Status](#Checking-Git-Status)
+  - [Report Commands](#report-commands)
+  - [File Modification](#file-modification)
+  - [Branches](#branches)
+  - [Git In The Cloud !](#git-in-the-cloud)
+  - [Conflicts](#conflicts)
+  - [Tags](#tags)
+  - [Sign Commites And Tags](#sign-commites-and-tags)
+  - [Debug With Git](#debug-with-git)
 
-# Git Commands
 
-1. **Initializing a Git Project:**
+# Initializing a Git Project
 
    A repository (or repo) in Git is a storage location where your project's files, along with their entire version history, are stored. It tracks all changes, allowing you to collaborate, revert, and manage versions effectively.
 
@@ -17,7 +26,7 @@ some notes for git learners
     - Used when starting a new project or making an existing directory a Git
     repository.
 
-2. **Checking the Status:**
+# Checking Git Status
 
   - To view the current status of your local repository:
     ```
@@ -34,7 +43,7 @@ some notes for git learners
     git show <commit-hash-string>
     ```
 
-3. **Adding Files to the Staging Area:**
+# Adding Files to the Staging Area
 
    To Add files to the staging area to prepare them for commit. You have several options:
 
@@ -63,13 +72,13 @@ some notes for git learners
       git add “hello*”
       ```
 
-
-4. **Removing a file from the local repository:**
+# Removing a file from the local repository
       To remove a file from Git and your project, use:
     ```
     git rm 'file-name'
     ```
-5. **Committing Changes:**
+
+# Committing Changes
 
    To save the staged changes as a new snapshot, use the `git commit` command:
    ```
@@ -78,7 +87,7 @@ some notes for git learners
     - `git commit`: You can also write this command (without adding -m "comment") and insert your comment in the editor. 
     - Always include a comment with your commit.
 
-6. **Viewing Differences:**
+# Viewing Differences
 
    Git provides several ways to view differences:
 
@@ -140,7 +149,7 @@ some notes for git learners
     </tbody>
     </table>
 
-7. **Reseting and Exiting the Staging Area:**
+# Reseting and Exiting the Staging Area
 
    To manipulate the state of your working directory, staging area, and commit history, you can use the `git reset`
    command:
@@ -157,7 +166,7 @@ some notes for git learners
       git reset --hard <commit>
       ```
 
-8. **Restoring Files:**
+# Restoring Files
 
    To manipulate the state of your working directory and staging area without affecting the commit history, you can use the `git restore` command:
 
@@ -196,7 +205,7 @@ some notes for git learners
       - `'--'`: Refers to the HEAD (latest commit).
 
 
-9. **Working With Branches:**
+# Working With Branches
   
    When you create a new branch, it **inherits the current state** of your working directory and index.Managing branches is essential for collaboration and project organization. Here are some branch-related commands:
 
@@ -249,7 +258,7 @@ some notes for git learners
       - When you make changes in your working directory without staging them and then switch branches, Git will try to preserve your changes, but the behavior depends on whether those changes conflict with the files in the branch you're switching to.
       - until you merge the branch with the master, you cannot see the changes you made on that branch also in the master.
 
-10. **Cloning a Remote Repository**
+# Cloning a Remote Repository**
   
     Remote is a reference to a repository on a server, like github or
     gitlab, or even another machine. If you clone a repository from
@@ -295,7 +304,7 @@ some notes for git learners
         (which -u stands for --set-upstream). the next time you want to do the same thing, you only
         need to write `git push`. 
 
-11. **Adding a Remote Repository:**
+# Adding a Remote Repository
 
     - To link a remote address to your current project on your local machine, use:
       ```
@@ -364,7 +373,7 @@ some notes for git learners
       the signs (\<\<, \>\> and ===)
 
 
-12. **Tagging:**
+# Tagging
 
     Tags are used to mark specific points in the commit history. 
     **also you can make versions for your application**
@@ -419,7 +428,7 @@ some notes for git learners
       git tag -v <tag-name or version-number>
       ```
 
-13. **GPG Keys and Signing:**
+# GPG Keys and Signing
 
     **Asymmetric encryption (PGP)** or **PGP (Pretty Good Privacy) encryption** is based on **public-key
       cryptography (asymmetric encryption)**, which uses **two mathematically
@@ -552,7 +561,7 @@ some notes for git learners
           >-----END PGP SIGNATURE-----
   
 
-14. **Debugging Using Git:**
+# Debugging Using Git
 
     - To show all the change history about your file:
       ```
@@ -600,7 +609,7 @@ some notes for git learners
         your answer, and gives you another commit to check. Then this
         iteration goes on this way.
 
-15. **Forking and Pull (Merge) Request:**
+# Forking and Pull (Merge) Request
 
     let’s say someone has a repository in their Github or Gitlab profile.
     Forking means making a copy of their project and placing it on your
@@ -613,7 +622,7 @@ some notes for git learners
     Gitlab). the Guy will check your changes and decides whether to accept
     this merge or not.**
 
-16. **Other Git Commands:**
+# Other Git Commands
     - Differences in using "--":
 
       1. ```--<name>```: name is a parameter of the command: like ```git diff --staged``` 🡪 checks the staged files
@@ -641,7 +650,7 @@ some notes for git learners
         git help <command>
       ```
 
-17. **Unix-Specific Commands**
+# Unix-Specific Commands
 
     - ```touch <file>``` : To create an empty file (any type: text, html, etc) on the Git bash.
 
