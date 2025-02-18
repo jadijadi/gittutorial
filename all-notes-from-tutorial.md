@@ -22,16 +22,16 @@ Github Onramp course by jadi: Summary of the notes and commands
 
 # Initializing a Git Project
 
-   A repository (or repo) in Git is a storage location where your project's files, along with their entire version history, are stored. It tracks all changes, allowing you to collaborate, revert, and manage versions effectively.
+  A repository (or repo) in Git is a storage location where your project's files, along with their entire version history, are stored. It tracks all changes, allowing you to collaborate, revert, and manage versions effectively.
 
-   To start a new Git repository for your project, use the following command:
-   ```
-   git init
-   ```
-    - It creates a hidden .git folder, which stores all the repository’s
-    metadata (branches, commits, configurations, etc.).
-    - Used when starting a new project or making an existing directory a Git
-    repository.
+  To start a new Git repository for your project, use the following command:
+  ```
+  git init
+  ```
+  - It creates a hidden .git folder, which stores all the repository’s
+  metadata (branches, commits, configurations, etc.).
+  - Used when starting a new project or making an existing directory a Git
+  repository.
 
 # Checking Git Status
 
