@@ -486,6 +486,27 @@ some notes for git learners
       gpg --list-keys
       ```
       - Your public key allows others to verify your signature. Without your public key, people can still see your commits/tags, but they can't verify their authenticity. It ensures that no one else has forged your identity to push commits under your name. Anyone can set their Git username and email to pretend to be you: by git config --global user.name "Your Name" and git config --global user.email <your@email.com>. This means someone can fake commits under your name—but if they don't have your private key, they can't sign them.
+    
+    - To list all your **private (secret) keys** in your keyring:
+      ```
+      gpg --list-secret-keys --keyid-format LONG
+      ```
+      - This is your signing key. You’ll get something like this: the highlighted part is your key.
+
+      output example:
+      > \[keyboxd\]
+      >
+      > ---------
+      >
+      > sec ed25519/<span class="mark">51D5C682AB1A7B0C</span> 2025-02-13
+      > \[SC\] \[expires: 2028-02-13\]
+      >
+      > CC22A2B6C514DB471260321E51D5C682AB1A7B0C
+      >
+      > uid \[ultimate\] Jalal Abbasi \<s.jalalabasi@gmail.com\>
+      >
+      > ssb cv25519/678FBAE76D47A781 2025-02-13 \[E\] \[expires: 2028-02-13\]
+
 
 
 
