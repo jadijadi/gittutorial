@@ -383,7 +383,7 @@ some notes for git learners
 
     - To create a tag for a specific commit:
       ```
-      git tag -a <version-number> <commit-hash> -m "Your message"
+      git tag -a <version> <commit-hash> -m "Your message"
       ```
       - You can use git log to see the history of all commits and then copy the hash of the commit action you want to label it. No need to put all the hash, even a few starting characters would work.
 
