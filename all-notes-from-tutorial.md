@@ -570,7 +570,7 @@ some notes for git learners
       ```
     - Git Blame is useful for tracing the changes made to a file. It helps in understanding who made the changes and when they were made, which can be valuable for tracking alterations, identifying contributors, and understanding the evolution of the codebase.
   
-  **Bisect**
+    **Bisect**
 
     (binary-search-commits): so, you are in the latest commit, and you have
     a bug in your code and you want to find it, git helps you to find it in
