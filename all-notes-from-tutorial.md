@@ -1,16 +1,23 @@
-Github Onramp by jadi: Summary of the notes and commands
+Github Onramp course by jadi: Summary of the notes and commands
 
 # Table of Contents
   - [Initializing a Git Project](#Initializing-a-Git-Project)
   - [Checking Git Status](#Checking-Git-Status)
-  - [Report Commands](#report-commands)
-  - [File Modification](#file-modification)
-  - [Branches](#branches)
-  - [Git In The Cloud !](#git-in-the-cloud)
-  - [Conflicts](#conflicts)
-  - [Tags](#tags)
-  - [Sign Commites And Tags](#sign-commites-and-tags)
-  - [Debug With Git](#debug-with-git)
+  - [Adding Files to the Staging Area](#Adding-Files-to-the-Staging-Area)
+  - [Removing a file from the local repository](#Removing-a-file-from-the-local-repository)
+  - [Committing Changes](#Committing-Changes)
+  - [Viewing Differences](#Viewing-Differences)
+  - [Reseting and Exiting the Staging Area](#Reseting-and-Exiting-the-Staging-Area)
+  - [Restoring Files](#Restoring-Files)
+  - [Working With Branches](#Working-With-Branches)
+  - [Cloning a Remote Repository](#Cloning-a-Remote-Repository)
+  - [Adding a Remote Repository](#Adding-a-Remote-Repository)
+  - [Tagging](#tagging)
+  - [GPG Keys and Signing](#gpg-keys-and-signing)
+  - [Debugging Using Git](#debugging-using-git)
+  - [Forking and Pull (Merge) Request](#forking-and-pull-merge-request)
+  - [Other Git Commands](#other-git-commands)
+  - [Unix-Specific Commands](#unix-specific-commands)
 
 
 # Initializing a Git Project
@@ -258,7 +265,7 @@ Github Onramp by jadi: Summary of the notes and commands
       - When you make changes in your working directory without staging them and then switch branches, Git will try to preserve your changes, but the behavior depends on whether those changes conflict with the files in the branch you're switching to.
       - until you merge the branch with the master, you cannot see the changes you made on that branch also in the master.
 
-# Cloning a Remote Repository**
+# Cloning a Remote Repository
   
     Remote is a reference to a repository on a server, like github or
     gitlab, or even another machine. If you clone a repository from
