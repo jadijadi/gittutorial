@@ -294,14 +294,26 @@ some notes for git learners
         (which -u stands for --set-upstream). the next time you want to do the same thing, you only
         need to write `git push`. 
 
-
-
 11. **Adding a Remote Repository:**
 
-    To add a remote address to your current project on your local machine, use:
-    ```
-    git remote add origin <remote_URL>
-    ```
+    - To link a remote address to your current project on your local machine, use:
+      ```
+      git remote add origin <remote_URL>
+      ```
+      - For starting a project, you make an empty repository on the cloud and link it to your local repository, to save and push files also on the cloud. 
+      - You can add multiple remotes to your projects and push them into different repositories at the same time for increased safety.
+      - Origin is the default remote name. You can replace the origin with any name you want in this command.
+
+    - To view the remotes attached to your local repository:
+      ```
+      git remote
+      ```
+    - To make the output of the previous command (-v stands for "verbous"): 
+      ```
+      git remote -v
+      ```
+      - It will give you the name of the remote and the url, both for pull (fetch) and push.
+    
 
 18. **Change Remote URL:**
 
