@@ -558,8 +558,7 @@ some notes for git learners
       ```
       git blame <file>
       ```
-      - It shows who have written which part of this
-last code and when.
+      - It shows who have written which part of this last code and when.
     - To show all the change history about your requested line in the requested file:
       ```
       git blame <file> -Ln
@@ -570,6 +569,37 @@ last code and when.
         git blame <file> -Ln,m
       ```
     - Git Blame is useful for tracing the changes made to a file. It helps in understanding who made the changes and when they were made, which can be valuable for tracking alterations, identifying contributors, and understanding the evolution of the codebase.
+  
+  **Bisect**
+
+    (binary-search-commits): so, you are in the latest commit, and you have
+    a bug in your code and you want to find it, git helps you to find it in
+    an iterative way.
+
+    So first you must go the highest level of the directory. Then you tell
+    git to start the process. Then you tell the latest commit is bad. Then
+    ask you to determine what was the latest commit in the history, that was
+    working fine. Given these two commits, the git goes and find the commit
+    between these two, and asks you to check if it is good or bad. If it is
+    good, it means that the bug is present between this middle commit and
+    the latest one, and if not, it means that the bug is present between
+    this middle commit and that last good commit.
+
+    1.  ```git bisect start``: telling git to start the bisect.
+
+    2.  ```git bisect bad```: telling the git that the commit that we are now at
+        it, so the latest one, is bad (buggy).
+
+    3.  ```git bisect good <commit-hash>```: then we have to tell the git the
+        last commit in the log, in which the code was working well.
+
+    4.  ITERATIVE: then git gives you a commit hash and asks you to check if
+        it is good or bad. If good, you write git bisect good, else you
+        write git bisect bad. Then, git now checks again, between the commit
+        it mentioned you, and the last or the last good commit, according to
+        your answer, and gives you another commit to check. Then this
+        iteration goes on this way.
+
 
   
 
