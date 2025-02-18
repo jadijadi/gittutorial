@@ -279,11 +279,11 @@ some notes for git learners
         ```
           git clone <remote repository url>
         ```
-    - When you already have the repository cloned and want to update it, you want to fetch and merge the latest changes from a remote branch into your current local branch. This is Git terminology is called "pulling". We pull the file from the origin and write them on the master branch
+    - When you already have the repository cloned and want to update it, you want to fetch and merge the latest changes from a remote branch into your current local branch. This in Git terminology is called "pulling". We pull the file from the origin and write them on the master branch:
         ```
           git pull origin master
         ```
-    - If you made some changes on your local repository, and want to effect them also on the remote repository, you "push" these changes from your master brach to the origin by:
+    - If you made some changes on your local repository, and want to send committed changes from your local repository to the remote server (usually in the cloud, like GitHub or GitLab), you "push" these changes from your master brach to the origin by:
         ```
           git push origin master
         ```
@@ -295,38 +295,6 @@ some notes for git learners
         need to write `git push`. 
 
 
-
-13. **Push to a Remote Repository:**
-
-    To push all the changes from your local `master` branch to a remote repository (usually in the cloud, like GitHub or
-    GitLab), use:
-    ```
-    git push origin master
-    ```
-    - `origin`: Represents the remote repository.
-    - `git push -u origin master`: After using this parameter, you can use `git push` instead
-      of `git push origin master`.
-
-14. **Pull from a Remote Repository:**
-
-    To update, retrieve, and replace the changes from the remote repository into your local `master` branch, use:
-    ```
-    git pull origin master
-    ```
-
-15. **Clone a Repository:**
-
-    To copy an existing repository from a remote location (like GitHub) to your local machine, use:
-    ```
-    git clone <repository_URL>
-    ```
-
-16. **Push Changes to Remote:**
-
-    To send committed changes from your local repository to the remote server, use:
-    ```
-    git push
-    ```
 
 17. **Add Remote Repository:**
 
