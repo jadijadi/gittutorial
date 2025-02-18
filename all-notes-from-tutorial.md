@@ -308,40 +308,66 @@ some notes for git learners
       ```
       git remote
       ```
+
     - To make the output of the previous command (-v stands for "verbous"): 
       ```
       git remote -v
       ```
       - It will give you the name of the remote and the url, both for pull (fetch) and push.
-    
 
-18. **Change Remote URL:**
+    - To replace the current remote URL with a new one, use:
+      ```
+      git remote set-url origin <new_remote_URL>
+      ```
 
-    To replace the current remote URL with a new one, use:
-    ```
-    git remote set-url origin <new_remote_URL>
-    ```
+    - To fetch and merge changes from the remote server into your default local branch, use:
+      ```
+      git pull origin master
+      ```
+      - You can substitute any branch name with master, if you want to pull changes to another branch.
 
-19. **Pull Changes from Remote:**
+    - To push changes from your local default branch to the remote repository:
+      ```
+      git push origin master
+      ```
+      
+    - To track a remote branch, use:
+      ```
+      git branch --set-upstream-to=origin/master master
+      ```
 
-    To fetch and merge changes from the remote server into your local branch, use:
-    ```
-    git pull origin main
-    ```
-
-20. **Set Upstream Branch:**
-
-    To track a remote branch, use:
-    ```
-    git branch --set-upstream-to=origin/main main
-    ```
-
-21. **Push with Upstream:**
-
-    To push the current branch and set the remote as the upstream branch, use:
+    - To push the current branch and set the remote as the upstream branch, use:
      ```
      git push --set-upstream origin <local-branch>
      ```
+  
+    **Solving Conflicts**
+      So, let’s say I pulled the origin, made changes on one of the files.
+      And in the meanwhile, my colleague pulled and did some changes on the
+      same file and pushed the changes. So, it means that the current origin
+      state is not the same file when I fetch it. Now if I want to push, git
+      gives me error, saying that a conflict has happened and you cannot
+      make the changes you want on the origin file because it’s initial
+      state is changed. Usually, it guides you, telling you to pull again.
+      When you pull it, it tells you that you have some conflicts on the
+      file you have been working on. Git is rather smart, so that if you and
+      your colleague have changed different lines of that part, it
+      automatically merges the two changes and then it allows you to push.
+      However, if different changes have been applied to the same parts of
+      the code, it needs you to resolve the conflicts. So, if you use Vim
+      editor, you will see the changed parts highlighted in the file. Your
+      changes are between \<\<\<\<\<\<\< Header and =====, and his/her
+      changes are between \>\>\>\>\>\> (commit hash id) and =======. You can
+      decide which to keep and which to discard. you can also discard all
+      the signs (\<\<, \>\> and ===)
+
+20. **Set Upstream Branch:**
+
+    
+
+21. **Push with Upstream:**
+
+    
 
 22. **Tagging:**
 
