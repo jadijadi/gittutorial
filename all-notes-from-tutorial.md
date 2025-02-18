@@ -485,15 +485,7 @@ some notes for git learners
       ```
       gpg --list-keys
       ```
-      - Your public key
-      allows others to verify your signature. Without your public key, people
-      can still see your commits/tags, but they can't verify their
-      authenticity. It ensures that no one else has forged your identity to
-      push commits under your name. Anyone can set their Git username and
-      email to pretend to be you: by git config --global user.name "Your Name"
-      and git config --global user.email <your@email.com>. This means someone
-      can fake commits under your name—but if they don't have your private
-      key, they can't sign them.
+      - Your public key allows others to verify your signature. Without your public key, people can still see your commits/tags, but they can't verify their authenticity. It ensures that no one else has forged your identity to push commits under your name. Anyone can set their Git username and email to pretend to be you: by git config --global user.name "Your Name" and git config --global user.email <your@email.com>. This means someone can fake commits under your name—but if they don't have your private key, they can't sign them.
 
 
 
