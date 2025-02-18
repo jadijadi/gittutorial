@@ -263,12 +263,18 @@ some notes for git learners
     **pointer** or **label** that Git uses to keep track of where a
     repository is located. So, a **remote** is a **reference to the
     location of a repository**—this **location** can be a URL, and Git
-    uses that reference to fetch and push data.
+    uses that reference to fetch and push data. Technically speaking, Git stores remotes as **configuration entries** in your repository. So, remote is a **configuration entry** stored as plain text in the Git configuration file. Git keeps this information in a special file called .git/config in your local repository.
+    For example, a typical section in .git/config looks like this:
+      > \[remote "origin"\]
+      >
+      > url = https://github.com/user/repo.git
+      >
+      > fetch = +refs/heads/\*:refs/remotes/origin/\*
+      >
+      > This configuration section is where **origin** is the reference, and
+      > the **URL** (https://github.com/user/repo.git) is the data that Git
+      > uses to access the remote repository.
 
-    Technically speaking, Git stores remotes as **configuration entries**
-    in your repository. So, remote is a **configuration entry** stored as
-    plain text in the Git configuration file. Git keeps this information
-    in a special file called .git/config in your local repository.
 13. **Push to a Remote Repository:**
 
     To push all the changes from your local `master` branch to a remote repository (usually in the cloud, like GitHub or
