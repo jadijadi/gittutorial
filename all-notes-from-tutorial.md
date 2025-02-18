@@ -496,7 +496,7 @@ some notes for git learners
       output example: The highlighted part is your private key.
     
       >
-      > sec ed25519/'51D5C682AB1A7B0C' 2025-02-13
+      > sec ed25519/`51D5C682AB1A7B0C` 2025-02-13
       > \[SC\] \[expires: 2028-02-13\]
       >
       > CC22A2B6C514DB471260321E51D5C682AB1A7B0C
