@@ -420,59 +420,60 @@ some notes for git learners
       ```
 
 23. **GPG Keys and Signing:**
-  **Asymmetric encryption (PGP)** or **PGP (Pretty Good Privacy) encryption** is based on **public-key
-    cryptography (asymmetric encryption)**, which uses **two mathematically
-    linked keys**:
-  
-  1.  **Public Key (Shared with Others)**
 
-      - Used to **encrypt** messages.
+    **Asymmetric encryption (PGP)** or **PGP (Pretty Good Privacy) encryption** is based on **public-key
+      cryptography (asymmetric encryption)**, which uses **two mathematically
+      linked keys**:
+    
+    1.  **Public Key (Shared with Others)**
 
-      - Anyone can use it to send you encrypted messages.
+        - Used to **encrypt** messages.
 
-  2.  **Private Key (Kept Secret)**
+        - Anyone can use it to send you encrypted messages.
 
-      - Used to **decrypt** messages.
+    2.  **Private Key (Kept Secret)**
 
-      - Only you can use it to read messages encrypted with your public
-        key.
+        - Used to **decrypt** messages.
 
-  Let’s break it down with a **real-world example**:
+        - Only you can use it to read messages encrypted with your public
+          key.
 
-  **🔹 Encrypting a Message (Sending Securely)**
+    Let’s break it down with a **real-world example**:
 
-  1.  Alice wants to send a **secret** message to Bob.
+    **🔹 Encrypting a Message (Sending Securely)**
 
-  2.  She gets **Bob’s public key** (which Bob has shared publicly).
+    1.  Alice wants to send a **secret** message to Bob.
 
-  3.  She **encrypts** the message using Bob’s **public key**.
+    2.  She gets **Bob’s public key** (which Bob has shared publicly).
 
-  4.  Alice sends the **encrypted message** to Bob.
+    3.  She **encrypts** the message using Bob’s **public key**.
 
-  **🔹 Decrypting a Message (Reading Securely)**
+    4.  Alice sends the **encrypted message** to Bob.
 
-  1.  Bob receives the **encrypted message** from Alice.
+    **🔹 Decrypting a Message (Reading Securely)**
 
-  2.  Since the message was encrypted using his **public key**, it can
-      **only** be decrypted using his **private key**.
+    1.  Bob receives the **encrypted message** from Alice.
 
-  3.  Bob **uses his private key** to decrypt and read the message.
+    2.  Since the message was encrypted using his **public key**, it can
+        **only** be decrypted using his **private key**.
 
-  GP is also used for **digital signatures** to prove identity:
+    3.  Bob **uses his private key** to decrypt and read the message.
 
-  1.  Bob wants to send an **authentic** message to Alice.
+    GP is also used for **digital signatures** to prove identity:
 
-  2.  Bob **signs the message with his private key**.
+    1.  Bob wants to send an **authentic** message to Alice.
 
-  3.  Alice **verifies the signature using Bob’s public key** to confirm
-      it came from him.
+    2.  Bob **signs the message with his private key**.
 
-  GPG was for commercial and private companies, so GPG has been developed,
-  using the same principles for open-source use.
+    3.  Alice **verifies the signature using Bob’s public key** to confirm
+        it came from him.
 
-  Now, you can digitally **sign** tags and commits in git using GPG, so
-  full proof your identity, and make every one sure that the commit or tag
-  is done by you!
+    GPG was for commercial and private companies, so GPG has been developed,
+    using the same principles for open-source use.
+
+    Now, you can digitally **sign** tags and commits in git using GPG, so
+    full proof your identity, and make every one sure that the commit or tag
+    is done by you!
 
 
 
