@@ -505,6 +505,59 @@ some notes for git learners
       >
       > ssb cv25519/678FBAE76D47A781 2025-02-13 \[E\] \[expires: 2028-02-13\]
 
+    - To show your private signing key:
+      ```
+        git config --global user.signingkey
+      ```
+      - if you have not set any yet in git, it does not show anything.
+
+    - Set your signing key for the current user across all repositories:
+      ```
+      git config --global user.signingKey 'your-secret-key'
+      ```
+
+    - To tag the last commit with your signature:
+      ```
+        git tag -s <version> -m “message”
+      ```
+    
+    - To commit with your signature: 
+      ```
+      git commit -S -m “message”
+      ```
+      - if you use git log, it does not show if it is signed or not.
+
+    - To verify if the <version> is signed:
+      ```
+        git tag -v <version>
+      ```
+      - -v here means to verify (do not mistake it with "verbous")
+      - if verified, you’ll get a message like: Good signature from "Jalal Abbasi <s.jalalabasi@gmail com>" [ultimate]
+
+    - To see the excact signature characters as a part of tag message:
+      ```
+        git show <version>
+      ```
+      - It is a code between two lines, as below:
+          >-----BEGIN PGP SIGNATURE-----
+          >
+          >iHUEABYKAB0WIQTMIqK2xRTbRxJgMh5R1caCqxp7DAUCZ65O2wAKCRBR1caCqxp7
+          >
+          >DCIOAQCgjUvfc/cyJc7dlZxhtlJwSBj270Cu+1HXPIIhaLSpYQD+J9FXuqfwUUqK
+          >
+          >nWWqA7pTgfPWzNeJNPqujussqPns1gA=
+          >
+          >=/A/w
+          >
+          >-----END PGP SIGNATURE-----
+  
+
+
+
+
+
+    
+    
 
 
 
@@ -525,14 +578,7 @@ some notes for git learners
       ```
       gpg --list-secret-keys --keyid-format LONG
       ```
-    - Set your signing key for this project:
-      ```
-      git config user.signingKey 'your-secret-key'
-      ```
-    - Show your signing key for this project:
-      ```
-      git config user.signingKey
-      ```
+    
 
     - Set a global signing key for all projects:
       ```
