@@ -552,65 +552,26 @@ some notes for git learners
           >-----END PGP SIGNATURE-----
   
 
+24. **Debugging using Git:**
 
-
-
-
-    
-    
-
-
-
-
-
-
-
-
-    - Show all keys:
-      ```
-      gpg --list-keys
-      ```
-    - Generate a new key:
-      ```
-      gpg --gen-key
-      ```
-    - Show my secret keys:
-      ```
-      gpg --list-secret-keys --keyid-format LONG
-      ```
-    
-
-    - Set a global signing key for all projects:
-      ```
-      git config user.signingKey 'your-secret-key' --global
-      ```
-
-    - Sign your version/tag:
-      ```
-      git tag -s 'version-number' -m "your-message"
-      ```
-
-    - Sign your commit:
-      ```
-      git commit -S -m 'your-message'
-      ```
-
-    - Verify your tag:
-      ```
-      git tag -v 'tag-name or version-number'
-      ```
-
-24. **Blame History:**
-
-    - Show all the change history about your file:
+    - To show all the change history about your file:
       ```
       git blame <file>
       ```
-    - Show all the change history about your requested line in the requested file:
+      - It shows who have written which part of this
+last code and when.
+    - To show all the change history about your requested line in the requested file:
       ```
-      git blame <file> -L5
+      git blame <file> -Ln
       ```
-    - Git Blame is useful for tracing the changes made to a file, and using the `-L` parameter, you can specify a specific line range to investigate. It helps in understanding who made the changes and when they were made, which can be valuable for tracking alterations, identifying contributors, and understanding the evolution of the codebase.
+      - It shows, who has written the code in line “n”, in the <file>, in a chronological order, from the latest to the oldest.
+    - To show the last person who has modified the code between lines n and m and the date he/she modified them:
+      ```
+        git blame <file> -Ln,m
+      ```
+    - Git Blame is useful for tracing the changes made to a file. It helps in understanding who made the changes and when they were made, which can be valuable for tracking alterations, identifying contributors, and understanding the evolution of the codebase.
+
+  
 
 Remember to use these commands as needed in your Git projects. It's important to maintain a clean and organized version
 control process for effective collaboration and project management.
