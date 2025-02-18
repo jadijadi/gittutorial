@@ -275,6 +275,12 @@ some notes for git learners
     the **URL** (https://github.com/user/repo.git) is the data that Git
     uses to access the remote repository.
 
+    clonning a project means making a copy of the remote project on your local directory. To do so we use this command:
+      ```
+      git clone <remote repository url>
+      ```
+
+
 13. **Push to a Remote Repository:**
 
     To push all the changes from your local `master` branch to a remote repository (usually in the cloud, like GitHub or
