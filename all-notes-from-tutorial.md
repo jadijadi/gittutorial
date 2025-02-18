@@ -17,15 +17,19 @@ some notes for git learners
 
 2. **Checking the Status:**
 
-  - To view the current status of your project and its files, use:
+  - To view the current status of your local repository:
     ```
     git status
     ```
    - Tells you which files are modified, staged, or untracked and helps you understand what changes need to be committed.
   
-  - To see all the commit logs, use:
+  - To show the log (history) of the all commits you have made:
     ```
     git log
+    ```
+  - To see the content of a specific commit:
+    ```
+    git show <commit-hash-string>
     ```
 
 3. **Adding Files to the Staging Area:**
@@ -242,8 +246,6 @@ some notes for git learners
       > Switched to branch 'linkingpages'
       - When you make changes in your working directory without staging them and then switch branches, Git will try to preserve your changes, but the behavior depends on whether those changes conflict with the files in the branch you're switching to.
       - until you merge the branch with the master, you cannot see the changes you made on that branch also in the master.
-
-
 
 
 13. **Push to a Remote Repository:**
