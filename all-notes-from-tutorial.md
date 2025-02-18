@@ -248,7 +248,27 @@ some notes for git learners
       - When you make changes in your working directory without staging them and then switch branches, Git will try to preserve your changes, but the behavior depends on whether those changes conflict with the files in the branch you're switching to.
       - until you merge the branch with the master, you cannot see the changes you made on that branch also in the master.
 
+10. **Cloning a Remote Repository**
+  
+    remote is a reference to a repository on a server, like github or
+    gitlab, or even another machine. If you clone a repository from
+    GitHub, Git automatically creates a remote reference called origin.
 
+    origin is the default name given to a remote repository when you
+    clone a project. It acts as a shortcut to refer to the original
+    repository's URL, so you don’t have to type the full address every
+    time.
+
+    In Git, a **remote is a reference** because it's essentially a
+    **pointer** or **label** that Git uses to keep track of where a
+    repository is located. So, a **remote** is a **reference to the
+    location of a repository**—this **location** can be a URL, and Git
+    uses that reference to fetch and push data.
+
+    Technically speaking, Git stores remotes as **configuration entries**
+    in your repository. So, remote is a **configuration entry** stored as
+    plain text in the Git configuration file. Git keeps this information
+    in a special file called .git/config in your local repository.
 13. **Push to a Remote Repository:**
 
     To push all the changes from your local `master` branch to a remote repository (usually in the cloud, like GitHub or
