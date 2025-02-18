@@ -392,7 +392,7 @@ Github Onramp course by jadi: Summary of the notes and commands
 # Tagging
 
   Tags are used to mark specific points in the commit history. 
-  **also you can make versions for your application**
+  **Also you can make versions for your application**
 
   - To show all tags:
     ```
