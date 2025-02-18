@@ -601,17 +601,16 @@ some notes for git learners
         iteration goes on this way.
 
 15. **Forking and Pull (Merge) Request:**
-
-  let’s say someone has a repository in their Github or Gitlab profile.
-  Forking means making a copy of their project and placing it on your
-  repository tab, so that you can work on it separately. So, you clone
-  this forked project and work on it on your local machine and make some
-  changes to it. Then, you push these changes to your own forked project.
-  If you want to notify the guy who originally made the project about your
-  changes and ask him if he wants to merge these changes also to his own
-  project, you send him a pull request (in Github) or merge request (in
-  Gitlab). the Guy will check your changes and decides whether to accept
-  this merge or not.**
+    let’s say someone has a repository in their Github or Gitlab profile.
+    Forking means making a copy of their project and placing it on your
+    repository tab, so that you can work on it separately. So, you clone
+    this forked project and work on it on your local machine and make some
+    changes to it. Then, you push these changes to your own forked project.
+    If you want to notify the guy who originally made the project about your
+    changes and ask him if he wants to merge these changes also to his own
+    project, you send him a pull request (in Github) or merge request (in
+    Gitlab). the Guy will check your changes and decides whether to accept
+    this merge or not.**
 
   
 
