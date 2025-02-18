@@ -5,6 +5,7 @@ some notes for git learners
 # Git Commands
 
 1. **Initializing a Git Project:**
+
    A repository (or repo) in Git is a storage location where your project's files, along with their entire version history, are stored. It tracks all changes, allowing you to collaborate, revert, and manage versions effectively.
 
    To start a new Git repository for your project, use the following command:
@@ -342,7 +343,7 @@ some notes for git learners
      ```
   
     **Solving Conflicts**
-    
+
       So, let’s say I pulled the origin, made changes on one of the files.
       And in the meanwhile, my colleague pulled and did some changes on the
       same file and pushed the changes. So, it means that the current origin
@@ -362,59 +363,63 @@ some notes for git learners
       decide which to keep and which to discard. you can also discard all
       the signs (\<\<, \>\> and ===)
 
-20. **Set Upstream Branch:**
-
-    
-
-21. **Push with Upstream:**
-
-    
 
 22. **Tagging:**
 
     Tags are used to mark specific points in the commit history. 
     **also you can make versions for your application**
 
-    - Show all tags:
+    - To show all tags:
       ```
       git tag
       ```
 
-    - Create a tag for the last commit:
+    - To create a tag for the last commit:
       ```
-      git tag -a <tag-name or version-number> -m "Your message"
+      git tag -a <version> -m "Your message"
+      ```
+      - -a, is to make an annotation, which stores the message, the tagger, the commit author and the dates.
+      - no need to put the version in the double quotation mark.
+
+    - To create a tag for a specific commit:
+      ```
+      git tag -a <version-number> <commit-hash> -m "Your message"
+      ```
+      - You can use git log to see the history of all commits and then copy the hash of the commit action you want to label it. No need to put all the hash, even a few starting characters would work.
+
+    - To show a version with all the meta related to it (the message, the tagger, the dates and the detail of the last commit before annotating that version):
+      ```
+        git show <version>
       ```
 
-    - Create a tag for a specific commit:
-      ```
-      git tag -a <version-number> <commit-id> -m "Your message"
-      ```
-
-    - Search between tags (e.g., tags starting with 'v0'):
+    - To show all the tags starting with 'v0':
       ```
       git tag -l 'v0*'
       ```
 
-    - Push a specific tag to the remote:
+    - To push a specific tag to the remote:
       ```
       git push origin <tag-name>
       ```
 
-    - Push all tags to the remote:
+    - To push all tags to the remote:
       ```
       git push origin --tags
       ```
+      - tags do not make any changes to the working tree, and nothing will be added on the stage (you can verify this using git status). So, if you just use ```git push origin master```, nothing will be added to the remote.
 
-    - Switch to a Tag:
+    - To switch to a Tag:
       ```
-      git switch <tag-name>
+      git checkout <tag-name>
       ```
-    - Verify your tag:
+      - It will take you back to the last commit of this version, however, as the git also tells you, it does not create a separate branch. So, if you make a new commit, this commit will not be made on this version, but it will directly be applied to the original branch you were working on.
+
+    - To verify your tag:
       ```
       git tag -v <tag-name or version-number>
       ```
 
-23. **GPG Keys and Commit Signing:**
+23. **GPG Keys and Signing:**
 
     - Show all keys:
       ```
