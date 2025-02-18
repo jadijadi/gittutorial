@@ -1,9 +1,11 @@
 # **Hello**
 
 > Note #1: Its better to add your name somewhere in the middle, and not at the beginning nor at the end!
+
 > Note #2: The course material, including notes and command summaries are already present in both English and Farsi in the "Notes" folder. You can download and keep them as a general reference. Also, feel free to add/edit their contents if needed. 
 
 > نکته ۱: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا اول یا آخر لیست
+
 > نکته ۲: جزوه ی این کورس، هم به زبان انگلیسی و هم به زبان فارسی در پوشه ی نوت ها موجود هست. میتونید اونا رو دانلود کنید و به عنوان یه مرجع کلی برای خودتون نگه دارید. همچنین، در صورت نیاز میتونید اون ها رو اصلاح کنید یا اطلاعات جدیدی بهشون اضافه کنید.
 
 This is a repo for testing your git abilities. try to add your name to this file
