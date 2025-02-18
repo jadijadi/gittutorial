@@ -364,7 +364,7 @@ some notes for git learners
       the signs (\<\<, \>\> and ===)
 
 
-22. **Tagging:**
+12. **Tagging:**
 
     Tags are used to mark specific points in the commit history. 
     **also you can make versions for your application**
@@ -419,7 +419,7 @@ some notes for git learners
       git tag -v <tag-name or version-number>
       ```
 
-23. **GPG Keys and Signing:**
+13. **GPG Keys and Signing:**
 
     **Asymmetric encryption (PGP)** or **PGP (Pretty Good Privacy) encryption** is based on **public-key
       cryptography (asymmetric encryption)**, which uses **two mathematically
@@ -552,7 +552,7 @@ some notes for git learners
           >-----END PGP SIGNATURE-----
   
 
-24. **Debugging using Git:**
+14. **Debugging using Git:**
 
     - To show all the change history about your file:
       ```
@@ -585,7 +585,7 @@ some notes for git learners
     the latest one, and if not, it means that the bug is present between
     this middle commit and that last good commit.
 
-    1.  ```git bisect start``: telling git to start the bisect.
+    1.  ```git bisect start```: telling git to start the bisect.
 
     2.  ```git bisect bad```: telling the git that the commit that we are now at
         it, so the latest one, is bad (buggy).
@@ -600,6 +600,18 @@ some notes for git learners
         your answer, and gives you another commit to check. Then this
         iteration goes on this way.
 
+15. **Forking and Pull (Merge) Request:**
+
+  let’s say someone has a repository in their Github or Gitlab profile.
+  Forking means making a copy of their project and placing it on your
+  repository tab, so that you can work on it separately. So, you clone
+  this forked project and work on it on your local machine and make some
+  changes to it. Then, you push these changes to your own forked project.
+  If you want to notify the guy who originally made the project about your
+  changes and ask him if he wants to merge these changes also to his own
+  project, you send him a pull request (in Github) or merge request (in
+  Gitlab). the Guy will check your changes and decides whether to accept
+  this merge or not.**
 
   
 
