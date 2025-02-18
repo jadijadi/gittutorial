@@ -271,9 +271,9 @@ some notes for git learners
       >
       > fetch = +refs/heads/\*:refs/remotes/origin/\*
       >
-      > This configuration section is where **origin** is the reference, and
-      > the **URL** (https://github.com/user/repo.git) is the data that Git
-      > uses to access the remote repository.
+    This configuration section is where **origin** is the reference, and
+    the **URL** (https://github.com/user/repo.git) is the data that Git
+    uses to access the remote repository.
 
 13. **Push to a Remote Repository:**
 
