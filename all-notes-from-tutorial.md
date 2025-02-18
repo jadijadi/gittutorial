@@ -330,7 +330,7 @@ some notes for git learners
       ```
       git push origin master
       ```
-      
+
     - To track a remote branch, use:
       ```
       git branch --set-upstream-to=origin/master master
@@ -342,6 +342,7 @@ some notes for git learners
      ```
   
     **Solving Conflicts**
+    
       So, let’s say I pulled the origin, made changes on one of the files.
       And in the meanwhile, my colleague pulled and did some changes on the
       same file and pushed the changes. So, it means that the current origin
