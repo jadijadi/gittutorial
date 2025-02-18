@@ -552,7 +552,7 @@ some notes for git learners
           >-----END PGP SIGNATURE-----
   
 
-14. **Debugging using Git:**
+14. **Debugging Using Git:**
 
     - To show all the change history about your file:
       ```
@@ -601,6 +601,7 @@ some notes for git learners
         iteration goes on this way.
 
 15. **Forking and Pull (Merge) Request:**
+
     let’s say someone has a repository in their Github or Gitlab profile.
     Forking means making a copy of their project and placing it on your
     repository tab, so that you can work on it separately. So, you clone
@@ -611,6 +612,33 @@ some notes for git learners
     project, you send him a pull request (in Github) or merge request (in
     Gitlab). the Guy will check your changes and decides whether to accept
     this merge or not.**
+
+16. **Other Git Commands:**
+    - Differences in using "--":
+      1.```--<name>```: name is a parameter of the command: like ```git diff --staged``` 🡪 checks the staged files
+      2.```-- <name>```: name is a file name: like ```git checkout -- page1.html```
+
+    - To configure git settings on three levels:
+        ```
+        git config --system/--global/--local <action>
+        ```
+
+      | **Level** | **Scope** | **Location** |
+      |----|----|----|
+      | **System** | Applies to all users on the system | /etc/gitconfig |
+      | **Global** | Applies to your user across all repos | ~/.gitconfig or ~/.config/git/config |
+      | **Local** | Applies only to the specific repository | .git/config inside the repo |
+
+    - To ask for your system user:
+        ```
+        git config --global user.name
+        ```
+    
+    - To you git help:
+      ```
+        git help <command>
+      ```
+
 
   
 
