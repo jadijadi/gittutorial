@@ -275,7 +275,7 @@ some notes for git learners
     the **URL** (https://github.com/user/repo.git) is the data that Git
     uses to access the remote repository.
 
-    - Clonning a project means making a copy of the remote project on your local directory. To do so we use this command:
+    - Clonning a project means making a copy of a remote project (like GitHub) on your local directory. To do so we use this command:
         ```
           git clone <remote repository url>
         ```
