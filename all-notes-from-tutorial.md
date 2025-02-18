@@ -250,11 +250,11 @@ some notes for git learners
 
 10. **Cloning a Remote Repository**
   
-    remote is a reference to a repository on a server, like github or
+    Remote is a reference to a repository on a server, like github or
     gitlab, or even another machine. If you clone a repository from
     GitHub, Git automatically creates a remote reference called origin.
 
-    origin is the default name given to a remote repository when you
+    Origin is the default name given to a remote repository when you
     clone a project. It acts as a shortcut to refer to the original
     repository's URL, so you don’t have to type the full address every
     time.
@@ -275,10 +275,25 @@ some notes for git learners
     the **URL** (https://github.com/user/repo.git) is the data that Git
     uses to access the remote repository.
 
-    clonning a project means making a copy of the remote project on your local directory. To do so we use this command:
-      ```
-      git clone <remote repository url>
-      ```
+    - Clonning a project means making a copy of the remote project on your local directory. To do so we use this command:
+          ```
+          git clone <remote repository url>
+          ```
+    - When you already have the repository cloned and want to update it, you want to fetch and merge the latest changes from a remote branch into your current local branch. This is Git terminology is called "pulling". We pull the file from the origin and write them on the master branch
+        ```
+          git pull origin master
+        ```
+    - If you made some changes on your local repository, and want to effect them also on the remote repository, you "push" these changes from your master brach to the origin by:
+        ```
+          git push origin master
+        ```
+    - if you want to tell Git, to make this push path (from master branch to the origin), as a default pushing path, you need to first write:
+        ```
+          git push -u origin master
+        ```  
+        (which -u stands for --set-upstream). the next time you want to do the same thing, you only
+        need to write `git push`. 
+
 
 
 13. **Push to a Remote Repository:**
