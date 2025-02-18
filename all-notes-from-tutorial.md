@@ -276,9 +276,9 @@ some notes for git learners
     uses to access the remote repository.
 
     - Clonning a project means making a copy of the remote project on your local directory. To do so we use this command:
-          ```
+        ```
           git clone <remote repository url>
-          ```
+        ```
     - When you already have the repository cloned and want to update it, you want to fetch and merge the latest changes from a remote branch into your current local branch. This is Git terminology is called "pulling". We pull the file from the origin and write them on the master branch
         ```
           git pull origin master
