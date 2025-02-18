@@ -35,6 +35,14 @@ Github Onramp course by jadi: Summary of the notes and commands
 
 # Checking Git Status
 
+  **The 4 Storage Layers in Git**
+  | **Level** | **Where It Lives** | **Purpose** |
+  |----|----|----|
+  | **Working Directory** | Your actual files | Where you edit code |
+  | **Staging Area (index)** | .git/index | Prepares specific changes for commit |
+  | **Commit History** | .git/objects/ | Saves permanent snapshots of code |
+  | **Remote (Push)** | GitHub, GitLab, etc. | Shares commits with others |
+
   - To view the current status of your local repository:
     ```
     git status
