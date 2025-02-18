@@ -616,9 +616,9 @@ some notes for git learners
 16. **Other Git Commands:**
     - Differences in using "--":
 
-      1.```--<name>```: name is a parameter of the command: like ```git diff --staged``` 🡪 checks the staged files
-      
-      2.```-- <name>```: name is a file name: like ```git checkout -- page1.html```
+      1. ```--<name>```: name is a parameter of the command: like ```git diff --staged``` 🡪 checks the staged files
+
+      2. ```-- <name>```: name is a file name: like ```git checkout -- page1.html```
 
     - To configure git settings on three levels:
         ```
@@ -640,6 +640,54 @@ some notes for git learners
       ```
         git help <command>
       ```
+
+17. **Unix-Specific Commands**
+
+    - ```touch <file>``` : To create an empty file (any type: text, html, etc) on the Git bash.
+
+    - ```diff```: Shows the differences made in the current file
+
+    - ```cat <filename.txt>```: Shows the content of the file (cat stands for concatenate)
+
+    - ```cat file1.txt file2.txt > combined.txt```: This will **combine** file1.txt and file2.txt into a new file called combined.txt.
+
+    - ```cat > newfile.txt```: This allows you to **create and write** to a new
+    file. After running the command, you can type your content, and press
+    Ctrl+D to save and exit.
+
+    - ```~```: Refers to your home directory in Git Bash (C:\Users\YourUsername)
+
+    - ```vi <file>```: To edit a file in vim text editor, or create a new one is does not
+    exist: 
+
+    **Vim text editor**:  
+    It is a widely used **text editor** available in almost all **Unix-based environments**, including **Linux, macOS, and BSD**.
+
+    Here’s a compact table of basic Vi (Vim) commands:
+
+    | **Mode**        | **Command** | **Action**                  |
+    |-----------------|-------------|-----------------------------|
+    | **Insert Mode** | i           | Insert at cursor            |
+    |                 | a           | Append after cursor         |
+    |                 | o           | Open a new line below       |
+    | **Exit & Save** | Esc → :wq   | Save and exit               |
+    |                 | Esc → :x    | Save and exit (same as :wq) |
+    |                 | Esc → :q!   | Quit without saving         |
+    |                 | Esc → :w    | Save without quitting       |
+    | **Navigation**  | h           | Move left                   |
+    |                 | l           | Move right                  |
+    |                 | j           | Move down                   |
+    |                 | k           | Move up                     |
+    |                 | gg          | Go to first line            |
+    |                 | G           | Go to last line             |
+    | **Editing**     | dd          | Delete current line         |
+    |                 | yy          | Copy (yank) current line    |
+    |                 | p           | Paste after cursor          |
+    | **Search**      | /text       | Search for "text"           |
+    |                 | n           | Jump to next match          |
+    |                 | N           | Jump to previous match      |
+    | **Undo/Redo**   | u           | Undo last change            |
+    |                 | Ctrl + r    | Redo last undo              |
 
 
   
