@@ -615,7 +615,9 @@ some notes for git learners
 
 16. **Other Git Commands:**
     - Differences in using "--":
+
       1.```--<name>```: name is a parameter of the command: like ```git diff --staged``` 🡪 checks the staged files
+      
       2.```-- <name>```: name is a file name: like ```git checkout -- page1.html```
 
     - To configure git settings on three levels:
