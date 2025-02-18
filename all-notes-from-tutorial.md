@@ -296,7 +296,7 @@ some notes for git learners
 
 
 
-17. **Add Remote Repository:**
+11. **Adding a Remote Repository:**
 
     To add a remote address to your current project on your local machine, use:
     ```
