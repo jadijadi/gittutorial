@@ -89,7 +89,7 @@ Github Onramp course by jadi: Summary of the notes and commands
 
 # Removing a file from the local repository
   To remove a file from Git and your project, use:
-  
+
   ```
   git rm 'file-name'
   ```
@@ -107,13 +107,13 @@ Github Onramp course by jadi: Summary of the notes and commands
 
   Git provides several ways to view differences:
 
-  - See the differences between the unstaged changes vs. latest commit (HEAD) \> Shows **unstaged** modifications.
+  - To see the differences between the unstaged changes vs. latest commit (HEAD) \> Shows **unstaged** modifications.
     ```
     git diff HEAD
     ```
     - HEAD: is a special pointer that refers to the current branch's latest commit. However, the location of this pointer can be changed to any commit you want. 
 
-  - See the differences between staged changes vs. latest commit (HEAD) \> Shows **staged** modifications.
+  - To see the differences between staged changes vs. latest commit (HEAD) \> Shows **staged** modifications.
     ```
     git diff --staged
     ```
