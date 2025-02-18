@@ -369,24 +369,24 @@ Github Onramp course by jadi: Summary of the notes and commands
 
   **Solving Conflicts**
 
-    So, let’s say I pulled the origin, made changes on one of the files.
-    And in the meanwhile, my colleague pulled and did some changes on the
-    same file and pushed the changes. So, it means that the current origin
-    state is not the same file when I fetch it. Now if I want to push, git
-    gives me error, saying that a conflict has happened and you cannot
-    make the changes you want on the origin file because it’s initial
-    state is changed. Usually, it guides you, telling you to pull again.
-    When you pull it, it tells you that you have some conflicts on the
-    file you have been working on. Git is rather smart, so that if you and
-    your colleague have changed different lines of that part, it
-    automatically merges the two changes and then it allows you to push.
-    However, if different changes have been applied to the same parts of
-    the code, it needs you to resolve the conflicts. So, if you use Vim
-    editor, you will see the changed parts highlighted in the file. Your
-    changes are between \<\<\<\<\<\<\< Header and =====, and his/her
-    changes are between \>\>\>\>\>\> (commit hash id) and =======. You can
-    decide which to keep and which to discard. you can also discard all
-    the signs (\<\<, \>\> and ===)
+  So, let’s say I pulled the origin, made changes on one of the files.
+  And in the meanwhile, my colleague pulled and did some changes on the
+  same file and pushed the changes. So, it means that the current origin
+  state is not the same file when I fetch it. Now if I want to push, git
+  gives me error, saying that a conflict has happened and you cannot
+  make the changes you want on the origin file because it’s initial
+  state is changed. Usually, it guides you, telling you to pull again.
+  When you pull it, it tells you that you have some conflicts on the
+  file you have been working on. Git is rather smart, so that if you and
+  your colleague have changed different lines of that part, it
+  automatically merges the two changes and then it allows you to push.
+  However, if different changes have been applied to the same parts of
+  the code, it needs you to resolve the conflicts. So, if you use Vim
+  editor, you will see the changed parts highlighted in the file. Your
+  changes are between \<\<\<\<\<\<\< Header and =====, and his/her
+  changes are between \>\>\>\>\>\> (commit hash id) and =======. You can
+  decide which to keep and which to discard. you can also discard all
+  the signs (\<\<, \>\> and ===)
 
 
 # Tagging
