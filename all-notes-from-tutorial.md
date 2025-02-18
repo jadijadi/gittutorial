@@ -473,7 +473,27 @@ some notes for git learners
 
     Now, you can digitally **sign** tags and commits in git using GPG, so
     full proof your identity, and make every one sure that the commit or tag
-    is done by you!
+    is done by you! Now, How do I make a key?
+
+    - To generate a new key:
+      ```
+      gpg --gen-key
+      ```
+      - Now that you have your key, you give your public key to anyone who wants to see your signatures and keep your private key for signing.
+
+    - To list all your **public keys** in your keyring:
+      ```
+      gpg --list-keys
+      ```
+      - Your public key
+      allows others to verify your signature. Without your public key, people
+      can still see your commits/tags, but they can't verify their
+      authenticity. It ensures that no one else has forged your identity to
+      push commits under your name. Anyone can set their Git username and
+      email to pretend to be you: by git config --global user.name "Your Name"
+      and git config --global user.email <your@email.com>. This means someone
+      can fake commits under your name—but if they don't have your private
+      key, they can't sign them.
 
 
 
