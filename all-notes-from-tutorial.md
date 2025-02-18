@@ -420,6 +420,66 @@ some notes for git learners
       ```
 
 23. **GPG Keys and Signing:**
+  **Asymmetric encryption (PGP)** or **PGP (Pretty Good Privacy) encryption** is based on **public-key
+    cryptography (asymmetric encryption)**, which uses **two mathematically
+    linked keys**:
+  
+  1.  **Public Key (Shared with Others)**
+
+      - Used to **encrypt** messages.
+
+      - Anyone can use it to send you encrypted messages.
+
+  2.  **Private Key (Kept Secret)**
+
+      - Used to **decrypt** messages.
+
+      - Only you can use it to read messages encrypted with your public
+        key.
+
+  Let’s break it down with a **real-world example**:
+
+  **🔹 Encrypting a Message (Sending Securely)**
+
+  1.  Alice wants to send a **secret** message to Bob.
+
+  2.  She gets **Bob’s public key** (which Bob has shared publicly).
+
+  3.  She **encrypts** the message using Bob’s **public key**.
+
+  4.  Alice sends the **encrypted message** to Bob.
+
+  **🔹 Decrypting a Message (Reading Securely)**
+
+  1.  Bob receives the **encrypted message** from Alice.
+
+  2.  Since the message was encrypted using his **public key**, it can
+      **only** be decrypted using his **private key**.
+
+  3.  Bob **uses his private key** to decrypt and read the message.
+
+  GP is also used for **digital signatures** to prove identity:
+
+  1.  Bob wants to send an **authentic** message to Alice.
+
+  2.  Bob **signs the message with his private key**.
+
+  3.  Alice **verifies the signature using Bob’s public key** to confirm
+      it came from him.
+
+  GPG was for commercial and private companies, so GPG has been developed,
+  using the same principles for open-source use.
+
+  Now, you can digitally **sign** tags and commits in git using GPG, so
+  full proof your identity, and make every one sure that the commit or tag
+  is done by you!
+
+
+
+
+
+
+
 
     - Show all keys:
       ```
