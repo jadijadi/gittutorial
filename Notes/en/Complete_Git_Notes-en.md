@@ -49,7 +49,7 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
    - Tells you which files are modified, staged, or untracked and helps you understand what changes need to be committed.
   
-  - To show the log (history) of the all commits you have made:
+  - To show the log (history) of all the commits you have made:
     ```
     git log
     ```
@@ -60,7 +60,7 @@ Github Onramp course by jadi: Summary of the notes and commands
 
 # Adding Files to the Staging Area
 
-  To Add files to the staging area to prepare them for commit. You have several options:
+  To add files to the staging area to prepare them for commit. You have several options:
 
   - To add all (the changed) files:
     ```
@@ -88,12 +88,22 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
 
 # Removing a file from the local repository
-  To remove a file from Git and your project, use:
+  - To remove a file from Git and your project, use:
+    ```
+    git rm 'file-name'
+    ```
 
-  ```
-  git rm 'file-name'
-  ```
-
+  - To remove a folder from the local repository and git:
+    ```
+    git rm -r 'folder-name'
+    ```
+    
+  - To remove a folder from only from git tracking (keeping it in the local repo):
+    ```
+    git rm -r --cached 'folder-name'
+    ```
+    - -r: Recursively removes directories and their contents from Git tracking. The term "recursive" means Git goes inside the folder        and applies the command to all its contents, like subfolders and files.
+    - --cached: Removes the file(s) from the Git index (staging area) but keeps them in your local filesystem.
 # Committing Changes
 
   To save the staged changes as a new snapshot, use the `git commit` command:
