@@ -20,6 +20,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Majid Panahi :two::smiley:](https://github.com/MajidPanahi)
 - [Arshia Moghbel](https://github.com/Arshia-Moghbel):heart:
 - [afsartala](https://github.com/aafsartala)
+- [:star: Mehraz](https://github.com/mehrazino)
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Amirhossein Abdollahi nejat](https://github.com/djamir86)
