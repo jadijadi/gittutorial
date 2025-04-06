@@ -1,4 +1,4 @@
-Github Onramp course by jadi: Summary of the notes and commands
+Github Onramp course by Jadi: Summary of the notes and commands
 
 # Table of Contents
   - [Initializing a Git Project](#Initializing-a-Git-Project)
@@ -104,6 +104,7 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
     - -r: Recursively removes directories and their contents from Git tracking. The term "recursive" means Git goes inside the folder        and applies the command to all its contents, like subfolders and files.
     - --cached: Removes the file(s) from the Git index (staging area) but keeps them in your local filesystem.
+      
 # Committing Changes
 
   To save the staged changes as a new snapshot, use the `git commit` command:
@@ -117,7 +118,7 @@ Github Onramp course by jadi: Summary of the notes and commands
 
   Git provides several ways to view differences:
 
-  - To see the differences between the unstaged changes vs. latest commit (HEAD) \> Shows **unstaged** modifications.
+  - To see the differences between the unstaged changes vs. the latest commit (HEAD) \> Shows **unstaged** modifications.
     ```
     git diff HEAD
     ```
@@ -130,8 +131,7 @@ Github Onramp course by jadi: Summary of the notes and commands
 
   Example:
 
-  I make one change in the pag1.html, then add it to the stage then make
-  another change, without adding:
+  I make one change in the pag1.html, then add it to the stage, then make another change, without adding:
 
   <table>
   <colgroup>
@@ -175,7 +175,7 @@ Github Onramp course by jadi: Summary of the notes and commands
   </tbody>
   </table>
 
-# Reseting and Exiting the Staging Area
+# Resetting and Exiting the Staging Area
 
   To manipulate the state of your working directory, staging area, and commit history, you can use the `git reset`
   command:
@@ -206,8 +206,12 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
     git restore --staged *
     ```
+  - To remove a file/folder from Git local repository (and not from your working directory), so that it is no longer trackable by Git:
+    '''
+    git rm --cashed -r <file>
+    '''
 
-  - To  restore file content back to latest commit:
+  - To  restore file content back to the latest commit:
     ```
     git restore <file>
     ```
@@ -227,19 +231,19 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
     git checkout -- <file>
     ```
-    - if you have not yet committed the changes, it will undo all changes and brings the file back to the previous commit file status. So, it restores all the changes back to the latest commit.
+    - If you have not yet committed the changes, it will undo all changes and brings the file back to the previous commit file status. So, it restores all the changes back to the latest commit.
     - `'--'`: Refers to the HEAD (latest commit).
 
 
 # Working With Branches
   
-  When you create a new branch, it **inherits the current state** of your working directory and index.Managing branches is essential for collaboration and project organization. Here are some branch-related commands:
+  When you create a new branch, it **inherits the current state** of your working directory and index. Managing branches is essential for collaboration and project organization. Here are some branch-related commands:
 
   - To show all branches in the project:
     ```
     git branch
     ```
-    - The output highlights your current working branch with an astrix (\*). 
+    - The output highlights your current working branch with an asterisk (\*). 
     Example:
     > \$ git branch
     >
@@ -247,7 +251,7 @@ Github Onramp course by jadi: Summary of the notes and commands
     >
     > \* master
 
-  - To Create a new branch for your project:
+  - To create a new branch for your project:
     ```
     git branch 'branch-name'
     ```
@@ -262,13 +266,13 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
     git checkout 'branch-name'
     ```
-    - so, let’s say you make a new branch and go to this branch, make some files and change the contents of the other. If you switch back the master using checkout, all the files and changes that you have made will disappear from your computer directory!
+    - So, let’s say you make a new branch and go to this branch, make some files, and change the contents of the other. If you switch back to the master using checkout, all the files and changes that you have made will disappear from your computer directory!
 
   - To merge a branch into your current branch, use:
     ```
     git merge 'branch-name'
     ```
-    - it merges the changes you made in the new branch on the branch master. note that before using this command you have to checkout first to the branch master.
+    - It merges the changes you made in the new branch into the master branch. Note that before using this command, you have to check out first to the master branch.
     - When you switch from one branch to the other (let’s say from master to a new branch named "linkingpages") the git bash interface will show a message, telling you what is different in your working directory compared to linkingpages after switching. D means deleted, and M means modified.
     In this example, one file has been modified and one has been deleted, comparing the branch content with the working directory:
 
@@ -282,12 +286,12 @@ Github Onramp course by jadi: Summary of the notes and commands
     >
     > Switched to branch 'linkingpages'
     - When you make changes in your working directory without staging them and then switch branches, Git will try to preserve your changes, but the behavior depends on whether those changes conflict with the files in the branch you're switching to.
-    - until you merge the branch with the master, you cannot see the changes you made on that branch also in the master.
+    - Until you merge the branch with the master, you cannot see the changes you made on that branch or in the master.
 
 # Cloning a Remote Repository
   
-  Remote is a reference to a repository on a server, like github or
-  gitlab, or even another machine. If you clone a repository from
+  Remote refers to a repository on a server, like GitHub or
+  GitLab, or even another machine. If you clone a repository from
   GitHub, Git automatically creates a remote reference called origin.
 
   Origin is the default name given to a remote repository when you
@@ -308,26 +312,26 @@ Github Onramp course by jadi: Summary of the notes and commands
     > fetch = +refs/heads/\*:refs/remotes/origin/\*
     >
   This configuration section is where **origin** is the reference, and
-  the **URL** (https://github.com/user/repo.git) is the data that Git
+  The **URL** (https://github.com/user/repo.git) is the data that Git
   uses to access the remote repository.
 
-  - Clonning a project means making a copy of a remote project from a remote location (like GitHub) on your local directory. To do so we use this command:
+  - Cloning a project means making a copy of a remote project from a remote location (like GitHub) to your local directory. To do so, we use this command:
       ```
         git clone <remote repository url>
       ```
-  - When you already have the repository cloned and want to update it, you want to fetch and merge the latest changes from a remote branch into your current local branch. This in Git terminology is called "pulling". We pull the file from the origin and write them on the master branch:
+  - When you already have the repository cloned and want to update it, you want to fetch and merge the latest changes from a remote branch into your current local branch. This, in Git terminology, is called "pulling". We pull the file from the origin and write it on the master branch:
       ```
         git pull origin master
       ```
-  - If you made some changes on your local repository, and want to send committed changes from your local repository to the remote server (usually in the cloud, like GitHub or GitLab), you "push" these changes from your master brach to the origin by:
+  - If you made some changes on your local repository, and want to send committed changes from your local repository to the remote server (usually in the cloud, like GitHub or GitLab), you "push" these changes from your master branch to the origin by:
       ```
         git push origin master
       ```
-  - if you want to tell Git, to make this push path (from master branch to the origin), as a default pushing path, you need to first write:
+  - If you want to tell Git to make this push path (from master branch to the origin), as a default pushing path, you need to first write:
       ```
         git push -u origin master
       ```  
-      (which -u stands for --set-upstream). the next time you want to do the same thing, you only
+      (which -u stands for --set-upstream). The next time you want to do the same thing, you only
       need to write `git push`. 
 
 # Adding a Remote Repository
@@ -345,7 +349,7 @@ Github Onramp course by jadi: Summary of the notes and commands
     git remote
     ```
 
-  - To make the output of the previous command (-v stands for "verbous"): 
+  - To make the output of the previous command (-v stands for "verbose"): 
     ```
     git remote -v
     ```
@@ -360,7 +364,7 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
     git pull origin master
     ```
-    - You can substitute any branch name with master, if you want to pull changes to another branch.
+    - You can substitute any branch name with master if you want to pull changes to another branch.
 
   - To push changes from your local default branch to the remote repository:
     ```
@@ -380,18 +384,18 @@ Github Onramp course by jadi: Summary of the notes and commands
   **Solving Conflicts**
 
   So, let’s say I pulled the origin, made changes on one of the files.
-  And in the meanwhile, my colleague pulled and did some changes on the
+  And in the meantime, my colleague pulled and made some changes to the
   same file and pushed the changes. So, it means that the current origin
-  state is not the same file when I fetch it. Now if I want to push, git
-  gives me error, saying that a conflict has happened and you cannot
-  make the changes you want on the origin file because it’s initial
+  state is not the same file when I fetch it. Now, if I want to push, git
+  gives mean  error, saying that a conflict has happened and you cannot
+  make the changes you want on the origin file because its initial
   state is changed. Usually, it guides you, telling you to pull again.
-  When you pull it, it tells you that you have some conflicts on the
-  file you have been working on. Git is rather smart, so that if you and
+  When you pull it, it tells you that you have some conflicts in the
+  file you have been working on. Git is rather smart, so if you and
   your colleague have changed different lines of that part, it
-  automatically merges the two changes and then it allows you to push.
+  automatically merges the two changes, and then it allows you to push.
   However, if different changes have been applied to the same parts of
-  the code, it needs you to resolve the conflicts. So, if you use Vim
+  the code, it needs you to resolve the conflicts. So, if you use the Vim
   editor, you will see the changed parts highlighted in the file. Your
   changes are between \<\<\<\<\<\<\< Header and =====, and his/her
   changes are between \>\>\>\>\>\> (commit hash id) and =======. You can
@@ -402,7 +406,7 @@ Github Onramp course by jadi: Summary of the notes and commands
 # Tagging
 
   Tags are used to mark specific points in the commit history. 
-  **Also you can make versions for your application**
+  **Also, you can make versions for your application**
 
   - To show all tags:
     ```
@@ -413,16 +417,16 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
     git tag -a <version> -m "Your message"
     ```
-    - -a, is to make an annotation, which stores the message, the tagger, the commit author and the dates.
-    - no need to put the version in the double quotation mark.
+    - -a is to make an annotation, which stores the message, the tagger, the commit author and the dates.
+    - No need to put the version in the double quotation mark.
 
   - To create a tag for a specific commit:
     ```
     git tag -a <version> <commit-hash> -m "Your message"
     ```
-    - You can use git log to see the history of all commits and then copy the hash of the commit action you want to label it. No need to put all the hash, even a few starting characters would work.
+    - You can use git log to see the history of all commits and then copy the hash of the commit action you want to label. No need to put all the hash, even a few starting characters would work.
 
-  - To show a version with all the meta related to it (the message, the tagger, the dates and the detail of the last commit before annotating that version):
+  - To show a version with all the meta related to it (the message, the tagger, the dates, and the detail of the last commit before annotating that version):
     ```
       git show <version>
     ```
@@ -441,13 +445,13 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
     git push origin --tags
     ```
-    - tags do not make any changes to the working tree, and nothing will be added on the stage (you can verify this using git status). So, if you just use ```git push origin master```, nothing will be added to the remote.
+    - Tags do not make any changes to the working tree, and nothing will be added to the stage (you can verify this using git status). So, if you just use ```git push origin master```, nothing will be added to the remote.
 
   - To switch to a Tag:
     ```
     git checkout <tag-name>
     ```
-    - It will take you back to the last commit of this version, however, as the git also tells you, it does not create a separate branch. So, if you make a new commit, this commit will not be made on this version, but it will directly be applied to the original branch you were working on.
+    - It will take you back to the last commit of this version; however, as git also tells you, it does not create a separate branch. So, if you make a new commit, this commit will not be made on this version, but it will be applied directly to the original branch you were working on.
 
   - To verify your tag:
     ```
@@ -470,8 +474,8 @@ Github Onramp course by jadi: Summary of the notes and commands
 
       - Used to **decrypt** messages.
 
-      - Only you can use it to read messages encrypted with your public
-        key.
+      - Only you can use it to read messages encrypted with your public key
+        
 
   Let’s break it down with a **real-world example**:
 
@@ -503,12 +507,12 @@ Github Onramp course by jadi: Summary of the notes and commands
   3.  Alice **verifies the signature using Bob’s public key** to confirm
       it came from him.
 
-  GPG was for commercial and private companies, so GPG has been developed,
+  GPG was for commercial and private companies, so GPG has been developed.
   using the same principles for open-source use.
 
   Now, you can digitally **sign** tags and commits in git using GPG, so
-  full proof your identity, and make every one sure that the commit or tag
-  is done by you! Now, How do I make a key?
+  fully prove your identity, and make every one sure that the commit or tag
+  is done by you! Now, how do I make a key?
 
   - To generate a new key:
     ```
@@ -520,7 +524,7 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
     gpg --list-keys
     ```
-    - Your public key allows others to verify your signature. Without your public key, people can still see your commits/tags, but they can't verify their authenticity. It ensures that no one else has forged your identity to push commits under your name. Anyone can set their Git username and email to pretend to be you: by git config --global user.name "Your Name" and git config --global user.email <your@email.com>. This means someone can fake commits under your name—but if they don't have your private key, they can't sign them.
+    - Your public key allows others to verify your signature. Without your public key, people can still see your commits/tags, but they can't verify their authenticity. It ensures that no one else has forged your identity to push commits under your name. Anyone can set their Git username and email to pretend to be you: by git config --global user.name "Your Name" and git config --global user.email <your@email.com>. This means someone can fake commits under your name, but if they don't have your private key, they can't sign them.
   
   - To list all your **private (secret) keys** in your keyring:
     ```
@@ -544,7 +548,7 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
       git config --global user.signingkey
     ```
-    - if you have not set any yet in git, it does not show anything.
+    - If you have not set any yet in git, it does not show anything.
 
   - Set your signing key for the current user across all repositories:
     ```
@@ -560,16 +564,16 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
     git commit -S -m “message”
     ```
-    - if you use git log, it does not show if it is signed or not.
+    - If you use git log, it does not show if it is signed or not.
 
   - To verify if the <version> is signed:
     ```
       git tag -v <version>
     ```
     - -v here means to verify (do not mistake it with "verbous")
-    - if verified, you’ll get a message like: Good signature from "Jalal Abbasi <s.jalalabasi@gmail com>" [ultimate]
+    - If verified, you’ll get a message like: Good signature from "Jalal Abbasi <s.jalalabasi@gmail com>" [ultimate]
 
-  - To see the excact signature characters as a part of tag message:
+  - To see the exact signature characters as a part of the tag message:
     ```
       git show <version>
     ```
@@ -593,13 +597,13 @@ Github Onramp course by jadi: Summary of the notes and commands
     ```
     git blame <file>
     ```
-    - It shows who have written which part of this last code and when.
+    - It shows who has written which part of this last code and when.
   - To show all the change history about your requested line in the requested file:
     ```
     git blame <file> -Ln
     ```
-    - It shows, who has written the code in line “n”, in the <file>, in a chronological order, from the latest to the oldest.
-  - To show the last person who has modified the code between lines n and m and the date he/she modified them:
+    - It shows who has written the code in line “n”, in the <file>, in a chronological order, from the latest to the oldest.
+  - To show the last person who has modified the code between lines n and m and the date he/she modified it:
     ```
       git blame <file> -Ln,m
     ```
@@ -607,14 +611,13 @@ Github Onramp course by jadi: Summary of the notes and commands
 
   **Bisect**
 
-  (binary-search-commits): so, you are in the latest commit, and you have
-  a bug in your code and you want to find it, git helps you to find it in
-  an iterative way.
+  (binary-search-commits)So, you are in the latest commit, and you have
+  a bug in your code, and you want to find it, git helps you to find it iteratively.
 
-  So first you must go the highest level of the directory. Then you tell
-  git to start the process. Then you tell the latest commit is bad. Then
-  ask you to determine what was the latest commit in the history, that was
-  working fine. Given these two commits, the git goes and find the commit
+  So first, you must go to the highest level of the directory. Then you tell
+  git to start the process. Then you say the latest commit is bad. Then
+  ask you to determine what was the latest commit was in the history, which was
+  working fine. Given these two commits, git goes and finds the commit
   between these two, and asks you to check if it is good or bad. If it is
   good, it means that the bug is present between this middle commit and
   the latest one, and if not, it means that the bug is present between
@@ -622,13 +625,12 @@ Github Onramp course by jadi: Summary of the notes and commands
 
   1.  ```git bisect start```: telling git to start the bisect.
 
-  2.  ```git bisect bad```: telling the git that the commit that we are now at
+  2.  ```git bisect bad```: telling git that the commit that we are now at
       it, so the latest one, is bad (buggy).
 
-  3.  ```git bisect good <commit-hash>```: then we have to tell the git the
-      last commit in the log, in which the code was working well.
+  3.  ```git bisect good <commit-hash>```: Then we have to tell git the last commit in the log, in which the code was working well.
 
-  4.  ITERATIVE: then git gives you a commit hash and asks you to check if
+  4.  ITERATIVE: Then git gives you a commit hash and asks you to check if
       it is good or bad. If good, you write git bisect good, else you
       write git bisect bad. Then, git now checks again, between the commit
       it mentioned you, and the last or the last good commit, according to
@@ -637,15 +639,15 @@ Github Onramp course by jadi: Summary of the notes and commands
 
 # Forking and Pull (Merge) Request
 
-  let’s say someone has a repository in their Github or Gitlab profile.
+  Let’s say someone has a repository in their GitHub or GitLab profile.
   Forking means making a copy of their project and placing it on your
   repository tab, so that you can work on it separately. So, you clone
   this forked project and work on it on your local machine and make some
   changes to it. Then, you push these changes to your own forked project.
   If you want to notify the guy who originally made the project about your
   changes and ask him if he wants to merge these changes also to his own
-  project, you send him a pull request (in Github) or merge request (in
-  Gitlab). the Guy will check your changes and decides whether to accept
+  project, you send him a pull request (in GitHub) or a merge request (in
+  Gitlab). The guy will check your changes and decide whether to accept
   this merge or not.**
 
 # Other Git Commands
@@ -671,14 +673,14 @@ Github Onramp course by jadi: Summary of the notes and commands
       git config --global user.name
       ```
   
-  - To you git help:
+  - To you, git help:
     ```
       git help <command>
     ```
 
 # Unix-Specific Commands
 
-  - ```touch <file>``` : To create an empty file (any type: text, html, etc) on the Git bash.
+  - ```touch <file>```: To create an empty file (any type: text, html, etc) on the Git bash.
 
   - ```diff```: Shows the differences made in the current file
 
@@ -687,12 +689,12 @@ Github Onramp course by jadi: Summary of the notes and commands
   - ```cat file1.txt file2.txt > combined.txt```: This will **combine** file1.txt and file2.txt into a new file called combined.txt.
 
   - ```cat > newfile.txt```: This allows you to **create and write** to a new
-  file. After running the command, you can type your content, and press
+  file. After running the command, you can type your content and press
   Ctrl+D to save and exit.
 
   - ```~```: Refers to your home directory in Git Bash (C:\Users\YourUsername)
 
-  - ```vi <file>```: To edit a file in Vim text editor, or create a new one is does not
+  - ```vi <file>```: To edit a file in Vim text editor, or create a new one, does not
   exist: 
 
   **Vim text editor**:  
