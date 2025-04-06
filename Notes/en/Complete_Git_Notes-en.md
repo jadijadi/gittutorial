@@ -98,7 +98,7 @@ Github Onramp course by Jadi: Summary of the notes and commands
     git rm -r 'folder-name'
     ```
     
-  - To remove a folder from only from git tracking (keeping it in the local repo):
+  - To remove a folder from only git tracking (keeping it in the local repo):
     ```
     git rm -r --cached 'folder-name'
     ```
@@ -206,10 +206,6 @@ Github Onramp course by Jadi: Summary of the notes and commands
     ```
     git restore --staged *
     ```
-  - To remove a file/folder from Git local repository (and not from your working directory), so that it is no longer trackable by Git:
-    '''
-    git rm --cashed -r <file>
-    '''
 
   - To  restore file content back to the latest commit:
     ```
