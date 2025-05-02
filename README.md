@@ -272,6 +272,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Neo :relaxed:](https://github.com/neomn)
 - [Mohammad Rostami](https://github.com/mohammadrostamiorg)
 - [CliAli :ghost:](https://github.com/cliali)
+- [Mehrdad Abdi 😁](https://github.com/mehrdadabdi1012)
 - [Ali\_\_Irani :computer:](https://github.com/aliIRI)
 - [Hosein Laki , I love python](https://github.com/hosein-1)
 - [Mahdi Touiser :wink:](https://github.com/MahdiTouiser)
