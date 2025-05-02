@@ -1,0 +1,18 @@
+import random
+
+def get_adjective():
+    adjectives = ["inspiring", "remarkable", "unstoppable", "limitless", "courageous"]
+    return random.choice(adjectives)
+
+def get_noun():
+    nouns = ["dream", "journey", "adventure", "destiny", "opportunity"]
+    return random.choice(nouns)
+
+def generate_motivational_quote():
+    adjective = get_adjective()
+    noun = get_noun()
+    return f"Embrace your {adjective} {noun}. You're capable of greatness!"
+
+if __name__ == "__main__":
+    quote = generate_motivational_quote()
+    print(quote)
