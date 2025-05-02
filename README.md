@@ -726,6 +726,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Kourosh :fire: :sunglasses:](https://github.com/KouroshBhl)
 - [Yazdan Ranjbar :alien:](https://yazdanra.github.io/)
 - [Farmin :satisfied:](https://github.com/farimaz)
+<!-- Create a custom url for mahyarkermani1 github account in the master gittutorial jadi :) -->
+- [x] <sup>**:trollface: **</sup> [***Mahyar Kermani***](https://github.com/mahyarkermani1) <sup>**:trollface:**</sup>
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
 - [Akhs :wink:](https://github.com/AmirKhalifehSoltani)
 - [NoobeLoper :raised_hand: :sleeping:](https://github.com/NoobeLoper)
