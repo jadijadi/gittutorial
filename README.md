@@ -824,4 +824,5 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arian soltani](https://github.com/Arian1-dev)
 - [Newsha Karimi :sparkles:](https://github.com/vanta-source)
 - [Arash Azarvand](https://github.com/Arash742)
+-  [Abbas Mnsoori 👨‍💻](https://github.com/Bmnswry28) یک گیک که دوست داره هر جای تکنولوژی سرک بکشه
 - [Alireza Lashkaripour Hψ=Eψ](https://github.com/Alireza-Lashkaripour)
