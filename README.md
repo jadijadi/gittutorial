@@ -60,7 +60,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ehsan Marmazi](https://github.com/Ehsanmarmazi)
 - [yusef](https://github.com/jfryusef) :space_invader:
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
-- [amirali irvany](gitub.com/metect)
+- [AmirAli Irvani](https://github.com/irvaniamirali)
 - [SinaSohrab](https://github.com/SinaSohrab)
 - [kamand tolou](https://github.com/Kamandtolou)
 - [Ali Alipour](https://github.com/alialipour2006)
