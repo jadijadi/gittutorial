@@ -385,6 +385,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**zhitoo**:stuck_out_tongue_winking_eye::stuck_out_tongue::kissing_heart:](https://github.com/zhitoo)
 - [razyar](https://github.com/razyar) 
 - [Erfan](https://github.com/flydeoo)
+- [Hasan Afzalan](https://github.com/HasanAfzalan)
 - [sheracore](https://github.com/sheracore)
 - [AliAsghar Ranjbar (Alibot) :heavy_check_mark:](https://github.com/AliAsgharRanjbar)
 - [Amir Motefaker :heartpulse:](https://github.com/AmirMotefaker)
