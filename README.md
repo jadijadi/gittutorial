@@ -34,6 +34,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [afsartala](https://github.com/aafsartala)
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
+- [Jadi](https://jadi.net)
+- [SinaSohrab 💻](https://github.com/SinaSohrab)
 - [Amirhossein Abdollahi nejat](https://github.com/djamir86)
 - [Milad Parvizi](https://github.com/miladp55) :facepunch:
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
@@ -734,7 +736,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Kourosh :fire: :sunglasses:](https://github.com/KouroshBhl)
 - [Yazdan Ranjbar :alien:](https://yazdanra.github.io/)
 - [Farmin :satisfied:](https://github.com/farimaz)
-<!-- Create a custom url for mahyarkermani1 github account in the master gittutorial jadi :) -->
 - [x] <sup>**:trollface: **</sup> [***Mahyar Kermani***](https://github.com/mahyarkermani1) <sup>**:trollface:**</sup>
 - [MrAnonCoder :v::dizzy_face:](https://github.com/mranoncoder)
 - [Akhs :wink:](https://github.com/AmirKhalifehSoltani)
@@ -838,5 +839,5 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arian soltani](https://github.com/Arian1-dev)
 - [Newsha Karimi :sparkles:](https://github.com/vanta-source)
 - [Arash Azarvand](https://github.com/Arash742)
--  [Abbas Mnsoori 👨‍💻](https://github.com/Bmnswry28) یک گیک که دوست داره هر جای تکنولوژی سرک بکشه
+- [Abbas Mnsoori 👨‍💻](https://github.com/Bmnswry28) یک گیک که دوست داره هر جای تکنولوژی سرک بکشه
 - [Alireza Lashkaripour Hψ=Eψ](https://github.com/Alireza-Lashkaripour)
