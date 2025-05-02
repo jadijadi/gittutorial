@@ -40,6 +40,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrdad Rayati](https://github.com/Mehrdadrd1)
 - [**:white_circle: Danial Karimi :white_circle:**](https://github.com/Danialk13)
 - [Jadi](https://jadi.net)
+- [mh ebrz :collision:](https://github.com/mhe931)
 - [Mithril-Mohammad](https://github.com/Mithril-Mohammad)
 - [Mehrdad Mahmoudi](https://github.com/mehrdadmm)
 - [**:crown: NT :crown:**](https://github.com/NTcompanyYT)
