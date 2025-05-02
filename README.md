@@ -126,6 +126,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [_iliro_](https://github.com/iliro6)
 - [ParsaJR](https://github.com/ParsaJR)
 - [__Mohammad Salehi__](https://github.com/MohammadSaleehi) 
+- [Yeganeh ⌨️](https://github.com/yegiii)
 - [Jalal Azam Sadeghi :thumbsup:](https://github.com/jalalsadeghi)
 - [sina roydel :sunglasses:](https://github.com/3ina)
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
