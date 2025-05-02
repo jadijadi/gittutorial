@@ -1,6 +1,6 @@
 # **Hello**
 
-> Note: Its better to add your name somewhere in the middle, and not at the beginning nor at the end!
+> Note: It's better to add your name somewhere in the middle, and not at the beginning nor at the end!
 
 > نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا اول یا آخر لیست
 
@@ -28,6 +28,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrdad Rayati](https://github.com/Mehrdadrd1)
 - [**:white_circle: Danial Karimi :white_circle:**](https://github.com/Danialk13)
 - [Jadi](https://jadi.net)
+- [**:crown: NT :crown:**](https://github.com/NTcompanyYT)
 - [Saman Shirdel](https://github.com/samanshirdell) :v:
 - [Abdulhaq](https://github.com/tt-abdulhaq)
 - [Farzad](https://devfarzad.github.io/)
@@ -39,7 +40,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Afshin](https://github.com/iafshinafshin)
 - [Matin Sareban :guardsman:](https://github.com/Matinsareban)
 - [Hasan Zaki](https://github.com/Hasanzakii)
-- [Mehrdad](https://zadehebrahim.ir)(https://github.com/mehrdad-za) 
+- [Mehrdad](https://zadehebrahim.ir) - [Github](https://github.com/mehrdad-za) 
 - [Hossein Aghabararian](https://github.com/Hossein-Bararian)
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
 - [amirali irvany](gitub.com/metect)
