@@ -242,6 +242,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [SadraNouraddin :eyes:](https://github.com/sadra52)
 - [Maher 💯💯](https://github.com/Amirho3eini)
 - [Ali Ghasempour =)](https://github.com/AliGhDeveloper)
+- [hamid_sh](https://github.com/H-DTnb)
 - [Mohammad hasan Mahdavi ❤️](https://github.com/hasan1386)
 - [Ali Zarshenas :octocat:](https://github.com/siza36)
 - [Hamidreza Karimi :non-potable_water:](https://github.com/fatwwa)
