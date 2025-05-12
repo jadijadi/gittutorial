@@ -18,6 +18,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad HedayatiNia](https://github.com/Mohammad-HedayatiNia) :sunglasses:
 - [M0nt :neckbeard:](https://github.com/montajebii)
 - [Pouya Shaterzadeh](https://github.com/Pouya-Shaterzadeh)
+- [**Reza TG** :fireworks:](https://github.com/rezatg)
 - [Mahmoud Soltani0](https://github.com/mahmoodsoltani)
 - [Ebrahim Solhjooo](https://github.com/abe-solhjoo)
 - [Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal)
