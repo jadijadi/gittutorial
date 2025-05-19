@@ -154,3 +154,6 @@
 
 - git remote rename oldName newName
     > <p dir="rtl" align="right"> تغییر نام یک ریموت </p>
+
+    - git cherry-pick <commit-hash>
+    > <p dir="rtl" align="right"> اگر کامیتی داری که در برنچ دیگری هست و میخوای ان را به شاخه فعلی اضافه کنی </p>
