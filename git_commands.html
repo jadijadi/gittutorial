@@ -94,7 +94,7 @@
         }
 
         aside {
-            padding-top: 1rem;
+            padding-top: 0.5rem;
         }
 
 
@@ -121,7 +121,7 @@
             aside {
                 height: 90vh;
                 position: fixed;
-                padding-top: 1rem;
+                padding-top: 0.5rem;
                 margin-right: 1rem;
                 /* background-color: #fff;s */
             }
@@ -197,6 +197,10 @@
                 <li><a href="#Bisect">Bisect</a></li>
                 <ul>
                     <li><a href="#bisect">git bisect</a></li>
+                </ul>
+                <li><a href="#Stash">Stash</a></li>
+                <ul>
+                    <li><a href="#Stash">git stash</a></li>
                 </ul>
             </ul>
         </nav>
@@ -341,7 +345,7 @@
                     <li id="blame"><b>git blame </b> بررسی اینکه کل کد یا بخشی ازش یا حتی خطی ازش توسط کیا نوشته و
                         ویرایش شده
                     </li>
-                    <li  id="pgp"><b>pgp (gpg in openSource World) </b> ساین کردن تگ ها یا کامیت ها
+                    <li id="pgp"><b>pgp (gpg in openSource World) </b> ساین کردن تگ ها یا کامیت ها
                     </li>
                     <h4>--Bisect--</h4>
                     <li><b>git bisect </b> debuging code by moving through commits
@@ -383,6 +387,23 @@
                                 after git bisect !</li>
                         </ul>
                     </section>
+
+                    <section>
+                        <h2 id="Stash">Stash</h2>
+                        <ul>
+                            <li><b>git stash:</b> keeps your changes safe so you can come back to them later.</li>
+                            <ul>
+                                <li id="stash-list"><b>git stash list:</b> shows all your saved stashes.</li>
+                                <li id="stash-push"><b>git stash push -m "message":</b> saves your changes with a message.</li>
+                                <li id="stash-show"><b>git stash show stash@{&lt;stash_id&gt;}:</b> shows what changes are in a stash.</li>
+                                <li id="stash-apply"><b>git stash apply stash@{&lt;stash_id&gt;}:</b> applies the changes from a stash without deleting it.</li>
+                                <li id="stash-pop"><b>git stash pop stash@{&lt;stash_id&gt;}:</b> applies the changes and removes the stash.</li>
+                                <li id="stash-drop"><b>git stash drop stash@{&lt;stash_id&gt;}:</b> deletes a stash.</li>
+                            </ul>
+                            <li><b>Note:</b> Use stash when you want to save and protect your changes but they are not finished yet.</li>
+                        </ul>
+                    </section>
+
 
                     <!-- <section class="white-space">
                         <a href="#">&uarr; back to top &uarr; </a>
