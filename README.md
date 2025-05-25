@@ -783,6 +783,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahdi akhbar :v: :smiley: ](https://github.com/MahdiAkhbar)
 - [AmirHossein Jahangiri :computer: ](https://github.com/AmirHossein-Jahangiri/)
 - [Mohammad Abbasi :computer: :computer: ](https://github.com/mohammadv184)
+- [Amir Ahadi :computer: ](https://github.com/amirahadi)
 - [Arefe Bsh :computer: :heart_eyes: :hibiscus:](https://github.com/arefebsh)
 - [Mohammad YousefiPour :v::sunglasses:](https://github.com/myp79)
 - [Mehrdad Mahabadi :computer: ](https://github.com/moxitron)
