@@ -26,6 +26,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal)
 - [Mohammad Reza Karami](https://github.com/Mohammad-Reza-Karami)
 - [Saed Gholipour](hhtp://github.com/saed-gpr)
+- [Navid Faraji :imp:](https://github.com/sankofa3)
 - [Aydin Aaman Allah Oghli](https://github.com/mr-aydin)
 - [Aydin Aman Allah Oghli](https://github.com/mr-aydin)
 - [mohammad mosayyebnezhad](https://github.com/mohammadmosayyeb)
