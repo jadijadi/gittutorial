@@ -39,6 +39,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Jadi](https://jadi.net)
+- [Reina Khosravi ✨🦊](https://github.com/ReyhunSKhosravi)
 - [SinaSohrab 💻](https://github.com/SinaSohrab)
 - [Amirhossein Abdollahi nejat](https://github.com/djamir86)
 - [Milad Parvizi](https://github.com/miladp55) :facepunch:
