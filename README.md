@@ -325,6 +325,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mostafa Papen :v: :v:](https://github.com/BunNybuger 'I owe you so much jaadi! love you!')
 - [Hossein-Developer :wolf:](https://github.com/Hossein-Haghshenas)
 - [MicRoB 🔰](https://github.com/ALI161)
+- [Alireza_Moradi](https://github.com/AlirezaMoradiDev) 😟
 - [Sayed Mahmood Hosseini:blue_heart:](https://github.com/smahmoodh/)
 - [Zahra Taghipour :v: :dove:](https://github.com/Zahra-T)
 - [Amir.H.Shirzad:sunglasses::computer:](https://github.com/Amir-H-Shzd)
