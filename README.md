@@ -108,6 +108,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Soheyl Farzane 😍](https://github.com/soheylfarzane)
 - [kamand](https://github.com/kamandtolou)
 - [Kiarash_Fereidouni](https://github.com/Boof-e-bina)
+- [Hamid Taheri](https://github.com/taheriamm) :blue_heart::blue_heart::blue_heart:
 - [Nima Eradi❤️](https://github.com/nima91202)
 - [Mohammadreza ShahriyarKeshe***](https://github.com/mohammadrezashsk)
 - [Amin Kareshi](https://github.com/evilpatrik)
