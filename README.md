@@ -266,6 +266,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahdiyar 💀](https://github.com/HDK20)
 - [Mohammad Khalatbari](https://github.com/MohammadKhalatbari)
 - [Koorosh Komeilizadeh](https://github.com/kooroshkz)
+- [AizakCy 赤](https://github.com/AizakCy)
 - [Bamdad Dashtban](https://github.com/bamdadd)
 - [Behnam Ebrahimi](https://github.com/behnam68engine)
 - [Bahar Hosseini 💻 🐧](https://github.com/bahar-hosseini)
