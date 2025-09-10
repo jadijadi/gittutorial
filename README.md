@@ -49,6 +49,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**:white_circle: Danial Karimi :white_circle:**](https://github.com/Danialk13)
 - [**Mohammad H Kazemi :eyes:**](https://github.com/massan11)
 - [Jadi](https://jadi.net)
+- [Train-Master](https://github.com/train-master)
 - [mh ebrz :collision:](https://github.com/mhe931)
 - [Mithril-Mohammad](https://github.com/Mithril-Mohammad)
 - [Mehrdad Mahmoudi](https://github.com/mehrdadmm)
