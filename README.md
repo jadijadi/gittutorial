@@ -98,6 +98,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AmirHosseinSadeghDaghighi](https://github.com/iamAmirSadeghi)
 - [AmirHosein 🌿 ](https://github.com/omidmblove80)
 - [Shahram Ardalan💻❤️](https://github.com/shahramardalan)
+- [Landshark :alien:](https://github.com/landshark-ceo)
 - [Mamad Mehrabi Rad](https://github.com/OnlyRad)
 - [Abbas](https://github.com/azmaabbass)
 - [Mostafa Kalantari](https://github.com/MostafaKalantari)
