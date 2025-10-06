@@ -113,6 +113,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Erfan Farahbakhsh](https://github.com/thatserfan)
 - [Soheyl Farzane 😍](https://github.com/soheylfarzane)
 - [kamand](https://github.com/kamandtolou)
+- [Mahdyar Alipor](https://github.com/mahdyaralipor)
 - [Kiarash_Fereidouni](https://github.com/Boof-e-bina)
 - [Nima Eradi❤️](https://github.com/nima91202)
 - [Mohammadreza ShahriyarKeshe***](https://github.com/mohammadrezashsk)
