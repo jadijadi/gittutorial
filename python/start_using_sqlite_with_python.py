@@ -14,3 +14,5 @@ conn.commit() # commit changes
 
 conn.close()
 print('done')
+
+print("finish")
