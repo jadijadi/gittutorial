@@ -11,6 +11,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [Mansour Ataey](https://github.com/mansourataey)
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
