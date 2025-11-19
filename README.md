@@ -608,7 +608,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Sadegh](https://github.com/mohammadshg84) 😀
 - [Seali Mousavi :bomb: ](https://github.com/sealimousavi)
 - [Shahrooz Jafari :scorpius: :tiger: ](https://github.com/shahroozj)
-- [ParsaKSH](https://github.com/ParsaKSH) 🫠
+- [ParsaKSH](https://github.com/ParsaKSH)
 - [Erfan Mola](https://github.com/erfanmola)
 - [Mehdi Esmaeili:sunglasses:](https://github.com/Mehdimes)
 - [Erfan Mola](https://github.com/erfanmola)
