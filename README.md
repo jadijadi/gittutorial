@@ -15,6 +15,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mansour Ataey](https://github.com/mansourataey)
 - [**Zumboww**](https://github.com/Zumboww) :muscle::metal::notes:
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
+- [Nila Vosoughzadeh 🖥️😀](https://github.com/NilaVosoughzadeh)
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
@@ -608,6 +609,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Sadegh](https://github.com/mohammadshg84) 😀
 - [Seali Mousavi :bomb: ](https://github.com/sealimousavi)
 - [Shahrooz Jafari :scorpius: :tiger: ](https://github.com/shahroozj)
+- [ParsaKSH](https://github.com/ParsaKSH)
 - [Erfan Mola](https://github.com/erfanmola)
 - [Mehdi Esmaeili:sunglasses:](https://github.com/Mehdimes)
 - [Erfan Mola](https://github.com/erfanmola)
@@ -831,6 +833,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Niusha Yousefi :innocent: :computer:](https://github.com/niushay)
 - [Nima Samadi 😃](https://github.com/NimaSamadi007)
 - [Mahdi Ghadami](https://github.com/mahdighadami)
+- [Aboalfazl h](https://github.com/aboalfazlH)
 - [Mehrnaz hn :computer: :heart_eyes:](https://github.com/Meh-hn)
 - [Max Base](https://github.com/BaseMax/) :rose:
 - [Moein](https://github.com/MoeinAF) 😜
@@ -875,3 +878,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Abbas Mnsoori 👨‍💻](https://github.com/Bmnswry28) یک گیک که دوست داره هر جای تکنولوژی سرک بکشه
 - [Alireza Lashkaripour Hψ=Eψ](https://github.com/Alireza-Lashkaripour)
 - [Houtan Rocky](https://github.com/houtan-rocky)
+- [Sevda](https://github.com/sadat2335)
