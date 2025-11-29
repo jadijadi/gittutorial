@@ -81,6 +81,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza Habibi](https://github.com/AlirezaHabibi1377)
 - [Matin Sareban :guardsman:](https://github.com/Matinsareban)
 - [Hasan Zaki](https://github.com/Hasanzakii)
+- [Arshiya mojtahedi](https://github.com/arshiya-mojtahedi)
 - [Arshia Mohammadei 🔷🚀](https://github.com/itashia/) _تکنولوژی برام مثل زرشک‌پلو با مرغه؛ نمی‌تونم نصفه ولش کنم!_
 - [Roham Talebi](https://github.com/rtdevmi) :point_up: :muscle:
 - [Mehrdad](https://zadehebrahim.ir) - [Github](https://github.com/mehrdad-za) 
