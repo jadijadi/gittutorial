@@ -161,6 +161,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mdabagh](https://github.com/mdabagh)
 - [m_b93:sunglasses:](https://github.com/m-b93)
 - [MohammadReza Safdari](https://github.com/mrsfdri)
+- [Nariman](https://github.com/aryanariman)
 - [Parinaz :heart_eyes:](https://github.com/parinaziii013)
 - [Saeed Barari](https://github.com/Saeedb021)
 - [Mohammadhossein Asadi 🎯](https://github.com/mohammadhossein-asadi)
