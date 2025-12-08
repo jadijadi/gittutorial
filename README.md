@@ -663,6 +663,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mojtaba :neckbeard:](https://github.com/korosh1990)
 - [Iman Baghery :sunglasses:](https://github.com/imanbaghery)
 - [Mona](https://github.com/monabsi)
+- [Parsa](https://github.com/Parsa-19)
 - [Saeed DN](https://github.com/SaeedDN)
 - [Omid36](https://github.com/Omid36)
 - [Fazi](https://github.com/fazi1058)
