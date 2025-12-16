@@ -30,6 +30,9 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Pouya Shaterzadeh](https://github.com/Pouya-Shaterzadeh)
 - [**Reza TG** :fireworks:](https://github.com/rezatg)
 - [Mahmoud Soltani0](https://github.com/mahmoodsoltani)
+
+- [M0H0M0K0](https://github.com/mohomoko) :bowtie: :trollface:
+
 - [Ebrahim Solhjooo](https://github.com/abe-solhjoo)
 - [Solmaz Sahmani](https://github.com/solmaz-sahmani)
 - [Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal)
