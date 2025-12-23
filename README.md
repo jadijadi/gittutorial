@@ -12,6 +12,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 - [Mobin Sadeqian](https://github.com/Mobinsadeqian) :computer:
+- [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
 - [Mansour Ataey](https://github.com/mansourataey)
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
 - [Vahid Siaymi](https://github.com/BraveVahid) :computer: :coffee:
