@@ -20,6 +20,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Nila Vosoughzadeh 🖥️😀](https://github.com/NilaVosoughzadeh)
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
+- [Hadi Jafari](https://github.com/haadijafari)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
 - [Alireza shokri](https://github.com/alireza-shokri)
 - [Reza Shakiba](https://github.com/ARAelcto1384) Its start programming by git. Thanks Mr Jadi.
