@@ -17,6 +17,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
 - [Vahid Siaymi](https://github.com/BraveVahid) :computer: :coffee:
 - [Mohammad Azim Memari(**Zumboww**)](https://github.com/Zumboww) :metal::muscle::notes:
+- [Par3saheydari :kissing_closed_eyes:](https://github.com/par3aheydari)
 - [Nila Vosoughzadeh 🖥️😀](https://github.com/NilaVosoughzadeh)
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
