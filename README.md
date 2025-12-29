@@ -74,6 +74,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [M Hamghalam](https://github.com/hamghalam)
 - [Alireza Habibi](https://github.com/AlirezaHabibi1377)
 - [Amirhosein Shojaei](https://github.com/amirhoseinshojaei)
+- [Pedram Ghahremani](https://github.com/pedi-g)
 -[hamid rasouli❤️❤️❤️}](https://github.com/Hamid295)
 - [Ilia Geek](https://github.com/iliageek) :guitar: :coffee:
 - [Marziyeh Samiee](https://github.com/MarziyehSamiee) :innocent:
