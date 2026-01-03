@@ -67,6 +67,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Jadi](https://jadi.net)
 - [mh ebrz :collision:](https://github.com/mhe931)
 - [Mithril-Mohammad](https://github.com/Mithril-Mohammad)
+- [Hanieh Zainodini](https://github.com/hzainodini)
 - [hossein jafarian](https://github.com/hjj672)
 - [Mehrdad Mahmoudi](https://github.com/mehrdadmm)
 - [**:crown: NT :crown:**](https://github.com/NTcompanyYT)
