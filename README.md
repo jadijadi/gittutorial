@@ -24,6 +24,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [Sepehr Abdolmanafi💻](https://github.com/gigasepehr)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
+- [Hadi Jafari](https://github.com/haadijafari)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
 - [Alireza shokri](https://github.com/alireza-shokri)
 - [Reza Shakiba](https://github.com/ARAelcto1384) Its start programming by git. Thanks Mr Jadi.
