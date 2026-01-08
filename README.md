@@ -511,6 +511,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Aria Radmehr🗽](http://github.com/jestemAria)
 - [CodeWithEmaD](https://github.com/CodeWithEmad)
 - [Ashkan Jalali](https://github.com/ashkanjalaliQ)
+- [Taha Jalali](https://github.com/TahaJalali) Love U MR.Jadi ❤️
 - [Hossein Mirazimi](https://github.com/Hossein-Mirazimi)
 - [Morteza Heydari](https://github.com/MortezaHeydari97)
 - [Reza Kargar :v::sunglasses:](https://github.com/RezaKargar)
