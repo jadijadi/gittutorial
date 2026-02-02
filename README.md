@@ -53,6 +53,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Navid Faraji :imp:](https://github.com/sankofa3)
 - [Aydin Aaman Allah Oghli](https://github.com/mr-aydin)
 - [Aydin Aman Allah Oghli](https://github.com/mr-aydin)
+- [Hamed Ejbari🐼](https://github.com/Hamed-Ej)
 - [mohammad mosayyebnezhad](https://github.com/mohammadmosayyeb)
 - [VIKONAD :grin:](https://github.com/vikonad)
 - [Simon The Prophet] (https://github.com/General-Ripper) They call him Jadi. Git calls it master. Coincidence? I think not!
