@@ -877,6 +877,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AbolfazlGhotbadini](https://github.com/AbolfazlGhotbadini)
 - [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)
 - [Maria](https://github.com/MariaTu)
+- [Al3Xmercer031](https://github.com/Al3Xmercer031)(Thanks for your gittutorial,May I buy you a cup of coffee?)
 - [Evie]
 - [AliHaamedi](https://github.com/alihaamedi)
 - [Amir(ia703) Hossein Maher](https://github.com/amiria703)
