@@ -58,6 +58,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mohammad mosayyebnezhad](https://github.com/mohammadmosayyeb)
 - [VIKONAD :grin:](https://github.com/vikonad)
 - [Simon The Prophet] (https://github.com/General-Ripper) They call him Jadi. Git calls it master. Coincidence? I think not!
+- [Behzad Afsari 💻😊](https://github.com/behzad-afsari) 
 - [Hossein Pakaein](https://github.com/hosseinpk)
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
 - [Hanieh Rashidpour 😸🥲:](https://github.com/hrashidpour)
