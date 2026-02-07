@@ -879,6 +879,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)
 - [Maria](https://github.com/MariaTu)
 - [Evie]
+- [Amin-Kargarzade](https://github.com/AminKargarzade)
 - [AliHaamedi](https://github.com/alihaamedi)
 - [Amir(ia703) Hossein Maher](https://github.com/amiria703)
 - [Ramin](https://github.com/fayyazzadeh)
