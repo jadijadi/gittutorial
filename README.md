@@ -861,6 +861,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AZ - Mohammad Ali Azarkasb :grin: :gem: ](https://github.com/Azarkasb)
 - [AmirAli Angha :heart_eyes:](https://github.com/amiralii007)
 - [AM.A :black_joker: ](https://github.com/A19M98A)
+- [Yasin Khadem 😎](https://github.com/yasin-khadem)
 - [**PouyaCodes**](https://github.com/pouyacodes) :trollface: 🌹
 - [Niusha Yousefi :innocent: :computer:](https://github.com/niushay)
 - [Nima Samadi 😃](https://github.com/NimaSamadi007)
