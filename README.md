@@ -454,6 +454,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Imorate :zap:](https://github.com/imorate)
 - [TohidEq :heart:](https://github.com/TohidEq)
 - [Mohsen :feelsgood: ](https://github.com/Mohsen-max)
+- [Mr.Frandal](https://github.com/MrBrandal)
 - [Mohammad Mahdi :feelsgood:](https://github.com/mahdipuya)
 - [Milad NR :feelsgood:](https://github.com/MNR85)
 - [Shayan Azizi :feelsgood:](https://github.com/shayan-azizi)
