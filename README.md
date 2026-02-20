@@ -21,6 +21,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Masoud Taban](https://github.com/mass-taban)
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei) 
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
+- [**Abolfazl Zolfaghari** 🚀](https://github.com/abolfazlzol1384-eng)
 - [Vahid Siaymi](https://github.com/BraveVahid) :computer: :coffee:
 - [Mohammad Azim Memari(**Zumboww**)](https://github.com/Zumboww) :metal::muscle::notes:
 - [Par3saheydari :kissing_closed_eyes:](https://github.com/par3aheydari)
