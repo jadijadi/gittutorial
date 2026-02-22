@@ -534,6 +534,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Daniel-Ehsandar:computer:](https://github.com/Daniel-Ehsandar)
 - [Sorg 🔭🛸](https://github.com/Sir-Sorg)
 - [Amir Mohsen](https://github.com/amirmohsen1384)
+- [Mahdi Poor Jahangiri :computer: :sparkles:](https://github.com/Mahdipoorjahangiri)
 - [Wih ☃️❄️](https://github.com/saeturn)
 - [Reza Dabbaghi ](https://github.com/Rdabbaghi)
 - [sepehr](https://github.com/sepehrmizani)
