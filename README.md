@@ -437,6 +437,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Abolfazl Akbarzadeh Mola ](https://github.com/AbakSource)
 - [Yasaman :mushroom:](https://github.com/jasmineslr)
 - [peyman khoshbakht-thank you jadi.you are great]
+- [Maede]
 - [Mahdi Rezainiya :computer::smile:](https://github.com/mahdi-rezainiya)
 - [Seyed mohammad mirfatemi :speech_balloon:](https://github.com/kiumad)
 - [Parnian Ghaneei](https://github.com/parnian-Ghaneei)
