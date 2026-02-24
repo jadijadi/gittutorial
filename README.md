@@ -74,6 +74,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Milad Parvizi](https://github.com/miladp55) :facepunch:
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Mehrdad Rayati](https://github.com/Mehrdadrd1)
+- [Sadjad Bahari](https://github.com/sadjadbh)
 - [**:white_circle: Danial Karimi :white_circle:**](https://github.com/Danialk13)
 - [**Mohammad H Kazemi :eyes:**](https://github.com/massan11)
 - [Jadi](https://jadi.net)
