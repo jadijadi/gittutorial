@@ -8,7 +8,7 @@ https://github.com/dastgheybi-smh
 
 ----------------------------------------------------
 
-Salam Jadi,
+Hi Jadi,
 I think if you add git stash to your Git course, it can be really helpful.
 Thank you Jadi!
 
