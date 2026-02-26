@@ -46,6 +46,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amis-Eb](https://github.com/Amis-Eb)
 - [Amirali Hossaini](https://github.com/amirali-hossaini)
 - [Solmaz Sahmani](https://github.com/solmaz-sahmani)
+- [Saman Tofighian](https://github.com/saman-tofighian)
 - [Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal)
 - [Mohammad Reza Karami](https://github.com/Mohammad-Reza-Karami)
 - [Hossein Fahimi](https://github.com/hosein1122)
