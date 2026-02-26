@@ -39,6 +39,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [M0nt :neckbeard:](https://github.com/montajebii)
 - [Parnia Fazeli](https://github.com/Parniafazeli)
 - [Hadi Eini ❄️](https://github.com/vextric)
+- [Ali Ebrahimnezhad](https://github.com/ebrahimnezhadali8-gif)
 - [Pouya Shaterzadeh](https://github.com/Pouya-Shaterzadeh)
 - [**Reza TG** :fireworks:](https://github.com/rezatg)
 - [Mahmoud Soltani0](https://github.com/mahmoodsoltani)
