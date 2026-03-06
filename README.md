@@ -429,6 +429,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [alumpish :sunglasses:](https://github.com/alumpish)
 - [Mahtab 👾](https://github.com/Mahtab-Jeyhani)
 - [Mohsen Faghih :punch:](https://github.com/mohsenfaghih)
+- [Dariush Kavyani](https://github.com/dariushkavyani) 🐦‍⬛
 - [AmirHossein Fourotan :sunglasses::heart:](https://github.com/amirhfro)
 - [M.Qadimi](https://github.com/mqadimi)
 - [Alireza Memari](https://github.com/khamene)
