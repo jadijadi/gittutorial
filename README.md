@@ -923,3 +923,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sevda](https://github.com/sadat2335)
 - [Kiamehr Moradi 😁](https://github.com/kiyamehr)
 - [Ermiya Sharif] (https://github.com/ermiyashb) (love you jadi)
+- [Ehsan_Majdi 🙂] (https://github.com/ehsan-majdi) 
