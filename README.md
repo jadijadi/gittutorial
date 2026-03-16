@@ -136,6 +136,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [barsam-aski](https://github.com/amoobarsam)
 - [Sayed Mohammad Hassan Dastgheybi](https://github.com/dastgheybi)
 - [Fatemeh :unamused:](https://github.com/FatemehMashayekhi)
+- [Alireza 👨🏻‍💻☕️](https://github.com/Alireza-Seif)
 - [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
 - [AmirHossein Dostmohammadi](https://github.com/Amirhossein-mrx)
 - [Ali Jahromi](https://github.com/alijahromi)
