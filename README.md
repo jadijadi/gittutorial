@@ -72,6 +72,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [afsartala](https://github.com/aafsartala)
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
+- [AmirHosein Kahrani 💀](https://github.com/AmirHosein-Kahrani)
 - [Jadi](https://jadi.net)
 - [Reina Khosravi ✨🦊](https://github.com/ReyhunSKhosravi)
 - [SinaSohrab 💻](https://github.com/SinaSohrab)
