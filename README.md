@@ -1,4 +1,5 @@
-# **Hello**
+FI
+
 
 > Note: It's better to add your name somewhere in the middle, and not at the beginning nor at the end!
 
@@ -15,6 +16,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mobin Sadeqian](https://github.com/Mobinsadeqian) :computer:
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
+-[Emad Rjabi](https://github.com/emadrajabi1)
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
 - [Mansour Ataey](https://github.com/mansourataey)
 - [**Iman Bigdeli**](https://github.com/Iman-Web84) 💻
@@ -133,7 +135,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [hosein javidmehr 🔥](https://github.com/bigbro8)
 - [Mohammad "Mo" Haj Najafi](https://github.com/ybreakless)
 - [Heshy](https://github.com/heshyOo)
-- [barsam-aski](https://github.com/amoobarsam)
+- [barsam-ask`i](https://github.com/amoobarsam)
 - [Sayed Mohammad Hassan Dastgheybi](https://github.com/dastgheybi)
 - [Fatemeh :unamused:](https://github.com/FatemehMashayekhi)
 - [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
