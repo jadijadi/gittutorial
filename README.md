@@ -67,6 +67,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
 - [Hanieh Rashidpour 😸🥲:](https://github.com/hrashidpour)
 - [Amir Haghshenas](https://github.com/amirhqshns)
+- [Mahdi Akbari](https://github.com/mahdiXak47)
 - [Majid Panahi :two::smiley:](https://github.com/MajidPanahi)
 - [Arshia Moghbel](https://github.com/Arshia-Moghbel):heart:
 - [afsartala](https://github.com/aafsartala)
