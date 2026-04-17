@@ -176,6 +176,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - zohre babaei
 - [Maziar Zamani](https://github.com/Maziar101)
 - [Erfan Mahtabi 😉](https://github.com/Uvthk)
+- [Taha Moradi](https://github.com/tahaw9)
 - [Masoomeh Nazifi :octocat:](https://github.com/Masoomeh-nazifi)
 - [Mahdi Moeini](https://github.com/M-Moeini)
 - [Daniyal :new_moon:](https://github.com/fs0c1eTy00)
