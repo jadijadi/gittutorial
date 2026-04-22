@@ -134,6 +134,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad "Mo" Haj Najafi](https://github.com/ybreakless)
 - [Heshy](https://github.com/heshyOo)
 - [barsam-aski](https://github.com/amoobarsam)
+- [Barry](https://github.com/SplasHQT) From behind the internet blackout :closed_lock_with_key: 
 - [Sayed Mohammad Hassan Dastgheybi](https://github.com/dastgheybi)
 - [Fatemeh :unamused:](https://github.com/FatemehMashayekhi)
 - [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
