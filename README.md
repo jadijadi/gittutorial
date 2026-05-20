@@ -406,6 +406,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Samrad :woman::life::freedom:](https://github.com/Bearcoder7)
 - [Ariyan :wrench:](https://github.com/B4NDT0)
 - [Reyhaneh Z 😄:](https://github.com/reyhaneh-hub)
+- [Davood F 😄:](https://github.com/Davoodf1999)
 - [Mohammad Reyhani](https://github.com/Reymoh75)
 - [Mahya Mohammadi Golchi](https://github.com/mahyamg)
 - [Mohammad Yeganeh](https://github.com/usermp)
