@@ -886,6 +886,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [nb157 :heart:](https://github.com/nb157)
 - [AbolfazlGhotbadini](https://github.com/AbolfazlGhotbadini)
 - [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)
+- [ParSha](https://github.com/Parnian-Shakerian)
 - [Maria](https://github.com/MariaTu)
 - [Evie]
 - [Amin-Kargarzade](https://github.com/AminKargarzade)
