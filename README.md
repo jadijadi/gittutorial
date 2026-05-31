@@ -14,6 +14,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Mobin Sadeqian](https://github.com/Mobinsadeqian) :computer:
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
+- [Somaye Beiranvand](https://github.com/somaye-beiranvand)
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
 - [Mansour Ataey](https://github.com/mansourataey)
