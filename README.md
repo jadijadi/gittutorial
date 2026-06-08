@@ -41,6 +41,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad HedayatiNia](https://github.com/Mohammad-HedayatiNia) :sunglasses:
 - [M0nt :neckbeard:](https://github.com/montajebii)
 - [Parnia Fazeli](https://github.com/Parniafazeli)
+- [AlirezaMansury](https://github.com/alirezamansury-cf) :zap: :zap: :zap:
 - [Hadi Eini ❄️](https://github.com/vextric)
 - [Ali Ebrahimnezhad](https://github.com/ebrahimnezhadali8-gif)
 - [Pouya Shaterzadeh](https://github.com/Pouya-Shaterzadeh)
