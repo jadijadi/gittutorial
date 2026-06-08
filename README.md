@@ -31,6 +31,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sepehr Abdolmanafi💻](https://github.com/gigasepehr)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
 - [Hadi Jafari](https://github.com/haadijafari)
+- [Reyhaneh Zare ☕🖥️](https://github.com/ryhnhzr)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
 - [Alireza shokri](https://github.com/alireza-shokri)
 - [Meysam Abbasi](https://github.com/Meysamjoon)
