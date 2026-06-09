@@ -32,6 +32,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Azim Memari(**Zumboww**)](https://github.com/Zumboww) :metal::muscle::notes:
 - [Par3saheydari :kissing_closed_eyes:](https://github.com/par3aheydari)
 - [Nila Vosoughzadeh 🖥️😀](https://github.com/NilaVosoughzadeh)
+- [**Erfan Heydari ❤️**](https://github.com/DlvErf419)
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [Sepehr Abdolmanafi💻](https://github.com/gigasepehr)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
