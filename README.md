@@ -43,6 +43,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Bararian](https://github.com/MohammadBararian)
 - [Rezvane Khamseh :heart: :clock130:](https://github.com/rezvankhamseh)
 - [Mohammad HedayatiNia](https://github.com/Mohammad-HedayatiNia) :sunglasses:
+- [Ehsan Miri] (https://github.com/ehsanmie)
 - [M0nt :neckbeard:](https://github.com/montajebii)
 - [Parnia Fazeli](https://github.com/Parniafazeli)
 - [Saeid Vazifeh](https://github.com/vazifehsaeid-star)//
