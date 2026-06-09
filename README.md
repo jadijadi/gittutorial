@@ -443,6 +443,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ehsan Saadatfar](https://github.com/ehsansdf)
 - [Hossein](https://github.com/Hossein-Fazel)
 - [Foad :grin:](https://github.com/Foad9)
+- [amireza yazdanfar](https://github.com/amirezaz)
 - [Hedieh Raeisi :blue_heart:](https://github.com/HediyeRaisy)
 - [Abolfazl Rezaei Aderiani :v:](https://github.com/Aderiani)
 - [MrTerminal :trollface::+1:](https://github.com/Zeroday10)
