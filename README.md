@@ -126,6 +126,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AmirMohammad Qarebagh](https://github.com/Qarebaq) :coffee:
 - [Alireza Habibi](https://github.com/AlirezaHabibi1377)
 - [Matin Sareban :guardsman:](https://github.com/Matinsareban)
+- [Saeid Amini](https://github.com/saeid94am)
 - [Hasan Zaki](https://github.com/Hasanzakii)
 - [Arshiya mojtahedi](https://github.com/arshiya-mojtahedi)
 - [Arshia Mohammadei 🔷🚀](https://github.com/itashia/) _تکنولوژی برام مثل زرشک‌پلو با مرغه؛ نمی‌تونم نصفه ولش کنم!_
