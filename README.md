@@ -17,6 +17,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
 - [Mansour Ataey](https://github.com/mansourataey)
+- [Yousef Modiri](https://github.com/modiritrade) Modiri Trade
 - [Ghazale Azizoal](https://github.com/Ghazaleh-Azizolah)💻🤍
 - [**Iman Bigdeli**](https://github.com/Iman-Web84) 💻
 - [**Mahdi Manzouri**](https://github.com/mahdimanzouri) ⭐🔭
