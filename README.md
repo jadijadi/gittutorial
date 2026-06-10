@@ -148,6 +148,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [SinaSohrab](https://github.com/SinaSohrab)
 - [kamand tolou](https://github.com/Kamandtolou)
 - [Ali Alipour](https://github.com/alialipour2006)
+- [**Erfan Rahbar**](https://github.com/erfanrahbar) :hearts:
 - [Tabesh Hoseini](https://github.com/tabeshhoseini)
 - [Amid Sanai](https://github.com/aamidd)
 - [Sina Taghizadeh](https://github.com/Sina-Taghizadeh) :eyes:
