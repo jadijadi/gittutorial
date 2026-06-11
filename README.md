@@ -27,7 +27,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Farhad Fallahi](https://github.com/FarhadJs) :computer::video_game::hand_with_index_finger_and_thumb_crossed::white_heart:
 - [Ata Kiani](https://github.com/atakiani)
 - [Masoud Taban](https://github.com/mass-taban)
-- [Mahdi Babaei](https://github.com/Mahdi-Babaei)
+- [Jina Karbasi :heart:](https://github.com/Jina-Karbasi)
+- [Mahdi Babaei](https://github.com/Mahdi-Babaei) 
 - [**AL Esmaeili**](https://github.com/alirzaaam):ocean:
 - [Ziba Imani](https://github.com/zibaimani):v: :computer: 
 - [Sahar Kianmehr](https://github.com/Saharkianm)
