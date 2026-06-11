@@ -17,6 +17,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
+- [**Mostafa_Piran** :octocat:](https://github.com/mostafapiran)
 - [Mansour Ataey](https://github.com/mansourataey)
 - [Yousef Modiri](https://github.com/modiritrade) Modiri Trade
 - [Ghazale Azizoal](https://github.com/Ghazaleh-Azizolah)💻🤍
@@ -28,8 +29,13 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Masoud Taban](https://github.com/mass-taban)
 - [Jina Karbasi :heart:](https://github.com/Jina-Karbasi)
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei) 
+- [**AL Esmaeili**](https://github.com/alirzaaam):ocean:
+- [Ziba Imani](https://github.com/zibaimani):v: :computer: 
+- [Sahar Kianmehr](https://github.com/Saharkianm)
 - [Daniyal Ajalloueian](https://github.com/ItzAjall) 
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
+- [EhSaN MoRaDi](https://github.com/ehsanm0radi) 🤖💻🍕
+- [**Abolfazl Zolfaghari** 🚀](https://github.com/abolfazlzol1384-eng)
 - [Vahid Siaymi](https://github.com/BraveVahid) :computer: :coffee:
 - [Mohammad Azim Memari(**Zumboww**)](https://github.com/Zumboww) :metal::muscle::notes:
 - [Par3saheydari :kissing_closed_eyes:](https://github.com/par3aheydari)
@@ -44,6 +50,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Reyhaneh Zare ☕🖥️](https://github.com/ryhnhzr)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
 - [Alireza shokri](https://github.com/alireza-shokri)
+- [Morteza Seyedimoghaddam](https://github.com/MortezaSym)
 - [ErPyCode](https://github.com/erpycode) Thanks for Everything jadi. you Change My life 
 - [Meysam Abbasi](https://github.com/Meysamjoon)
 - [Sasan Maleknia](https://github.com/sasanmaleknia)
@@ -55,6 +62,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ehsan Miri] (https://github.com/ehsanmie)
 - [M0nt :neckbeard:](https://github.com/montajebii)
 - [Parnia Fazeli](https://github.com/Parniafazeli)
+- [Anna Soleiti](https://github.com/annasoleiti)
 - [Saeid Vazifeh](https://github.com/vazifehsaeid-star)//
 - [AlirezaMansury](https://github.com/alirezamansury-cf) :zap: :zap: :zap:
 - [Hadi Eini ❄️](https://github.com/vextric)
@@ -93,7 +101,10 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [afsartala](https://github.com/aafsartala)
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
+- [AmirHosein Kahrani 💀](https://github.com/AmirHosein-Kahrani)
 - [Jadi](https://jadi.net)
+- [Sajjad](https://github.com/Sajjad120Ns)
+- [Better call Naeem](https://github.com/naeemt8)
 - [Reina Khosravi ✨🦊](https://github.com/ReyhunSKhosravi)
 - [SinaSohrab 💻](https://github.com/SinaSohrab)
 - [Amirhossein Abdollahi nejat](https://github.com/djamir86)
@@ -199,6 +210,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Majid Kamali](https://github.com/Majid-Kamali)
 - [mahdimosavi](https://github.com/MahdyMusave/gittutorial.git)
 - [Pourya Kamyarfard ❤️](https://github.com/wwindux)
+- [Allan Daneshgar](https://github.com/AllanDaneshgar) 💻💙
 - [amir rahimi :) ](https://github.com/amirrahimii)
 - [shahin Davoodi](https://github.com/Shahindavoodicom)
 - [pooulad(Jadi finally saw me😎:alien:)](https://github.com/pooulad)
@@ -234,6 +246,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mousa Pashaee](https://github.com/mousa-1983)
 - [Niloofar Asoubar](https://github.com/Nilysa)
 - [mohammad mojaver](https://github.com/mohammadDeveloperr)
+- [Hossein Hardani](github.com/HosseinHardani/)
 - [Mahdi Peydai](https://github.com/MahdiPeydai)
 - [Radman](https://github.com/radman17)👽
 - [Mahdi Baha 💻](https://github.com/mahdibaham)
@@ -935,6 +948,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [nb157 :heart:](https://github.com/nb157)
 - [AbolfazlGhotbadini](https://github.com/AbolfazlGhotbadini)
 - [Mehdi Ebrahimi :turtle:](https://github.com/mitiebh)
+- [ParSha](https://github.com/Parnian-Shakerian)
 - [Maria](https://github.com/MariaTu)
 - [Al3Xmercer031](https://github.com/Al3Xmercer031)(Thanks for your gittutorial,May I buy you a cup of coffee?)
 - [Evie]
