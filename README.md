@@ -99,6 +99,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Jadi](https://jadi.net)
+- [Sajjad](https://github.com/Sajjad120Ns)
 - [Better call Naeem](https://github.com/naeemt8)
 - [Reina Khosravi ✨🦊](https://github.com/ReyhunSKhosravi)
 - [SinaSohrab 💻](https://github.com/SinaSohrab)
