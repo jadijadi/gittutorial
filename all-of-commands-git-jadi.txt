@@ -47,9 +47,10 @@ git tag -v (esme tag) >> verify mikone on tag ro neshon mide tavasot che kasi va
 git commit -S -m'' >> in ham emza mikone vali commit ro emza mikone
 moshkel gpg >> agar kasi emza konad hame bayad file hashono emza konan
 git help (commandd ke mikhai bade git benvisi) >> tozih koleon command ro mide va hame signature hasho mige
-git blame  >> mitone neshon bede ke on khat ya file ro har khatesho ki change dade ke betoni taghsir on fard bendazi
+git blame  >> mitone neshon bede ke on khat (Line) ya file ro har khatesho ki change dade ke betoni taghsir on fard bendazi
 git blame (file mored nazar dar on folder) >> kole file ro neshon mide har khat ro ki taghir dade akharin bar
-git blame (file mored nazar dar on folder) -L(mitoni inja yek khat ro begi ya az yek khat ta yek khat digar  ) >> tozihat ro dadam vali edame dare gol khordi baray hamin bayad begam ke baray neshon dadan az che khati ta che khati bayad ke be sorat robero almal koni (-L8,10) mesal hast adad hayash
+git blame (file mored nazar dar on folder) -L(mitoni inja shomareye khat ro begi) >> masalan baraye barresie kahte 8 (git blame FILE_Name -L8,8)
+git blame (file mored nazar dar on folder) -L(mitoni inja yek khat ro begi ya az yek khat ta yek khat digar  ) >> tozihat ro dadam vali edame dare gol khordi baray hamin bayad begam ke baray neshon dadan az che khati ta che khati bayad ke be sorat robero amal koni (-L8,10) mesal hast adad hayash
 git bisect >> bisect  mishe( binary search commit )hast
 git bisect bad  >> ye bug pida shode mikhai bebbini dar kodam commit in bug be vojod omade ve ba inn code neshon mide in bug dar in commit hast (commit hal hazer)
 git bisect good [(adade commit)] >> yek commit ke benazre shoma on bug daresh vojod nadashte ro neshon midi besh bayad dar akhar kar bedon on adad benevisi
