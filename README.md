@@ -153,6 +153,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehrdad](https://zadehebrahim.ir) - [Github](https://github.com/mehrdad-za)
 - [Amirreza Heydari](https://clarotm.ir) - [Github](https://github.com/amirrezaheydari81)
 - [Hossein Aghabararian](https://github.com/Hossein-Bararian)
+- [Artin karimi](https://github.com/Thecode764)
 - [Ehsan Marmazi](https://github.com/Ehsanmarmazi)
 - [yusef](https://github.com/jfryusef) :space_invader:
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
