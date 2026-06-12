@@ -127,6 +127,11 @@ some notes for git learners
       git checkout -- 'filename'
       ```
         - `'--'`: Refers to the HEAD (latest commit).
+    - To create a new branch and switch to it at the same time, use:
+      ```
+      git checkout -b 'new-branch-name'
+      ```
+      This command creates a new branch called `'new-branch-name'` and immediately switches to it.
 
 
 10. **Merge Branches:**
@@ -160,6 +165,12 @@ some notes for git learners
     - `origin`: Represents the remote repository.
     - `git push -u origin master`: After using this parameter, you can use `git push` instead
       of `git push origin master`.
+    - **Force Push:** In some cases, you may need to push changes that overwrite the existing commit history on the remote branch. This is done using the `--force` flag:
+      ```
+      git push origin master --force
+      ```
+      - **Warning:** Force pushing will overwrite the history on the remote repository, which may cause data loss if others have pushed commits to the same branch. Use with caution, especially if working in a team.
+      - Consider using `--force-with-lease` for a safer approach, which ensures that the push will only occur if no one else has updated the branch.
 
 14. **Pull from a Remote Repository:**
 

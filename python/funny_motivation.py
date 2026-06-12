@@ -12,6 +12,7 @@ def get_funny_motivational_quote():
         "Be yourself; everyone else is already taken, and probably not as funny.",
         "I find television very educational. Every time someone turns it on, I go read a book.",
         "People say nothing is impossible, but I do nothing every day.",
+        "Don’t let the noise of others’ opinions drown out your own inner voice"
     ]
     return random.choice(quotes)
 
