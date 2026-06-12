@@ -30,6 +30,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ata Kiani](https://github.com/atakiani)
 - [Masoud Taban](https://github.com/mass-taban)
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
+- [Sahar Kianmehr](https://github.com/saharkianm)
 - [Alireza Khajehvandi](https://github.com/alirezakhajehvandi)
 - [Jina Karbasi :heart:](https://github.com/Jina-Karbasi)
 - [**AL Esmaeili**](https://github.com/alirzaaam):ocean:
