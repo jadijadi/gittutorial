@@ -16,6 +16,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Erfan Hasanzadeh**](https://github.com/Erfun-H) :computer:
 - [Mobin Sadeqian](https://github.com/Mobinsadeqian) :computer:
 - [Amir Hosein Bolori](https://github.com/Amirhb20)💻
+- [Somaye Beiranvand](https://github.com/somaye-beiranvand)
 - [Fatemeh Sadat Hoseini :sunglasses:](htttps://github.com/fatemehoseinii007)
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
