@@ -30,6 +30,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Farhad Fallahi](https://github.com/FarhadJs) :computer::video_game::hand_with_index_finger_and_thumb_crossed::white_heart:
 - [Ata Kiani](https://github.com/atakiani)
 - [Masoud Taban](https://github.com/mass-taban)
+- [Zia Abiat](https://github.com/Zia-Abiat)
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
 - [Sahar Kianmehr](https://github.com/saharkianm)
 - [Alireza Khajehvandi](https://github.com/alirezakhajehvandi)
