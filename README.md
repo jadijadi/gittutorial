@@ -1,4 +1,5 @@
-# **Hello**
+FI
+
 
 > Note: It's better to add your name somewhere in the middle, and not at the beginning nor at the end!
 
@@ -21,6 +22,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Fatemeh Sadat Hoseini :sunglasses:](htttps://github.com/fatemehoseinii007)
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
+- [Emad Rajabi](https://github.com/emadrajabi1)
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
 - [**Mostafa_Piran** :octocat:](https://github.com/mostafapiran)
 - [Mansour Ataey](https://github.com/mansourataey)
@@ -185,8 +187,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [hosein javidmehr 🔥](https://github.com/bigbro8)
 - [Mohammad "Mo" Haj Najafi](https://github.com/ybreakless)
 - [Heshy](https://github.com/heshyOo)
-- [Mehrbod Rezaee (MehrbodPoir)](https://github.com/mehrbodrezaee) Keep building, Keep learning! 🔥💻
-- [barsam-aski](https://github.com/amoobarsam)
+- [barsam-ask`i](https://github.com/amoobarsam)
 - [Sayed Mohammad Hassan Dastgheybi](https://github.com/dastgheybi)
 - [Fatemeh :unamused:](https://github.com/FatemehMashayekhi)
 - [Alireza 👨🏻‍💻☕️](https://github.com/Alireza-Seif)
