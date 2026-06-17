@@ -530,6 +530,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amin Alam :eyes:](https://github.com/AminAlam)
 - [Mostafa Ebrahimi :thumbsup:](https://github.com/mostafaeb)
 - [Imorate :zap:](https://github.com/imorate)
+- [Parsa Sepehri :computer: :books:](https://github.com/parsasepehri)
 - [TohidEq :heart:](https://github.com/TohidEq)
 - [Mohsen :feelsgood: ](https://github.com/Mohsen-max)
 - [Mr.Frandal](https://github.com/MrBrandal)
