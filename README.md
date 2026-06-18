@@ -50,6 +50,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Nila Vosoughzadeh 🖥️😀](https://github.com/NilaVosoughzadeh)
 - [Fatemeh Nikookar] (https://github.com/nikmahla)
 - [**Erfan Heydari ❤️**](https://github.com/DlvErf419)
+- [**alimrk 🇮🇷**](https://github.com/mrk-linux)
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [fatemeh_nikookar] (https://github.com/nikmahla)
 - [Sepehr Abdolmanafi💻](https://github.com/gigasepehr)
