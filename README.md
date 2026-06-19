@@ -168,6 +168,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [yusef](https://github.com/jfryusef) :space_invader:
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
 - [Mohammadreza Sheikhoeleslami](https://github.com/MohammadrezaSheikholeslami84)
+- [Somaye Beiranvand](https://github.com/somaye-beiranvand)
 - [Amin Toorchi 💻](https://github.com/amintoorchi)
 - [Mahdi Razmkhah ](https://github.com/rzmahdi) 🎸
 - [AmirAli Irvani](https://github.com/irvaniamirali)
