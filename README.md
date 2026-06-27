@@ -998,6 +998,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arash Azarvand](https://github.com/Arash742)
 - [Abbas Mnsoori 👨‍💻](https://github.com/Bmnswry28) یک گیک که دوست داره هر جای تکنولوژی سرک بکشه
 - [Alireza Lashkaripour Hψ=Eψ](https://github.com/Alireza-Lashkaripour)
+- [Mahyar Farahani :leaves:](https://github.com/mahiwft) Thanks Mr.Jadi :D
 - [Houtan Rocky](https://github.com/houtan-rocky)
 - [Sevda](https://github.com/sadat2335)
 - [Kiamehr Moradi 😁](https://github.com/kiyamehr)
