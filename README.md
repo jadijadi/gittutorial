@@ -40,6 +40,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**AL Esmaeili**](https://github.com/alirzaaam):ocean:
 - [Ziba Imani](https://github.com/zibaimani):v: :computer: 
 - [Sahar Kianmehr](https://github.com/Saharkianm)
+- [Sepanta Bahmani](http://github.com/SepantaBahmani) 🍕💻
 - [Daniyal Ajalloueian](https://github.com/ItzAjall) 
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
 - [Alireza Ranjbar](https://github.com/gogolibox)
