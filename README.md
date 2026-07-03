@@ -20,6 +20,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mobin Sadeqian](https://github.com/Mobinsadeqian) :computer:
 - [Mohammad Ashourzadeh](https://github.com/ashourzadeh7) :computer:
 - [Amir Hosein Bolori](https://github.com/Amirhb20)💻
+- [Mehran Mahjour](https://github.com/MehranMahjour) (●'◡'●)
 - [Fatemeh Sadat Hoseini :sunglasses:](htttps://github.com/fatemehoseinii007)
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
