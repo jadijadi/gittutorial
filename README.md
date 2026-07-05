@@ -97,6 +97,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Aydin Aman Allah Oghli](https://github.com/mr-aydin)
 - [Hamed Ejbari🐼](https://github.com/Hamed-Ej)
 - [mohammad mosayyebnezhad](https://github.com/mohammadmosayyeb)
+- [reza dorost](https://github.com/rezadorost)
 - [Kian Maleki](https://github.com/kianmaleki)
 - [VIKONAD :grin:](https://github.com/vikonad)
 - [Simon The Prophet] (https://github.com/General-Ripper) They call him Jadi. Git calls it master. Coincidence? I think not!
