@@ -521,6 +521,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Seyed mohammad mirfatemi :speech_balloon:](https://github.com/kiumad)
 - [Parnian Ghaneei](https://github.com/parnian-Ghaneei)
 - [**hadi🤞**✔](https://github.com/h-di)
+- [AmirAli Amerian](https://github.com/amiraliamerian)
 - [Morteza noroozi :heart:](https://github.com/morteza-n)
 - [Mohsen Shafiey Kasrineh 😎](https://github.com/mshafiey)
 - [Tarnama](https://github.com/tarnamaco)
