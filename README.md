@@ -86,6 +86,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Reza TG** :fireworks:](https://github.com/rezatg)
 - [Mahmoud Soltani0](https://github.com/mahmoodsoltani)
 - [Ebrahim Solhjooo](https://github.com/abe-solhjoo)
+- [masuod80726](https://github.com/masuod80726) :sunglasses:
 - [Amirreza Abdi⚡⚡](https://github.com/AmirrezaX11)
 - [Amis-Eb](https://github.com/Amis-Eb)
 - [Amirali Hossaini](https://github.com/amirali-hossaini)
