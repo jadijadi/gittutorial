@@ -79,6 +79,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [AlirezaMansury](https://github.com/alirezamansury-cf) :zap: :zap: :zap:
 - [Hadi Eini ❄️](https://github.com/vextric)
 - [Parsa Abedi](https://github.com/parsaabedi03)
+- [Aylin Nakhostin](https://github.com/aylin-nxt) 💻✨
 - [Ali Ebrahimnezhad](https://github.com/ebrahimnezhadali8-gif)
 - [Pouya Shaterzadeh](https://github.com/Pouya-Shaterzadeh)
 - [**Reza TG** :fireworks:](https://github.com/rezatg)
