@@ -128,6 +128,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mamad Engame](https://github.com/vesper0369) 🛸
 - [SinaSohrab 💻](https://github.com/SinaSohrab)
 - [Amirhossein Abdollahi nejat](https://github.com/djamir86)
+- [Alireza Azmode 💻](https://github.com/alirezaazmode2007-create)
 - [Mohammad Hossein Kiani](https://github.com/madho3) :feelsgood:
 - [Mahdi Shafiei](https://github.com/mahdianubis) :computer:
 - [Milad Parvizi](https://github.com/miladp55) :facepunch:
@@ -207,7 +208,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Ahadi](https://github.com/amirahadi)
 - [Mohammadreza ShahriyarKeshe 🎯](https://github.com/mohammadrezashsk)
 - [AmirHosseinSadeghDaghighi](https://github.com/iamAmirSadeghi)
-- [AmirHosein 🌿 ](https://github.com/omidmblove80)
+- [AmirHosein 🌿 ](https://github.com/omidmblove80)  
 - [Shahram Ardalan💻❤️](https://github.com/shahramardalan)
 - [Landshark :alien:](https://github.com/landshark-ceo)
 - [Mamad Mehrabi Rad](https://github.com/OnlyRad)
