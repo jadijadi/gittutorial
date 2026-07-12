@@ -82,6 +82,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Saeid Vazifeh](https://github.com/vazifehsaeid-star)//
 - [AlirezaMansury](https://github.com/alirezamansury-cf) :zap: :zap: :zap:
 - [Hadi Eini ❄️](https://github.com/vextric)
+- [Hootan Naderi](https://github.com/Hootanx) :shipit:
 - [Parsa Abedi](https://github.com/parsaabedi03)
 - [Aylin Nakhostin](https://github.com/aylin-nxt) 💻✨
 - [Ali Ebrahimnezhad](https://github.com/ebrahimnezhadali8-gif)
