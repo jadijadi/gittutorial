@@ -130,6 +130,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amirhossein Abdollahi nejat](https://github.com/djamir86)
 - [Mohammad Hossein Kiani](https://github.com/madho3) :feelsgood:
 - [Mahdi Shafiei](https://github.com/mahdianubis) :computer:
+- [ario1326](https://github.com/ario1326) :dizzy:
 - [Milad Parvizi](https://github.com/miladp55) :facepunch:
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
 - [Mehrdad Rayati](https://github.com/Mehrdadrd1)
