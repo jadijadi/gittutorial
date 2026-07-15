@@ -1025,3 +1025,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Shayan Shadanpour](https://github.com/shayan-developer) (Thanks :))
 - [Mojtaba Zamani] (https://github.com/memojtabazamani) (Thanks Jadi!)
 - [Ali Bahrami](https://github.com/alibahrami2) 🐧
+- [**Milad Soleymani**](https://github.com/Milad-Soleymani)</Thanks JADI :)>
