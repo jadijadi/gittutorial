@@ -13,6 +13,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 - [Mehrad Kuhpayeh](https://github.com/MEHRAD111)
 - [Alireza Amiri](https://github.com/AlirezaAmiri01) :smile: 
+- [SKy MaZe](https://github.com/skmz1380) :milky_way:
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses: 
 - [Mobina hsz](https://github.com/mobina-hsz) :honeybee: 
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
@@ -43,12 +44,14 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Reza Derakhshan](https://github.com/rezadrakhshan)🥸
 - [Sahar Kianmehr](https://github.com/saharkianm)
 - [Alireza Khajehvandi](https://github.com/alirezakhajehvandi)
+- [Mohsen Motahari](https://github.com/mmotahari) :confused:
 - [Jina Karbasi :heart:](https://github.com/Jina-Karbasi)
 - [**AL Esmaeili**](https://github.com/alirzaaam):ocean:
 - [Ziba Imani](https://github.com/zibaimani):v: :computer: 
 - [Sahar Kianmehr](https://github.com/Saharkianm)
 - [Daniyal Ajalloueian](https://github.com/ItzAjall) 
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
+- [Amirhossein Najafi](https://github.com/AmirHossein-Najafi82)
 - [Alireza Ranjbar](https://github.com/gogolibox)
 - [EhSaN MoRaDi](https://github.com/ehsanm0radi) 🤖💻🍕
 - [**Abolfazl Zolfaghari** 🚀](https://github.com/abolfazlzol1384-eng)
@@ -69,6 +72,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Morteza Seyedimoghaddam](https://github.com/MortezaSym)
 - [ErPyCode](https://github.com/erpycode) Thanks for Everything jadi. you Change My life 
 - [Meysam Abbasi](https://github.com/Meysamjoon)
+- [Maryam Khosravi](https://github.com/mm-khsv):sparkles:
 - [Sasan Maleknia](https://github.com/sasanmaleknia)
 - [Mohammad Forghani](https://github.com/mhm-forghani)
 - [Reza Shakiba](https://github.com/ARAelcto1384) Its start programming by git. Thanks Mr Jadi.
@@ -81,6 +85,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Anna Soleiti](https://github.com/annasoleiti)
 - [Saeid Vazifeh](https://github.com/vazifehsaeid-star)//
 - [AlirezaMansury](https://github.com/alirezamansury-cf) :zap: :zap: :zap:
+- [MuttonTheLast](https://github.com/MuttonTheLast) :computer: :sheep:
 - [Hadi Eini ❄️](https://github.com/vextric)
 - [Parsa Abedi](https://github.com/parsaabedi03)
 - [Aylin Nakhostin](https://github.com/aylin-nxt) 💻✨
@@ -91,6 +96,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ebrahim Solhjooo](https://github.com/abe-solhjoo)
 - [masuod80726](https://github.com/masuod80726) :sunglasses:
 - [Amirreza Abdi⚡⚡](https://github.com/AmirrezaX11)
+- [Bahman Dadashi](https://gitbub.com/bahmandadashi/)
 - [Amis-Eb](https://github.com/Amis-Eb)
 - [Amirali Hossaini](https://github.com/amirali-hossaini)
 - [Solmaz Sahmani](https://github.com/solmaz-sahmani)
@@ -105,6 +111,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Aydin Aman Allah Oghli](https://github.com/mr-aydin)
 - [Hamed Ejbari🐼](https://github.com/Hamed-Ej)
 - [mohammad mosayyebnezhad](https://github.com/mohammadmosayyeb)
+- [reza dorost](https://github.com/rezadorost)
 - [Kian Maleki](https://github.com/kianmaleki)
 - [VIKONAD :grin:](https://github.com/vikonad)
 - [Simon The Prophet] (https://github.com/General-Ripper) They call him Jadi. Git calls it master. Coincidence? I think not!
@@ -1022,3 +1029,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Shayan Shadanpour](https://github.com/shayan-developer) (Thanks :))
 - [Mojtaba Zamani] (https://github.com/memojtabazamani) (Thanks Jadi!)
 - [Ali Bahrami](https://github.com/alibahrami2) 🐧
+- [**Milad Soleymani**](https://github.com/Milad-Soleymani)</Thanks JADI :)>
