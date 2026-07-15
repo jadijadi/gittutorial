@@ -13,6 +13,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 - [Mehrad Kuhpayeh](https://github.com/MEHRAD111)
 - [Alireza Amiri](https://github.com/AlirezaAmiri01) :smile: 
+- [SKy MaZe](https://github.com/skmz1380) :milky_way:
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses: 
 - [Mobina hsz](https://github.com/mobina-hsz) :honeybee: 
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
