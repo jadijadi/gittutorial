@@ -73,6 +73,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Morteza Seyedimoghaddam](https://github.com/MortezaSym)
 - [ErPyCode](https://github.com/erpycode) Thanks for Everything jadi. you Change My life 
 - [Meysam Abbasi](https://github.com/Meysamjoon)
+- [Arman Malaknejad](https://github.com/malaknejadarman-coder) 🚀
 - [Maryam Khosravi](https://github.com/mm-khsv):sparkles:
 - [Sasan Maleknia](https://github.com/sasanmaleknia)
 - [Mohammad Forghani](https://github.com/mhm-forghani)
