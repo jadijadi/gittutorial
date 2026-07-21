@@ -25,6 +25,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Hosein Bolori](https://github.com/Amirhb20)💻
 - [Mehran Mahjour](https://github.com/MehranMahjour) (●'◡'●)
 - [Fatemeh Sadat Hoseini :sunglasses:](htttps://github.com/fatemehoseinii007)
+- [Mohammad Farivar](https://github.com/mohamadfarivar) :cookie::star2:
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
