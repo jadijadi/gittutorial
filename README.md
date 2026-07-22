@@ -80,6 +80,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [fatemeh_nikookar](https://github.com/nikmahla)
 - [Masoud_Shaghaghi](https://github.com/apeared)
+- [**Alireza Miry**](https://github.com/AlizDevelop)
 - [shakiba ahmadi](https://github.com/shakibad3v)
 - [Sepehr Abdolmanafi💻](https://github.com/gigasepehr)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
