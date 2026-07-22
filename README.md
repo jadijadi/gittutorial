@@ -149,6 +149,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arshia Moghbel](https://github.com/Arshia-Moghbel):heart:
 - [afsartala](https://github.com/aafsartala)
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
+- [Amirhosein Fatahi](https://github.com/AmirhoseinFatahi1307)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Milad Zadeh Soltani](https://github.com/dev-awa) :computer: 
 - [AmirHosein Kahrani 💀](https://github.com/AmirHosein-Kahrani)
