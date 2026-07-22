@@ -64,6 +64,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ziba Imani](https://github.com/zibaimani):v: :computer: 
 - [iam-PHK](https://github.com/iam-PHK):sunrise_over_mountains:
 - [Sahar Kianmehr](https://github.com/Saharkianm)
+- [Sepanta Bahmani](http://github.com/SepantaBahmani) 🍕💻
 - [rezakhodadoost](https://github.com/rezakhodadoost)
 - [Daniyal Ajalloueian](https://github.com/ItzAjall) 
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
