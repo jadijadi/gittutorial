@@ -99,7 +99,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ebrahim Solhjooo](https://github.com/abe-solhjoo)
 - [masuod80726](https://github.com/masuod80726) :sunglasses:
 - [Amirreza Abdi⚡⚡](https://github.com/AmirrezaX11)
-- [Bahman Dadashi](https://gitbub.com/bahmandadashi/)
+- [Bahman Dadashi](https://github.com/bahmandadashi/)
 - [Amis-Eb](https://github.com/Amis-Eb)
 - [Amirali Hossaini](https://github.com/amirali-hossaini)
 - [Solmaz Sahmani](https://github.com/solmaz-sahmani)
