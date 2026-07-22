@@ -11,8 +11,6 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
-
-- [Abolfazl-pakdel](https://github.com/Abolfazl-Pakdel)💻
 - [Mehrad Kuhpayeh](https://github.com/MEHRAD111)
 - [Alireza Amiri](https://github.com/AlirezaAmiri01) :smile: 
 - [SKy MaZe](https://github.com/skmz1380) :milky_way:
@@ -188,6 +186,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [hossein jafarian](https://github.com/hjj672)
 - [Mehrdad Mahmoudi](https://github.com/mehrdadmm)
 - [**:crown: NT :crown:**](https://github.com/NTcompanyYT)
+- [Abolfazl-pakdel](https://github.com/Abolfazl-Pakdel)💻
 - [Saman Shirdel](https://github.com/samanshirdell) :v:
 - [Abdulhaq](https://github.com/tt-abdulhaq)
 - [Farzad](https://devfarzad.github.io/)
