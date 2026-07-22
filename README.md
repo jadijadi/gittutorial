@@ -129,6 +129,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Reza Karami](https://github.com/Mohammad-Reza-Karami)
 - [Hossein Fahimi](https://github.com/hosein1122)
 - [Saed Gholipour](hhtp://github.com/saed-gpr)
+- [Rasoul](https://github.com/rasoul-code):blush:
 - [Mozhdeh Saghalaini :turtle:](https://github.com/mozhdeh-saghalaini)
 - [Navid Faraji :imp:](https://github.com/sankofa3)
 - [Aydin Aaman Allah Oghli](https://github.com/mr-aydin)
