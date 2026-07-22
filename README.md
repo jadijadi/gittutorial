@@ -83,9 +83,10 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Bararian](https://github.com/MohammadBararian)
 - [Rezvane Khamseh :heart: :clock130:](https://github.com/rezvankhamseh)
 - [Mohammad HedayatiNia](https://github.com/Mohammad-HedayatiNia) :sunglasses:
-- [Ehsan Miri] (https://github.com/ehsanmie)
+- [Ehsan Miri](https://github.com/ehsanmie)
 - [Behrad Nazarian/LatentSpacee] (https://github.com/LatentSpacee)
 - [M0nt :neckbeard:](https://github.com/montajebii)
+- [CAgent_47](https://github.com/CAgent47) 4️⃣7️⃣
 - [Parnia Fazeli](https://github.com/Parniafazeli)
 - [Anna Soleiti](https://github.com/annasoleiti)
 - [Saeid Vazifeh](https://github.com/vazifehsaeid-star)//
