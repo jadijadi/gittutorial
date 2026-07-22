@@ -50,6 +50,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ata Kiani](https://github.com/atakiani)
 - [Pouria Aalamifar](https://github.com/aalamifar)
 - [Masoud Taban](https://github.com/mass-taban)
+- [Zia Abiat](https://github.com/Zia-Abiat)
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
 - [Reza Derakhshan](https://github.com/rezadrakhshan)🥸
 - [Sahar Kianmehr](https://github.com/saharkianm)
