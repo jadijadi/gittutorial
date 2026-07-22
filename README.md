@@ -15,7 +15,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza Amiri](https://github.com/AlirezaAmiri01) :smile: 
 - [SKy MaZe](https://github.com/skmz1380) :milky_way:
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses: 
-- [Mobina hsz](https://github.com/mobina-hsz) :honeybee: 
+- [Mobina hsz](https://github.com/mobina-hsz) :honeybee:
+- [Muhammed Agazadeh](https://github.com/muhammedgzdh-coder)
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [ProfiDE](https://github.com/ProfiDE) :seedling:
 - [**Erfan Hasanzadeh**](https://github.com/Erfun-H) :computer:
