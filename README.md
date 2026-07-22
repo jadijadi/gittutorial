@@ -22,6 +22,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mobin Sadeqian](https://github.com/Mobinsadeqian) :computer:
 - [Amirali gholian](https://github.com/amirali-gholian) :computer::tea::art::rocket:
 - [Mohammad Ashourzadeh](https://github.com/ashourzadeh7) :computer:
+- [Ahmad Saedi](https://github.com/kingahmadsaedi) Tnx Mr.jadi😍
 - [Amir Hosein Bolori](https://github.com/Amirhb20)💻
 - [Mehran Mahjour](https://github.com/MehranMahjour) (●'◡'●)
 - [Fatemeh Sadat Hoseini :sunglasses:](htttps://github.com/fatemehoseinii007)
