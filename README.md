@@ -33,6 +33,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Farivar](https://github.com/mohamadfarivar) :cookie::star2:
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
+- [Alireza Gorji](https://github.com/Alirezagj1) :blush:
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
 - [**Mostafa_Piran** :octocat:](https://github.com/mostafapiran)
 - [Alireza_Hassanpour](https://github.com/arhplc21) 💻
