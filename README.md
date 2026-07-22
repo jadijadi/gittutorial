@@ -148,6 +148,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [ario1326](https://github.com/ario1326) :dizzy:
 - [Milad Parvizi](https://github.com/miladp55) :facepunch:
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
+- [Boy](https://github.com/phoseinq)
 - [Mehrdad Rayati](https://github.com/Mehrdadrd1)
 - [Sadjad Bahari](https://github.com/sadjadbh)
 - [**:white_circle: Danial Karimi :white_circle:**](https://github.com/Danialk13)
