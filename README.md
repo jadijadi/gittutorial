@@ -129,6 +129,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [afsartala](https://github.com/aafsartala)
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
+- [Milad Zadeh Soltani](https://github.com/dev-awa) :computer: 
 - [AmirHosein Kahrani 💀](https://github.com/AmirHosein-Kahrani)
 - [Jadi](https://jadi.net)
 - [Ali Sokhandani](https://github.com/alisokhandani) Moving Forward! :octocat:
