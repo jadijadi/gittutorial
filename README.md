@@ -41,6 +41,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Mahdi](https://github.com/Amir-Mahdi-Barati) 🤖📺💻
 - [Farhad Fallahi](https://github.com/FarhadJs) :computer::video_game::hand_with_index_finger_and_thumb_crossed::white_heart:
 - [Ata Kiani](https://github.com/atakiani)
+- [Pouria Aalamifar](https://github.com/aalamifar)
 - [Masoud Taban](https://github.com/mass-taban)
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
 - [Reza Derakhshan](https://github.com/rezadrakhshan)🥸
