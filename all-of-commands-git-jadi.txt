@@ -1,163 +1,56 @@
-git init
-	 Initializes a new Git repository in the current folder.
-
-git commit
-	 Records the staged changes as a new commit in the repository.
-
-git add
-	 Adds files or changes to the staging area, preparing them for the next commit.
-
-git add "(similar-name)*"
-	 Adds all files whose names match the specified pattern. Wildcards (*) can also be used with other Git commands.
-
-git add -A
-	 Stages all new, modified, and deleted files in the current project.
-
-git status
-	 Displays the status of your working directory, including modified, new, staged, and committed files.
-
-git log
-	 Shows the commit history, including commit information and commit messages.
-
-git diff HEAD
-	 Compares your current working directory with the latest commit (HEAD) and displays all differences, whether they are staged or unstaged. You can also compare against any other commit by specifying its commit hash.
-
-git diff --staged
-	 Shows the differences between the staged files and their last committed versions.
-
-git reset (file name)
-	 Removes the specified file from the staging area without discarding its changes.
-
-git checkout -- (file name)
-	 Restores the specified file to its state from the last commit, discarding any unstaged changes.
-
-git branch
-	 Lists all branches in the repository.
-
-Branch
-	 A branch is an independent line of development created from a commit. It allows you to add features or make fixes without affecting the main branch until you merge the changes.
-
-Example:
-	 Suppose you have several commits. You can create a branch from Commit 1, add new changes there, and later merge them into another branch that already contains Commit 2.
-
-git branch (name)
-	 Creates a new branch.
-
-git checkout (branch name or tag)
-	 Switches to the specified branch or tag. You can make changes on a branch, but a checked-out tag is in a detached state and should not be modified directly.
-
-git merge (branch name)
-	 Merges the specified branch into the current branch.
-
-"(similar-name)*"
-	 A wildcard pattern that matches multiple files with similar names. It can be used with commands such as git add, git reset, and others.
-
-git rm (file name)
-	 Removes the specified file from both Git tracking and the current branch.
-
-git branch -d (branch name)
-	 Deletes the specified branch.
-
-cat (file name)
-	 Displays the contents of a file in the terminal.
-
-cd ..
-	 Moves to the parent directory.
-
-git push origin (branch name or tag)
-	 Uploads commits from your local repository to the specified remote repository.
-
-git pull origin (branch name or tag)
-	 Downloads and merges updates from the specified remote branch or tag into your local repository.
-
-git push origin --tags
-	 Pushes all local tags to the remote repository.
-
-git pull origin --tags
-	 Downloads all tags from the remote repository.
-
-git remote
-	 Manages remote repositories. Remotes allow you to synchronize your repository with services such as GitHub, GitLab, or other Git hosts.
-
-git remote add (remote name) (repository URL)
-	 Adds a new remote repository with the specified name and URL.
-
-git push -u (remote name) (branch name)
-	 Pushes the specified branch to the remote repository and sets it as the upstream branch.
-
-git remote -v
-	 Displays all configured remote repositories along with their fetch and push URLs.
-
-git pull
-	 Fetches and merges changes from the configured upstream remote branch.
-
-git push
-	 Pushes commits to the configured upstream remote branch.
-
-git show
-	 Displays detailed information about a specific commit or tag. You can provide a commit hash or tag name to view its contents.
-
-git tag
-	 Lists all existing tags.
-
-Tag
-	 A tag is a reference to a specific commit, typically used to mark release versions. Unlike branches, tags are fixed and are not intended for further development.
-
-git tag -a (tag name) -m "(message)"
-	 Creates an annotated tag with the specified message.
-
-git tag -a (tag name) (commit hash) -m "(message)"
-	 Creates an annotated tag for a previously created commit.
-
-git tag -l "(pattern)*"
-	 Lists tags whose names match the specified pattern.
-
-GPG
-	 GNU Privacy Guard (GPG) is software used for digital signatures and encryption. It verifies your identity and ensures the authenticity of commits and tags.
-
-gpg --list-keys
-	 Lists all GPG public keys available on your system.
-
-gpg --gen-key
-	 Generates a new GPG key pair for digital signing.
-
-git config --global user.signingkey (key ID)
-	 Configures Git to use the specified GPG key for signing commits and tags.
-
-gpg --list-keys --keyid-format LONG
-	 Displays your GPG keys using the long key ID format. The long key ID is typically used when configuring Git.
-
-git tag -s (tag name) -m "(message)"
-	 Creates a signed tag using your configured GPG key.
-
-git tag -v (tag name)
-	 Verifies a signed tag and displays who signed it and whether the signature is valid.
-
-git commit -S -m "(message)"
-	 Creates a GPG-signed commit.
-
-GPG note
-	 If commit or tag signing is required in a project, every contributor should sign their commits and tags.
-
-git help (command)
-	 Displays the complete documentation and usage information for the specified Git command.
-
-git blame
-	 Shows who last modified each line of a file.
-
-git blame (file name)
-	 Displays the last author and commit responsible for every line in the specified file.
-
-git blame (file name) -L(start,end)
-	 Shows blame information only for the specified line range.
-Example:
-git blame file.txt -L8,10
-
-git bisect
-	 Starts the Git bisect process, which uses binary search to locate the commit that introduced a bug.
-
-git bisect bad
-	 Marks the current commit as containing the bug.
-
-git bisect good (commit hash)
-	 Marks the specified commit as known to be free of the bug. Git then continues the binary search to identify the first bad commit.
+git init >> mishe sakhtan git baray oon folder.
+git commit >> anjam dadan taghirat va sabt anha (roy hame file hayi ke dar stage hastan in taghir anjam mishe)
+git add >> bordan mohtava be stage va admade kardan an file baray commit kardan.
+git add "(esme moshabeh)*"  >>  hame on haii ke esme moshbeh darand ro add mikone baray dastor hay digar ham mishe estefade kard
+git add -A >> hame file hayi ra ke dar on project ya poshe hastan be halat stage dar miavarad
+git status >> nvehstan ettelaat dar mored file hayii ke roshon taghir ijad shode ya jadid hastan va anhaaii ke commit shode ya dakhel stage hastan
+git log >> neshan dadan etttelat dar mord kar hayii ke anjam dadim baray commit va ettelaati ke baray tozih har marhale neveshtim
+git diff head >> manzoresh az an ast ke moghyese mikonad file nahaii project mara ba akharin bary ke file hara commit kardim va tafavot hay anha ra migoiad ((dar har sorat neshon mide dar har jayii ke beahs  che toy stage che toy hay dige)) commit akhar ro neshon mide mitoni har commit ro ke mikhia neshon bede
+git diff --staged >> neshon mide on file hayi ke toy  bakhsh stage hastan  va taghirati ke nesbat be file commit shodashon daran mesl balaii ba zekr moshakhasat taghirat
+git reset (file name) >> ba in code file ke dar stage gharar darad ra az stage kharej karde va be halat unstage dar miavarad
+git checkout -- (file name) >> ba inkar filei ke ddar halat stage nist va taghirat anjam shode roy ann , ann ra be halat commit ghabli dar miavarad
+git branch >> neshan dadane shakhe hay project ke che karhayi mikhai bokoni
+branch chie >> in ke ye shakhe az commit hya miszi baray ezafe kardan ya tashih har chizi shakas badesh bayad merge esh koni ba commit hay badi
+masalan chand ta commit dari az commit 1  mitoni azash yek shakhe besazi va ye chizi besh ezafe kone hata ba dshtan commit 2 yani ye chizi ezafe hast ke besh ezafe nakardi ba in kar mitoni badesh ba commit 2 merge koni
+git branch (name)  >> branch jadid misaze
+git checkout (esme branch, esme tag) >> console mire roy on branch va mitoni roy on kar koni vali tag nmitoni change bedi hata ba in kar
+git merge (esme branch) >> miare on taghirat ro be akharin commit anjam shode (ta inja gofte)
+"(esm hay moshabeh ke mikhaii hame ro baham use koni)*" >> bad az reset ya har chizi  miad
+git rm (esme file)  >> pak mikone on file ro az git ma dar branch khodesh
+git branch -d (esme branch) >> pak mikone on branch ro
+cat ""dar terminal"" >> kol code hay ke toy file hast ro neshon mide
+cd ..  >> barmigarde be folder ghabli
+git push origin (esme branch, esme tag)  >> enteghal commit az roy pc be site ya har noe host baray sherkat
+git pull origin (esme branch, esme tag) >> az site ya host on file hayi ke update shode va shoma nadarishon ro miaran va inja gharar mide dar pc
+git push origin --tags >> kole tag haro push mikone
+git pull origin --tags >> kole tag ha ro pull mikone
+git remore >> kolan manzoresh inke remote mesle in mimone ke to bekhai file ke rosh kari anjam dadi ro chand ja gharar bedi baray hamin in inkaro mikone ke ham dar masalan github mizare ham git lab ya ...
+git remote add (esme makhsos ke mikhai) (makan baaray gozashtan etelaat (siti, hosti, chizi))  >> ba inkar on site ya makani ke mikhaiid be an vasl shode va file hay shoma dar ann gharar begirad ro tariff mikonid
+git push -u (esmi ke baray remote gozashte iid) (esme branch dar hal kar roy an) >> edgham mikone branch shomara ro ba remote  (yani be remote mirize branch shomaro)
+git remote -v >> -v dar linux be shoma baz tar neshon mide on mohtava ro
+git pull >> agar vasl bashe be yek git khodesh be sorat khodkar on file hayi ke dar git gharar dare va change shode ro barton taghri mide
+git push >> agar vasl bashi khodkar khodesh file ke dar system taghir dade ro be git ersal mikone
+git show >> agar deghat karde bashi vaghty git log mizani jeloy har commit ye code neveshte shode ke ba on code mitoni copy karde va jeloy in command benevisi badesh tama taghirat va etelaat onn commit ro mide  va inke agar tag khasi dashte bashi va benvisi jelosh neshonet mide
+git tag >> hame tag haii ke gozashtin ro neshon mide
+tag >> be har commiti ke darid mitonid tag bedid mamolan baray version hay mokhtalef midan baray hamin bar migarde be yek commit khas va in faghat tag hast nmitonid be onvan branch azash estefade konid faghat on commit ro ke be onvan version khas entekhab kardid neshon mide
+baray hamin yek neshane hast faghat neshon mide nmitoni taghirat  eijad koni bayad baray atghirat beri toy branch
+ git tag -a (inja baray yadasht hast yani masalan noskhe version ro minvisi ) -m '' (message ro minvisi masalan tozih version) >> in baay sakht tag hast
+git tag -a () (inja code commit ro mizari baray inke agar ghablan commit shode va mikhai tag version  khasi ro ebsh bedi) -m '' >> neveshtam baray commit hay ghabli hast
+git -l "(esme khasi ro mizanid ke age tag ha ziad bod ona ro faghat moshakas kone)*" >> neveshtam baray pida kardan tag khasi hast
+gpg  >> yek noe narmafzar baray emza digital hast ke ba osol ramznegari va ramzgoshani neveshte shode ke shoma ro dar har kari monhaser be fard mikone va nmitone kasi taghalob kone magar ba ramz shoma dashte bashe
+gpg --list-keys >> hame key hayi ke ba gpg dorost shode ro neshoon mide in male linux hastesh in narmafzar
+gpg --gen-key >> sakhtan code makhsos khodet yek noe emzae digital hesab mishe
+git config global user.signingkey (key fard) >> tarif kardan key fard be git baray emza dar file ha va ...
+gpg --list-keys --keyid-format LONG >> neshan dadne key private shoma baray vorod dar command bala   (key shoma dar avalin khat bad az "/"  namayesh dade mishavad)
+git tag -s (esme version ya har chiz tag) -m '(message marbote)'>> baray gozashtan emza  va sakht tag aa ham yani tag sakhte shode emza darad
+git tag -v (esme tag) >> verify mikone on tag ro neshon mide tavasot che kasi va che hengami neveshte shode
+git commit -S -m'' >> in ham emza mikone vali commit ro emza mikone
+moshkel gpg >> agar kasi emza konad hame bayad file hashono emza konan
+git help (commandd ke mikhai bade git benvisi) >> tozih koleon command ro mide va hame signature hasho mige
+git blame  >> mitone neshon bede ke on khat (Line) ya file ro har khatesho ki change dade ke betoni taghsir on fard bendazi
+git blame (file mored nazar dar on folder) >> kole file ro neshon mide har khat ro ki taghir dade akharin bar
+git blame (file mored nazar dar on folder) -L(mitoni inja shomareye khat ro begi) >> masalan baraye barresie kahte 8 (git blame FILE_Name -L8,8)
+git blame (file mored nazar dar on folder) -L(mitoni inja yek khat ro begi ya az yek khat ta yek khat digar  ) >> tozihat ro dadam vali edame dare gol khordi baray hamin bayad begam ke baray neshon dadan az che khati ta che khati bayad ke be sorat robero amal koni (-L8,10) mesal hast adad hayash
+git bisect >> bisect  mishe( binary search commit )hast
+git bisect bad  >> ye bug pida shode mikhai bebbini dar kodam commit in bug be vojod omade ve ba inn code neshon mide in bug dar in commit hast (commit hal hazer)
+git bisect good [(adade commit)] >> yek commit ke benazre shoma on bug daresh vojod nadashte ro neshon midi besh bayad dar akhar kar bedon on adad benevisi
