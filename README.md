@@ -106,6 +106,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [M0nt :neckbeard:](https://github.com/montajebii)
 - [CAgent_47](https://github.com/CAgent47) 4️⃣7️⃣
 - [Parnia Fazeli](https://github.com/Parniafazeli)
+- [Moein Ajamein](https://github.com/MoeinAjamein) THANK U JADI ❤️💻
 - [Anna Soleiti](https://github.com/annasoleiti)
 - [Mohammad-Javad-Hojaji](github.com/Mohammad-Javad-Hojaji)
 - [Saeid Vazifeh](https://github.com/vazifehsaeid-star)//
