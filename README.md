@@ -156,6 +156,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahdi Akbari](https://github.com/mahdiXak47)
 - [Majid Panahi :two::smiley:](https://github.com/MajidPanahi)
 - [Arshia Moghbel](https://github.com/Arshia-Moghbel):heart:
+- [Sina Nayebzade](https://github.com/sina1010anis)
 - [afsartala](https://github.com/aafsartala)
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
 - [Amirhosein Fatahi](https://github.com/AmirhoseinFatahi1307)
