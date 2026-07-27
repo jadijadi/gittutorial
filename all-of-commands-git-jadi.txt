@@ -1,163 +1,103 @@
-git init
-	 Initializes a new Git repository in the current folder.
+git init → Creates a Git repository in that folder.
 
-git commit
-	 Records the staged changes as a new commit in the repository.
+git commit → Records changes and saves them (this is done on all files that are in the stage).
 
-git add
-	 Adds files or changes to the staging area, preparing them for the next commit.
+git add → Moves content to the staging area and prepares that file for committing.
 
-git add "(similar-name)*"
-	 Adds all files whose names match the specified pattern. Wildcards (*) can also be used with other Git commands.
+git add "(similar name)*" → Adds all files with similar names; can also be used for other commands.
 
-git add -A
-	 Stages all new, modified, and deleted files in the current project.
+git add -A → Brings all files that exist in the project or path to the staging state.
 
-git status
-	 Displays the status of your working directory, including modified, new, staged, and committed files.
+git status → Shows information about files that have changes, are new, have been committed, or are in the stage.
 
-git log
-	 Shows the commit history, including commit information and commit messages.
+git log → Displays information about the actions we performed for each commit and the descriptions written for each step.
 
-git diff HEAD
-	 Compares your current working directory with the latest commit (HEAD) and displays all differences, whether they are staged or unstaged. You can also compare against any other commit by specifying its commit hash.
+git diff head → Compares the final project file with the last time we committed the files and shows the differences (shows the last commit; you can show any commit you want).
 
-git diff --staged
-	 Shows the differences between the staged files and their last committed versions.
+git diff --staged → Shows the files that are in the stage area and their changes compared to the committed version, with specific details of the changes.
 
-git reset (file name)
-	 Removes the specified file from the staging area without discarding its changes.
+git reset (file name) → Removes a file from the stage area and returns it to the unstaged state.
 
-git checkout -- (file name)
-	 Restores the specified file to its state from the last commit, discarding any unstaged changes.
+git checkout -- (file name) → Returns a file that is not staged but has changes to its previous committed state.
 
-git branch
-	 Lists all branches in the repository.
+git branch → Shows the branches of the project.
 
-Branch
-	 A branch is an independent line of development created from a commit. It allows you to add features or make fixes without affecting the main branch until you merge the changes.
+What is a branch? → A branch is a separate line of commits from the main commits for adding or fixing something. Later, you need to merge it with subsequent commits. For example, if you have several commits starting from commit 1, you can create a branch from it, add something to it (even if you have commit 2 with additional content not added to the branch), and later merge it with commit 2.
 
-Example:
-	 Suppose you have several commits. You can create a branch from Commit 1, add new changes there, and later merge them into another branch that already contains Commit 2.
+git branch (name) → Creates a new branch.
 
-git branch (name)
-	 Creates a new branch.
+git checkout (branch name, tag name) → Moves the console to that branch so you can work on it, but you cannot make changes to a tag even with this command.
 
-git checkout (branch name or tag)
-	 Switches to the specified branch or tag. You can make changes on a branch, but a checked-out tag is in a detached state and should not be modified directly.
+git merge (branch name) → Brings those changes to the latest commit made (up to this point). Use similar names when you want to use everything together after reset or anything else.
 
-git merge (branch name)
-	 Merges the specified branch into the current branch.
+git rm (file name) → Removes that file from Git within its own branch.
 
-"(similar-name)*"
-	 A wildcard pattern that matches multiple files with similar names. It can be used with commands such as git add, git reset, and others.
+git branch -d (branch name) → Deletes that branch.
 
-git rm (file name)
-	 Removes the specified file from both Git tracking and the current branch.
+cat (in terminal) → Shows all the code that exists in the file.
 
-git branch -d (branch name)
-	 Deletes the specified branch.
+cd .. → Goes back to the previous folder.
 
-cat (file name)
-	 Displays the contents of a file in the terminal.
+git push origin (branch name, tag name) → Transfers commits from PC to a website or any type of host for sharing.
 
-cd ..
-	 Moves to the parent directory.
+git pull origin (branch name, tag name) → Brings updated files from the website or host that you don't have and places them on your PC.
 
-git push origin (branch name or tag)
-	 Uploads commits from your local repository to the specified remote repository.
+git push origin --tags → Pushes all tags.
 
-git pull origin (branch name or tag)
-	 Downloads and merges updates from the specified remote branch or tag into your local repository.
+git pull origin --tags → Pulls all tags.
 
-git push origin --tags
-	 Pushes all local tags to the remote repository.
+git remote → Basically, remote allows you to place the files you've worked on in multiple locations. For example, it puts them on GitHub and GitLab or elsewhere.
 
-git pull origin --tags
-	 Downloads all tags from the remote repository.
+git remote add (custom name) (location for placing information - site, host, something) → Configures the connection to the site or location you want to connect to, where your files will be placed.
 
-git remote
-	 Manages remote repositories. Remotes allow you to synchronize your repository with services such as GitHub, GitLab, or other Git hosts.
+git push -u (the name you set for remote) (branch name you're working on) → Merges your branch with the remote (i.e., pushes your branch to the remote).
 
-git remote add (remote name) (repository URL)
-	 Adds a new remote repository with the specified name and URL.
+git remote -v → In Linux, -v shows the content in more detail.
 
-git push -u (remote name) (branch name)
-	 Pushes the specified branch to the remote repository and sets it as the upstream branch.
+git pull → If connected to a Git repository, automatically updates the files that have changed.
 
-git remote -v
-	 Displays all configured remote repositories along with their fetch and push URLs.
+git push → If connected, automatically sends the files you changed on your system to Git.
 
-git pull
-	 Fetches and merges changes from the configured upstream remote branch.
+git show → If you've noticed, when you run git log, each commit has a code next to it. You can copy that code and put it after this command, and it will show all changes and information for that commit. Also, if you have a specific tag and write it, it will show you the information.
 
-git push
-	 Pushes commits to the configured upstream remote branch.
+git tag → Shows all the tags you've set.
 
-git show
-	 Displays detailed information about a specific commit or tag. You can provide a commit hash or tag name to view its contents.
+tag → You can add a tag to any commit you have. It's typically used for different versions. It points to a specific commit, but you cannot use it as a branch; it only marks that commit as a specific version. It's just a marker; you cannot make changes to it. For changes, you must work on a branch.
 
-git tag
-	 Lists all existing tags.
+git tag -a (for annotation, e.g., write the version number) -m '' (write the message, e.g., version description) → This is how to create a tag.
 
-Tag
-	 A tag is a reference to a specific commit, typically used to mark release versions. Unlike branches, tags are fixed and are not intended for further development.
+git tag -a (commit code goes here for previously committed commits where you want to assign a specific version tag) -m '' → This is for previous commits.
 
-git tag -a (tag name) -m "(message)"
-	 Creates an annotated tag with the specified message.
+git tag -l "(specific name to identify tags when there are many)" → This is for finding a specific tag.
 
-git tag -a (tag name) (commit hash) -m "(message)"
-	 Creates an annotated tag for a previously created commit.
+gpg → A software for digital signatures written with encryption and decryption principles that makes you unique in any action, and no one can forge it unless they have your password.
 
-git tag -l "(pattern)*"
-	 Lists tags whose names match the specified pattern.
+gpg --list-keys → Shows all keys created with GPG. This exists in Linux.
 
-GPG
-	 GNU Privacy Guard (GPG) is software used for digital signatures and encryption. It verifies your identity and ensures the authenticity of commits and tags.
+gpg --gen-key → Creates your unique code, considered a digital signature.
 
-gpg --list-keys
-	 Lists all GPG public keys available on your system.
+git config --global user.signingkey (your key) → Defines your key to Git for signing files, etc.
 
-gpg --gen-key
-	 Generates a new GPG key pair for digital signing.
+gpg --list-keys --keyid-format LONG → Shows your private key for entering in the above command. Your key is displayed in the first line after "/".
 
-git config --global user.signingkey (key ID)
-	 Configures Git to use the specified GPG key for signing commits and tags.
+git tag -s (version name or any tag) -m '(related message)' → For signing and creating a tag (i.e., the created tag has a signature).
 
-gpg --list-keys --keyid-format LONG
-	 Displays your GPG keys using the long key ID format. The long key ID is typically used when configuring Git.
+git tag -v (tag name) → Verifies that tag, showing who wrote it and when.
 
-git tag -s (tag name) -m "(message)"
-	 Creates a signed tag using your configured GPG key.
+git commit -S -m'' → Signs a commit.
 
-git tag -v (tag name)
-	 Verifies a signed tag and displays who signed it and whether the signature is valid.
+GPG issue → If someone signs, everyone must sign their files.
 
-git commit -S -m "(message)"
-	 Creates a GPG-signed commit.
+git help (command you want after git) → Explains the entire command and all its signatures.
 
-GPG note
-	 If commit or tag signing is required in a project, every contributor should sign their commits and tags.
+git blame → Can show which line or file was changed by whom so you can assign responsibility.
 
-git help (command)
-	 Displays the complete documentation and usage information for the specified Git command.
+git blame (file of interest in that folder) → Shows the entire file, who changed each line last.
 
-git blame
-	 Shows who last modified each line of a file.
+git blame (file of interest in that folder) -L(can specify a single line or from one line to another) → I've explained this, but to avoid being too detailed: to show from which line to which line, you must do it sequentially (e.g., -L8,10 shows lines 8 through 10).
 
-git blame (file name)
-	 Displays the last author and commit responsible for every line in the specified file.
+git bisect → Bisect means binary search commit.
 
-git blame (file name) -L(start,end)
-	 Shows blame information only for the specified line range.
-Example:
-git blame file.txt -L8,10
+git bisect bad → A bug has been found, and you want to see in which commit this bug originated. This command indicates the bug exists in this commit (current commit).
 
-git bisect
-	 Starts the Git bisect process, which uses binary search to locate the commit that introduced a bug.
-
-git bisect bad
-	 Marks the current commit as containing the bug.
-
-git bisect good (commit hash)
-	 Marks the specified commit as known to be free of the bug. Git then continues the binary search to identify the first bad commit.
+git bisect good [(commit number)] → You show a commit that you believe didn't have the bug. In the end, you need to write that commit number.
