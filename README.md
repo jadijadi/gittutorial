@@ -78,7 +78,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Azim Memari(**Zumboww**)](https://github.com/Zumboww) :metal::muscle::notes:
 - [Par3saheydari :kissing_closed_eyes:](https://github.com/par3aheydari)
 - [Nila Vosoughzadeh 🖥️😀](https://github.com/NilaVosoughzadeh)
-- [Fatemeh Nikookar] (https://github.com/nikmahla)
+- [Fatemeh Nikookar](https://github.com/nikmahla)
 - [**Erfan Heydari ❤️**](https://github.com/DlvErf419)
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [fatemeh_nikookar](https://github.com/nikmahla)
@@ -149,7 +149,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Kian Maleki](https://github.com/kianmaleki)
 - [Ilya Keshavarz ⚡](https://github.com/ilyakeshavarz)
 - [VIKONAD :grin:](https://github.com/vikonad)
-- [Simon The Prophet] (https://github.com/General-Ripper) They call him Jadi. Git calls it master. Coincidence? I think not!
+- [Simon The Prophet](https://github.com/General-Ripper) They call him Jadi. Git calls it master. Coincidence? I think not!
 - [Behzad Afsari 💻😊](https://github.com/behzad-afsari) 
 - [Hossein Pakaein](https://github.com/hosseinpk)
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
@@ -1071,6 +1071,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Milad Kianzadeh**](https://miladkianzadeh.github.io/About-me/)
 - [Milad Mozafari](https://github.com/miladxvi)
 - [Shayan Shadanpour](https://github.com/shayan-developer) (Thanks :))
-- [Mojtaba Zamani] (https://github.com/memojtabazamani) (Thanks Jadi!)
+- [Mojtaba Zamani](https://github.com/memojtabazamani) Thanks Jadi!
 - [Ali Bahrami](https://github.com/alibahrami2) 🐧
 - [**Milad Soleymani**](https://github.com/Milad-Soleymani)</Thanks JADI :)>
