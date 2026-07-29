@@ -1074,3 +1074,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mojtaba Zamani](https://github.com/memojtabazamani) Thanks Jadi!
 - [Ali Bahrami](https://github.com/alibahrami2) 🐧
 - [**Milad Soleymani**](https://github.com/Milad-Soleymani)</Thanks JADI :)>
+- [Amirreza Salehi](https://github.com/amirrezasalehi1385) 💻
