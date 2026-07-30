@@ -58,6 +58,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Masoud Taban](https://github.com/mass-taban)
 - [Arshia Bourbour](https://github.com/ArshiaBourbour)🕸🕸
 - [Zia Abiat](https://github.com/Zia-Abiat)
+- [Amirali Mostafavifard](https://github.com/amirali6764):ocean:
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
 - [Reza Derakhshan](https://github.com/rezadrakhshan)🥸
 - [Sahar Kianmehr](https://github.com/saharkianm)
