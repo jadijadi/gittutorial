@@ -17,6 +17,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [SKy MaZe](https://github.com/skmz1380) :milky_way:
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses: 
 - [Muhammed Agazadeh](https://github.com/muhammedgzdh-coder)
+- [Nazi Mehdizadeh](https://github.com/0xmehdizadeh)
 - [Mobina hsz](https://github.com/mobina-hsz) :honeybee: 
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Arad Mansouri](https://github.com/AradMansouri) :keyboard:
