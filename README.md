@@ -135,6 +135,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [masuod80726](https://github.com/masuod80726) :sunglasses:
 - [Amirreza Abdi⚡⚡](https://github.com/AmirrezaX11)
 - [Saeed Rahimi](https://github.com/NullByte-Op/)
+- [**Alireza NRF**](https://github.com/Alireza-nrf) :sunglasses:
 - [Bahman Dadashi](https://github.com/bahmandadashi/)
 - [Ehsan Behboodian](https://github.com/c-ehsan/)
 - [Amis-Eb](https://github.com/Amis-Eb)
