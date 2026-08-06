@@ -146,6 +146,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Solmaz Sahmani](https://github.com/solmaz-sahmani)
 - [Saman Tofighian](https://github.com/saman-tofighian)
 - [Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal)
+- [Piroz](https://github.com/stillpiroz)
 - [Mohammad Reza Karami](https://github.com/Mohammad-Reza-Karami)
 - [Hossein Fahimi](https://github.com/hosein1122)
 - [Saed Gholipour](hhtp://github.com/saed-gpr)
