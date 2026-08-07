@@ -31,7 +31,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ahmad Saedi](https://github.com/kingahmadsaedi) Tnx Mr.jadi😍
 - [Amir Hosein Bolori](https://github.com/Amirhb20)💻
 - [Mehran Mahjour](https://github.com/MehranMahjour) (●'◡'●)
-- [Fatemeh Sadat Hoseini :sunglasses:](htttps://github.com/fatemehoseinii007)
+- [fatemehoseinii](https://github.com/fatemehoseinii007)
 - [Mohammad Farivar](https://github.com/mohamadfarivar) :cookie::star2:
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
@@ -105,7 +105,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Rezvane Khamseh :heart: :clock130:](https://github.com/rezvankhamseh)
 - [Mohammad HedayatiNia](https://github.com/Mohammad-HedayatiNia) :sunglasses:
 - [Ehsan Miri](https://github.com/ehsanmie)
-- [Behrad Nazarian/LatentSpacee] (https://github.com/LatentSpacee)
+- [Behrad Nazarian/LatentSpacee](https://github.com/LatentSpacee)
 - [M0nt :neckbeard:](https://github.com/montajebii)
 - [CAgent_47](https://github.com/CAgent47) 4️⃣7️⃣
 - [Parnia Fazeli](https://github.com/Parniafazeli)
@@ -136,7 +136,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal)
 - [Mohammad Reza Karami](https://github.com/Mohammad-Reza-Karami)
 - [Hossein Fahimi](https://github.com/hosein1122)
-- [Saed Gholipour](hhtp://github.com/saed-gpr)
+- [Saed Gholipour](https://github.com/saed-gpr)
 - [Rasoul](https://github.com/rasoul-code):blush:
 - [Mozhdeh Saghalaini :turtle:](https://github.com/mozhdeh-saghalaini)
 - [Navid Faraji :imp:](https://github.com/sankofa3)
@@ -291,7 +291,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [GN](https://github.com/gomnam320) Jadi✨, I wish you always peace, growth, and fulfillment.
 - [Amirali Pishdadi :wink: ](https://github.com/amirali-pishdadi)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
-- zohre babaei
+- [zohre_babaei](https://github.com/zohrebabaei)
 - [Maziar Zamani](https://github.com/Maziar101)
 - [Erfan Mahtabi 😉](https://github.com/Uvthk)
 - [Taha Moradi](https://github.com/tahaw9)
