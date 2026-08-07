@@ -12,6 +12,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 - [Ali vahidi](https://github.com/ali77881) :sunglasses:
+- [**hosein rozbahani**](https://github.com/jhackcontent-arch)🔥
 - [Amirali Moradinia](https://github.com/amiralim1377)
 - [Arash Hadikhani](https://github.com/arashhadikhani-sudo):🐧:
 - [Mehrad Kuhpayeh](https://github.com/MEHRAD111)
