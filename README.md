@@ -646,7 +646,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Ho55ein**](https://github.com/ho55ein)
 - [Amirhosein Dallalan](https://github.com/williamingear)
 - [Cloner93 :smile: ](https://github.com/cloner93)
-- amirprgm
+- [amirprgm](https://github.com/amirprgm)
 - [**shayan** :alien:](https://github.com/shayanfpg9)
 - [pourya90091 :computer:](https://github.com/pourya90091)
 - [elmira:Alireza: Deutschland]
@@ -761,7 +761,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Pedram Azimzadeh :ghost: ](https://github.com/PedramAz)
 - [Reza Zamani](https://github.com/rezamani)
 - [Ali :sunglasses: ](https://github.com/ames1)
-- alireza
+- [alireza](https://github.com/alireza)
 - [Ali Azmoodeh](https://github.com/TREER00T)
 - [mahdimh](https://github.com/mahdimh13)
 - [ramtin mahmoudi](https://github.com/ramtinmk)
@@ -771,8 +771,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [ramtin mahmoudi](https://github.com/ramtinmk)
 - [Yekanchi :stuck_out_tongue_winking_eye:](https://github.com/yekanchi)
 - [Alfred:feelsgood::smiley:](https://github.com/Alfred188)
-- Mujan
-- [Sanaz :sparkles: ](https://github.com/san4z)
+- [Mujan](https://github.com/Mujan)
+- [Sanaz :sparkles:](https://github.com/san4z)
 - Thank you for your great videos.[Mohammad Boluki :+1:](https://github.com/MohammadBoluki)
 - [Mohammadreza Ziadzadeh :relaxed: ](https://github.com/ziadzadeh)
 - [Mohammadreza Soltani :sunglasses: ](https://github.com/mrzasoltani)
@@ -1048,7 +1048,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [LogicLeon](https://github.com/LogicLeon)
 - [Hadimf💻](https://github.com/hadimf)
 - [Mahdi ra](https://github.com/Mahdi-rasooli)
-- [Parsa Naderi] (https://github.com/parsanaderix)
+- [Parsa Naderi](https://github.com/parsanaderix)
 - [Memora04]
 - [CiSCO](https://github.com/xciscox) :notes:
 - [malihebojnordi:)](https://github.com/malihebojnordi)
@@ -1065,9 +1065,9 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sevda](https://github.com/sadat2335)
 - [Kiamehr Moradi 😁](https://github.com/kiyamehr)
 - [shayanJR - trying to be a sinior developer like jadi - ty MR-JADI 🥇](https://github.com/shayanJR99)
-- [Ermiya Sharif] (https://github.com/ermiyashb) (love you jadi)
-- [ Yasin Razmjoe ] (https://github.com/Yasinrazmjo) (I hate N)
-- [Ehsan_Majdi 🙂] (https://github.com/ehsan-majdi) 
+- [Ermiya Sharif](https://github.com/ermiyashb) (love you jadi)
+- [ Yasin Razmjoe ](https://github.com/Yasinrazmjo) (I hate N)
+- [Ehsan_Majdi 🙂](https://github.com/ehsan-majdi) 
 - [**Milad Kianzadeh**](https://miladkianzadeh.github.io/About-me/)
 - [Milad Mozafari](https://github.com/miladxvi)
 - [Shayan Shadanpour](https://github.com/shayan-developer) (Thanks :))
