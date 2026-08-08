@@ -13,10 +13,12 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 - [Ali vahidi](https://github.com/ali77881) :sunglasses:
 - [Amirali Moradinia](https://github.com/amiralim1377)
+- [Arash Hadikhani](https://github.com/arashhadikhani-sudo):🐧:
 - [Mehrad Kuhpayeh](https://github.com/MEHRAD111)
 - [Mehdi Khorshidi far](https://github.com/Mehdi-dev-sudo) :smoking:
 - [Alireza Amiri](https://github.com/AlirezaAmiri01) :smile: 
 - [SKy MaZe](https://github.com/skmz1380) :milky_way:
+- [BahareMhm](https://github.com/BahareMhm):balloon:
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses: 
 - [Muhammed Agazadeh](https://github.com/muhammedgzdh-coder)
 - [Nazi Mehdizadeh](https://github.com/0xmehdizadeh)
@@ -37,6 +39,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehran Mahjour](https://github.com/MehranMahjour) (●'◡'●)
 - [Fatemeh Sadat Hoseini :sunglasses:](htttps://github.com/fatemehoseinii007)
 - [Mohammad Farivar](https://github.com/mohamadfarivar) :cookie::star2:
+- [Sonia Raofee](https://github.com/soniaraofee) :computer::eyes::tea::loop:
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
 - [Alireza Gorji](https://github.com/Alirezagj1) :blush:
@@ -95,6 +98,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [MohammadrezaTaheri](https://github.com/VahramCode)
 - [Hadi Jafari](https://github.com/haadijafari)
 - [Reyhaneh Zare ☕🖥️](https://github.com/ryhnhzr)
+- [Mota1987](https://github.com/motahareh1987)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
 - [Alireza shokri](https://github.com/alireza-shokri)
 - [Shahvandi](https://github.com/shahvandi)
@@ -135,6 +139,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [masuod80726](https://github.com/masuod80726) :sunglasses:
 - [Amirreza Abdi⚡⚡](https://github.com/AmirrezaX11)
 - [Saeed Rahimi](https://github.com/NullByte-Op/)
+- [Alireza Noorafrooz](https://github.com/Alireza-nrf) :sunglasses:
 - [Bahman Dadashi](https://github.com/bahmandadashi/)
 - [Ehsan Behboodian](https://github.com/c-ehsan/)
 - [Amis-Eb](https://github.com/Amis-Eb)
@@ -142,6 +147,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Solmaz Sahmani](https://github.com/solmaz-sahmani)
 - [Saman Tofighian](https://github.com/saman-tofighian)
 - [Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal)
+- [Piroz](https://github.com/stillpiroz)
 - [Mohammad Reza Karami](https://github.com/Mohammad-Reza-Karami)
 - [Hossein Fahimi](https://github.com/hosein1122)
 - [Saed Gholipour](hhtp://github.com/saed-gpr)
