@@ -212,6 +212,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Abdulhaq](https://github.com/tt-abdulhaq)
 - [Farzad](https://devfarzad.github.io/)
 - [Mahdi Dadanjanian](https://github.com/MahdiDada)
+- [Afshin Afshar](https://github.com/afshin098) 💻
 - [M Hamghalam](https://github.com/hamghalam)
 - [Alireza Habibi](https://github.com/AlirezaHabibi1377)
 - [Amirhosein Shojaei](https://github.com/amirhoseinshojaei)
