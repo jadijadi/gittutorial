@@ -143,6 +143,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Bahman Dadashi](https://github.com/bahmandadashi/)
 - [Ehsan Behboodian](https://github.com/c-ehsan/)
 - [Amis-Eb](https://github.com/Amis-Eb)
+- [Amirreza Farghani](https://github.com/AmirrezaFarghani):sparkles: :sparkles:
 - [Amirali Hossaini](https://github.com/amirali-hossaini)
 - [Solmaz Sahmani](https://github.com/solmaz-sahmani)
 - [Saman Tofighian](https://github.com/saman-tofighian)
