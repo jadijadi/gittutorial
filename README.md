@@ -49,6 +49,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Mohammad Amin Abdollahi**](https://github.com/aminabed1)
 - [Mansour Ataey](https://github.com/mansourataey)
 - [M.sadegh arablou](https://github.com/Msadegh-msa) :sunglasses:
+- [**Navid Khademi**](https://github.com/Navidkh2564) :telescope::computer::owl:
 - [Alireza Nozari](https://github.com/alireza-nozari)
 - [Yousef Modiri](https://github.com/modiritrade) Modiri Trade
 - [Ghazale Azizoal](https://github.com/Ghazaleh-Azizolah)💻🤍
