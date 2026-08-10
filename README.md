@@ -98,6 +98,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sepehr Abdolmanafi💻](https://github.com/gigasepehr)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
 - [Hadi Jafari](https://github.com/haadijafari)
+`- [Alireza Rezayi](https://github.com/alirezarezayi)`
 - [Reyhaneh Zare ☕🖥️](https://github.com/ryhnhzr)
 - [Mota1987](https://github.com/motahareh1987)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
