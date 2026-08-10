@@ -1,6 +1,6 @@
 Hello JADI. 
 Thanks for your free and powerful tutorial for Git.
-but you forgotten to teach "How to chnage HEAD"
+but you forgotten to teach "How to change HEAD"
 
 Thank's Again
 Dastgheybi 
