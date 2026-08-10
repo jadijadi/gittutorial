@@ -1,5 +1,3 @@
-# **Hello**
-
 > Note: It's better to add your name somewhere in the middle, and not at the beginning nor at the end!
 
 > نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا اول یا آخر لیست
@@ -108,6 +106,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mota1987](https://github.com/motahareh1987)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
 - [Alireza shokri](https://github.com/alireza-shokri)
+- [ShahYan Shahbazi](https://github.com/Sh4hYan) 👑 **What an honor it is to have passed away in pursuit of knowledge** (Thanks a lot Mr.Jadi)
 - [Shahvandi](https://github.com/shahvandi)
 - [Morteza Seyedimoghaddam](https://github.com/MortezaSym)
 - [َArash](https://github.com/sidarash)
