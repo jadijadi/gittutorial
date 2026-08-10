@@ -74,6 +74,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Yasin Torabi](https://github.com/yTorabi):green_heart:
 - [iam-PHK](https://github.com/iam-PHK):sunrise_over_mountains:
 - [Sahar Kianmehr](https://github.com/Saharkianm)
+- [Parastoo](http://github.com/parastoof) :cookie: :computer: :cat2:
 - [Sepanta Bahmani](http://github.com/SepantaBahmani) 🍕💻
 - [rezakhodadoost](https://github.com/rezakhodadoost)
 - [Daniyal Ajalloueian](https://github.com/ItzAjall) 
