@@ -1102,4 +1102,5 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Milad Soleymani**](https://github.com/Milad-Soleymani)</Thanks JADI :)>
 - [Amirreza Salehi](https://github.com/amirrezasalehi1385) 💻
 - - [Ehsan](https://github.com/c-ehsan) 💻
+- [Amir Haghani](https://github.com/Amirhgn) (Thanks to you "Jadi")
 - [Sepehr Eftekhari](https://github.com/sebiou22) (love you man)
