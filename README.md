@@ -1103,3 +1103,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amirreza Salehi](https://github.com/amirrezasalehi1385) 💻
 - - [Ehsan](https://github.com/c-ehsan) 💻
 - [Sepehr Eftekhari](https://github.com/sebiou22) (love you man)
+- [Mani Ebrahimi :computer: :video_game:](https://github.com/Mrcode-10) (Thanks for teaching! ❤️)
