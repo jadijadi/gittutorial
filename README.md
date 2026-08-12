@@ -1105,4 +1105,5 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - - [Ehsan](https://github.com/c-ehsan) 💻
 - [Amir Haghani](https://github.com/Amirhgn) (Thanks to you "Jadi")
 - [Sepehr Eftekhari](https://github.com/sebiou22) (love you man)
+- [Mani Ebrahimi :computer: :video_game:](https://github.com/Mrcode-10) (Thanks for teaching! ❤️)
 -[amirhirad farajzadeh](https://github.com/hiradfz):runner:
