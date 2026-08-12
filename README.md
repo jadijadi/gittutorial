@@ -357,6 +357,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sepehr](https://github.com/Sepehrrhn)
 - [**Mohammad Salehi**](https://github.com/MohammadSaleehi)
 - [Yeganeh ⌨️](https://github.com/yegiii)
+- [**Amirreza Rejaie 💻**](https://github.com/njfcore)
 - [Jalal Azam Sadeghi :thumbsup:](https://github.com/jalalsadeghi)
 - [sina roydel :sunglasses:](https://github.com/3ina)
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
@@ -1102,5 +1103,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Milad Soleymani**](https://github.com/Milad-Soleymani)</Thanks JADI :)>
 - [Amirreza Salehi](https://github.com/amirrezasalehi1385) 💻
 - - [Ehsan](https://github.com/c-ehsan) 💻
+- [Amir Haghani](https://github.com/Amirhgn) (Thanks to you "Jadi")
 - [Sepehr Eftekhari](https://github.com/sebiou22) (love you man)
 - [Mani Ebrahimi :computer: :video_game:](https://github.com/Mrcode-10) (Thanks for teaching! ❤️)
+-[amirhirad farajzadeh](https://github.com/hiradfz):runner:
