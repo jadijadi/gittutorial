@@ -357,6 +357,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sepehr](https://github.com/Sepehrrhn)
 - [**Mohammad Salehi**](https://github.com/MohammadSaleehi)
 - [Yeganeh ⌨️](https://github.com/yegiii)
+- [**Amirreza Rejaie 💻**](https://github.com/njfcore)
 - [Jalal Azam Sadeghi :thumbsup:](https://github.com/jalalsadeghi)
 - [sina roydel :sunglasses:](https://github.com/3ina)
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
