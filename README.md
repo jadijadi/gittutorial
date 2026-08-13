@@ -586,6 +586,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Foad :grin:](https://github.com/Foad9)
 - [amireza yazdanfar](https://github.com/amirezaz)
 - [Hedieh Raeisi :blue_heart:](https://github.com/HediyeRaisy)
+- [Devics](https://github.com/idevics)
 - [Abolfazl Rezaei Aderiani :v:](https://github.com/Aderiani)
 - [MrTerminal :trollface::+1:](https://github.com/Zeroday10)
 - [mohammadreza heydari dehmyani :pray::pray::pray:](https://github.com/mohammadreza2787)
