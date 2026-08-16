@@ -45,6 +45,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Farivar](https://github.com/mohamadfarivar) :cookie::star2:
 - [Sonia Raofee](https://github.com/soniaraofee) :computer::eyes::tea::loop:
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
+- [Erfan Mousavi](https://github.com/erfanmousavi-dev) :trollface:
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
 - [Alireza Gorji](https://github.com/Alirezagj1) :blush:
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
