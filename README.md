@@ -12,6 +12,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 - [MRahimi](https://github.com/MRahimi-i) :desktop_computer:
 - [Ali vahidi](https://github.com/ali77881) :sunglasses:
+- [**Ahmed Ahrari**](https://github.com/AhmedAhrari) $ sudo give me-a-cofee ☕☕
 - [**Hesan Biyari**](https://github.com/HesanBiyari) Tnx Jadi :heart:
 - [**hosein rozbahani**](https://github.com/jhackcontent-arch)🔥
 - [Amirali Moradinia](https://github.com/amiralim1377)
