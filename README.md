@@ -72,6 +72,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Zia Abiat](https://github.com/Zia-Abiat)
 - [Amirali Mostafavifard](https://github.com/amirali6764):ocean:
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
+- [Mohammad Parsa Esmaeili](https://github.com/MParsa-ES):computer::video_game:
 - [Reza Derakhshan](https://github.com/rezadrakhshan)🥸
 - [Sahar Kianmehr](https://github.com/saharkianm)
 - [Alireza Khajehvandi](https://github.com/alirezakhajehvandi)
