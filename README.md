@@ -83,7 +83,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sepanta Bahmani](http://github.com/SepantaBahmani) 🍕💻
 - [rezakhodadoost](https://github.com/rezakhodadoost)
 - [Daniyal Ajalloueian](https://github.com/ItzAjall)
-- 
 - [Kavian Sherkatfar](https://github.com/kavianpcx)
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
 - [Amirhossein Najafi](https://github.com/AmirHossein-Najafi82)
