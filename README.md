@@ -218,6 +218,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Mohammad H Kazemi :eyes:**](https://github.com/massan11)
 - [Pooya Valizadeh](https://github.com/PooyaValizadeh) :coffee:
 - [Jadi](https://jadi.net)
+- [Roy](https://github.com/roy-twsl) :pray: Thank you [Jadi](https://github.com/jadijadi)
 - [mh ebrz :collision:](https://github.com/mhe931)
 - [Mithril-Mohammad](https://github.com/Mithril-Mohammad)
 - [Hanieh Zainodini](https://github.com/hzainodini)
