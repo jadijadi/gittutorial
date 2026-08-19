@@ -305,6 +305,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [kamand](https://github.com/kamandtolou)
 - [amir mahdi dashti](https://github.com/amirmahdidashti)
 - [Erfan Farahbakhsh](https://github.com/thatserfan)
+- [Kiarsh bayat](https://github.com/kiarashbayat):fire:
 - [Soheyl Farzane 😍](https://github.com/soheylfarzane)
 - [kamand](https://github.com/kamandtolou)
 - [Mahdyar Alipor](https://github.com/mahdyaralipor)
