@@ -98,6 +98,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [EhSaN MoRaDi](https://github.com/ehsanm0radi) 🤖💻🍕
 - [**Abolfazl Zolfaghari** 🚀](https://github.com/abolfazlzol1384-eng)
 - [Vahid Siaymi](https://github.com/BraveVahid) :computer: :coffee:
+- [*Amir Masoud Nasiri*](https://github.com/masoud-nasiri)  :heavy_check_mark:
 - [Hosien Niazi](https://github.com/HosinNiazi) :computer: :coffee:
 - [Mohammad Azim Memari(**Zumboww**)](https://github.com/Zumboww) :metal::muscle::notes:
 - [Par3saheydari :kissing_closed_eyes:](https://github.com/par3aheydari)
