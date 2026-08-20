@@ -93,6 +93,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [rezakhodadoost](https://github.com/rezakhodadoost)
 - [Daniyal Ajalloueian](https://github.com/ItzAjall)
 - [Kavian Sherkatfar](https://github.com/kavianpcx)
+- [Mersad Mostofian](https://github.com/Mersad-Mostofian)🐋
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
 - [Amirhossein Najafi](https://github.com/AmirHossein-Najafi82)
 - [Alireza Ranjbar](https://github.com/gogolibox)
