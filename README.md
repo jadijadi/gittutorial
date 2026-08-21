@@ -27,6 +27,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses:
 - [BahareMhm](https://github.com/BahareMhm):balloon:
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses: 
+- [Arian Salarian](https://github.com/whoisowl) :owl: Thanks a lot Jadi :blue_heart:
 - [Muhammed Agazadeh](https://github.com/muhammedgzdh-coder)
 - [Nazi Mehdizadeh](https://github.com/0xmehdizadeh)
 - [Mobina hsz](https://github.com/mobina-hsz) :honeybee:
