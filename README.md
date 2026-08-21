@@ -26,6 +26,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [SKy MaZe](https://github.com/skmz1380) :milky_way:
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses:
 - [BahareMhm](https://github.com/BahareMhm):balloon:
+- [Bahar Aminimajd](https://github.com/Bahar-Amini):gem:
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses: 
 - [Muhammed Agazadeh](https://github.com/muhammedgzdh-coder)
 - [Nazi Mehdizadeh](https://github.com/0xmehdizadeh)
