@@ -27,7 +27,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses:
 - [BahareMhm](https://github.com/BahareMhm):balloon:
 - [Bahar Aminimajd](https://github.com/Bahar-Amini):gem:
-- [Geekmanesh](https://github.com/geekmanesh) :sunglasses: 
+- [Geekmanesh](https://github.com/geekmanesh) :sunglasses:
 - [Arian Salarian](https://github.com/whoisowl) :owl: Thanks a lot Jadi :blue_heart:
 - [Muhammed Agazadeh](https://github.com/muhammedgzdh-coder)
 - [Nazi Mehdizadeh](https://github.com/0xmehdizadeh)
@@ -36,7 +36,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arad Mansouri](https://github.com/AradMansouri) :keyboard:
 - [ProfiDE](https://github.com/ProfiDE) :seedling:
 - [Amirali Farhadi](https://github.com/farhadiamirali403-lab) ☕
-- [atmvir](https://github.com/atmvir) better call atmvir 
+- [atmvir](https://github.com/atmvir) better call atmvir
 - [Farham Pouryousefi](https://github.com/Farham-py) 😁🔥
 - [Mohammad Hassani RV](https://github.com/mohammadrv20)
 - [Amirhossein Movahedi](https://github.com/Amirhossein172)
@@ -56,7 +56,9 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Erfan Mousavi](https://github.com/erfanmousavi-dev) :trollface:
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
 - [Alireza Gorji](https://github.com/Alirezagj1) :blush:
-- [ELOIDXD](https://github.com/ELOIDXD) :v::wave:
+- [ELOIDXD](https://github.com/ELOIDXD)
+:v::wave:
+- [Shahin Nahavndi](https://github.com/shahennahavnde) 💻
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
 - [**Mostafa_Piran** :octocat:](https://github.com/mostafapiran)
 - [Alireza_Hassanpour](https://github.com/arhplc21) 💻
@@ -127,7 +129,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Shahvandi](https://github.com/shahvandi)
 - [Morteza Seyedimoghaddam](https://github.com/MortezaSym)
 - [َArash](https://github.com/sidarash)
-- [ErPyCode](https://github.com/erpycode) Thanks for Everything jadi. you Change My life 
+- [ErPyCode](https://github.com/erpycode) Thanks for Everything jadi. you Change My life
 - [Meysam Abbasi](https://github.com/Meysamjoon)
 - [Soheil Tabavar](https://github.com/Soheil-2017)
 - [Arman Malaknejad](https://github.com/malaknejadarman-coder) 🚀
@@ -1115,7 +1117,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [shayanJR - trying to be a sinior developer like jadi - ty MR-JADI 🥇](https://github.com/shayanJR99)
 - [Ermiya Sharif](https://github.com/ermiyashb) (love you jadi)
 - [ Yasin Razmjoe ](https://github.com/Yasinrazmjo) (I hate N)
-- [Ehsan_Majdi 🙂](https://github.com/ehsan-majdi) 
+- [Ehsan_Majdi 🙂](https://github.com/ehsan-majdi)
 - [**Milad Kianzadeh**](https://miladkianzadeh.github.io/About-me/)
 - [Milad Mozafari](https://github.com/miladxvi)
 - [Shayan Shadanpour](https://github.com/shayan-developer) (Thanks :))
