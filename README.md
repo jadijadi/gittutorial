@@ -16,6 +16,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Hesan Biyari**](https://github.com/HesanBiyari) Tnx Jadi :heart:
 - [**hosein rozbahani**](https://github.com/jhackcontent-arch)🔥
 - [Amirali Moradinia](https://github.com/amiralim1377)
+- [**Asal Saiyan**](https://github.com/waslsan)
 - [Hosna Hajimohammadi](https://github.com/Lodgoer)🐛
 - [OmidReza Hojjati](https://github.com/OmidRezaHjT) :gem:
 - [Arash Hadikhani](https://github.com/arashhadikhani-sudo):🐧:
