@@ -119,6 +119,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Alireza Miry**](https://github.com/AlizDevelop)
 - [shakiba ahmadi](https://github.com/shakibad3v)
 - [Sepehr Abdolmanafi💻](https://github.com/gigasepehr)
+- [Yones📋](https://github.com/yonesjodeyri)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
 - [Hadi Jafari](https://github.com/haadijafari)
 `- [Alireza Rezayi](https://github.com/alirezarezayi)`
