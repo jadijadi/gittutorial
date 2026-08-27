@@ -88,6 +88,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sahar Kianmehr](https://github.com/saharkianm)
 - [Alireza Khajehvandi](https://github.com/alirezakhajehvandi)
 - [Mohsen Motahari](https://github.com/mmotahari) :confused:
+- [Usef Tootian](https://github.com/ussefT) :rocket::us::rotating_light:
 - [Jina Karbasi :heart:](https://github.com/Jina-Karbasi)
 - [**AL Esmaeili**](https://github.com/alirzaaam):ocean:
 - [Ziba Imani](https://github.com/zibaimani):v: :computer:
