@@ -241,6 +241,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Abolfazl-pakdel](https://github.com/Abolfazl-Pakdel)💻
 - [Saman Shirdel](https://github.com/samanshirdell) :v:
 - [Abdulhaq](https://github.com/tt-abdulhaq)
+- [Ali babajani](https://github.com/alibabajani91) love of a geek for another geek
 - [Farzad](https://devfarzad.github.io/)
 - [Mahdi Dadanjanian](https://github.com/MahdiDada)
 - [Afshin Afshar](https://github.com/afshin098) 💻
