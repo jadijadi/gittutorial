@@ -630,6 +630,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ashkan Feyzollahi](https://github.com/ashkanfeyzollahi)
 - [Abolfazl Akbarzadeh Mola ](https://github.com/AbakSource)
 - [Yasaman :mushroom:](https://github.com/jasmineslr)
+- [ososzz](https://github.com/ososzz)
 - [peyman khoshbakht-thank you jadi.you are great]
 - [Mahdi Rezainiya :computer::smile:](https://github.com/mahdi-rezainiya)
 - [Seyed mohammad mirfatemi :speech_balloon:](https://github.com/kiumad)
