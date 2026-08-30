@@ -30,6 +30,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Mahdi Kordian**](https://github.com/MahdiKordian) 🤖🧠
 - [BahareMhm](https://github.com/BahareMhm):balloon:
 - [Bahar Aminimajd](https://github.com/Bahar-Amini):gem:
+- [**Astronuat**](https://github.com/amirmahdinemati888-boop) ✌️
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses: 
 - [Arian Salarian](https://github.com/whoisowl) :owl: Thanks a lot Jadi :blue_heart:
 - [Muhammed Agazadeh](https://github.com/muhammedgzdh-coder)
