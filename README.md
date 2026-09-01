@@ -985,6 +985,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Aria Rahmaty :computer: :heart_eyes:](https://github.com/AriaaRy)
 - [**Mehran13mome**:feelsgood:](https://github.com/mome13)
 - [Masoud Momen](https://github.com/masoudmomen)
+- [NIMA :| ; i mean like who reads this](https://github.com/Ni8vik)
 - [Edris Fathi :wink::joy:](https://github.com/eeffathi)
 - [**Hossein Zamani Nasab**:thought_balloon: :one::zero::six:](https://github.com/hosseinzamaninasab)
 - [Mohammad Ziaei :computer:](https://github.com/mhdan)
