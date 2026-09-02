@@ -383,6 +383,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Abbasi](https://github.com/aliabbasi2000)
 - [_iliro_](https://github.com/iliro6)
 - [ParsaJR](https://github.com/ParsaJR)
+- [Aria Bagherzadeh](https://github.com/bagherzadeharia) Thank you, Jadi!
 - [Alireza Hoseini](https://github.com/alireza-hoseini-sha)
 - [Sepehr](https://github.com/Sepehrrhn)
 - [**Mohammad Salehi**](https://github.com/MohammadSaleehi)
