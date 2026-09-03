@@ -1,4 +1,4 @@
-> Note: It's better to add your name somewhere in the middle, and not at the beginning nor at the end!
+	> Note: It's better to add your name somewhere in the middle, and not at the beginning nor at the end!
 
 > نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا اول یا آخر لیست
 
@@ -19,6 +19,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amirali Moradinia](https://github.com/amiralim1377)
 - [Mobina Safarirad](https://github.com/MobinaSafarirad) :trollface:
 - [**Asal Saiyan**](https://github.com/waslsan)
+  [**Nastaran Taghavi**](https://github.com/NstrnHub) :information_desk_person::purple_heart:
 - [Hosna Hajimohammadi](https://github.com/Lodgoer)🐛
 - [Ali Hatam Khani](https://github.com/a-htm) :sunglasses: :ghost:
 - [OmidReza Hojjati](https://github.com/OmidRezaHjT) :gem:
