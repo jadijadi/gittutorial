@@ -102,7 +102,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Parastoo](http://github.com/parastoof) :cookie: :computer: :cat2:
 - [Sepanta Bahmani](http://github.com/SepantaBahmani) 🍕💻
 - [rezakhodadoost](https://github.com/rezakhodadoost)
-- [Daniyal Ajalloueian](https://github.com/ItzAjall)
+- [Daniyal Ajalloueian](https://github.com/DaniyalAjalloueian)
 - [Kavian Sherkatfar](https://github.com/kavianpcx)
 - [Mersad Mostofian](https://github.com/Mersad-Mostofian)🐋
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
