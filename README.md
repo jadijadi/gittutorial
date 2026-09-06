@@ -18,6 +18,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**hosein rozbahani**](https://github.com/jhackcontent-arch)🔥
 - [Amirali Moradinia](https://github.com/amiralim1377)
 - [Amir aghajani](https://github.com/Amirsnh)
+- [Sina Fathi](https://github.com/sinafathi0)
 - [Mobina Safarirad](https://github.com/MobinaSafarirad) :trollface:
 - [**Asal Saiyan**](https://github.com/waslsan)
 - [Hosna Hajimohammadi](https://github.com/Lodgoer)🐛
