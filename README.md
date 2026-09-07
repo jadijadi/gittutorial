@@ -11,6 +11,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
+- [✨*Tara Hajihasani*✨](https://github.com/Tara-HH) So grateful to be your student, Jadi🙏❤
 - [MRahimi](https://github.com/MRahimi-i) :desktop_computer:
 - [Ali vahidi](https://github.com/ali77881) :sunglasses:
 - [**Ahmed Ahrari**](https://github.com/AhmedAhrari) $ sudo give me-a-cofee ☕☕
