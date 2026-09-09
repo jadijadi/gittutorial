@@ -730,6 +730,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ghaem Aghaei Aghdam](https://github.com/ghaemaghaey)
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
+- [Morteza Kalami :zap:](https://github.com/mortezakalami)
 - [mmd mrtpr :tongue: ](https://github.com/100MAD)
 - [Zeynab🐱‍👤](https://github.com/mtzynb)
 - [Sajjad Rezvani Khaledi](https://github.com/Sajjad-RK)
