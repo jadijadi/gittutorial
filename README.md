@@ -82,6 +82,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Alireza Nozari](https://github.com/alireza-nozari)
 - [Yousef Modiri](https://github.com/modiritrade) Modiri Trade
 - [Ghazale Azizoal](https://github.com/Ghazaleh-Azizolah)💻🤍
+- [M. R. Azadi](https://github.com/sys0rpheus)
 - [**Iman Bigdeli**](https://github.com/Iman-Web84) 💻
 - [**Ahmadreza Bagherzadeh**](https://github.com/ahmadrezabaqerzade)
 - [**Mahdi Manzouri**](https://github.com/mahdimanzouri) ⭐🔭
