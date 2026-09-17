@@ -60,6 +60,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Erfan Hasanzadeh**](https://github.com/Erfun-H) :computer:
 - [Mobin Sadeqian](https://github.com/Mobinsadeqian) :computer:
 - [**Mohammad Reza Bonyadi**](https://github.com/mbonyadidev) tnk u jadi ❤️
+- [mohammadAminVaez](https://github.com/aminvaez/) :man_technologist::sleeping_bed:
 - [Amirali gholian](https://github.com/amirali-gholian) :computer::tea::art::rocket:
 - [Mohammad Ashourzadeh](https://github.com/ashourzadeh7) :computer:
 - [**Faraz Nasseri**](https://github.com/farazdotn) 🎺
