@@ -1150,6 +1150,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Kiamehr Moradi 😁](https://github.com/kiyamehr)
 - [shayanJR - trying to be a sinior developer like jadi - ty MR-JADI 🥇](https://github.com/shayanJR99)
 - [Ermiya Sharif](https://github.com/ermiyashb) (love you jadi)
+- [Kian Emami](https://github.com/kianemami1394) :stuck_out_tongue_winking_eye: (Jadi Is Best!)
 - [ Yasin Razmjoe ](https://github.com/Yasinrazmjo) (I hate N)
 - [Ehsan_Majdi 🙂](https://github.com/ehsan-majdi) 
 - [**Milad Kianzadeh**](https://miladkianzadeh.github.io/About-me/)
