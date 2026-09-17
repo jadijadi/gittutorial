@@ -25,6 +25,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sina Fathi](https://github.com/sinafathi0)
 - [Mobina Safarirad](https://github.com/MobinaSafarirad) :trollface:
 - [**Amirhossein Mohtajallah**](https://github.com/Amir-h2085) :whale:
+- [**Saman Jeddi**](https://github.com/samanjeddi)
 - [**Asal Saiyan**](https://github.com/waslsan)
 - [Hosna Hajimohammadi](https://github.com/Lodgoer)🐛
 - [Ali Hatam Khani](https://github.com/a-htm) :sunglasses: :ghost:
