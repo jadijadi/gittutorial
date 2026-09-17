@@ -491,6 +491,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - Thank you for care about humanity, honor and Iran :heart:.[Farzam Raoufi](https://github.com/farzam-raoufi)
 - [Amir Salehi](https://github.com/amiryxe)
 - [montelooka 😍](https://github.com/montelooka)
+- [sajjad aghasi javid 🔥](https://github.com/sajjadaghasijavid)
 - [PedramPM8 🐼👨🏻‍💻](https://github.com/pedrampm8)
 - [Armin Kraken🐙](https://github.com/ArminKraken)
 - [Amin Komeili 😍🌺](https://github.com/Aminkomeili)
