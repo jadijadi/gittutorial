@@ -9,7 +9,7 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
-
+- [Alireza Fahimi](https://github.com/alirezaxeon) 🚀
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
 - [SETAREH<3](https://github.com/strheiny) :cupid:
 - [mahdi ghale](https://github.com/Mahdi20mmd)
