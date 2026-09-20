@@ -239,6 +239,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Jadi](https://jadi.net)
 - [Ali Sokhandani](https://github.com/alisokhandani) Moving Forward! :octocat:
 - [Sajjad](https://github.com/Sajjad120Ns)
+- [Hesam_Ehsani](https://github.com/realhesam04) Thank you for teaching us git in the best way possible :)
 - [Better call Naeem](https://github.com/naeemt8)
 - [Reina Khosravi ✨🦊](https://github.com/ReyhunSKhosravi)
 - [Mamad Engame](https://github.com/vesper0369) 🛸
