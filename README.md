@@ -29,6 +29,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Amirhossein Mohtajallah**](https://github.com/Amir-h2085) :whale:
 - [**Saman Jeddi**](https://github.com/samanjeddi)
 - [**Asal Saiyan**](https://github.com/waslsan)
+- [*Yasmin*](https://github.com/Yasmin-Shokri):rocket::rainbow:
 - [Hosna Hajimohammadi](https://github.com/Lodgoer)🐛
 - [Ali Hatam Khani](https://github.com/a-htm) :sunglasses: :ghost:
 - [Arman Ghari](https://github.com/ArmanGh7)
