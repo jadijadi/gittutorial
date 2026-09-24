@@ -94,6 +94,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [M. R. Azadi](https://github.com/sys0rpheus)
 - [**Iman Bigdeli**](https://github.com/Iman-Web84) 💻
 - [**Ahmadreza Bagherzadeh**](https://github.com/ahmadrezabaqerzade)
+- ✦ [**Hanieh Vaziri** ⚡](https://github.com/haniehvzr) `@haniehvzr`
 - [**Mahdi Manzouri**](https://github.com/mahdimanzouri) ⭐🔭
 - [Amir Mahdi](https://github.com/Amir-Mahdi-Barati) 🤖📺💻
 - [Farhad Fallahi](https://github.com/FarhadJs) :computer::video_game::hand_with_index_finger_and_thumb_crossed::white_heart:
