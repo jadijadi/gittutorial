@@ -305,6 +305,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hossein Aghabararian](https://github.com/Hossein-Bararian)
 - [Artin karimi](https://github.com/Thecode764)
 - [Ehsan Marmazi](https://github.com/Ehsanmarmazi)
+- [Mobin Jalilifard](https://github.com/MJalilifard) :eyes:
 - [yusef](https://github.com/jfryusef) :space_invader:
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
 - [Mohammadreza Sheikhoeleslami](https://github.com/MohammadrezaSheikholeslami84)
