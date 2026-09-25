@@ -51,6 +51,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Muhammed Agazadeh](https://github.com/muhammedgzdh-coder)
 - [Nazi Mehdizadeh](https://github.com/0xmehdizadeh)
 - [Aradhmz](https://github.com/Aradhmz) 2026-08-30 🚀 Thanks for everything
+- [Parham Razavi fard ](https://github.com/ParhamRazavifard-fb) $ Sudo apt install Jadi 🔥🔥🔥
 - [Mobina hsz](https://github.com/mobina-hsz) :honeybee:
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Arad Mansouri](https://github.com/AradMansouri) :keyboard:
