@@ -10,6 +10,10 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 
+
+
+# ارسال به جهت اذیت کردن 😁
+
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
 - [SETAREH<3](https://github.com/strheiny) :cupid:
 - [Omid](https://github.com/omiomiomid) :Thank you mr.jadi:
