@@ -794,6 +794,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [fatemeh z🎀🎀](https://github.com/fatemekhanum)
 - [fartaha](https://fartaha.github.io/)
 - [Sagheb Kohpayeh :bowtie::smile:](https://github.com/SaghebK)
+- [Omidreza Dashtikia](https://github.com/OmidDashtikia)Thank you, Jadi
 - [** MR.SEIFI **](https://github.com/mr-seifi)
 - [AlirezA :trollface: ](https://github.com/bojbaj)
 - [Mojagolab](https://github.com/mojtabagolab)
@@ -1139,7 +1140,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehran Mazhar](https://github.com/MehranMazhar)
 - [Behzad bluekian](https://github.com/alijkdkar)
 - [Javad Rajabzadeh](https://github.com/Ja7ad)
-- [Javad keshtgar](https://github.com/javad088) Javads  write your names here (; 
+- [Javad keshtgar](https://github.com/javad088) Javads  write your names here (;
+
 - [Niloofar Arazkhani](https://github.com/narzk)
 - [Torham :)](https://github.com/TorhamDev)
 - [LogicLeon](https://github.com/LogicLeon)
