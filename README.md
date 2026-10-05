@@ -11,6 +11,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # List of people who know git
 
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
+[tara-moghadam](https://github.com/tara8558-code)
 - [SETAREH<3](https://github.com/strheiny) :cupid:
 - [Omid](https://github.com/omiomiomid) :Thank you mr.jadi:
 - [mahdi ghale](https://github.com/Mahdi20mmd)
