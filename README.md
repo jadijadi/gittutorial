@@ -15,11 +15,13 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 # ارسال به جهت اذیت کردن 😁
 
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
+[tara-moghadam](https://github.com/tara8558-code)
 - [SETAREH<3](https://github.com/strheiny) :cupid:
 - [Omid](https://github.com/omiomiomid) :Thank you mr.jadi:
 - [mahdi ghale](https://github.com/Mahdi20mmd)
 - [**Navid Ahmadzade**](https://github.com/navid1256) :computer:
 - [✨*Tara Hajihasani*✨](https://github.com/Tara-HH) So grateful to be your student, Jadi🙏❤
+- [Mahdi](https://github.com/mahdisrm1)
 - [MRahimi](https://github.com/MRahimi-i) :desktop_computer:
 - [Ali vahidi](https://github.com/ali77881) :sunglasses:
 - [**Ahmed Ahrari**](https://github.com/AhmedAhrari) $ sudo give me-a-cofee ☕☕
@@ -460,6 +462,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hossein_Asadi ✌️](https://github.com/HosseinAsadi)
 - [MohammadReza Elahi✌✔](https://github.com/mohammadrezaelahi)
 - [MrMiM](https://github.com/MrMiM-tfe)
+- [Amirreza Pourdehghan](https://github.com/amirreza-pourdehghan) 😃 💻 ☕
 - [Raven](https://github.com/Rav3n48)
 - [navid mirnouri](https://github.com/navid72m)
 - [Mary 🔥](https://github.com/maryhbb)
