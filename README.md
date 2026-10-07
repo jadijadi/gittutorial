@@ -10,6 +10,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 
+- [Alireza Fahimi](https://github.com/alirezaxeon) 🚀
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
 [tara-moghadam](https://github.com/tara8558-code)
 - [SETAREH<3](https://github.com/strheiny) :cupid:
