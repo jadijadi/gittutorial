@@ -151,7 +151,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Yones📋](https://github.com/yonesjodeyri)
 - [MohammadrezaTaheri](https://github.com/VahramCode)
 - [Hadi Jafari](https://github.com/haadijafari)
-`- [Alireza Rezayi](https://github.com/alirezarezayi)`
+- [Alireza Rezayi](https://github.com/alirezarezayi)
 - [Reyhaneh Zare ☕🖥️](https://github.com/ryhnhzr)
 - [Mota1987](https://github.com/motahareh1987)
 - [AmirAbas AdibAnsari](https://github.com/Adib4A) :octocat:
@@ -729,7 +729,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Nima Hmz](https://github.com/Nima-Hmz)
 - [Mohammad Hasan](https://github.com/masanmola)
 - [sepehrb98 :tophat: :crystal_ball:](https://github.com/sepehrb98)
-- - [**Yashar Azarsaeid** :sunglasses::fire:](https://github.com/iyashar)
+- [**Yashar Azarsaeid** :sunglasses::fire:](https://github.com/iyashar)
 - [rez_hiphop](https://github.com/zelash)
 - [Ali Rn :snowman:](https://github.com/AliRn76)
 - [Neda :dizzy_face: :smiley: ](https://github.com/ForoutanNeda)
@@ -1141,7 +1141,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Behzad bluekian](https://github.com/alijkdkar)
 - [Javad Rajabzadeh](https://github.com/Ja7ad)
 - [Javad keshtgar](https://github.com/javad088) Javads  write your names here (;
-
 - [Niloofar Arazkhani](https://github.com/narzk)
 - [Torham :)](https://github.com/TorhamDev)
 - [LogicLeon](https://github.com/LogicLeon)
@@ -1175,11 +1174,11 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Bahrami](https://github.com/alibahrami2) 🐧
 - [**Milad Soleymani**](https://github.com/Milad-Soleymani)</Thanks JADI :)>
 - [Amirreza Salehi](https://github.com/amirrezasalehi1385) 💻
-- - [Ehsan](https://github.com/c-ehsan) 💻
+- [Ehsan](https://github.com/c-ehsan) 💻
 - [Amir Haghani](https://github.com/Amirhgn) (Thanks to you "Jadi")
 - [Arshia Saedi](https://github.com/X8saedi2X) :blue_heart:
 - [Sepehr Eftekhari](https://github.com/sebiou22) (love you man)
 - [Mani Ebrahimi :computer: :video_game:](https://github.com/Mrcode-10) (Thanks for teaching! ❤️)
--[amirhirad farajzadeh](https://github.com/hiradfz):runner:
+- [amirhirad farajzadeh](https://github.com/hiradfz):runner:
 - [Artin khodayari](https://github.com/Artin-khodayari)
 - [HESAM](https://github.com/hnesamm17)💙
