@@ -216,6 +216,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal)
 - [Piroz](https://github.com/stillpiroz)
 - [Mohammad Reza Karami](https://github.com/Mohammad-Reza-Karami)
+- [Mohammad Ehsan Safdari](https://github.com/safdari-me)
 - [Hossein Fahimi](https://github.com/hosein1122)
 - [Saed Gholipour](https://github.com/saed-gpr)
 - [Rasoul](https://github.com/rasoul-code):blush:
@@ -1184,8 +1185,9 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amirreza Salehi](https://github.com/amirrezasalehi1385) 💻
 - [Ehsan](https://github.com/c-ehsan) 💻
 - [Amir Haghani](https://github.com/Amirhgn) (Thanks to you "Jadi")
-- [Arshia Saedi](https://github.com/X8saedi2X) :blue_heart:
 - [Sepehr Eftekhari](https://github.com/sebiou22) (love you man)
+- [amirhirad farajzadeh](https://github.com/hiradfz):runner:
+- [Arshia Saedi](https://github.com/X8saedi2X) :blue_heart:
 - [Mani Ebrahimi :computer: :video_game:](https://github.com/Mrcode-10) (Thanks for teaching! ❤️)
 - [amirhirad farajzadeh](https://github.com/hiradfz):runner:
 - [Artin khodayari](https://github.com/Artin-khodayari)
