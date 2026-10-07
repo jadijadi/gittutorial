@@ -27,6 +27,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amirali Moradinia](https://github.com/amiralim1377)
 - [Mohammad Hossein Alizadeh](https://github.com/mh-alizadeh) :computer:
 - [Amir aghajani](https://github.com/Amirsnh)
+- [**Ehsan Lak**](https://github.com/Ehsunpy)  :rocket:
 - [Sina Fathi](https://github.com/sinafathi0)
 - [Mobina Safarirad](https://github.com/MobinaSafarirad) :trollface:
 - [**Amirhossein Mohtajallah**](https://github.com/Amir-h2085) :whale:
