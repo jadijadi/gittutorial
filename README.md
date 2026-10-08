@@ -9,11 +9,12 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [Ramin Haghighi](http://github.com/Ramss808)
 
 - [Alireza Fahimi](https://github.com/alirezaxeon) 🚀
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
+- [tara-moghadam](https://github.com/tara8558-code)
 - [ymawni](https://github.com/ymawni)
-[tara-moghadam](https://github.com/tara8558-code)
 - [SETAREH<3](https://github.com/strheiny) :cupid:
 - [Omid](https://github.com/omiomiomid) :Thank you mr.jadi:
 - [mahdi ghale](https://github.com/Mahdi20mmd)
