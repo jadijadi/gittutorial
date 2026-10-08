@@ -12,6 +12,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 - [Alireza Fahimi](https://github.com/alirezaxeon) 🚀
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
+- [ymawni](https://github.com/ymawni)
 [tara-moghadam](https://github.com/tara8558-code)
 - [SETAREH<3](https://github.com/strheiny) :cupid:
 - [Omid](https://github.com/omiomiomid) :Thank you mr.jadi:
