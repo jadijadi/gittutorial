@@ -36,6 +36,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Amirhossein Mohtajallah**](https://github.com/Amir-h2085) :whale:
 - [**Saman Jeddi**](https://github.com/samanjeddi)
 - [**Asal Saiyan**](https://github.com/waslsan)
+- [**Nastaran Taghavi**](https://github.com/NstrnHub) :information_desk_person::purple_heart:
 - [**Hosein Sadeghi**](https://github.com/United-Strange) :muscle:
 - [*Yasmin*](https://github.com/Yasmin-Shokri):rocket::rainbow:
 - [Hosna Hajimohammadi](https://github.com/Lodgoer)🐛
