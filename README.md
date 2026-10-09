@@ -16,6 +16,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [tara-moghadam](https://github.com/tara8558-code)
 - [ymawni](https://github.com/ymawni)
 - [SETAREH<3](https://github.com/strheiny) :cupid:
+- [**Yasin Saeedi Mehr**](https://github.com/yasin-saeedi) «Stay happy, keep learning every day, and cheers to a brighter future!» :saluting_face:
 - [Omid](https://github.com/omiomiomid) :Thank you mr.jadi:
 - [mahdi ghale](https://github.com/Mahdi20mmd)
 - [**Navid Ahmadzade**](https://github.com/navid1256) :computer:
