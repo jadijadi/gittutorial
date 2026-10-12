@@ -140,6 +140,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mahsa Karimi](https://github.com/mahsakarimi-AI) :blossom: Learning with you always feels so enjoyable.Thank you, Jadi! :sparkles: :first_quarter_moon_with_face:
 - [Kavian Sherkatfar](https://github.com/kavianpcx)
 - [Mersad Mostofian](https://github.com/Mersad-Mostofian)🐋
+- [Saman Mosallanezhad](https://github.com/SamanMosalla)❤️💻
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
 - [Amirhossein Najafi](https://github.com/AmirHossein-Najafi82)
 - [Alireza Ranjbar](https://github.com/gogolibox)
