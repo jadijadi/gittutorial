@@ -595,6 +595,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Fateme Mohammadi❤️](https://github.com/mahora00135)
 - [mahdi :grimacing:](https://github.com/mahdinikan75)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
+- [Abolfazl Nowruzian](https://github.com/abolfazlnorozian) - [LinkedIn](https://www.linkedin.com/in/abolfazl-nowruzian/)
 - [Edwin Melendez](https://github.com/ejm201) 🇵🇷
 - [Tarbox :smiley_cat:](https://github.com/Tarbox)
 - [Hossein Gholamian :trollface::+1:](https://github.com/HosseinGholamian)
