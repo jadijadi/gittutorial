@@ -562,6 +562,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mohammad ramezani](https://github.com/mohramezani659)
 - [Homayoun Mohammadi](https://github.com/homayounmmdy)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
+- [MoSijani](https://github.com/itsmosijani) While Jadi: LEARN!
 - [Reza Kamali🤞](https://github.com/MRGando)
 - [SadraNouraddin :eyes:](https://github.com/sadra52)
 - [Maher 💯💯](https://github.com/Amirho3eini)
