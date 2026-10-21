@@ -996,6 +996,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Dehghani :feelsgood::car:](https://github.com/dehghanni)
 - [MR-Mostafa](https://github.com/MR-Mostafa)
 - [Hasan kakavandi :zap:](https://github.com/H4s4nk)
+- [Taha Noursalehi (TAH000k)](https://github.com/TAH000k) ✌️ 
 - [javadhajian](https://github.com/alojavad)
 - [saleh :expressionless:](https://github.com/saleh-mastani)
 - [Pedram :cyclone:](https://github.com/pedramardakani)
