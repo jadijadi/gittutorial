@@ -133,6 +133,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**AL Esmaeili**](https://github.com/alirzaaam):ocean:
 - [Ziba Imani](https://github.com/zibaimani):v: :computer:
 - [Sepehr Abbaspour](https://github.com/sepehrabbaspour)
+- [Paya Pirayandeh](https://github.com/payapirayandeh) JADI IS THE BEST❤️
 - [Yasin Torabi](https://github.com/yTorabi):green_heart:
 - [iam-PHK](https://github.com/iam-PHK):sunrise_over_mountains:
 - [Sahar Kianmehr](https://github.com/Saharkianm)
