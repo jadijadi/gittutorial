@@ -50,6 +50,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [OmidReza Hojjati](https://github.com/OmidRezaHjT) :gem:
 - [Arash Hadikhani](https://github.com/arashhadikhani-sudo):🐧:
 - [Mehrad Kuhpayeh](https://github.com/MEHRAD111)
+- [***$Pouyan Zanganeh$***](https://github.com/pouyanprogramer-afk) 📅 2026/10/28 🧠💻🎯
 - [Mani Baniani](https://github.com/ManiB2008) 🌐🔐
 - [Mehdi Khorshidi far](https://github.com/Mehdi-dev-sudo) :smoking:
 - [Alireza Amiri](https://github.com/AlirezaAmiri01) :smile:
