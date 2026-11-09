@@ -989,6 +989,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Captain](https://github.com/captainpick)
 - [Mahbod:point_right::point_left:](https://github.com/M4hbod)
 - [Ali Iranmanesh :v:](https://github.com/Aliiranmanesh)
+- [Vahid Tajik](https://github.com/vahidtajik) 💻
 - [nosratullah :alien:](https://github.com/nosratullah)
 - [Amirhossein :cactus:](https://github.com/amirhossein7798)
 - [SMMousaviSP :alien: :yum:](https://github.com/SMMousaviSP)
