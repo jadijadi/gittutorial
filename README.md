@@ -152,6 +152,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Saman Mosallanezhad](https://github.com/SamanMosalla)❤️💻
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
 - [Amirhossein Najafi](https://github.com/AmirHossein-Najafi82)
+- [Aria Arman]((https://github.com/ariaarmann))
 - [Alireza Ranjbar](https://github.com/gogolibox)
 - [EhSaN MoRaDi](https://github.com/ehsanm0radi) 🤖💻🍕
 - [**Abolfazl Zolfaghari** 🚀](https://github.com/abolfazlzol1384-eng)
