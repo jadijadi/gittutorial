@@ -99,6 +99,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
 - [Alireza Gorji](https://github.com/Alirezagj1) :blush:
 - [ELOIDXD](https://github.com/ELOIDXD) :wave:
+- [Omid Rezaei](https://github.com/omidr32) ❤️🔥
 - [Shahin Nahavndi](https://github.com/shahennahavnde) 💻
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
 - [**Mostafa_Piran** :octocat:](https://github.com/mostafapiran)
