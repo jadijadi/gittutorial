@@ -123,6 +123,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arshia Bourbour](https://github.com/ArshiaBourbour)🕸🕸
 - [Pooriyakeyvani](https://github.com/pooriyakeyvani)
 - [Zia Abiat](https://github.com/Zia-Abiat)
+- [Taha Nouri](https://github.com/TAHA-Nouri) 👩‍💻
 - [Reza manafi](https://github.com/manafi-reza) 😎😎
 - [Amirali Mostafavifard](https://github.com/amirali6764):ocean:
 - [Mahdi Babaei](https://github.com/Mahdi-Babaei)
