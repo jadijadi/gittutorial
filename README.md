@@ -145,7 +145,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sepanta Bahmani](http://github.com/SepantaBahmani) 🍕💻
 - [Mohaddeseh Haji Hashemi](https://github.com/Mohadesehajihashemi) 💻
 - [rezakhodadoost](https://github.com/rezakhodadoost)
-- [Daniyal Ajalloueian](https://github.com/ItzAjall)
+- [Daniyal Ajalloueian](https://github.com/DaniyalAjalloueian)
 - [Mahsa Karimi](https://github.com/mahsakarimi-AI) :blossom: Learning with you always feels so enjoyable.Thank you, Jadi! :sparkles: :first_quarter_moon_with_face:
 - [Kavian Sherkatfar](https://github.com/kavianpcx)
 - [Mersad Mostofian](https://github.com/Mersad-Mostofian)🐋
