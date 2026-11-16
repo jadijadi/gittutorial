@@ -22,6 +22,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Navid Ahmadzade**](https://github.com/navid1256) :computer:
 - [✨*Tara Hajihasani*✨](https://github.com/Tara-HH) So grateful to be your student, Jadi🙏❤
 - [Mahdi](https://github.com/mahdisrm1)
+-[MehradAsri](https://github.com/SilentSongMEA)Danke für ihre Arbeit, ihr Lehrgang ist so nützlich.🔥🚀
 - [MRahimi](https://github.com/MRahimi-i) :desktop_computer:
 - [Ali vahidi](https://github.com/ali77881) :sunglasses:
 - [**Ahmed Ahrari**](https://github.com/AhmedAhrari) $ sudo give me-a-cofee ☕☕
