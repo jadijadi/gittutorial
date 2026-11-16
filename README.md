@@ -10,7 +10,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 - [Ramin Haghighi](http://github.com/Ramss808)
-- [Mohsen Zare](https://github.com/ZareMohsen/gittutorialByJadi.git)🚀 Thankyou jadi, i'm start learning git and i'm very happy with Learning Git and GitHub. 
+- [Mohsen Zare](https://github.com/ZareMohsen)🚀 Thankyou jadi, i'm start learning git and i'm very happy with Learning Git and GitHub. 
 - [Alireza Fahimi](https://github.com/alirezaxeon) 🚀
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
 - [tara-moghadam](https://github.com/tara8558-code)
