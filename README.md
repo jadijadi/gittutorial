@@ -10,7 +10,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 - [Ramin Haghighi](http://github.com/Ramss808)
-
+- [Ali Aghaee](https://github.com/AliMazY) :heart:
 - [Alireza Fahimi](https://github.com/alirezaxeon) 🚀
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
 - [tara-moghadam](https://github.com/tara8558-code)
@@ -186,7 +186,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Morteza Seyedimoghaddam](https://github.com/MortezaSym)
 - [َArash](https://github.com/sidarash)
 - [ErPyCode](https://github.com/erpycode) Thanks for Everything jadi. you Change My life
-- [Ali Aghaee](https://github.com/AliMazY) :heart:
 - [Meysam Abbasi](https://github.com/Meysamjoon)
 - [Soheil Tabavar](https://github.com/Soheil-2017)
 - [Arman Malaknejad](https://github.com/malaknejadarman-coder) 🚀
