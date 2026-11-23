@@ -1043,7 +1043,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Farhad Uneci :satisfied:](https://github.com/Farhaduneci)
 - [AshkanJalaliQ :sunglasses: :fire:](https://github.com/ashkanjalaliQ)
 - [Amir Mohammad Eghbalian :satisfied::fire:](https://github.com/amirme)
-- [amirvalikhani]
+- [amirvalikhani](https://github.com/amirvalikhani)
 - [benyamin siad](https://github.com/BenyaminEb) Thank You Jadi .you are very smart man :))))
 - [**AmirhoseinYari** :computer:](https://github.com/AmirhoseinYari)
 - [AmirSH](https://github.com/GitGates)
