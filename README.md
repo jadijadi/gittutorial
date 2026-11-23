@@ -9,10 +9,14 @@ This is a repo for testing your git abilities. try to add your name to this file
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
 # List of people who know git
+- [Ramin Haghighi](http://github.com/Ramss808)
 
+- [Alireza Fahimi](https://github.com/alirezaxeon) 🚀
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
-[tara-moghadam](https://github.com/tara8558-code)
+- [tara-moghadam](https://github.com/tara8558-code)
+- [ymawni](https://github.com/ymawni)
 - [SETAREH<3](https://github.com/strheiny) :cupid:
+- [**Yasin Saeedi Mehr**](https://github.com/yasin-saeedi) «Stay happy, keep learning every day, and cheers to a brighter future!» :saluting_face:
 - [Omid](https://github.com/omiomiomid) :Thank you mr.jadi:
 - [mahdi ghale](https://github.com/Mahdi20mmd)
 - [**Navid Ahmadzade**](https://github.com/navid1256) :computer:
@@ -24,7 +28,10 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Erfan Aghaee**](https://github.com/erfanaghaiee) 😎
 - [**Hesan Biyari**](https://github.com/HesanBiyari) Tnx Jadi :heart:
 - [**hosein rozbahani**](https://github.com/jhackcontent-arch)🔥
+- [Erfan Rezagholi](https://github.com/erfanrezagholi)
+- [SPH003](https://github.com/SPH003)💻
 - [Amirali Moradinia](https://github.com/amiralim1377)
+- [fatemeh ht](https://github.com/fatii-ht-dev)
 - [Mohammad Hossein Alizadeh](https://github.com/mh-alizadeh) :computer:
 - [Amir aghajani](https://github.com/Amirsnh)
 - [**Ehsan Lak**](https://github.com/Ehsunpy)  :rocket:
@@ -33,15 +40,18 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Amirhossein Mohtajallah**](https://github.com/Amir-h2085) :whale:
 - [**Saman Jeddi**](https://github.com/samanjeddi)
 - [**Asal Saiyan**](https://github.com/waslsan)
+- [**Nastaran Taghavi**](https://github.com/NstrnHub) :information_desk_person::purple_heart:
 - [**Hosein Sadeghi**](https://github.com/United-Strange) :muscle:
 - [*Yasmin*](https://github.com/Yasmin-Shokri):rocket::rainbow:
 - [Hosna Hajimohammadi](https://github.com/Lodgoer)🐛
 - [Ali Hatam Khani](https://github.com/a-htm) :sunglasses: :ghost:
 - [Arman Ghari](https://github.com/ArmanGh7)
+- [** ALIREZZA **](https://github.com/alirezzaw221-source)
 - [Donya Ghanizade](https://github.com/Donya-Ghanizade):computer:
 - [OmidReza Hojjati](https://github.com/OmidRezaHjT) :gem:
 - [Arash Hadikhani](https://github.com/arashhadikhani-sudo):🐧:
 - [Mehrad Kuhpayeh](https://github.com/MEHRAD111)
+- [***$Pouyan Zanganeh$***](https://github.com/pouyanprogramer-afk) 📅 2026/10/28 🧠💻🎯
 - [Mani Baniani](https://github.com/ManiB2008) 🌐🔐
 - [Mehdi Khorshidi far](https://github.com/Mehdi-dev-sudo) :smoking:
 - [Alireza Amiri](https://github.com/AlirezaAmiri01) :smile:
@@ -50,22 +60,25 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Mahdi Kordian**](https://github.com/MahdiKordian) 🤖🧠
 - [BahareMhm](https://github.com/BahareMhm):balloon:
 - [Bahar Aminimajd](https://github.com/Bahar-Amini):gem:
-- [Geekmanesh](https://github.com/geekmanesh) :sunglasses: 
+- [Geekmanesh](https://github.com/geekmanesh) :sunglasses:
 - [Arian Salarian](https://github.com/whoisowl) :owl: Thanks a lot Jadi :blue_heart:
 - [Muhammed Agazadeh](https://github.com/muhammedgzdh-coder)
 - [Nazi Mehdizadeh](https://github.com/0xmehdizadeh)
 - [Aradhmz](https://github.com/Aradhmz) 2026-08-30 🚀 Thanks for everything
+- [Mehran Mahmoudi](https://github.com/mehran-mahmoodi) (10/09/2025) I'm 15 Years Old :ribbon: :blush:
 - [Parham Razavi fard ](https://github.com/ParhamRazavifard-fb) $ Sudo apt install Jadi 🔥🔥🔥
 - [Mobina hsz](https://github.com/mobina-hsz) :honeybee:
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Arad Mansouri](https://github.com/AradMansouri) :keyboard:
 - [ProfiDE](https://github.com/ProfiDE) :seedling:
 - [Amirali Farhadi](https://github.com/farhadiamirali403-lab) ☕
-- [atmvir](https://github.com/atmvir) better call atmvir 
+- [atmvir](https://github.com/atmvir) better call atmvir
 - [Farham Pouryousefi](https://github.com/Farham-py) 😁🔥
 - [Mohammad Hassani RV](https://github.com/mohammadrv20)
 - [Amirhossein Movahedi](https://github.com/Amirhossein172)
+- [Pooyan Mohsenian](https://github.com/pooyancoder) 🚀
 - [Bahar Esfahani](https://github.com/Bahar-prog-max) :alien::star:
+- [Fatemeh esmaeilzadeh](https://github.com/ftmehsm)
 - [**Erfan Hasanzadeh**](https://github.com/Erfun-H) :computer:
 - [Mobin Sadeqian](https://github.com/Mobinsadeqian) :computer:
 - [**Mohammad Reza Bonyadi**](https://github.com/mbonyadidev) tnk u jadi ❤️
@@ -85,7 +98,8 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Erfan Mousavi](https://github.com/erfanmousavi-dev) :trollface:
 - [Dev_Weavers](https://github.com/programmerzeynalzadeh2006-dev) 💻🖱️
 - [Alireza Gorji](https://github.com/Alirezagj1) :blush:
-- [ELOIDXD](https://github.com/ELOIDXD) :v::wave:
+- [ELOIDXD](https://github.com/ELOIDXD) :wave:
+- [Shahin Nahavndi](https://github.com/shahennahavnde) 💻
 - [Mohammad Sadegh Alirezaei](https://github.com/AlirezaieS) /irl
 - [**Mostafa_Piran** :octocat:](https://github.com/mostafapiran)
 - [Alireza_Hassanpour](https://github.com/arhplc21) 💻
@@ -99,6 +113,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [M. R. Azadi](https://github.com/sys0rpheus)
 - [**Iman Bigdeli**](https://github.com/Iman-Web84) 💻
 - [**Ahmadreza Bagherzadeh**](https://github.com/ahmadrezabaqerzade)
+- ✦ [**Hanieh Vaziri** ⚡](https://github.com/haniehvzr) `@haniehvzr`
 - [**Mahdi Manzouri**](https://github.com/mahdimanzouri) ⭐🔭
 - [Amir Mahdi](https://github.com/Amir-Mahdi-Barati) 🤖📺💻
 - [Farhad Fallahi](https://github.com/FarhadJs) :computer::video_game::hand_with_index_finger_and_thumb_crossed::white_heart:
@@ -116,10 +131,13 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sahar Kianmehr](https://github.com/saharkianm)
 - [Alireza Khajehvandi](https://github.com/alirezakhajehvandi)
 - [Mohsen Motahari](https://github.com/mmotahari) :confused:
+- [Taha Babaei](https://github.com/OsTahaBabaei)👾
 - [Usef Tootian](https://github.com/ussefT) :rocket::us::rotating_light:
 - [Jina Karbasi :heart:](https://github.com/Jina-Karbasi)
 - [**AL Esmaeili**](https://github.com/alirzaaam):ocean:
 - [Ziba Imani](https://github.com/zibaimani):v: :computer:
+- [Sepehr Abbaspour](https://github.com/sepehrabbaspour)
+- [Paya Pirayandeh](https://github.com/payapirayandeh) JADI IS THE BEST❤️
 - [Yasin Torabi](https://github.com/yTorabi):green_heart:
 - [iam-PHK](https://github.com/iam-PHK):sunrise_over_mountains:
 - [Sahar Kianmehr](https://github.com/Saharkianm)
@@ -128,21 +146,23 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohaddeseh Haji Hashemi](https://github.com/Mohadesehajihashemi) 💻
 - [rezakhodadoost](https://github.com/rezakhodadoost)
 - [Daniyal Ajalloueian](https://github.com/ItzAjall)
-- [Mahsa Karimi](https://github.com/mahsakarimi-A) :blossom: Learning with you always feels so enjoyable.Thank you, Jadi! :sparkles: :first_quarter_moon_with_face:
+- [Mahsa Karimi](https://github.com/mahsakarimi-AI) :blossom: Learning with you always feels so enjoyable.Thank you, Jadi! :sparkles: :first_quarter_moon_with_face:
 - [Kavian Sherkatfar](https://github.com/kavianpcx)
 - [Mersad Mostofian](https://github.com/Mersad-Mostofian)🐋
+- [Saman Mosallanezhad](https://github.com/SamanMosalla)❤️💻
 - [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
 - [Amirhossein Najafi](https://github.com/AmirHossein-Najafi82)
 - [Alireza Ranjbar](https://github.com/gogolibox)
 - [EhSaN MoRaDi](https://github.com/ehsanm0radi) 🤖💻🍕
 - [**Abolfazl Zolfaghari** 🚀](https://github.com/abolfazlzol1384-eng)
 - [Vahid Siaymi](https://github.com/BraveVahid) :computer: :coffee:
-- [*Amir Masoud Nasiri*](https://github.com/masoud-nasiri)  :heavy_check_mark:
+- [_Amir Masoud Nasiri_](https://github.com/masoud-nasiri) :heavy_check_mark:
 - [Hosien Niazi](https://github.com/HosinNiazi) :computer: :coffee:
 - [Mohammad Azim Memari(**Zumboww**)](https://github.com/Zumboww) :metal::muscle::notes:
 - [Par3saheydari :kissing_closed_eyes:](https://github.com/par3aheydari)
 - [Nila Vosoughzadeh 🖥️😀](https://github.com/NilaVosoughzadeh)
 - [Fatemeh Nikookar](https://github.com/nikmahla)
+- [Mani Ebrahimi :computer: :video_game:](https://github.com/Mrcode-10) (Thanks for teaching! ❤️)
 - [**Erfan Heydari ❤️**](https://github.com/DlvErf419)
 - [erfan banaei 👨‍💻](https://github.com/erfanbanaei)
 - [fatemeh_nikookar](https://github.com/nikmahla)
@@ -165,7 +185,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Shahvandi](https://github.com/shahvandi)
 - [Morteza Seyedimoghaddam](https://github.com/MortezaSym)
 - [َArash](https://github.com/sidarash)
-- [ErPyCode](https://github.com/erpycode) Thanks for Everything jadi. you Change My life 
+- [ErPyCode](https://github.com/erpycode) Thanks for Everything jadi. you Change My life
 - [Meysam Abbasi](https://github.com/Meysamjoon)
 - [Soheil Tabavar](https://github.com/Soheil-2017)
 - [Arman Malaknejad](https://github.com/malaknejadarman-coder) 🚀
@@ -213,6 +233,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal)
 - [Piroz](https://github.com/stillpiroz)
 - [Mohammad Reza Karami](https://github.com/Mohammad-Reza-Karami)
+- [Mohammad Ehsan Safdari](https://github.com/safdari-me)
 - [Hossein Fahimi](https://github.com/hosein1122)
 - [Saed Gholipour](https://github.com/saed-gpr)
 - [Rasoul](https://github.com/rasoul-code):blush:
@@ -249,6 +270,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Jadi](https://jadi.net)
 - [Ali Sokhandani](https://github.com/alisokhandani) Moving Forward! :octocat:
 - [Sajjad](https://github.com/Sajjad120Ns)
+- [Hesam_Ehsani](https://github.com/realhesam04) Thank you for teaching us git in the best way possible :)
 - [Better call Naeem](https://github.com/naeemt8)
 - [Reina Khosravi ✨🦊](https://github.com/ReyhunSKhosravi)
 - [Mamad Engame](https://github.com/vesper0369) 🛸
@@ -547,6 +569,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mohammad ramezani](https://github.com/mohramezani659)
 - [Homayoun Mohammadi](https://github.com/homayounmmdy)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
+- [MoSijani](https://github.com/itsmosijani) While Jadi: LEARN!
 - [Reza Kamali🤞](https://github.com/MRGando)
 - [SadraNouraddin :eyes:](https://github.com/sadra52)
 - [Maher 💯💯](https://github.com/Amirho3eini)
@@ -580,6 +603,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Fateme Mohammadi❤️](https://github.com/mahora00135)
 - [mahdi :grimacing:](https://github.com/mahdinikan75)
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
+- [Abolfazl Nowruzian](https://github.com/abolfazlnorozian) - [LinkedIn](https://www.linkedin.com/in/abolfazl-nowruzian/)
 - [Edwin Melendez](https://github.com/ejm201) 🇵🇷
 - [Tarbox :smiley_cat:](https://github.com/Tarbox)
 - [Hossein Gholamian :trollface::+1:](https://github.com/HosseinGholamian)
@@ -630,6 +654,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Samrad :woman::life::freedom:](https://github.com/Bearcoder7)
 - [Ariyan :wrench:](https://github.com/B4NDT0)
 - [Reyhaneh Z 😄:](https://github.com/reyhaneh-hub)
+- [GODOFWAR](https://github.com/GODOFWAR369)
 - [Mohammad Reyhani](https://github.com/Reymoh75)
 - [Mahya Mohammadi Golchi](https://github.com/mahyamg)
 - [Mohammad Yeganeh](https://github.com/usermp)
@@ -964,6 +989,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Captain](https://github.com/captainpick)
 - [Mahbod:point_right::point_left:](https://github.com/M4hbod)
 - [Ali Iranmanesh :v:](https://github.com/Aliiranmanesh)
+- [Vahid Tajik](https://github.com/vahidtajik) 💻
 - [nosratullah :alien:](https://github.com/nosratullah)
 - [Amirhossein :cactus:](https://github.com/amirhossein7798)
 - [SMMousaviSP :alien: :yum:](https://github.com/SMMousaviSP)
@@ -977,6 +1003,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Dehghani :feelsgood::car:](https://github.com/dehghanni)
 - [MR-Mostafa](https://github.com/MR-Mostafa)
 - [Hasan kakavandi :zap:](https://github.com/H4s4nk)
+- [Taha Noursalehi (TAH000k)](https://github.com/TAH000k) ✌️ 
 - [javadhajian](https://github.com/alojavad)
 - [saleh :expressionless:](https://github.com/saleh-mastani)
 - [Pedram :cyclone:](https://github.com/pedramardakani)
@@ -1170,7 +1197,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ermiya Sharif](https://github.com/ermiyashb) (love you jadi)
 - [Kian Emami](https://github.com/kianemami1394) :stuck_out_tongue_winking_eye: (Jadi Is Best!)
 - [ Yasin Razmjoe ](https://github.com/Yasinrazmjo) (I hate N)
-- [Ehsan_Majdi 🙂](https://github.com/ehsan-majdi) 
+- [Ehsan_Majdi 🙂](https://github.com/ehsan-majdi)
 - [**Milad Kianzadeh**](https://miladkianzadeh.github.io/About-me/)
 - [Milad Mozafari](https://github.com/miladxvi)
 - [Shayan Shadanpour](https://github.com/shayan-developer) (Thanks :))
@@ -1180,10 +1207,14 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amirreza Salehi](https://github.com/amirrezasalehi1385) 💻
 - [Ehsan](https://github.com/c-ehsan) 💻
 - [Amir Haghani](https://github.com/Amirhgn) (Thanks to you "Jadi")
-- [Arshia Saedi](https://github.com/X8saedi2X) :blue_heart:
 - [Sepehr Eftekhari](https://github.com/sebiou22) (love you man)
+- [amirhirad farajzadeh](https://github.com/hiradfz):runner:
+- [Arshia Saedi](https://github.com/X8saedi2X) :blue_heart:
 - [Mani Ebrahimi :computer: :video_game:](https://github.com/Mrcode-10) (Thanks for teaching! ❤️)
 - [amirhirad farajzadeh](https://github.com/hiradfz):runner:
 - [Artin khodayari](https://github.com/Artin-khodayari)
 - [HESAM](https://github.com/hnesamm17)💙
+- zizi salmani
 - [Mehdi](https://github.com/mehdi-akb) Thanks Jadi
+- [Sahar](https://github.com/saharl) (Thanks to the best teacher in the world***)
+- [AmirHossein Azarabad](https://github.com/AmirHosseinAzarabad) (i love you jadi)
