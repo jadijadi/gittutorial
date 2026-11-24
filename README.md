@@ -15,6 +15,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Milad Osanlou**](https://github.com/MiladOsanlou) git checkout -b better-days :rocket:
 - [tara-moghadam](https://github.com/tara8558-code)
 - [ymawni](https://github.com/ymawni)
+- [Parsa Majidy](http://github.com/P-A-R-S-A-MJ) :computer:
 - [SETAREH<3](https://github.com/strheiny) :cupid:
 - [**Yasin Saeedi Mehr**](https://github.com/yasin-saeedi) «Stay happy, keep learning every day, and cheers to a brighter future!» :saluting_face:
 - [Omid](https://github.com/omiomiomid) :Thank you mr.jadi:
