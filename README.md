@@ -41,6 +41,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [**Saman Jeddi**](https://github.com/samanjeddi)
 - [**Asal Saiyan**](https://github.com/waslsan)
 - [**Nastaran Taghavi**](https://github.com/NstrnHub) :information_desk_person::purple_heart:
+- [**Mohammad Hasan**] (https://github.com/Mohammadtech-cpu) :information_desk_person::purple_heart:
 - [**Hosein Sadeghi**](https://github.com/United-Strange) :muscle:
 - [*Yasmin*](https://github.com/Yasmin-Shokri):rocket::rainbow:
 - [Hosna Hajimohammadi](https://github.com/Lodgoer)🐛
@@ -112,6 +113,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ghazale Azizoal](https://github.com/Ghazaleh-Azizolah)💻🤍
 - [M. R. Azadi](https://github.com/sys0rpheus)
 - [**Iman Bigdeli**](https://github.com/Iman-Web84) 💻
+- [Mohammad Hasan](https://github.com/Mohammadtech-cpu)
 - [**Ahmadreza Bagherzadeh**](https://github.com/ahmadrezabaqerzade)
 - ✦ [**Hanieh Vaziri** ⚡](https://github.com/haniehvzr) `@haniehvzr`
 - [**Mahdi Manzouri**](https://github.com/mahdimanzouri) ⭐🔭
