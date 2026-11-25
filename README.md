@@ -79,7 +79,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Pooyan Mohsenian](https://github.com/pooyancoder) 🚀
 - [Bahar Esfahani](https://github.com/Bahar-prog-max) :alien::star:
 - [Fatemeh esmaeilzadeh](https://github.com/ftmehsm)
-- [Amir Hossein Bajrami] (https://github.com/Amir-Hossein-Bahrami) :Thank you 'Jadi' for this amazing course! ❤️
+- [Amir Hossein Bahrami](https://github.com/Amir-Hossein-Bahrami) - Thank you 'Jadi' for this amazing course! ❤️
 - [**Erfan Hasanzadeh**](https://github.com/Erfun-H) :computer:
 - [Mobin Sadeqian](https://github.com/Mobinsadeqian) :computer:
 - [**Mohammad Reza Bonyadi**](https://github.com/mbonyadidev) tnk u jadi ❤️
